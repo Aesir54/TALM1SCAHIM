@@ -1,0 +1,914 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri sept  23 14:26:28 2017
+
+@author: robertcharles-antoine
+"""
+
+#importation des modules utiles.
+
+import fileinput #permet l'ouverture séquentiel de plusieurs fichiers; 
+
+
+import numpy as np #: à importer pour les analyses fréquentiels.
+
+
+import codecs #tokenise module
+
+
+import nltk #toolkit à utilisé avec stemming et lemmatisation.
+
+
+#---> lemming et stemmatisation.
+from nltk.stem.api import StemmerI
+from nltk.stem.regexp import RegexpStemmer
+from nltk.stem.lancaster import LancasterStemmer
+from nltk.stem.isri import ISRIStemmer
+from nltk.stem.porter import PorterStemmer
+from nltk.stem.snowball import SnowballStemmer
+from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.stem.rslp import RSLPStemmer
+from nltk.stem.snowball import FrenchStemmer
+from nltk import stem
+
+import os #redirection
+
+
+import re #regular expression
+
+
+import matplotlib.pyplot as plt #graphic construction.
+
+
+
+#phrase d'ouverture.
+
+first_phrase = "Bienvenue dans le moteur de recherche des collèges d'enseignements médicaux du second cycle."
+print(first_phrase)
+
+
+#entrée du mot en console.
+
+
+entrer = input("\n Entrez un terme à rechercher dans les différents collèges  : \n ")
+
+#redirection dans le fichier cible. Cardiologie.
+os.chdir("/Users/robertcharles-antoine/Desktop/TAL/Cardiologie")
+
+#affichage du sommaire de cardiologie.
+sommaire_card = open('card.txt', 'r', encoding="utf-8-sig")
+#print(sommaire_card.read())
+
+
+
+
+
+
+
+
+
+#ouverture des fichiers du corpus de cardiologie.
+
+item_4_5 = open('item_4_5.txt', 'r', encoding="utf-8-sig")
+item_4_5_t = codecs.open('item_4_5.txt', 'r', 'utf-8-sig')
+token_4_5 = item_4_5_t.read()
+token_4_5_t = nltk.word_tokenize(token_4_5)
+
+
+
+
+item_128 = open('item_128.txt', 'r', encoding="utf-8-sig")
+item_128_t = codecs.open('item_128.txt', 'r', 'utf-8-sig')
+token_128 = item_128_t.read()
+token_128_t = nltk.word_tokenize(token_128)
+
+
+
+item_129 = open('item_129.txt', 'r', encoding="utf-8-sig")
+item_129_t = codecs.open('item_129.txt', 'r', 'utf-8-sig')
+token_129 = item_129_t.read()
+token_129_t = nltk.word_tokenize(token_129)
+
+
+item_129b = open('item_129b.txt', 'r', encoding="utf-8-sig")
+item_129b_t = codecs.open('item_129b.txt', 'r', 'utf-8-sig')
+token_129b = item_129b_t.read()
+token_129b_t = nltk.word_tokenize(token_129b)
+
+
+
+
+item_130 = open('item_130.txt', 'r', encoding="utf-8-sig")
+item_130_t = codecs.open('item_130.txt', 'r', 'utf-8-sig')
+token_130 = item_130_t.read()
+token_130_t = nltk.word_tokenize(token_130)
+
+
+
+
+item_132 = open('item_132.txt', 'r', encoding="utf-8-sig")
+item_132_t = codecs.open('item_132.txt', 'r', 'utf-8-sig')
+token_132 = item_132_t.read()
+token_132_t = nltk.word_tokenize(token_132)
+
+
+item_149 = open('item_149.txt', 'r', encoding="utf-8-sig")
+item_149_t = codecs.open('item_149.txt', 'r', 'utf-8-sig')
+token_149 = item_149_t.read()
+token_149_t = nltk.word_tokenize(token_149)
+
+item_150 = open('item_150.txt', 'r', encoding="utf-8-sig")
+item_150_t = codecs.open('item_150.txt', 'r', 'utf-8-sig')
+token_150 = item_150_t.read()
+token_150_t = nltk.word_tokenize(token_150)
+
+
+item_175 = open('item_175.txt', 'r', encoding="utf-8-sig")
+item_175_t = codecs.open('item_175.txt', 'r', 'utf-8-sig')
+token_175 = item_175_t.read()
+token_175_t = nltk.word_tokenize(token_175)
+
+
+
+
+
+item_182 = open('item_182.txt', 'r', encoding="utf-8-sig")
+item_182_t = codecs.open('item_182.txt', 'r', 'utf-8-sig')
+token_182 = item_182_t.read()
+token_182_t = nltk.word_tokenize(token_182)
+
+
+item_209 = open('item_209.txt', 'r', encoding="utf-8-sig")
+item_209_t = codecs.open('item_209.txt', 'r', 'utf-8-sig')
+token_209 = item_209_t.read()
+token_209_t = nltk.word_tokenize(token_209)
+
+
+
+
+item_236 = open('item_236.txt', 'r', encoding="utf-8-sig")
+item_236_t = codecs.open('item_236.txt', 'r', 'utf-8-sig')
+token_236 = item_236_t.read()
+token_236_t = nltk.word_tokenize(token_236)
+
+
+
+item_249 = open('item_249.txt', 'r', encoding="utf-8-sig")
+item_249_t = codecs.open('item_249.txt', 'r', 'utf-8-sig')
+token_249 = item_249_t.read()
+token_249_t = nltk.word_tokenize(token_249)
+
+
+
+item_251 = open('item_251.txt', 'r', encoding="utf-8-sig")
+item_251_t = codecs.open('item_251.txt', 'r', 'utf-8-sig')
+token_251 = item_251_t.read()
+token_251_t = nltk.word_tokenize(token_251)
+
+
+
+
+item_274 = open('item_274.txt', 'r', encoding="utf-8-sig")
+item_274_t = codecs.open('item_274.txt', 'r', 'utf-8-sig')
+token_274 = item_274_t.read()
+token_274_t = nltk.word_tokenize(token_274)
+
+
+
+item_281 = open('item_209.txt', 'r', encoding="utf-8-sig")
+item_281_t = codecs.open('item_209.txt', 'r', 'utf-8-sig')
+token_281 = item_281_t.read()
+token_281_t = nltk.word_tokenize(token_281)
+
+
+item_284 = open('item_209.txt', 'r', encoding="utf-8-sig")
+item_284_t = codecs.open('item_209.txt', 'r', 'utf-8-sig')
+token_284 = item_284_t.read()
+token_284_t = nltk.word_tokenize(token_284)
+
+
+
+
+item_309 = open('item_309.txt', 'r', encoding="utf-8-sig")
+item_309_t = codecs.open('item_309.txt', 'r', 'utf-8-sig')
+token_309 = item_309_t.read()
+token_309_t = nltk.word_tokenize(token_309)
+
+
+
+item_325 = open('item_325.txt', 'r', encoding="utf-8-sig")
+item_325_t = codecs.open('item_325.txt', 'r', 'utf-8-sig')
+token_325 = item_325_t.read()
+token_325_t = nltk.word_tokenize(token_325)
+
+
+
+item_331 = open('item_331.txt', 'r', encoding="utf-8-sig")
+item_331_t = codecs.open('item_331.txt', 'r', 'utf-8-sig')
+token_331 = item_331_t.read()
+token_331_t = nltk.word_tokenize(token_331)
+
+
+
+
+#print(item_1.read())
+
+
+#find_1 = re.findall(r'[a-z]+',fichier_1.read())
+#print(find_1)
+
+
+#redirection dans le fichier cible. Neurologie.
+os.chdir("/Users/robertcharles-antoine/Desktop/TAL/Neurologie")
+
+
+
+
+
+
+
+
+
+#ouverture des fichiers du corpus de Neurologie.
+
+
+
+item_62 = open('item_62.txt', 'r', encoding="utf-8-sig")
+item_62_t = codecs.open('item_62.txt', 'r', 'utf-8-sig')
+token_62 = item_62_t.read()
+token_62_t = nltk.word_tokenize(token_62)
+
+
+item_74 = open('item_74.txt', 'r', encoding="utf-8-sig")
+item_74_t = codecs.open('item_74.txt', 'r', 'utf-8-sig')
+token_74 = item_74_t.read()
+token_74_t = nltk.word_tokenize(token_74)
+
+
+
+item_80 = open('item_80.txt', 'r', encoding="utf-8-sig")
+item_80_t = codecs.open('item_80.txt', 'r', 'utf-8-sig')
+token_80 = item_80_t.read()
+token_80_t = nltk.word_tokenize(token_80)
+
+
+
+item_86 = open('item_86.txt', 'r', encoding="utf-8-sig")
+item_86_t = codecs.open('item_86.txt', 'r', 'utf-8-sig')
+token_86 = item_86_t.read()
+token_86_t = nltk.word_tokenize(token_86)
+
+
+
+item_90 = open('item_90.txt', 'r', encoding="utf-8-sig")
+item_90_t = codecs.open('item_90.txt', 'r', 'utf-8-sig')
+token_90 = item_90_t.read()
+token_90_t = nltk.word_tokenize(token_90)
+
+
+
+item_91 = open('item_91.txt', 'r', encoding="utf-8-sig")
+item_91_t = codecs.open('item_91.txt', 'r', 'utf-8-sig')
+token_91 = item_91_t.read()
+token_91_t = nltk.word_tokenize(token_91)
+
+
+item_93 = open('item_93.txt', 'r', encoding="utf-8-sig")
+item_93_t = codecs.open('item_93.txt', 'r', 'utf-8-sig')
+token_93 = item_93_t.read()
+token_93_t = nltk.word_tokenize(token_93)
+
+
+item_96 = open('item_96.txt', 'r', encoding="utf-8-sig")
+item_96_t = codecs.open('item_96.txt', 'r', 'utf-8-sig')
+token_96 = item_96_t.read()
+token_96_t = nltk.word_tokenize(token_96)
+
+
+item_98 = open('item_98.txt', 'r', encoding="utf-8-sig")
+item_98_t = codecs.open('item_98.txt', 'r', 'utf-8-sig')
+token_98 = item_98_t.read()
+token_98_t = nltk.word_tokenize(token_98)
+
+
+item_99 = open('item_99.txt', 'r', encoding="utf-8-sig")
+item_99_t = codecs.open('item_99.txt', 'r', 'utf-8-sig')
+token_99 = item_99_t.read()
+token_99_t = nltk.word_tokenize(token_99)
+
+item_100 = open('item_100.txt', 'r', encoding="utf-8-sig")
+item_100_t = codecs.open('item_100.txt', 'r', 'utf-8-sig')
+token_100 = item_100_t.read()
+token_100_t = nltk.word_tokenize(token_100)
+
+item_101 = open('item_101.txt', 'r', encoding="utf-8-sig")
+item_101_t = codecs.open('item_101.txt', 'r', 'utf-8-sig')
+token_101 = item_101_t.read()
+token_101_t = nltk.word_tokenize(token_101)
+
+
+item_104 = open('item_104.txt', 'r', encoding="utf-8-sig")
+item_104_t = codecs.open('item_104.txt', 'r', 'utf-8-sig')
+token_104 = item_104_t.read()
+token_104_t = nltk.word_tokenize(token_104)
+
+
+item_105 = open('item_105.txt', 'r', encoding="utf-8-sig")
+item_105_t = codecs.open('item_105.txt', 'r', 'utf-8-sig')
+token_105 = item_105_t.read()
+token_105_t = nltk.word_tokenize(token_105)
+
+
+item_106 = open('item_106.txt', 'r', encoding="utf-8-sig")
+item_106_t = codecs.open('item_106.txt', 'r', 'utf-8-sig')
+token_106 = item_106_t.read()
+token_106_t = nltk.word_tokenize(token_106)
+
+
+item_107 = open('item_107.txt', 'r', encoding="utf-8-sig")
+item_107_t = codecs.open('item_107.txt', 'r', 'utf-8-sig')
+token_107 = item_107_t.read()
+token_107_t = nltk.word_tokenize(token_107)
+
+item_108 = open('item_108.txt', 'r', encoding="utf-8-sig")
+item_108_t = codecs.open('item_108.txt', 'r', 'utf-8-sig')
+token_108 = item_108_t.read()
+token_108_t = nltk.word_tokenize(token_108)
+
+
+item_115 = open('item_115.txt', 'r', encoding="utf-8-sig")
+item_115_t = codecs.open('item_115.txt', 'r', 'utf-8-sig')
+token_115 = item_115_t.read()
+token_115_t = nltk.word_tokenize(token_115)
+
+
+item_125 = open('item_125.txt', 'r', encoding="utf-8-sig")
+item_125_t = codecs.open('item_125.txt', 'r', 'utf-8-sig')
+token_125 = item_125_t.read()
+token_125_t = nltk.word_tokenize(token_125)
+
+item_131 = open('item_131.txt', 'r', encoding="utf-8-sig")
+
+item_131_t = codecs.open('item_131.txt', 'r', 'utf-8-sig')
+token_131 = item_131_t.read()
+token_131_t = nltk.word_tokenize(token_131)
+
+item_133 = open('item_133.txt', 'r', encoding="utf-8-sig")
+item_133_t = codecs.open('item_133.txt', 'r', 'utf-8-sig')
+token_133 = item_133_t.read()
+token_133_t = nltk.word_tokenize(token_133)
+
+item_164 = open('item_164.txt', 'r', encoding="utf-8-sig")
+item_164_t = codecs.open('item_164.txt', 'r', 'utf-8-sig')
+token_164 = item_164_t.read()
+token_164_t = nltk.word_tokenize(token_164)
+
+item_201 = open('item_201.txt', 'r', encoding="utf-8-sig")
+item_201_t = codecs.open('item_201.txt', 'r', 'utf-8-sig')
+token_201 = item_201_t.read()
+token_201_t = nltk.word_tokenize(token_201)
+
+item_209 = open('item_209.txt', 'r', encoding="utf-8-sig")
+item_209_t = codecs.open('item_209.txt', 'r', 'utf-8-sig')
+token_209 = item_209_t.read()
+token_209_t = nltk.word_tokenize(token_209)
+
+
+item_235 = open('item_235.txt', 'r', encoding="utf-8-sig")
+item_235_t = codecs.open('item_235.txt', 'r', 'utf-8-sig')
+token_235 = item_235_t.read()
+token_235_t = nltk.word_tokenize(token_235)
+
+item_244 = open('item_244.txt', 'r', encoding="utf-8-sig")
+item_244_t = codecs.open('item_244.txt', 'r', 'utf-8-sig')
+token_244 = item_244_t.read()
+token_244_t = nltk.word_tokenize(token_244)
+
+item_263 = open('item_263.txt', 'r', encoding="utf-8-sig")
+item_263_t = codecs.open('item_263.txt', 'r', 'utf-8-sig')
+token_263 = item_263_t.read()
+token_263_t = nltk.word_tokenize(token_263)
+
+item_296 = open('item_296.txt', 'r', encoding="utf-8-sig")
+item_296_t = codecs.open('item_296.txt', 'r', 'utf-8-sig')
+token_296 = item_296_t.read()
+token_296_t = nltk.word_tokenize(token_296)
+
+item_331 = open('item_331.txt', 'r', encoding="utf-8-sig")
+item_331_t = codecs.open('item_331.txt', 'r', 'utf-8-sig')
+token_331 = item_331_t.read()
+token_331_t = nltk.word_tokenize(token_331)
+
+
+
+
+
+
+
+
+#ouverture des fichiers du corpus de Pédiatrie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+#listes des listes :
+    
+
+        
+cardiologie = zip(token_4_5_t,token_128_t,token_129_t,token_129b_t,token_130_t,token_132_t,token_149_t,token_150_t,token_175_t,token_182_t,token_209_t,token_236_t,token_249_t,token_251_t,token_274_t,token_281_t,token_284_t,token_309_t,token_325_t,token_331_t)
+neurologie = zip(token_62_t,token_74_t,token_80_t,token_86_t,token_90_t,token_91_t,token_93_t,token_96_t,token_98_t,token_99_t,token_100_t,token_101_t,token_104_t,token_105_t,token_106_t,token_107_t,token_108_t,token_115_t,token_125_t,token_131_t,token_164_t,token_201_t,token_209_t,token_235_t,token_244_t,token_263_t,token_296_t,token_331_t)
+
+#--->opérations sur les tokens pour créer un ordre de préférence.
+
+          #création de liste complète pour itération.
+          #for i in zip(token_331_t,token_296_t, token_263_t,):
+              
+    
+#Passage de l'entrée console en expression régulière.
+regexp = re.compile(entrer)
+#création d'un stemmer fraçais : remplacer <etc> --> necessité d'aller plus loin avant d'utiliser le stemming.
+
+#stemmer = stem.regexp('s$|es$|era$|erez$|ions$| <etc> ')
+
+#la lemmatisation sur le corpus en français semble être plus complexe.
+
+#wordnet_lemmatizer = WordNetLemmatizer()
+#wordnet_lemmatizer.lemmatize()
+
+#Boucle de recherche sur les tokens, objectif : sortir un ordre de préférence primaire sans aide de la lemmatisation.
+
+#compte des itérations dans chaque item
+
+#Corpus de cardiologie.
+print()
+
+count_4_5 = 0
+for a in token_4_5_t :
+    if regexp.search(a):
+        count_4_5 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_4_5"%(count_4_5,entrer))
+print()
+
+count_128 = 0
+for a in token_128_t :
+    if regexp.search(a):
+        count_128 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_128"%(count_128,entrer))
+print()
+
+count_129 = 0
+for a in token_129_t :
+    if regexp.search(a):
+        count_129 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_129"%(count_129,entrer))
+print()
+
+count_129b = 0
+for a in token_129b_t :
+    if regexp.search(a):
+        count_129b += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_129b"%(count_129b,entrer))
+print()
+
+count_130 = 0
+for a in token_130_t :
+    if regexp.search(a):
+        count_130 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_130"%(count_130,entrer))
+print()
+
+count_132 = 0
+for a in token_132_t :
+    if regexp.search(a):
+        count_132 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_132"%(count_132,entrer))
+print()
+
+count_149 = 0
+for a in token_149_t :
+    if regexp.search(a):
+        count_149 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_149"%(count_149,entrer))
+print()
+
+count_150 = 0
+for a in token_150_t :
+    if regexp.search(a):
+        count_150 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_150"%(count_150,entrer))
+print()
+
+count_175 = 0
+for a in token_175_t :
+    if regexp.search(a):
+        count_175 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_175"%(count_175,entrer))
+print()
+
+count_182 = 0
+for a in token_182_t :
+    if regexp.search(a):
+        count_182 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_182"%(count_182,entrer))
+print()
+
+count_209 = 0
+for a in token_209_t :
+    if regexp.search(a):
+        count_209 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_209"%(count_209,entrer))
+print()
+
+count_236 = 0
+for a in token_236_t :
+    if regexp.search(a):
+        count_236 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_236"%(count_236,entrer))
+print()
+
+count_249 = 0
+for a in token_249_t :
+    if regexp.search(a):
+        count_249 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_249"%(count_249,entrer))
+print()
+
+count_251 = 0
+for a in token_251_t :
+    if regexp.search(a):
+        count_251 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_251"%(count_251,entrer))
+print()
+
+count_274 = 0
+for a in token_274_t :
+    if regexp.search(a):
+        count_274 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_274"%(count_274,entrer))
+print()
+
+count_281 = 0
+for a in token_281_t :
+    if regexp.search(a):
+        count_281 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_281"%(count_281,entrer))
+print()
+
+count_284 = 0
+for a in token_284_t :
+    if regexp.search(a):
+        count_284 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_284"%(count_284,entrer))
+print()
+
+count_309 = 0
+for a in token_309_t :
+    if regexp.search(a):
+        count_309 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_309"%(count_309,entrer))
+print()
+
+count_325 = 0
+for a in token_325_t :
+    if regexp.search(a):
+        count_325 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_325"%(count_325,entrer))
+print()
+
+count_331 = 0
+for a in token_331_t :
+    if regexp.search(a):
+        count_331 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_331"%(count_331,entrer))
+print()
+
+count_62 = 0
+for a in token_62_t :
+    if regexp.search(a):
+        count_62 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_62"%(count_62,entrer))
+print()
+
+count_74 = 0
+for a in token_74_t :
+    if regexp.search(a):
+        count_74 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_74"%(count_74,entrer))
+print()
+
+count_80 = 0
+for a in token_80_t :
+    if regexp.search(a):
+        count_80 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_80"%(count_80,entrer))
+print()
+
+count_86 = 0
+for a in token_86_t :
+    if regexp.search(a):
+        count_86 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_86"%(count_86,entrer))
+print()
+
+count_90 = 0
+for a in token_90_t :
+    if regexp.search(a):
+        count_90 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_90"%(count_90,entrer))
+print()
+
+count_91 = 0
+for a in token_91_t :
+    if regexp.search(a):
+        count_91 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_91"%(count_91,entrer))
+print()
+
+count_93 = 0
+for a in token_93_t :
+    if regexp.search(a):
+        count_93 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_93"%(count_93,entrer))
+print()
+
+count_96 = 0
+for a in token_96_t :
+    if regexp.search(a):
+        count_96 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_96"%(count_96,entrer))
+print()
+
+count_98 = 0
+for a in token_98_t :
+    if regexp.search(a):
+        count_98 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_98"%(count_98,entrer))
+print()
+
+count_99 = 0
+for a in token_99_t :
+    if regexp.search(a):
+        count_99 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_99"%(count_99,entrer))
+print()
+
+count_100 = 0
+for a in token_100_t :
+    if regexp.search(a):
+        count_100 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_100"%(count_100,entrer))
+print()
+
+count_101 = 0
+for a in token_101_t :
+    if regexp.search(a):
+        count_101 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_101"%(count_101,entrer))
+print()
+
+count_104 = 0
+for a in token_104_t :
+    if regexp.search(a):
+        count_104 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_104"%(count_104,entrer))
+print()
+
+count_105 = 0
+for a in token_105_t :
+    if regexp.search(a):
+        count_105 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_105"%(count_105,entrer))
+print()
+
+count_106 = 0
+for a in token_106_t :
+    if regexp.search(a):
+        count_106 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_106"%(count_106,entrer))
+print()
+
+count_107 = 0
+for a in token_107_t :
+    if regexp.search(a):
+        count_107 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_107"%(count_107,entrer))
+print()
+
+count_108 = 0
+for a in token_108_t :
+    if regexp.search(a):
+        count_108 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_108"%(count_108,entrer))
+print()
+
+count_115 = 0
+for a in token_115_t :
+    if regexp.search(a):
+        count_115 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_115"%(count_115,entrer))
+print()
+
+count_131 = 0
+for a in token_131_t :
+    if regexp.search(a):
+        count_131 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_131"%(count_131,entrer))
+print()
+
+count_133 = 0
+for a in token_133_t :
+    if regexp.search(a):
+        count_133 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_133"%(count_133,entrer))
+print()
+
+count_164 = 0
+for a in token_164_t :
+    if regexp.search(a):
+        count_164 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_164"%(count_164,entrer))
+print()
+
+count_201 = 0
+for a in token_201_t :
+    if regexp.search(a):
+        count_201 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_201"%(count_201,entrer))
+print()
+
+count_209 = 0
+for a in token_209_t :
+    if regexp.search(a):
+        count_209 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_209"%(count_209,entrer))
+print()
+
+count_235 = 0
+for a in token_235_t :
+    if regexp.search(a):
+        count_235 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_235"%(count_235,entrer))
+print()
+
+count_244 = 0
+for a in token_244_t :
+    if regexp.search(a):
+        count_244 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_244"%(count_244,entrer))
+print()
+
+count_263 = 0
+for a in token_263_t :
+    if regexp.search(a):
+        count_263 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_263"%(count_263,entrer))
+print()
+
+count_296 = 0
+for a in token_296_t :
+    if regexp.search(a):
+        count_296 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_296"%(count_296,entrer))
+print()
+
+count_331 = 0
+for a in token_331_t :
+    if regexp.search(a):
+        count_331 += 1
+print("Il existe %d occurrences de ce token '%s' dans le corpus item_331"%(count_331,entrer))
+print()
+
+#pour les calculs, recherche de la taille totale du corpus.
+size_cardiologie = len(token_4_5_t) + len(token_105_t) + len(token_128_t) + len(token_129_t) + len(token_129b_t) + len(token_130_t) + len(token_132_t) + len(token_149_t) + len(token_175_t) + len(token_182_t) + len(token_209_t) + len(token_236_t) + len(token_249_t) + len(token_251_t) + len(token_274_t) + len(token_281_t) + len(token_284_t) + len(token_309_t) + len(token_325_t) + len(token_331_t)
+size_neurologie = len(token_62_t) + len(token_74_t) + len(token_80_t) + len(token_86_t) + len(token_90_t) + len(token_91_t) + len(token_93_t) + len(token_96_t) + len(token_98_t) + len(token_99_t) + len(token_100_t) + len(token_101_t) + len(token_104_t) + len(token_105_t) + len(token_106_t) + len(token_107_t) + len(token_108_t) + len(token_115_t) + len(token_131_t) + len(token_133_t) + len(token_164_t) + len(token_201_t) + len(token_209_t) + len(token_235_t) + len(token_244_t) + len(token_263_t) + len(token_296_t) + len(token_331_t)
+print("Taille du corpus de cardiologie : ")
+print(size_cardiologie)
+print()
+print("Taille du corpus de neurologie")
+print(size_neurologie)
+
+#calcul des ratios des ratios tokens en fonction des items.
+#items de cardiologie
+ratio_4_5 = (count_4_5)/size_cardiologie
+ratio_128 = (count_128)/size_cardiologie
+ratio_129 = (count_129)/size_cardiologie
+ratio_129b = (count_129b)/size_cardiologie
+ratio_130 = (count_130)/size_cardiologie
+ratio_132 = (count_132)/size_cardiologie
+ratio_149 = (count_149)/size_cardiologie
+ratio_150 = (count_150)/size_cardiologie
+ratio_175 = (count_175)/size_cardiologie
+ratio_182 = (count_182)/size_cardiologie
+ratio_209 = (count_209)/size_cardiologie
+ratio_236 = (count_236)/size_cardiologie
+ratio_249 = (count_249)/size_cardiologie
+ratio_251 = (count_251)/size_cardiologie
+ratio_274 = (count_274)/size_cardiologie
+ratio_281 = (count_281)/size_cardiologie
+ratio_284 = (count_284)/size_cardiologie
+ratio_309 = (count_309)/size_cardiologie
+ratio_325 = (count_325)/size_cardiologie
+ratio_331 = (count_331)/size_cardiologie
+#items de neurologies.
+ratio_62 = (count_62)/size_neurologie
+ratio_74 = (count_74)/size_neurologie
+ratio_80 = (count_80)/size_neurologie
+ratio_86 = (count_86)/size_neurologie
+ratio_90 = (count_90)/size_neurologie
+ratio_91 = (count_91)/size_neurologie
+ratio_93 = (count_93)/size_neurologie
+ratio_96 = (count_96)/size_neurologie
+ratio_98 = (count_98)/size_neurologie
+ratio_99 = (count_99)/size_neurologie
+ratio_100 = (count_100)/size_neurologie
+ratio_101 = (count_101)/size_neurologie
+ratio_104 = (count_104)/size_neurologie
+ratio_105 = (count_105)/size_neurologie
+ratio_106 = (count_106)/size_neurologie
+#ratio_107 = (count_107)/size_neurologie
+#ratio_108 = (count_108)/size_neurologie
+#ratio_115 = (count_115)/size_neurologie
+#ratio_131 = (count_131)/size_neurologie
+#ratio_133 = (count_133)/size_neurologie
+#ratio_164 = (count_164)/size_neurologie
+#ratio_201 = (count_201)/size_neurologie
+#ratio_209 = (count_209)/size_neurologie
+#ratio_235 = (count_235)/size_neurologie
+#ratio_244 = (count_244)/size_neurologie
+#ratio_263 = (count_263)/size_neurologie
+#ratio_296 = (count_296)/size_neurologie
+#ratio_331 = (count_331)/size_neurologie
+
+
+#with fileinput.input(files=('item_4_5','item_80','item_105','item_128','item_129','item_129b','item_130','item_132','item_175','item_182','item_209','item_236','item_249','item_251','item_274','item_281','item_284','item_309','item_325','item_331')) as f:
+#    for line in f:
+#        process(line)
+        
+
+print()
+# Création d'une liste contenant l'ensemble des ratios de l'entrée console.
+liste_count_cardiologie = np.array([count_4_5,count_128,count_129,count_129b,count_130,count_132,count_149,count_150,count_175,count_182,count_209,count_236,count_249,count_251,count_274,count_281,count_284,count_309,count_325,count_331])
+liste_t_c = np.array([ratio_4_5,ratio_105,ratio_128,ratio_129,ratio_129b,ratio_130,ratio_132,ratio_149,ratio_175,ratio_182,ratio_209,ratio_236,ratio_249,ratio_251,ratio_274,ratio_281,ratio_284,ratio_309,ratio_325,ratio_331])
+liste_t_c_size = np.array([len(token_4_5_t),len(token_105_t),len(token_128_t),len(token_129_t),len(token_129b_t),len(token_130_t),len(token_132_t),len(token_149_t),len(token_175_t),len(token_182_t),len(token_209_t),len(token_236_t),len(token_249_t),len(token_251_t),len(token_274_t),len(token_281_t),len(token_284_t),len(token_309_t),len(token_325_t),len(token_331_t)])
+liste_item_c = ['item_4_5','item_105','item_128','item_129','item_129b','item_130','item_132','item_149','item_175','item_182','item_209','item_236','item_249','item_251','item_274','item_281','item_284','item_309','item_325','item_331']
+
+print(liste_t_c)
+print(liste_t_c_size)
+
+
+max_i = 0
+for i in liste_count_cardiologie:
+    if (i > max_i):
+        max_i=i
+print()
+print(max_i)
+#print("La valeur maximale est %d "%liste_t_c[max_i])
+#print("l'indice max est %d "%max_i)
+
+#création d'un dictionnaire à clés pour mettre en plac
+dictionnaire_item_c = {}
+
+
+#pas d'utilité du graphique en soit pour la visualisation.
+#plt.title("ratios d'apparition du token dans le corpus.")
+#plt.xlabel('')
+#plt.ylabel('')
+#plt.plot(liste_t_c)
+#plt.show()
+
+
+
+#itération possible sur plusieurs lsites.
+#for a,b in zip(liste_t_c,liste_item_c):
+#    
+
+
+
+
+
+
+
+
+#création d'une expression régulière pour la recherche de mot en entrée console.
+
+
+
+
+
+
+
+
+
+
+
+
