@@ -1,0 +1,202 @@
+Vertige
+
+Objectifs pédagogiques
+Chez un sujet se plaignant de vertige, argumenter les principales hypothèses diagnostiques et justifier les examens complémentaires pertinents.
+Argumenter l’attitude thérapeutique et planifier le suivi du patient.
+Un vertige est une illusion de déplacement de l’environnement autour de soi ou de déplacement de soi-même dans l’espace. Il faut donc distinguer le vrai vertige, d’origine vestibulaire, des nombreux pseudo-vertiges avec lesquels il est souvent confondu.
+
+I. Rappel physiopathologique
+Trois systèmes sensoriels participent à la fonction vestibulaire. La contribution principale est apportée par le vestibule, ou labyrinthe postérieur (canaux semi-circulaires, utricule, saccule). Les canaux semi-circulaires renseignent le système nerveux sur les mouvements de rotation de la tête. Utricule et saccule constituent le système otolithique, qui informe sur les mouvements linéaires de la tête et apporte l’information de pesanteur, donc de haut et de bas.
+Les deux autres systèmes sensoriels représentés par la vision et la proprioception sont étroitement associés à la fonction d’équilibre du vestibule. Lorsque la tête tourne, les canaux semi-circulaires sont stimulés, mais l’environnement visuel se déplace, stimulant les voies visuelles optocinétiques, et les muscles du cou codent une information synergique des canaux semi-circulaires. L’intégration sensorielle est effectuée dans les noyaux vestibulaires du tronc cérébral auxquels participe le cervelet vestibulaire. Les trois systèmes sont complémentaires.
+Grâce à ses voies de sortie efférentes vers la moelle spinale, le système vestibulaire contrôle l’équilibre postural, statique et dynamique. Les efférences vers le système oculomoteur permettent la stabilisation du regard. L’intégration corticale des informations vestibulaires contribue à la représentation d’un espace tridimensionnel dans lequel la verticale est, en particulier, calibrée par les informations otolithiques. Les noyaux vestibulaires sont étroitement connectés avec les noyaux végétatifs du tronc cérébral.
+Les informations provenant des vestibules sont véhiculées dans les neurones vestibulaires et parviennent aux noyaux vestibulaires.
+Un processus lésionnel d’une des structures vestibulaires – labyrinthe postérieur, voies et/ou centres nerveux vestibulaires – entraîne un fonctionnement asymétrique, d’où l’apparition d’un vertige.
+Un vertige résulte d’une atteinte :
+
+du récepteur :
+système cupule/endolymphe des canaux semi-circulaires : maladie de Ménière, ototoxicité, infection,
+système otolithique : vertige positionnel paroxystique bénin ;
+de la VIIIe paire crânienne : neurinome de l’acoustique, névrite ;
+des noyaux vestibulaires bulbaires et de l’archéocervelet : hématome, ischémie, lésion inflammatoire (sclérose en plaques), tumeur…
+II. Conditions générales du diagnostic d’un vertige
+Les vertiges sont un motif fréquent de consultation, puisqu’une personne sur sept environ dit l’avoir éprouvé au moins une fois. Il s’agit d’un symptôme banal, mettant rarement en cause une étiologie grave.
+La démarche diagnostique (Encadré 13.1 Démarche diagnostique) est essentiellement clinique, puisque l’analyse rigoureuse du symptôme conduit à une identification du diagnostic dans deux cas sur trois dès l’interrogatoire. Les explorations spécialisées des fonctions vestibulaires sont complexes, du domaine du spécialiste, et ne sont pas systématiquement nécessaires.
+1re étape – S’agit-il d’un vrai vertige ?
+2e étape – Analyse clinique des caractéristiques du vertige ;
+3e étape – Évaluation du caractère d’urgence de la prise en charge :
+vertige d’origine centrale ;
+vertige périphérique.
+vertige d’allure vasculaire : TDM cérébrale sans injection en urgence ou de préférence IRM cérébrale ;
+processus expansif intracrânien suspecté : recours rapide à l’IRM ;
+vertige d’allure périphérique : explorations complémentaires non systématiques, fonction du contexte et de l’analyse sémiologique du vertige.
+En pratique courante, la première étape est de distinguer le vrai vertige des nombreux symptômes avec lequel il peut être confondu : lipothymie, malaise, hypotension orthostatique, migraine… Il ne faut pas méconnaître la grande fréquence des manifestations fonctionnelles décrites chez les sujets anxieux ou hypocondriaques et amenant à tort à la consultation pour vertiges : impressions de tête vide, de brouillard devant les yeux, de flottement, de chute imminente, « spasmophilie » entraînant une symptomatologie pseudo-vertigineuse. Le vertige des hauteurs est pour sa part un faux vertige d’origine phobique.
+Le diagnostic est donc fondé sur l’illusion de déplacement dans l’espace, exprimé habituellement par une crise vertigineuse dont la durée, les circonstances d’apparition et le caractère unique ou récurrent sont fondamentaux dans la démarche diagnostique.
+Parfois, il s’agit d’une sensation d’instabilité ou d’ébriété. Cette perception apparaît souvent au mouvement et, lorsqu’elle n’est perçue qu’à la station debout ou la marche, elle est la traduction subjective d’une ataxie. Elle est souvent décrite dans les manuels médicaux comme « faux vertige ». Il faut cependant comprendre qu’il s’agit d’un authentique symptôme vestibulaire correspondant le plus souvent à une lésion chronique de moindre intensité.
+III. Examen du patient vertigineux
+L’interrogatoire est la base de l’orientation diagnostique. Outre les caractéristiques sémiologiques du vertige, il doit aussi rechercher la présence de symptômes otologiques (acouphènes, surdité, otalgie, otorrhée) et de symptômes neurologiques (diplopie, troubles de la phonation ou de la déglutition, troubles sensitifs subjectifs ou douleurs neurologiques, etc.). L’examen clinique est donc vestibulaire, otologique et neurologique.
+
+A. Interrogatoire
+Caractéristiques : vertige rotatoire, déplacement linéaire, instabilité, ébriété.
+Mode d’installation : brutal (vasculaire), rapidement progressif.
+Durée et fréquence : épisode unique, crises prolongées répétées, crises itératives de quelques secondes, vertige chronique.
+Terrain, antécédents : terrain vasculaire, sclérose en plaques, migraine, antécédents traumatiques, passé otitique, terrain psychique, médicaments ototoxiques.
+Circonstances déclenchantes :
+positionnel : VPPB ;
+stress : crise de Ménière ;
+hyperpression (mouchage), effort : fistule périlymphatique.
+Symptômes associés neurologiques ou auditifs (surdité, acouphènes, sensation de plénitude auriculaire).
+B. Examen clinique
+1. Examen vestibulaire (encadré 13.2)
+Syndrome vestibulaire périphérique ou central ?
+
+Syndrome vestibulaire périphérique :
+vertige rotatoire de grande intensité ;
+nystagmus horizonto-rotatoire ;
+syndrome harmonieux du côté sain dans les lésions destructrices, lésé dans les lésions irritatives (déviation axiale, déviation des index et secousse lente du nystagmus) ;
+signes auditifs fréquents.
+Syndrome vestibulaire central :
+impression de déséquilibre ;
+nystagmus multiple ou pur ;
+syndrome dysharmonieux ;
+signes neurologiques associés.
+Déviation des index.
+Déviation axiale : manœuvre de Romberg, étude de la marche et du piétinement aveugle (manœuvre de Fukuda).
+Recherche d’un nystagmus dont les caractéristiques renseignent sur le mécanisme lésionnel.
+Dans le cas d’un nystagmus vestibulaire (), il est dit à ressort car composé d’une secousse lente et d’une secousse de retour rapide. La secousse rapide définit le sens du nystagmus. On parle de nystagmus pendulaire lorsque les deux secousses sont de même vitesse. Il peut être spontané dans la position neutre du regard droit devant ou n’apparaître que dans certaines conditions de recherche : excentration du regard, manœuvre ou différentes positions de la tête comme dans la recherche du nystagmus de la cupulolithiase. Le nystagmus périphérique est inhibé par la fixation oculaire et donc augmenté ou révélé par les lunettes de Frenzel ou la vidéonystagmoscopie.
+Toute pathologie vestibulaire ne s’accompagne pas d’un nystagmus spontané, mais la mise en évidence clinique d’un nystagmus acquis signe une lésion vestibulaire.
+
+Le syndrome vestibulaire périphérique unilatéral est harmonieux : déviation axiale homolatérale à la lésion, nystagmus horizontal ou horizonto-rotatoire unidirectionnel du côté opposé à la lésion.
+Le syndrome vestibulaire central est dysharmonieux et s’accompagne d’un nystagmus central.
+
+
+
+
+---------> Tableau 13.1  Nystagmus vestibulaires.
+
+
+
+
+2. Examen otologique
+Au minimum, il est fait d’un examen audiométrique et d’une otoscopie.
+
+3. Examen neurologique
+Il explore avec attention l’oculomotricité, les nerfs crâniens (paralysie faciale, trijumeau, nerfs mixtes) et les voies longues (signes moteurs, cérébelleux, sensitifs).
+
+C. Explorations
+L’examen clinique est parfois insuffisant, soit parce qu’il est négatif malgré l’existence de symptômes authentiquement vestibulaires, soit parce qu’il est difficile à interpréter. Le recours aux examens otoneurologiques spécialisés est alors utile.
+
+1. Audiométrie
+L’audiométrie tonale différencie une surdité de transmission d’une surdité de perception rétrocochléaire.
+L’audiométrie vocale dépiste une surdité de perception.
+2. Potentiels évoqués auditifs
+Les potentiels évoqués auditifs (PEA) explorent la totalité de la voie auditive et sont nécessaires au dépistage d’un neurinome de l’acoustique.
+
+3. Imagerie
+La TDM du rocher étudie les structures osseuses de l’oreille moyenne.
+La TDM cérébrale ou de préférence l’IRM encéphalique est demandée en urgence lorsqu’un AVC de la fosse postérieure est suspecté.
+L'IRM cérébrale est indispensable lorsqu’est suspecté(e) une tumeur de l’angle pontocérébelleux (neurinome de l’acoustique) ou un accident vasculaire cérébelleux.
+4. Autres examens
+D’autres examens plus spécialisés peuvent être utiles :
+
+la vidéonystagmographie permet l’analyse des nystagmus spontanés et offre la possibilité d’une exploration dynamique de la fonction vestibulaire. L’épreuve calorique est la seule épreuve qui interroge de manière isolée chaque canal horizontal : chaque conduit auditif externe est successivement irrigué par de l’eau chaude puis de l’eau froide et les réponses évoquées comparées. La quantification des réponses permet d’affirmer une éventuelle asymétrie des réponses et de confirmer un déficit périphérique unilatéral ;
+la posturographie permet une exploration objective statique et dynamique de l’équilibre en étudiant le rôle respectif de chacun des trois systèmes sensoriels participant à l’équilibration ;
+la verticale subjective mesure la verticalité perçue par le patient et apporte des arguments en faveur d’une pathologie otolithique ;
+les potentiels évoqués myogéniques explorent la fonction otolithique par le biais des potentiels myogéniques du muscle sternocléidomastoïdien.
+IV. Orientation diagnostique d’un vertige
+A. Vertiges positionnels de courte durée (quelques secondes)
+Ces vertiges de durée brève sont liés au mouvement. Il faut faire préciser, malgré les difficultés, le moment de survenue du vertige par rapport au mouvement. Le vertige le plus fréquent est le vertige positionnel paroxystique bénin, déclenché à la fin du mouvement, parfois après un bref temps de latence. C’est un vertige de prise de position.
+Les vertiges qui apparaissent pendant le mouvement n’ont, en revanche, aucune valeur étiologique particulière si ce n’est qu’ils traduisent une lésion chronique des voies vestibulaires.
+1. Vertige positionnel paroxystique bénin, cupulolithiase ou canalolithiase
+Il représente le tiers des causes de consultation pour vertiges. Le vertige est souvent violent, rotatoire, bref, durant moins de 30 secondes, déclenché par les changements de position, le coucher, le lever, la rotation rapide de la tête. Il n’y a aucun symptôme associé. Il apparaît chez certains sujets par périodes de crises. Il peut être extrêmement invalidant.
+
+Le nystagmus apparaît avec un temps de latence, le plus souvent horizonto-rotatoire, paroxystique et épuisable après quelques secondes.
+
+Le mécanisme correspond à la cupulolithiase du canal semi-circulaire postérieur (dépôt de particules otolithiques provenant de la macule utriculaire sur la cupule du canal semi-circulaire postérieur) ou à la canalolithiase (otolithes mobiles dans l’endolymphe du canal semi-circulaire postérieur).
+
+Le diagnostic est fait par la provocation du vertige et la mise en évidence du nystagmus positionnel qui lui est associé par la manœuvre de Dix et Hallpike.
+
+Le traitement consiste en une manœuvre thérapeutique qui mobilise les débris otolithiques et les disperse (fig. 13.1).
+
+Fig. 13.1
+
+Manœuvres libératoires (cupulolithiase).
+En pratique le patient est assis au bord d’un lit d’examen (1), il est d’abord basculé du côté atteint avec le nez tourné de 30° du côté sein (2). Ceci déclenche le vertige de façon typique. Juste après, la tête et le tronc du patient sont rapidement basculés à l’opposé, à 180), la tête gardant la même orientation, de sorte que le nez du patient se retrouve pour ainsi dire planté dans le lit (3).
+
+2. Autres vertiges positionnels
+Ils n’ont aucune caractéristique sémiologique précise si ce n’est de survenir au cours du mouvement et d’être brefs. Ils suggèrent la présence d’une lésion vestibulaire chronique sans préjuger de sa topographie.
+Ces vertiges itératifs sont fréquemment à l’origine d’un mécanisme de limitation réflexe des mouvements du cou qui donnent un aspect un peu guindé au sujet et sont à l’origine de myalgies cervicales. Il ne s’agit pas, comme cela a longtemps été affirmé, de vertiges d’origine cervicale mais bien de myalgies de tension secondaires aux vertiges.
+L’association à des signes otologiques conduit à une exploration ORL à la recherche d’une pathologie spécifique : fistule périlymphatique, cholestéatome de l’oreille moyenne.
+La présence de signes neurologiques impose le recours rapide à une imagerie de la fosse postérieure.
+
+B. Grand vertige unique durant plus de 12 heures, isolé ou avec signes associés (otologiques ou neurologiques)
+Un vertige aigu qui dure plus de 12 heures correspond à un syndrome vestibulaire destructif : vertiges rotatoires intenses, impossibilité de maintenir la station debout, recrudescence des vertiges aux mouvements de la tête, intense réaction végétative avec vomissements, intense réaction anxieuse.
+
+1. Névrite vestibulaire
+En l’absence de circonstance étiologique spécifique, c’est le diagnostic le plus fréquent.
+C’est un syndrome vestibulaire aigu provoqué par un déficit unilatéral périphérique, souvent total et isolé, de nature virale, rarement vasculaire.
+Le syndrome vestibulaire est harmonieux, isolé, sans céphalées, signe auditif ni signe neurologique. Il est prolongé sur plusieurs heures et cède la place à une grande instabilité jusqu’à compensation du déficit vestibulaire.
+épreuve calorique montre toujours une profonde baisse de la réponse périphérique du canal horizontal.
+Au cours des 48 premières heures, on a recours à des médicaments dépresseurs vestibulaires : antihistaminiques (méclozine, Agyrax® ; prométhazine, Phénergan®), acétyl-leucine (Tanganil®), antiémétiques (métopimazine, Vogalène®), souvent associés à des médicaments sédatifs nécessaires en raison de l’anxiété (diazépam, Valium® ; clorazépate, Tranxène®).
+L’évolution est généralement favorable par compensation vestibulaire aidée par la rééducation, qui remplace le traitement médicamenteux dès que possible.
+L’absence de déficit vestibulaire à l’épreuve calorique doit conduire à des explorations complémentaires destinées à rechercher un accident vasculaire.
+
+2. Accident vasculaire ischémique dans le territoire vertébrobasilaire
+Il représente le piège diagnostique de la névrite vestibulaire et doit être identifié au plus vite.
+
+Il n’est pas difficile de différencier un syndrome de Wallenberg d’une névrite vestibulaire si on examine le malade : le syndrome vestibulaire est central ; il existe une paralysie du voile du palais, un syndrome cérébelleux unilatéral, un syndrome de Claude Bernard-Horner et un syndrome sensitif thermoalgique controlatéral.
+
+Le diagnostic est difficile lorsque l’accident ischémique se résume à une symptomatologie cérébellovestibulaire (infarctus cérébelleux isolé) : le tableau clinique est identique à celui d’une névrite vestibulaire ; une imagerie cérébrale sera réalisée au moindre doute (fig. 13.2).
+
+Fig. 13.2
+
+IRM, séquence FLAIR. Infarctus gauche cérébelleux.
+
+3. Autres vertiges aigus durables
+Ils s’intègrent dans un contexte étiologique précis, évocateur du mécanisme, qui conditionne la conduite thérapeutique :
+
+le vertige aigu au cours d’un traumatisme crânien avec signes otologiques évoque une fracture du rocher translabyrinthique. En l’absence de fracture objectivable, il évoque une commotion labyrinthique. Il justifie dans tous les cas un recours spécialisé. Au décours d’un traumatisme faisant suite à une commotion labyrinthique peut se développer un syndrome post-commotionnel, durable, invalidant, auquel participent des facteurs psychosomatiques et anxieux ;
+la labyrinthite infectieuse est une complication rare et grave des otites chroniques : la survenue d’un vertige destructif chez un sujet atteint d’une otorrhée avec otalgie doit conduire au recours au spécialiste en urgence.
+C. Grand vertige spontané de quelques heures, récurrent, avec ou sans signes otologiques
+Les caractères symptomatiques sont ceux d’un vertige aigu, mais la durée est de l’ordre de quelques heures, le plus souvent moins de 2 à 3 heures. Le sujet retrouve son état antérieur. La caractéristique de ce type de vertige est de récidiver, d’où la classification sous le terme de vertige spontané récurrent. L’affection typique de cette catégorie de vertige est la maladie de Ménière, d’où le terme non approprié, mais souvent utilisé, de vertige « méniériforme ».
+
+1. Maladie de Ménière
+C’est une maladie de l’adulte, qui évolue par crises, consécutives à une hyperpression, une dilatation ou une distension du labyrinthe membraneux (hydrops). Pendant la crise est présente une triade de symptômes caractéristique :
+crises de vertige rotatoire ;
+hypoacousie avec sensation de plénitude auriculaire ;
+acouphènes fluctuants.
+La surdité de perception fluctuante et prédominant sur les fréquences graves est le signe caractéristique de l’affection.
+Au cours de l’évolution, des lésions chroniques du labyrinthe apparaissent à l’origine de vertiges positionnels chroniques, de troubles de l’équilibre permanents et d’une surdité progressive.
+Le traitement est d’abord médicamenteux et associe antivertigineux (bétahistine [Serc®, Lectil®, Extovyl®]) et diurétique (Diamox®) et est du ressort du spécialiste. L’insuffisance de réponse à un traitement médicamenteux peut conduire à un geste thérapeutique local (injection transtympanique de Gentalline®) ou à un geste chirurgical (neurectomie, labyrinthectomie, décompression du sac endolymphatique).
+2. Autres vertiges aigus récurrents avec signes otologiques
+Ils sont le fait d’une pathologie otologique chronique : vertige différé, qui survient sur lésion ancienne de l’oreille interne avec cophose, otospongiose cochléaire et diverses autres affections qui sont du domaine de l’otologie. Il est systématiquement utile de s’assurer qu’un neurinome du VIII n’est pas en cause (fig. 13.3).
+
+Toute surdité de perception doit faire l’objet d’une étude par potentiels évoqués auditifs (PEA) si l’intensité de la surdité le permet. Toute atteinte rétrocochléaire sur les PEA doit faire réaliser une IRM avec injection de gadolinium centrée sur le conduit auditif interne pour rechercher un neurinome.
+
+Fig. 13.3
+
+IRM séquence T1 avec injection de gadolinium. Neurinome de l’acoustique de l’angle pontocérébelleux gauche.
+
+3. Vertiges aigus récurrents sans signes otologiques
+Ils sont dénommés vestibulopathie récurrente ou vertige récurrent bénin. Près de 80 % de ces vertiges sont considérés comme des équivalents migraineux, présents notamment chez l’enfant.
+
+Ce type de vertige, de durée souvent assez brève, peut enfin correspondre à un vertige vasculaire d’origine ischémique. Le mécanisme vasculaire des vertiges a été excessivement utilisé pour donner une explication aux nombreux vertiges fonctionnels sans étiologie précise. Ce diagnostic de vertige vasculaire ne peut être retenu que si coexistent dans le temps d’autres signes d’ischémie vertébrobasilaire et/ou un « terrain » vasculaire confirmé.
+
+D. Instabilité ou ataxie
+L’instabilité est exprimée comme une impression de flou, d’ébriété souvent mal définissable. La caractéristique majeure est de n’apparaître que lors du maintien de la station debout et pendant la marche. Elle disparaît dès que le sujet peut avoir un appui, s’assied ou se couche. Lors de lésions vestibulaires chroniques, elle est associée aux vertiges de changement de position. Dans les cas d’atteinte sévère et bilatérale de l’appareil vestibulaire périphérique, l’instabilité de la marche est accompagnée de la sensation pénible d’un défaut de stabilisation de l’environnement visuel qualifié d’oscillopsie. L’aggravation de l’instabilité dans le noir correspond aux lésions vestibulaires chroniques, mais aussi aux lésions des voies sensitives proprioceptives.
+
+L’instabilité traduit l’existence d’une ataxie que confirme l’examen clinique. Le domaine des ataxies déborde la pathologie vestibulaire périphérique ou centrale, et impose un examen neurologique soigneux. Il concerne aussi les affections cérébelleuses, les affections responsables d’une atteinte des voies proprioceptives et toutes les affections qui lèsent les voies frontocérébelleuses.
+
+ 
+
+POINTS CLÉS :
+
+Le premier objectif est de distinguer un vertige authentique des multiples causes amenant un patient à la consultation vertiges : un vertige implique une illusion de déplacement.
+L’évolution des symptômes est plus informative que leur intensité pour préciser le mécanisme lésionnel du vertige : toute crise vertigineuse intense n’est pas d’origine périphérique, tout déséquilibre n’est pas d’origine centrale.
+Au terme de l’interrogatoire pourront être distingués :
+le vertige bref (quelques secondes) : VPPB ;
+le grand vertige prolongé unique : isolé ? névrite vestibulaire ; associé à des signes neurologiques ? AVC vertébrobasilaire ;
+le vertige évoluant par crises récurrentes : avec signes otologiques ? rechercher un neurinome du VIII ; avec la triade caractéristique (vertige, acouphènes, surdité) ? maladie de Ménière ;
+l’instabilité permanente qui n’a pas de valeur localisatrice.
+Un vertige d’allure centrale impose le recours rapide à une imagerie cérébrale.
+Les explorations complémentaires vestibulaires sont complexes, du domaine du spécialiste, et ne doivent pas être systématiques.
+

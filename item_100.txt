@@ -1,0 +1,122 @@
+Diplopie
+
+Objectif pédagogique
+Argumenter les principales hypothèses diagnostiques et justifier les examens complémentaires pertinents.
+I. Pour comprendre
+Une diplopie se définit par la perception visuelle double d’un objet unique.
+Les diplopies monoculaires (persistant après l’occlusion d’un œil) sont rares et de cause « ophtalmologique » (trouble de la réfraction, anomalie des milieux transparents).
+Les diplopies binoculaires (disparaissant après l’occlusion d’un œil) témoignent de paralysies oculomotrices (POM), liées à une atteinte des noyaux, des nerfs ou des muscles oculomoteurs ; elles peuvent être également dues à une atteinte de la jonction neuromusculaire. (NB : Les POM constituées très lentement – sur des années – ou congénitales, ne donnent pas de diplopie).
+II. Rappel anatomique, physiologique et sémiologique
+A. Anatomie et physiologie
+L’action des muscles oculomoteurs sur le globe oculaire est la suivante :
+
+droit interne : adduction ;
+droit externe : abduction ;
+droit supérieur : élévation ;
+droit inférieur et grand oblique : abaissement.
+L’innervation des muscles oculomoteurs est la suivante :
+
+nerf moteur oculaire commun (III) : droit interne, droit supérieur, droit inférieur (+ l’élévateur de la paupière + l’innervation parasympathique de la pupille) ;
+nerf abducens (VI) : droit externe ;
+nerf trochléaire : grand oblique.
+Lorsque les muscles synergiques se contractent, les antagonistes se relâchent (et inversement).
+
+B. Sémiologie
+Le malade peut se plaindre de voir double ou parfois seulement « flou » (lorsque la POM est discrète). La disparition du symptôme à l’occlusion d’un œil a la même valeur qu’une diplopie.
+Une POM n’est pas nécessairement neurogène : elle peut être myogène ou neuromusculaire (jonction neuromusculaire). Il est donc préférable de définir le déficit constaté avant d’incriminer un nerf oculomoteur.
+La détermination du muscle atteint est orientée cliniquement par :
+les caractéristiques de la diplopie : horizontale (droits externe et interne), verticale (droits supérieur et inférieur), parfois oblique ;
+la direction du regard dans laquelle elle apparaît ou s’accroît ;
+la position du globe oculaire dans le regard axial : par exemple, déviation du globe en dedans (strabisme interne) lors d’une atteinte complète du droit externe ;
+la limitation de la course du globe oculaire dans la direction d’action du muscle paralysé (qui peut manquer lorsque la POM est discrète).
+Le test de Lancaster détermine avec précision le ou les muscles atteints, en fournissant un graphique quantifiant le déficit et permettant de suivre l’évolution de la POM. Il n’est utile que dans les POM discrètes ou complexes.
+L’atteinte du III comporte dans sa forme complète :
+une diplopie verticale le plus souvent, maximale ou accrue dans le regard vers le haut ;
+un ptosis ;
+un strabisme externe (œil en abduction) (fig. 12.1) ;
+une paralysie de l’adduction (droit interne), de l’élévation (droit supérieur et petit oblique) et de l’abaissement (droit inférieur) du globe ;
+une mydriase aréflexique.
+L’atteinte du VI comporte :
+une diplopie verticale le plus souvent, maximale ou accrue dans le regard vers le haut ;
+une diplopie horizontale maximale ou accrue dans le regard en dehors ;
+un strabisme interne (œil en adduction) ;
+une paralysie de l’abduction.
+L’atteinte du IV (rare ou du moins rarement isolée) comporte :
+une diplopie dans le regard vers le bas (en descendant les escaliers ou en lisant), avec parfois une inclinaison de la tête pour tenter de la corriger (« torticolis oculaire ») ;
+une limitation de la course oculaire en bas et en dedans.
+Fig. 12.1
+Atteinte du III droit. Abduction spontanée de l’œil droit.
+
+III. Orientation diagnostique
+En pratique, elle repose beaucoup plus sur les symptômes et signes éventuellement associés, les circonstances de survenue, le contexte pathologique, l’âge et le profil évolutif, que sur la détermination du muscle atteint.
+
+A. La diplopie n’est qu’un signe parmi d’autres et/ou survient dans un contexte évocateur
+1. Traumatisme
+Il peut s’agir :
+
+d’un traumatisme orbitaire (hématome compressif, incarcération d’un muscle oculomoteur dans une fracture, etc.) ;
+d’un traumatisme crânien sévère : atteinte uni- ou bilatérale du VI ou du III ;
+d’un traumatisme crânien bénin, avec atteinte isolée du VI sans autre complication neurologique (le VI est le plus « fragile » des nerfs crâniens) ; beaucoup plus rarement, atteinte isolée du IV.
+Dans tous les cas, l’examen de première intention à réaliser en urgence est le scanner cérébral, avec, selon les cas, des coupes centrées sur l’orbite, des séquences « osseuses ».
+
+2. Signes neurologiques associés
+Une atteinte des voies longues (déficit moteur et/ou sensitif hémicorporel, syndrome cérébelleux) traduit une atteinte du tronc cérébral (cf. chapitre 4). Les causes les plus fréquentes sont vasculaires, tumorales ou inflammatoires (sclérose en plaques). L’IRM du tronc cérébral est indispensable.
+L’ataxie et l’abolition des ROT (réflexes ostéotendineux) évoquent un syndrome de Miller-Fisher (forme de polyradiculonévrite aiguë avec ophtalmoplégie).
+Une atteinte du VII et du V ipsilatérale à la POM évoque une sarcoïdose, une carcinomatose leptoméningée.
+En cas d’hypertension intracrânienne (céphalées, flou visuel bilatéral), d’hémorragie méningée (syndrome méningé), l’atteinte du VI est possible (mais sans valeur localisatrice).
+3. Exophtalmie associée
+Elle doit faire évoquer :
+
+une maladie de Basedow (réaliser une biologie thyroïdienne et autoanticorps) ;
+une fistule carotidocaverneuse, une thrombose du sinus caverneux (IRM cérébrale en urgence, artériographie cérébrale en complément) ;
+une tumeur de l’orbite (IRM).
+4. Éruption cutanée
+Une éruption cutanée dans le territoire du trijumeau ipsilatéral à l’atteinte du III doit faire évoquer un zona ophtalmique qui pourra être confirmé par la sérologie et la présence d’une lymphocytose du LCS.
+
+B. POM au premier plan associée à des douleurs ipsilatérales : ophtalmoplégie douloureuse
+La douleur est typiquement fronto-orbitaire (territoire du V1) ou bien une céphalée diffuse. L’ophtalmoplégie correspond le plus souvent à une atteinte du III, partielle ou complète, plus rarement une atteinte du VI. L’intérêt d’isoler ce syndrome est qu’il renvoie à un nombre limité de causes.
+
+1. Causes locorégionales
+Elles sont à évoquer prioritairement :
+
+l’IRM et/ou l’ARM (à réaliser en urgence) orientent le diagnostic :
+anévrisme de l’artère communicante postérieure (atteinte du III avec mydriase dans 2/3 des cas),
+tumeur du sinus caverneux (méningiome, extension d’un adénome hypophysaire) ;
+si l’IRM est normale, et en fonction du contexte (cancer ou hémopathie connus), penser à une infiltration carcinomateuse de la base du crâne (cancer de la sphère ORL) ou à un lymphome qui seront diagnostiqués par la ponction lombaire.
+2. Causes générales systémiques
+Un diabète est la cause la plus fréquente. Il s’agit d’un diabète souvent modéré, que l’ophtalmoplégie complique ou révèle. L’atteinte du III est la plus caractéristique (sans mydriase), d’installation brutale et d’évolution lentement régressive (microangiopathie du tronc du III).
+Les autres causes systémiques sont plus rares. La maladie de Horton est à chercher systématiquement notamment après 60 ans (faire VS et CRP systématiquement). Il faut aussi évoquer une sarcoïdose, une vascularite.
+Le syndrome de Tolosa-Hunt est exceptionnel : ophtalmoplégie douloureuse récidivante et alternante (changeant de côté), corticosensible.
+C. POM intermittente ou fluctuante : myasthénie
+Signe parmi d’autres, dans le cadre d’une myasthénie généralisée (cf. chapitre 8).
+Isolée : diplopie avec ou sans ptosis, apparaissant à l’effort et disparaissant au repos, sans douleurs ni mydriase = myasthénies oculaires pures (adulte de plus de 50 ans). Le test à la Prostigmine® peut être négatif, la recherche de bloc neuromusculaire infructueuse et les anticorps antirécepteurs de l’acétylcholine absents. En outre, le traitement par anticholinestérasiques n’est pas toujours efficace. Les corticoïdes sont souvent plus efficaces.
+D. POM totalement isolée
+Il n’y a ni circonstances de survenue particulières, ni signes neurologiques associés, ni douleur, ni fluctuation.
+Le champ des hypothèses diagnostiques est très large, les examens complémentaires nécessairement assez nombreux, et dans certains cas, il n’est pas possible de poser un diagnostic, malgré une enquête approfondie.
+Les causes les plus fréquentes sont :
+un infarctus cérébral (lacune) du tronc cérébral, après 50 ans et en présence de facteurs de risque vasculaire ;
+une sclérose en plaques, avant 40 ans, surtout chez la femme ; la POM peut être le premier signe de la maladie ;
+une tumeur, à tout âge ;
+une myasthénie, toujours à évoquer de principe, même en l’absence de fluctuation ;
+un diabète celui-ci n’étant pas toujours douloureux ;
+parfois il n’y a pas de cause trouvée.
+Indépendamment de l’étiologie, il faut toujours essayer de corriger une diplopie de façon symptomatique, dès lors que la symptomatologie est stabilisée : pose de verres avec prismes devant l’œil atteint.
+ 
+
+POINTS CLÉS
+
+Le diagnostic d’une paralysie oculomotrice repose sur :
+les circonstances de survenue ;
+les signes associés ;
+l’âge ;
+le mode évolutif.
+Contextes immédiatement évocateurs :
+traumatisme crânien ;
+signes neurologiques associés (AVC, tumeur, etc.) ;
+exophtalmie (Basedow, etc.) ;
+zona ophtalmique.
+Ophtalmoplégie douloureuse : urgence +++ (faire IRM avec ARM) :
+causes locorégionales : anévrisme carotidien, tumeur du sinus caverneux, carcinomatose de la base du crâne ;
+Horton : faire VS +++ ;
+diabète (diagnostic d’élimination).
+Ophtalmoplégie fluctuante : myasthénie.

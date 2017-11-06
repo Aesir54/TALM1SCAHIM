@@ -1,0 +1,757 @@
+Troubles du sommeil de l’enfant et de l’adulte
+
+Objectifs pédagogiques
+Diagnostiquer les troubles du sommeil du nourrisson, de l’enfant et de l’adulte.
+Argumenter l’attitude thérapeutique et planifier le suivi du patient.
+I. Sommeil normal
+A. Architecture normale du sommeil de l’adulte
+Le sommeil normal est organisé en différents stades et on oppose :
+sommeil lent : ralentissement et synchronisation de l’activité EEG ;
+sommeil paradoxal (ou REM sleep).
+Le sommeil lent est subdivisé en trois stades, de profondeur croissante, définis sur des critères EEG (Encadré 20.1)
+Sommeil lent
+
+Sommeil paradoxal
+
+Léger :
+Profond :
+stade 1 : activité EEG thêta1 + mouvements oculaires lents ;
+stade 2 : activité EEG thêta + graphoéléments spécifiques (fuseaux du sommeil + complexes K).
+stade 3 : activité EEG synchronisée lente de grande amplitude delta2.
+1: Activité thêta : fréquences de 4 à 7 cycles/s.
+2: Activité delta : fréquences de 0,5 à 4,5 cycles/s.
+Activité EEG désynchronisée rapide + mouvements oculaires rapides + atonie musculaire.
+
+La succession de sommeil lent léger, lent profond et sommeil paradoxal définit un cycle de sommeil dont la durée est de 90 minutes.
+
+Trois à cinq cycles de sommeil se succèdent au cours d’une nuit (fig. 20.1) ; les cycles de début de nuit sont plus riches en sommeil lent profond, les cycles de fin de nuit plus riches en sommeil paradoxal.
+
+Données normatives et variations interindividuelles :
+
+sommeil lent léger : environ 50 % du temps de sommeil total ;
+sommeil lent profond (SLP) : environ 25 % ;
+sommeil paradoxal (SP) environ 25 % ;
+temps total de sommeil (TTS) : de 6 heures (court dormeur) à 10 heures (long dormeur), 7 h 30 en moyenne ;
+chronotype du matin : sujets couche-tôt et en forme le matin ; chronotype du soir : sujets couche-tard et en forme le soir.
+Fig. 20.1
+
+Hypnogramme normal.
+Représentation schématique de la répartition des stades de sommeil au cours d’une nuit. Noter l’organisation en cycles du sommeil.
+SP : sommeil paradoxal ; SL : sommeil lent.
+
+B. Régulation du sommeil
+Le sommeil est régulé par différents mécanismes :
+
+régulation homéostatique : la propension à s’endormir ou pression de sommeil augmente en fonction du temps passé éveillé (privation de sommeil) et diminue lors de la survenue d’un épisode de sommeil (rebond de sommeil). La quantité d’ondes lentes delta pendant le sommeil reflète la profondeur du sommeil et est régulée de manière homéostatique. Ainsi un sujet en privation de sommeil aura une plus grande pression de sommeil et un rebond de sommeil très profond avec une forte activité EEG delta ;
+régulation circadienne : l’alternance veille (jour) sommeil (nuit) suit un rythme circadien sous le contrôle de l’horloge centrale localisée dans les noyaux suprachiasmatiques. La pression circadienne de sommeil est maximum entre 1 et 5 heures du matin et à un moindre degré en début d’après-midi entre 14 et 16 heures. La mélatonine est la principale hormone de régulation des rythmes chronobiologiques. Elle est synthétisée par la glande pinéale la nuit et exerce un effet hypnogène.
+La lumière est le principal synchroniseur de l’horloge biologique et donc de notre rythme circadien veille-sommeil. Elle inhibe la synthèse de mélatonine et exerce un effet éveillant.
+
+C. Évolution avec l’âge
+Nouveau-né : on distingue le sommeil actif (50 %), le sommeil calme (40 %) et le sommeil transitionnel (10 %).
+Durée totale de sommeil chez l’enfant : elle diminue avec l’âge : nouveau-né : 16 heures (jusqu’à 20 heures), à 1 an : 14 heures, à 6 ans : 11 heures, à 12 ans : 9 à 10 heures.
+Mise en place progressive des rythmes circadiens pendant le premier trimestre.
+Sieste : elle disparaît entre 4 et 6 ans.
+Adolescent : le rythme circadien veille-sommeil se décale (retard de phase, couche-tard, lève-tard) ; important à prendre en compte pour la prise en charge des troubles du sommeil de l’adolescent.
+Le sommeil est important pour le développement et les troubles du sommeil de l’enfant peuvent avoir des répercussions significatives sur les performances cognitives, le comportement, l’humeur et le métabolisme, en particulier l’obésité.
+
+Évolution à l’âge adulte :
+? temps total de sommeil (TTS), ? efficacité du sommeil (TTS/temps passé au lit), ? éveils nocturnes ;
+? du stade 3 ;
+? des stades 1 et 2 ;
+sommeil paradoxal constant.
+Sujet âgé : avance de phase et aplatissement du rythme circadien veille-sommeil (se couche plus tôt) ; sommeil de nuit de moins bonne qualité (fragmentation), apparition d’une somnolence diurne (la sieste est physiologique chez le sujet très âgé).
+D. Explorations du sommeil
+Interrogatoire et examen clinique : première étape, l’interrogatoire doit être détaillé.
+Agenda de sommeil : rempli sur plusieurs semaines, il permet d’apprécier l’architecture du sommeil.
+Tests et questionnaires : ils sont utiles pour apprécier la qualité du sommeil, la somnolence diurne, et la sévérité des troubles.
+Polysomnographie (PSG) :
+réalisée en hospitalisation au laboratoire ou en ambulatoire ;
+enregistrement de l’EEG, des mouvements oculaires (EOG) et du tonus musculaire (EMG des muscles de la houppe du menton) pour l’analyse du sommeil ± vidéo ;
+enregistrement de la respiration, du ronflement, de la SaO2 ;
+EMG des muscles jambiers antérieurs (mouvements périodiques nocturnes) et autres variables en fonction de l’orientation étiologique.
+Polygraphie ventilatoire :
+réalisée en hospitalisation au laboratoire ou en ambulatoire ;
+enregistrement de la respiration, du ronflement, de la SaO2.
+E. Autres explorations
+Évaluation de la somnolence diurne (cf. § ) :
+tests itératifs de latence d’endormissement ;
+tests de maintien de l’éveil.
+Paramètres circadiens :
+actimétrie : examen simple (port d’un accéléromètre au poignet « petite montre » pendant plusieurs jours ou semaines : permet d’apprécier le rythme veille-sommeil et le TTS) ;
+enregistrement de température centrale ;
+profil de sécrétion de la mélatonine (dim light melatonin onset [DLMO]) pour déterminer la phase du rythme circadien (non effectué en routine, intérêt surtout pour les troubles du rythme circadien).
+Examens utiles dans le bilan des hypersomnies d’origine centrale :
+typage HLA ;
+dosage d’hypocrétine dans le LCS : effectué en cas de difficultés diagnostiques (cf. § III.C.3.a. ).
+II. Insomnies et hypnotiques
+A. Épidémiologie
+Prévalence (chiffres donnés pour information) :
+19 % d’insomnie chronique dans la population générale (30 % de manière occasionnelle) ;
+7 à 10 % utilisent des médications ;
+plus fréquent chez la femme et le sujet âgé.
+Enjeu de santé publique :
+coût socio-économique ;
+augmentation de la morbi-mortalité dans l’insomnie chronique sévère ; altération des interactions sociales et professionnelles (absentéisme et perte de productivité).
+B. Définition et classification
+1. Définition
+L’insomnie est une insatisfaction concernant la quantité ou la qualité du sommeil avec des répercussions diurnes : le sujet ressent son sommeil comme difficile à obtenir, insuffisant ou non récupérateur.
+
+Au moins une des plaintes subjectives suivantes :
+
+difficulté d’endormissement : 3 fois/semaine ;
+réveil précoce : 3 fois/semaine ;
+réveils nocturnes : 3 fois/semaine.
+S’y associent une sensation de détresse et/ou une perturbation du fonctionnement diurne (fatigue, somnolence diurne, troubles de mémoire, de concentration, de l’humeur, du comportement).
+
+2. Classification
+Il existe plusieurs classifications nosologiques des différents sous-types d’insomnie.
+
+a. En fonction de la durée : insomnie transitoire et chronique
+On différencie les insomnies transitoires (< 3 mois ; ou insomnies d’ajustement ou insomnies aiguës) et les insomnies chroniques (> 3 mois) qui posent des problèmes diagnostiques et thérapeutiques très différents.
+Insomnie transitoire ou de court terme : perturbation du sommeil en rapport avec des causes occasionnelles réversibles, telles que :
+un stress psychologique : contrariété, deuil…
+un stress physique : contrainte liée à une affection physique, douloureuse…
+des facteurs environnementaux : niveau sonore, climat, altitude…
+une mauvaise hygiène de sommeil.
+Il est normal de voir son sommeil perturbé pendant quelques jours dans certaines circonstances.
+La difficulté tient au fait qu’une insomnie transitoire risque de se pérenniser ; l’intervention médicale doit surtout chercher à prévenir ce risque.
+b. En fonction de l’existence ou non d’une cause : insomnie chronique avec ou sans comorbidité
+On différencie les insomnies chroniques secondaires à des causes spécifiques qui peuvent être d’origine diverse, et les insomnies persistantes primaires qui ne reconnaissent pas de cause spécifique et dont la plus fréquente est l’insomnie psychophysiologique.
+
+C. Insomnies chroniques
+1. Insomnies secondaires
+Elles peuvent être liées à :
+
+une pathologie psychiatrique (fréquentes). On pourrait lister ici la plupart des affections psychiatriques, en particulier les troubles thymiques et les troubles anxieux :
+les troubles thymiques : plainte fréquente, souvent précoce dans le tableau clinique de dépression, pouvant persister après régression du trouble de l’humeur, souvent associée à une clinophilie (il « se réfugie » dans son lit),
+les troubles anxieux : une des causes les plus importantes de difficulté d’endormissement,
+les psychoses : l’insomnie se voit surtout lors des épisodes féconds, dont elle est d’ailleurs un signe précoce ;
+une pathologie intrinsèque du sommeil (principales pathologies à évoquer) :
+syndrome des jambes sans repos et/ou mouvements périodiques nocturnes du sommeil,
+syndrome d’apnées du sommeil ;
+une autre pathologie médicale chronique, essentiellement en rapport avec :
+une pathologie douloureuse ou inflammatoire, notamment cancéreuse et rhumatismale ; maladie neurologique, asthme nocturne et RGO nocturne,
+l’usage de médicaments ou de substances en rapport avec la prise abusive ou liée à une dépendance à un médicament ou toxique.
+2. Insomnie psychophysiologique (insomnie persistante primaire)
+L’insomnie psychophysiologique est la plus fréquente des insomnies chroniques primaires. C’est l’insomnie « maladie » qui peut associer différentes caractéristiques :
+
+survient souvent à un moment précis dans l’histoire du patient à l’occasion d’un deuil, d’une séparation ou d’une autre circonstance pénible, mais le retour au sommeil normal ne se produit pas, même lorsque la cause occasionnelle a disparu ;
+comporte des difficultés d’endormissement et un trouble du maintien du sommeil associé à un hyperéveil cognitif et émotionnel ;
+le sommeil devient une appréhension (conditionnement négatif) ;
+le sommeil est perçu comme non réparateur, mais paradoxalement, et malgré l’impression de fatigue, les tentatives de sieste « réparatrice » échouent en raison de la même difficulté d’endormissement que pour le sommeil de nuit ;
+pensées dysfonctionnelles avec attentes irréalistes par rapport au sommeil et amplification des conséquences : discordance entre l’importance subjective du retentissement diurne, et la discrétion du retentissement objectif.
+3. Insomnie idiopathique
+Rare et caractérisée par un début précoce, dès l’enfance ou petite enfance, sans période prolongée de rémission, elle évolue tout au long de la vie et semble constitutionnelle sans que l’on ait déterminé à ce jour les déterminants génétiques.
+
+4. Insomnie paradoxale avec mauvaise perception du sommeil
+Plainte d’insomnie, de réveils prolongés, de « nuit blanche » disproportionnée par rapport aux troubles objectivés (intérêt ici de la polysomnographie qui peut objectiver une nuit d’une durée quasi normale traduisant une mauvaise perception du sommeil).
+
+5. Mauvaise hygiène de sommeil
+Elle découle d’habitudes de vie incompatibles avec le maintien d’une bonne qualité de sommeil (variations dans les horaires de sommeil, siestes diurnes prolongées, temps passé au lit excessif, stimulants le soir avant le coucher : caféine, nicotine, alcool, activité physique).
+
+Les différents facteurs ci-dessus sont souvent intriqués. L’insomnie est souvent évolutive et complexe associant plusieurs facteurs.
+
+D. Spécificités de l’insomnie de l’enfant
+La prévalence est élevée (chiffres donnés pour information) :
+
+25 à 50 % des enfants de moins de 5 ans ;
+16 à 27 % des enfants en âge scolaire prépubertaire de 6 à 12 ans ;
+17 à 39 % des adolescents.
+Les causes les plus fréquentes sont environnementales, organiques et psychologiques.
+
+Les causes environnementales varient avec l’âge :
+Les causes organiques : ORL (otites, apnées du sommeil,…), pneumologiques (asthme,…), digestives (RGO, allergie aux protéines de lait de vache)…
+Les causes psychologiques :
+petit enfant : mauvaises habitudes (bercement, biberon, lit des parents…) et présence parentale lors de l’endormissement (l’enfant n’a pas pu apprendre à se séparer et à s’endormir seul dans son lit) ;
+enfants et des adolescents : consommation télévisuelle et informatique (jeux informatiques, Internet), téléphones portables…
+nourrisson : l’insomnie peut être révélatrice de difficultés relationnelles de l’enfant avec son entourage ou de déficits éducatifs ;
+l’insomnie peut être un signe précoce d’un trouble envahissant du développement ou encore d’un retard mental (insomnies calmes) ;
+à partir de la deuxième année de vie, l’insomnie peut être en rapport avec une angoisse de séparation d’avec ses parents.
+Dans tous les cas, l’évaluation clinique doit prendre en compte l’organisation mentale du nourrisson ou de l’enfant, la fatigue et/ou l’épuisement de son entourage, les conditions éducatives et relationnelles familiales.
+
+Le traitement de l’insomnie de l’enfant et l’adolescent doit être étiologique. Comme elles sont souvent en rapport avec des erreurs de conditionnement à l’endormissement ou hygiène de sommeil, l’approche thérapeutique est souvent comportementale et éducationnelle en première intention. Si un dysfonctionnement familial ou encore des difficultés relationnelles sont suspectés, une psychothérapie parents-enfant sera proposée. Les traitements médicamenteux sont souvent abusivement prescrits et doivent être évités.
+
+E. Diagnostic différentiel
+Le principal diagnostic différentiel est le retard de phase du rythme circadien qui peut être confondu avec une insomnie de l’initiation du sommeil ou d’endormissement.
+
+F. Bilan et conduite à tenir
+1. Interrogatoire
+Quel que soit le cadre nosologique utilisé, le diagnostic et l’évaluation de l’insomnie reposent essentiellement sur l’interrogatoire du patient :
+
+reconstituer l’histoire actuelle et passée du patient, la chronologie et les mécanismes de l’insomnie ;
+laisser le patient se raconter, et raconter comment, où, dans quel environnement il s’endort (par exemple, rechercher s’il s’endort en regardant la télévision dans son lit, quel type d’activité il a dans la soirée, comment il ménage la transition de la veille au sommeil, etc.) ;
+cerner le contexte psychique du patient ;
+définir son environnement, ses habitudes, les contraintes auxquelles il est soumis ;
+répertorier ses antécédents, tant pathologiques que thérapeutiques ;
+rechercher des indices en faveur d’une pathologie du sommeil (ronflement, pauses respiratoires nocturnes…).
+Il est important :
+
+d’obtenir une évaluation détaillée du sommeil :
+de préciser le type de difficulté du sommeil (initiation ou endormissement, maintien ou réveil intrasommeil, réveil précoce de fin de nuit),
+d’évaluer les horaires de sommeil, le rythme circadien veille-sommeil,
+d’évaluer les conséquences : retentissement diurne, prise d’alcool ou de substances ou médicaments psychotropes ou autres médications modifiant le sommeil ;
+de distinguer une forme transitoire d’une forme chronique :
+ancienneté des symptômes,
+évolution épisodique ou persistante ;
+de rechercher une cause :
+un trouble psychiatrique,
+une autre pathologie du sommeil (notamment un syndrome des jambes sans repos ou un trouble respiratoire au cours du sommeil),
+une pathologie médicale chronique invalidante,
+une prise ou exposition à des toxiques ou médicaments,
+des facteurs environnementaux et comportementaux :
+bruit, température, lumière,
+enfants en bas âge,
+hygiène de sommeil.
+Finalement, l’examen permettra d’identifier les facteurs prédisposants, déclenchants et d’entretien et de préciser le sous-type d’insomnie.
+
+2. Agenda de sommeil
+Outil essentiel pour l’évaluation de l’insomnie et pour sa prise en charge (suivi sous traitement).
+Consigne au jour le jour les horaires et la qualité du sommeil ainsi que des réveils nocturnes.
+Met souvent en évidence des écarts entre l’appréciation globale du patient sur ses troubles de sommeil et leur réalité.
+Permet de rechercher un trouble associé du rythme circadien veille-sommeil.
+3. Examens complémentaires
+a. Enregistrement actimétrique
+Au moyen d’un accéléromètre porté au poignet, il permet d’établir le rythme activité-repos sur plusieurs semaines et donc d’objectiver les données (subjectives) de l’interrogatoire ou de l’agenda de sommeil. Il permet également d’objectiver un trouble associé du rythme circadien veille-sommeil.
+
+b. Polysomnographie au laboratoire
+Pas nécessaire au diagnostic mais indiquée ponctuellement pour :
+
+éliminer une étiologie spécifique (troubles respiratoires au cours du sommeil, mouvements périodiques nocturnes) ;
+pour objectiver la plainte du patient (insomnie avec mauvaise perception du sommeil, plainte disproportionnée par rapport aux troubles objectivés).
+G. Traitement (recommandations HAS décembre 2006)
+1. Traitement des causes et facteurs favorisants
+Traiter les causes lorsque l’insomnie est secondaire ou comorbide : prise en charge d’un trouble psychiatrique, traitement d’une pathologie intrinsèque du sommeil (trouble respiratoire au cours du sommeil, syndrome des jambes sans repos…), prise en charge de douleurs chroniques.
+
+2. Place des médicaments
+a. Hypnotiques
+Il n’existe pas d’hypnotique idéal réunissant toutes les propriétés suivantes :
+
+entraîner une induction rapide de sommeil ;
+maintenir le sommeil pendant au moins 5–7 heures ;
+respecter l’architecture du sommeil ;
+ne pas avoir d’effet résiduel (au réveil, pendant la journée) ;
+ne pas induire d’accoutumance ni de tolérance ;
+ne pas induire de syndrome de sevrage ;
+avoir une bonne marge de sécurité ;
+ne pas avoir d’interactions médicamenteuses.
+Les hypnotiques posent des problèmes à moyen et à long terme :
+
+perte d’efficacité objective : surtout nette pour les BZD (benzodiazépines) de demi-vie courte, moins marquée pour les analogues des BZD (zolpidem [Stilnox®] et zopiclone [Imovane®]) ;
+phénomène de sevrage : effet rebond qui favorise le cercle vicieux ; moins marqué pour les BZD à demi-vie longue et pour les analogues BZD ;
+effets indésirables : somnolence diurne (risque d’accident), interaction avec l’alcool, troubles mnésiques et épisodes confuso-oniriques (vrai pour tous les hypnotiques).
+b. Mélatonine
+La mélatonine est une hormone endogène dont le principal rôle est de synchroniser le rythme veille-sommeil et les autres rythmes circadiens. Elle exerce aussi un effet hypnogène mais ne doit pas être considérée comme une substance hypnotique. La mélatonine à libération immédiate peut être utilisée pour améliorer les insomnies d’endormissement le soir. La mélatonine à libération prolongée (Circadin®) peut être utilisée pour améliorer une insomnie de maintien du sommeil (éveils intrasommeil).
+
+Les hypnotiques sont indiqués dans le traitement des insomnies transitoires ou occasionnelles pour une durée limitée, en association avec la prise en charge des facteurs favorisants, en informant le patient des manifestations de sevrage et des risques de dépendance (+++).
+Leur utilisation dans l’insomnie chronique est très limitée et doit rester ponctuelle. De nombreux patients ont une pharmacodépendance nécessitant un sevrage progressif (+++).
+D’autres médicaments comme les antidépresseurs (surtout sédatifs), les agonistes de la mélatonine et les antihistaminiques peuvent apporter un bénéfice en fonction du contexte de l’insomnie.
+La place des traitements médicamenteux est donc très limitée dans les insomnies chroniques dont la prise en charge est essentiellement non médicamenteuse.
+3. Traitements comportementaux et thérapie cognitivo-comportementale
+a. Hygiène de sommeil
+Approche éducative sur la connaissance du sommeil visant à corriger les erreurs comportementales pour maintenir une bonne hygiène de sommeil (cf. annexe 20.1).
+
+b. Thérapie cognitivo-comportementale
+Approche à composantes multiples associant une composante éducative (hygiène de sommeil), une composante comportementale (restriction du temps passé au lit, contrôle du stimulus), cognitive (psychothérapie cognitive sur l’interprétation de ses troubles par le patient et des conséquences de l’insomnie…) et techniques de relaxation.
+Traitement de choix pour l’insomnie chronique primaire mais permet de traiter un faible nombre de patients.
+III. Somnolence excessive et troubles de l’éveil
+A. Définition et enjeu de santé publique
+1. Définition
+La somnolence excessive est un état subjectif et objectif d’éveil physiologique abaissé, de propension au sommeil ou d’assoupissement.
+
+Préciser les circonstances de l’endormissement : on dira qu’un endormissement est pathologique lorsqu’il se produit « anormalement » rapidement dans des circonstances standardisées, ou lorsqu’il se produit dans des circonstances inappropriées.
+À différencier de la fatigue.
+Elle dépend d’une interaction entre les régulations homéostatiques (privation de sommeil par exemple) et circadienne (moment de la journée propice à l’endormissement, risque de somnolence maximal en première partie de nuit et en début d’après-midi).
+2. Enjeu de santé publique
+Très fréquente, prévalence estimée entre 4 et 20 % en fonction du seuil de sévérité et des études.
+Coût important lié à l’accidentologie, l’absentéisme.
+Fréquemment mise en cause dans les accidents de la route – les endormissements sont actuellement la première cause d’accidents sur les autoroutes.
+Répercussion sur le fonctionnement individuel, cognitif, comportemental.
+Aspect médico-légal
+
+La somnolence diurne fait partie des conditions médicales incompatibles avec l’obtention ou le maintien du permis de conduire ou pouvant donner lieu à la délivrance de permis de conduire de durée de validité limitée (arrêtée du 21 décembre 2005) : somnolence excessive d’origine comportementale, organique, psychiatrique, iatrogène ou secondaire à une insomnie.
+Schématiquement, en cas de traitement efficace, il peut être accordé :
+aux conducteurs du groupe léger : une compatibilité temporaire de 1 an ;
+aux conducteurs du groupe lourd : une compatibilité de 6 mois après réalisation de tests de maintien de l’éveil.
+Les médecins doivent savoir que cet arrêté existe, et sont dans l’obligation d’informer les patients concernés.
+
+B. Évaluation
+Évaluation subjective par l’interrogatoire et des échelles standardisées, et objective par une évaluation instrumentale de la somnolence.
+
+1. Témoignage du sujet et de son entourage
+Interrogatoire orienté recherchant :
+un besoin de lutter contre le sommeil ;
+des endormissements involontaires, dans diverses circonstances de la vie courante ;
+la fréquence, les circonstances et horaires de survenue des assoupissements et endormissements ;
+les accidents ou incidents liés à la somnolence (somnolence au volant).
+Les patients ont souvent tendance à sous-évaluer ou à nier leur gêne. Cette attitude peut être consciente par honte ou manquer de sincérité en raison des implications médico-légales ou professionnelles (retrait du permis de conduire), ou inconsciente chez des sujets dont la pathologie est ancienne et qui ont véritablement oublié leur état normal. Certains ont parfois tendance à minorer leur somnolence diurne et à confondre cet état avec un état de fatigue.
+Le témoignage du conjoint fournit parfois une image plus juste de la réalité, mais l’entourage peut également être peu sensible au caractère anormal de la somnolence ou la rationaliser (« il travaille trop »).
+2. Questionnaires
+Les échelles standardisées sont nombreuses. La plus couramment utilisée et la plus validée est l’échelle d’Epworth (cf. annexe 20.2).
+
+3. Techniques instrumentales utilisant l’EEG
+Deux techniques relèvent de ce principe. La notion de rapidité d’endormissement dans des circonstances standardisées est à la base de l’évaluation instrumentale de la somnolence.
+
+a. Tests itératifs de latence d’endormissement (TILE)
+On mesure la latence d’endormissement et dans quel stade de sommeil le sujet s’est endormi (défini par des critères EEG) à cinq reprises dans la journée, toutes les 2 heures, dans des conditions standardisées (à l’abri de la lumière et du bruit, à température confortable, en position allongée), en demandant au sujet de se laisser aller au sommeil, de faire son possible pour s’endormir. C’est le test de référence pour la mesure de la somnolence diurne.
+Une latence moyenne d’endormissement (pour les cinq tests) supérieure à 10 minutes est considérée comme normale. Elle doit être inférieure à 8 minutes pour remplir les critères d’une hypersomnie d’origine centrale (narcolepsie, hypersomnie idiopathique) ; cette somnolence est très sévère si elle est inférieure à 5 minutes. Le nombre d’endormissement en sommeil paradoxal est également utilisé pour différencier narcolepsie et hypersomnie idiopathique (cf. infra).
+b. Tests de maintien de l’éveil (TME)
+Le test de maintien de l’éveil s’effectue dans les mêmes conditions de lumière, de bruit et de température, mais avec un sujet en position assise et la consigne est de résister au sommeil. Ce test mesure donc la capacité à rester éveillé.
+C’est le « test médico-légal » utilisé pour définir les aptitudes au poste et à la conduite automobile.
+C. Causes de la somnolence
+La démarche et les principales étiologies sont synthétisées dans l’annexe 20.3.
+
+On doit d’abord distinguer :
+
+une somnolence physiologique :
+aux âges extrêmes de la vie (jeune enfant et sujet âgé),
+la sieste est physiologique chez le sujet très âgé ;
+d’une somnolence excessive.
+La somnolence excessive peut être :
+
+induite :
+privation chronique de sommeil,
+médicaments,
+toxiques, alcool…
+perturbation induite du rythme circadien veille-sommeil : travail posté (3 × 8…), vols transméridiens…
+pathologique :
+secondaire à une pathologie altérant le sommeil de nuit : la somnolence est la conséquence d’un sommeil non récupérateur :
+primaire : pathologie intrinsèque liée à une atteinte d’un système d’éveil (hypersomnies d’origine centrale) :
+trouble du rythme circadien veille-sommeil : une perturbation du rythme circadien veille-sommeil peut entraîner une somnolence diurne dont le traitement reposera sur la correction du trouble du rythme circadien 
+syndrome d’apnées du sommeil,
+syndrome des jambes sans repos et mouvements périodiques nocturnes,
+affections neuropsychiatriques,
+pathologies chroniques sévères (douleurs, cancers, etc.),
+narcolepsie de type 1 ou type 2,
+hypersomnie idiopathique.
+1. Troubles respiratoires au cours du sommeil
+a. Définitions
+On distingue le syndrome d’apnées du sommeil (SAS) et le syndrome d’augmentation de résistance des voies aériennes supérieures (SARVAS). Les autres troubles respiratoires au cours du sommeil plus rares ne seront pas abordés ici.
+
+Nosologie des événements respiratoires pendant le sommeil :
+apnée : interruption du flux respiratoire de plus de 10 secondes ;
+hypopnée : réduction (sans interruption complète) du flux respiratoire (de plus de10 s) > à 30 % et associée à une désaturation > 3 % et/ou un microéveil visualisé sur l’EEG.
+Le nombre d’apnées et hypopnées est rapporté au temps de sommeil : IAH (index d’apnées hypopnées)/heure de sommeil.
+Les apnées et hypopnées peuvent être obstructives ou centrales :
+obstructive : obstruction complète ou partielle des voies aériennes supérieures avec augmentation des efforts respiratoires ayant pour objet de lever l’obstruction ;
+centrale : réduction de l’effort respiratoire proportionnelle à la diminution du flux respiratoire et résultant d’une diminution de la commande ventilatoire.
+L’augmentation de résistance des voies aériennes supérieures entraîne l’augmentation des efforts respiratoires avec microéveil. Le flux respiratoire est conservé, il n’y a pas d’hypoxémie mais le sommeil est fragmenté.
+Le syndrome d’apnées du sommeil (SAS) est dit obstructif ou central si les événements respiratoires sont respectivement majoritairement obstructifs ou centraux.
+Le syndrome d’augmentation de résistance des voies aériennes supérieures (SARVAS) est une variante du SAS obstructif et se traduit par la survenue de séquences répétées d’augmentation de résistance des voies aériennes supérieures.
+Les seuils de sévérité sont plus faibles chez l’enfant (IAH > 5/h = SAS sévère, chiffre donné pour information).
+SAS obstructif
+
+Présence de symptômes nocturnes (essentiellement ronflement) et diurnes (surtout somnolence excessive).
+
+IAH > 5 : forme légère.
+IAH > 15 et < 30 : forme modérée.
+IAH > 30 : forme sévère.
+Le degré de somnolence diurne est également à considérer pour évaluer la sévérité.
+
+SAS central
+
+IAH supérieur à 5 avec une majorité d’événements centraux éventuellement associés à une respiration périodique de Cheyne-Stokes.
+
+Le SAS central peut être secondaire et nécessiter un bilan complémentaire (cardiologique, imagerie cérébrale). Le SAS central est rare et ne sera pas abordé dans le détail ici.
+
+b. Épidémiologie et facteurs de risque
+Prévalence élevée (varie selon le critère diagnostique choisi) : hommes : 4 % ; femmes : 2 % (plus fréquent après la ménopause).
+
+Facteurs de risque :
+âge ;
+sexe masculin ;
+poids (obésité) ;
+alcool ;
+cou court, épais, macrognathie et/ou rétrognathie.
+Plus fréquent chez :
+l’hypertendu ;
+l’insuffisant cardiaque ;
+le diabétique ;
+un sujet ayant présenté un AVC.
+c. Physiopathologie du SAS obstructif
+Le pharynx peut être assimilé à un tuyau mou, interposé entre deux segments rigides, le palais dur et l’épiglotte. À l’inspiration, la pression s’exerçant sur les parois pharyngées est négative, d’où une tendance au collapsus du pharynx. Le seuil de pression entraînant un collapsus pharyngé est moindre chez le patient ayant un SAS et l’activité des muscles dilatateurs du pharynx est inhibée pendant le sommeil. Trois facteurs sont à l’origine du collapsus pharyngé :
+
+le rétrécissement anatomique des voies aériennes supérieures ;
+les anomalies des tissus pharyngés ;
+l’augmentation de compliance du pharynx et la perte d’efficacité des muscles pharyngés.
+Le rétrécissement pharyngé peut entraîner des perturbations de l’écoulement d’air, soit mineures sous la forme de vibrations entraînant un ronflement, soit un collapsus partiel (hypopnée) ou complet avec interruption du débit (apnée), associé à une augmentation de l’effort respiratoire et stimulus éveillant responsable d’une fragmentation du sommeil et d’une somnolence diurne.
+
+d. Clinique
+Signes fonctionnels
+À suspecter devant l’association ronflement + somnolence diurne +++.
+
+Symptômes nocturnes :
+
+(sonore, souvent très ancien) ;
+pauses respiratoires constatées par le/la conjointe (interruption répétée du ronflement à l’occasion des apnées, suivie d’une reprise respiratoire particulièrement sonore) ;
+éveils en suffocation ;
+nycturie ;
+sueurs nocturnes.
+Symptômes diurnes :
+
+somnolence diurne ;
+céphalées matinales ;
+troubles cognitifs : concentration, mémoire ;
+irritabilité ;
+trouble de l’humeur ;
+baisse de la libido ;
+asthénie matinale.
+Forme de l’enfant : à évoquer en cas de ronflement, irritabilité, agressivité et de répercussions sur les performances scolaires. Chez l’enfant la somnolence est souvent masquée par un tableau d’hyperactivité.
+
+Examen clinique
+
+On retrouve souvent une obésité, une HTA et une augmentation du tour de cou (morphotype particulier, bréviligne, avec un cou court, épais) et parfois une conformation mandibulaire particulière avec micrognathie et/ou rétrognathie.
+
+d. Diagnostic
+Le diagnostic repose sur (cf. annexe 20.4) :
+
+la polygraphie respiratoire : examen de dépistage suffisant pour dépister des formes sévères ;
+la polysomnographie : examen de référence permettant de préciser les microéveils et le retentissement sur le sommeil nocturne.
+Une mesure objective de la somnolence diurne peut être utile à la décision diagnostique.
+L’IAH permettra de déterminer la sévérité du SAS.
+
+e. Conséquences
+Elles sont importantes et incluent :
+
+un risque d’accidentologie (+++) et autres conséquences de la somnolence diurne ;
+des risques cardiovasculaires : HTA, insuffisance coronarienne, AVC, troubles du rythme cardiaque, mortalité cardiovasculaire.
+Elles peuvent être considérables chez l’enfant : cassure de la croissance staturo-pondérale, troubles du comportement (irritabilité, hyperactivité, fatigabilité), déficits cognitifs de type inattention et troubles de la mémoire, diminution des performances scolaires, conséquences cardiovasculaires à long terme.
+
+f. Traitement
+L’indication du traitement est discutée en fonction de la sévérité du SAS (IAH), du retentissement (somnolence diurne) et des comorbidités.
+
+Pression positive continue (PPC) : traitement de référence, efficace mais astreignant. Elle consiste à appliquer une pression au niveau des voies aériennes supérieures, par l’intermédiaire d’un masque nasal relié à une source de pression. Cette pression maintient les voies aériennes ouvertes, ce qui permet de supprimer les apnées, de normaliser le sommeil, et de corriger les troubles diurnes.
+Orthèse d’avancement mandibulaire (orthèse portée la nuit, induisant une propulsion forcée de la mandibule entraînant un élargissement vélopharyngé) : alternative à la PPC, moins efficace.
+Chirurgie d’avancement mandibulaire : traitement lourd, efficace, d’indications très limitées.
+Les autres traitements ont une efficacité moindre (traitement positionnel en cas d’apnées survenant en décubitus dorsal) ou occasionnelle (uvulo-palato-pharyngoplastie).
+
+Dans tous les cas :qui permet de diminuer la sévérité), arrêt de l’alcool, des hypnotiques.
+
+Traitement des comorbidités.
+Chez l’enfant : une hypertrophie amygdalienne étant le plus souvent en cause, l’adénoamygdalectomie est le traitement de première intention éventuellement complété par un traitement orthodontique.
+
+2. Syndrome des jambes sans repos et mouvements périodiques nocturnes
+Le syndrome des jambes sans repos (SJSR) et les mouvements périodiques nocturnes (MPN) sont des pathologies importantes en médecine du sommeil car elles sont à l’origine de perturbations du sommeil de nuit et d’une somnolence diurne. Elles sont souvent associées puisque 80 % des patients avec SJSR présentent des MPS.
+
+a. Syndrome des jambes sans repos : définition et aspects cliniques
+Définition : le syndrome des jambes sans repos est caractérisé par une sensation désagréable dans les membres inférieurs :
+survenant au repos ;
+maximum le soir (avant l’endormissement et au cours des éveils nocturnes : composante circadienne ;
+améliorée par le mouvement (marche, mobilisation) ;
+avec besoin impérieux de bouger les jambes.
+Épidémiologie : pathologie fréquente, estimée à 8,5 % en France, plus fréquente chez les femmes et avec l’âge.
+Physiopathologie : mal comprise, elle implique des facteurs génétiques (formes familiales fréquentes), le métabolisme du fer et le système dopaminergique. De nombreux cas sont secondaires ou associés à une carence martiale en ferritine, une insuffisance rénale, une polyneuropathie, une prise médicamenteuse (antidépresseurs sérotoninergiques, neuroleptiques, antihistaminiques…) ou certaines pathologies neurologiques ou de système.
+Forme de l’enfant :
+peu connue et sous-diagnostiquée ;
+peut ressembler à un syndrome de déficit de l’attention avec hyperactivité (impossibilité de rester en place en soirée ou pendant la nuit, sommeil raccourci et de mauvaise qualité, fatigue, irritabilité et hyperactivité pendant la journée).
+b. Mouvements périodiques du sommeil : définition et aspects cliniques
+Les mouvements périodiques nocturnes (ou mouvements périodiques au cours du sommeil [MPS] ou encore mouvements périodiques des membres) :
+sont définis par des mouvements répétitifs et stéréotypés des membres (inférieurs, parfois supérieurs) pouvant survenir pendant le sommeil et la veille ;
+correspondent à une extension du gros orteil, dorsiflexion du pied, voire flexion du genou et de la hanche ;
+sont objectivés par la polysomnographie avec vidéo si possible ;
+peuvent être associés à un microéveil.
+Chaque mouvement peut s’accompagner d’un bref allégement du sommeil ou un microéveil. La répétition de ces microéveils peut conduire à une fragmentation du sommeil et empêcher la survenue du sommeil lent profond, réalisant une déstructuration du sommeil.
+Les patients atteints de MPS éveillants peuvent présenter des plaintes variées telles que des éveils nocturnes répétés, un sommeil de mauvaise qualité ou une somnolence diurne.
+c. Explorations complémentaires
+Syndrome des jambes sans repos : le diagnostic est clinique. La PSG peut être utile en cas de difficultés diagnostiques ou pour rechercher des MPS associés.
+Mouvements périodiques nocturnes : mis en évidence par l’enregistrement EMG des jambiers antérieurs (± vidéo) lors de la PSG et visualisation de microéveils associés. Les mouvements ont une durée de 0,5 à 10 secondes et se répètent toutes les 4 à 90 secondes. Un index de mouvements supérieurs à 15 par heure de sommeil est considéré comme significatif.
+d. Traitement
+Tout d’abord, corriger les facteurs favorisants
+
+sevrage si possible des médicaments responsables ;
+traitement d’une carence martiale (objectifs : ferritine = 50–80 µg/L et CST = 20–25 %) ;
+équilibration d’un diabète.
+Traitement médicamenteux (il est réservé aux formes sévères) :
+
+agonistes dopaminergiques à faible posologie (ropinirole ou pramipexole administré dans la soirée une heure avant le début des symptômes, rotigotine en patch sur 24 h). Un effet paradoxal correspondant à une majoration des symptômes peut être observé chez certains patients et en cas de doses élevées ;
+antiépileptique (gabapentine, prégabaline) (hors AMM).
+Dans les formes résistantes au traitement, il est également possible d’utiliser :
+
+un dérivé codéiné (hors AMM) ;
+le clonazépam (Rivotril®, risque d’accoutumance et somnolence diurne) (hors AMM).
+3. Hypersomnies d’origine centrale
+En rapport avec une atteinte de système d’éveil, on distingue la narcolepsie, l’hypersomnie idiopathique et les hypersomnies récurrentes (rares, ces dernières ne seront pas abordées ici).
+
+a. Narcolepsie (ou syndrome de Gélineau)
+Tableau clinique
+
+La narcolepsie est caractérisée par des accès de somnolence diurne irrépressibles.
+
+Tableau clinique (débutant habituellement dans la 2e décennie) :
+diurne irrésistible : accès de somnolence quasi irrépressibles qui surviennent par vagues au cours de la journée ;
+les cataplexies sont pathognomoniques de la narcolepsie mais pas toujours présentes :
+relâchement du tonus musculaire déclenché par une émotion, le plus souvent positive (fou rire, blague, surprise…) mais parfois négatives (colère),
+durée variant d’une fraction de seconde à rarement plus de 2 minutes,
+vécue en pleine conscience,
+complète avec affaissement du sujet ou incomplète affectant les muscles de la face (lâchage de la mâchoire) ou des membres (lâchage d’objet, lâchage des genoux),
+le diagnostic de cataplexie peut être difficile chez le jeune enfant.
+Autres symptômes :
+sommeil fragmenté ;
+sieste de courte durée récupératrice, rafraîchissante ;
+± paralysies du sommeil qui surviennent au moment de l’endormissement (hypnagogiques) ou du réveil (hypnopompiques). Elles sont caractérisées par une impossibilité de bouger alors même que le sujet est mentalement éveillé ;
+± hallucinations hypnagogiques ou, plus rarement, hypnopompiques qui peuvent être visuelles (impression d’une personne étrangère dans la chambre), auditives ou somesthésiques.
+Les paralysies du sommeil et hallucination hypnagogiques ou hypnopompiques correspondent à des anomalies de la transition entre la veille et le sommeil ou le sommeil et la veille (à distinguer d’hallucinations observées dans le cadre de manifestations psychotiques) et ne sont pas toujours présentes. Elles sont observées en population générale mais plus fréquentes et plus sévères chez les narcoleptiques.
+
+Les formes sans cataplexie sont de diagnostic plus difficile.
+
+Épidémiologie
+
+Prévalence : 1/2 000.
+
+Physiopathologie
+
+Les cataplexies et la narcolepsie de type 1 (cf. infra) résultent d’une perte d’une petite population de neurones localisés dans l’hypothalamus et exprimant un neuropeptide, appelé hypocrétine, qui joue un rôle fondamental dans le contrôle de l’éveil. De nombreux arguments sont en faveur d’un mécanisme auto-immun chez des patients génétiquement prédisposés.
+
+Explorations complémentaires
+
+Le diagnostic est d’abord clinique (cataplexie pathognomonique) mais mérite d’être documenté :
+
+PSG : l’observation de sommeil paradoxal dans les 15 minutes suivant l’endormissement est en faveur de la narcolepsie de type 1. L’enregistrement retrouve une fragmentation du sommeil et élimine une autre cause de somnolence ;
+TILE : latence moyenne d’endormissement inférieure à 8 minutes avec un endormissement en sommeil paradoxal lors d’au moins deux sessions du test (ou un seul endormissement en sommeil paradoxal lors des tests et présence du critère PSG ci-dessus). Ces critères, pas systématiquement retrouvés, doivent être interprétés en fonction du contexte clinique ;
+dosage d’hypocrétine dans le LCS : très sensible et spécifique de la narcolepsie de type 1. Il n’est pas nécessaire dans la majorité des cas tant le diagnostic est clair, en particulier en cas de cataplexies typiques. Utile en cas de doute (enfants, facteurs modifiant la symptomatologie, psychotropes, pathologie neurologique ou psychiatrique) ;
+typage HLA : typage DQB1*0602 étroitement associé à la narcolepsie cataplexie mais qui est aussi observé dans 25 % de la population générale caucasienne et qui n’a pas de grande valeur diagnostique. Son absence est en défaveur de la narcolepsie de type 1.
+Formes cliniques
+
+Narcolepsie de type 1 : elle est définie par la présence de cataplexies et/ou de taux en hypocrétine dans le LCS effondrés.
+Narcolepsie de type 2 : absence de cataplexies et taux d’hypocrétine normal (si dosage effectué).
+Évolution
+
+Il s’agit d’une pathologie chronique. Le retentissement scolaire et professionnel devra être pris en compte.
+
+Traitement
+
+L’initiation du traitement doit être faite par un médecin spécialisé en médecine du sommeil ou un neurologue.
+
+Traitement de la somnolence :
+
+modafinil (100–600 mg/j) (prescription sur ordonnance d’exception) : 1re intention ;
+gamma-hydroxybutyrate (Xyrem®) (6–9 g/j) (classé parmi les stupéfiants) : 2e intention (hors AMM en l’absence de cataplexies) ;
+pitolisant (Wakix®) (prescription actuellement sur autorisation temporaire d’utilisation de cohorte [ATUc]) ;
+méthylphénidate ou autres molécules éveillantes ;
+les siestes courtes font parties du traitement lorsqu’elles sont possibles.
+Traitement des cataplexies et autres symptômes liés aux transitions entre la veille et le sommeil paradoxal (hallucinations hypnagogiques et paralysies du sommeil) :
+
+gamma-hydroxybutyrate (Xyrem®) (4,5–9 g/j) ;
+antidépresseurs (tricycliques, inhibiteurs de recapture de la noradrénaline et de la sérotonine) ;
+les autres mesures consisteront à améliorer le sommeil de nuit, aider au niveau des conséquences psychosociales, de l’orientation scolaire et de la prise en charge des autres comorbidités.
+b. Hypersomnie idiopathique
+Tableau clinique
+
+L’hypersomnie idiopathique se caractérise par une somnolence diurne plus ou moins continue au cours de la journée, d’étiologie indéterminée.
+Tableau clinique débutant chez l’enfant, l’adolescent ou l’adulte jeune. Les formes familiales ne sont pas rares.
+Somnolence diurne :
+plus ou moins continue « jamais – ou rarement – complètement réveillé » ;
+avec accès de sommeil moins irrésistibles que dans la narcolepsie ;
+mais de plus longue durée que dans la narcolepsie ;
+inertie du sommeil (réveil laborieux, ivresse du sommeil) ;
+siestes non rafraîchissantes.
+On distingue deux formes cliniques :
+avec temps total de sommeil allongé : TTS > 11 heures ;
+avec temps total de sommeil normal : 6 heures < TTS < 11 heures.
+Épidémiologie
+
+Prévalence mal connue mais proche de celle de la narcolepsie (1/2 000).
+
+Physiopathologie
+
+Incomprise.
+
+Diagnostic
+
+Même si le diagnostic de la forme à temps total de sommeil (TTS) allongé est essentiellement clinique, des enregistrements de sommeil sont nécessaires :
+PSG : afin d’éliminer une autre pathologie du sommeil responsable de somnolence diurne (SAS…) ;
+TILE : latence moyenne d’endormissement inférieure à 8 minutes avec moins de deux endormissements en sommeil paradoxal (critère différenciant de la narcolepsie). Ce critère n’est pas toujours présent dans la forme à TTS long (à interpréter en fonction de la clinique) ;
+PSG continue de 24 à 36 heures et/ou actimétrie (évaluation sur une durée plus longue) : estimation du TTS. Elle permet de différencier les deux formes et de confirmer le TTS allongé > 11 heures.
+Imagerie cérébrale et avis psychologique ou entretien psychiatrique si doute diagnostique.
+Sont inutiles : le typage HLA (pas d’association) et le dosage d’hypocrétine dans le LCS normal.
+Nosologie : il existe de nombreuses formes frontières entre hypersomnie idiopathique à TTS normal et narcolepsie sans cataplexie, rendant la distinction difficile sans que cela n’influence le traitement.
+Traitement
+
+Le modafinil (100–400 mg/j) est utilisé en 1re intention et le méthylphénidate ou autres molécules éveillantes en 2e intention. La prescription doit être effectuée dans le cadre d’un centre de référence ou de compétence « hypersomnies rares ».
+Aider au niveau des conséquences psychosociales, de l’orientation scolaire et de la prise en charge des autres comorbidités.
+4. Causes rares
+D’autres maladies, beaucoup plus rares, peuvent rendre compte d’une somnolence diurne excessive.
+Le syndrome de Kleine-Levin est une hypersomnie récurrente, qui survient par crises d’une durée de quelques jours avec un TTS très long chez des adolescents ou des jeunes adultes, préférentiellement de sexe masculin. Les crises s’accompagnent de troubles du comportement (prise alimentaire compulsive, désinhibition sexuelle), troubles cognitifs et amnésie partielle de l’épisode. Les troubles disparaissent habituellement après quelques années.
+Certaines encéphalites peuvent s’accompagner d’hypersomnie : la trypanosomiase africaine qui sévit toujours dans certaines parties de l’Afrique tropicale. Des lésions ischémiques (ramollissement bithalamique) ou tumorales peuvent entraîner une somnolence diurne. Le contexte et les symptômes associés permettent le diagnostic.
+L’origine psychiatrique d’une hypersomnie est parfois retenue lorsque le contexte est évocateur et que toutes les causes organiques ont pu être éliminées.
+IV. Troubles du rythme circadien veille-sommeil
+Ces troubles sont :
+
+très fréquents et souvent négligés ;
+la conséquence :
+de perturbations intrinsèques du système circadien,
+ou de perturbations extrinsèques (travail de nuit…) avec altération de l’entraînement de l’horloge,
+ou liés à certaines affections médicales ou prise médicamenteuse ou de toxiques ;
+responsables d’un décalage des périodes de veille et de sommeil et des horaires d’endormissement et du réveil, avec des répercussions sur la qualité du sommeil et de la vigilance.
+De plus, de nombreux paramètres physiologiques (température), endocriniens et comportementaux présentent une rythmicité circadienne. L’horloge va synchroniser ces rythmes entre eux. Ainsi, une perturbation des rythmes circadiens est retrouvée dans la physiopathologie de nombreuses affections neuropsychiatriques (troubles de l’humeur, démences…).
+
+On distingue :
+
+le syndrome de retard de phase : très fréquent, affectant majoritairement l’adolescent et l’adulte jeune, il s’agit de sujets dont l’horloge interne est « déréglée » : ils prennent l’habitude de (ou sont génétiquement programmés pour) dormir tard et se réveiller tard. Fréquemment, en raison de contraintes socioprofessionnelles, ils s’obligent à se coucher plus tôt, pour pouvoir se lever plus tôt, mais sont confrontés à des difficultés d’endormissement, justifiant, à tort, le recours aux hypnotiques. La somnolence diurne est fréquente en particulier lorsqu’ils sont obligés de se lever tôt ;
+le syndrome d’avance de phase : plus rare, observé préférentiellement chez le sujet âgé, il se traduit par une incapacité à rester éveillé le soir et des éveils matinaux précoces ;
+le décalage horaire (jet lag) : transitoire, lié à des vols transméridiens ; la symptomatologie associant insomnie, somnolence diurne et réduction des performances sera plus marquée lors de voyage vers l’est ;
+le trouble du rythme circadien lié au travail posté : somnolence diurne et insomnie en relation avec les horaires de travail, baisse de performance et risque accru d’accident ;
+plus rares :
+rythme de la veille et du sommeil irrégulier (sommeil morcelé en plusieurs épisodes de courte durée),
+rythme différent de 24 heures ou en libre cours (non entraîné ; décalage quotidien d’environ 1 à 2 heures de la période de sommeil).
+Exploration : l’agenda de sommeil et l’actimétrie sont utiles au diagnostic. Des mesures plus complexes peuvent être nécessaires : mesure de certains rythmes (température, mélatonine, cortisol) et test de suppression de la mélatonine par la lumière.
+Traitement : il repose essentiellement sur la régularisation des activités de la vie quotidienne avec bonne hygiène de sommeil, l’emploi de la luminothérapie et la prescription de mélatonine.
+V. Parasomnies
+Les parasomnies forment un ensemble hétérogène de manifestations motrices, verbales ou sensorielles complexes, indésirables, survenant à l’endormissement, pendant le sommeil ou lors d’éveils incomplets. Nombre de parasomnies sont des manifestations physiologiques, survenant occasionnellement dans plus de 50 % de la population générale ; c’est leur répétition qui devient problématique. Certaines se situent cependant d’emblée dans le domaine de la pathologie.
+Nosologie : elles sont classées en fonction du stade de sommeil au cours duquel elles se produisent.
+A. Sommeil lent profond (SLP)
+Elles correspondent à des éveils incomplets ou dissociés (éveil moteur sans éveil cortical) survenant en sommeil lent profond c’est-à-dire en première partie de nuit avec en général une activité automatique relativement simple (par opposition au trouble du comportement en sommeil paradoxal) et amnésie de l’épisode (le contact est quasi impossible, et le sujet n’a aucun souvenir de l’épisode).
+Composante familiale fréquente.
+Facteurs déclenchants : circonstances augmentant la profondeur du sommeil ou favorisant les éveils intrasommeil (privation de sommeil, activité physique intense, irrégularités des horaires de sommeil, fièvre, médicaments, stress émotionnel, syndrome de résistance des voies aériennes supérieures, MPS…).
+1. Somnambulisme
+Très fréquent : 10 à 30 % des enfants entre 5 et 12 ans présentent un épisode.
+Déambulation inconsciente avec désorientation temporospatiale, lenteur de parole : le comportement est plus ou moins adapté mais ralenti, en général bien organisé, souvent accompagné d’une somniloquie. La durée de l’épisode est variable (quelques secondes à quelques dizaines de minutes).
+Diagnostic différentiel : épilepsie nocturne frontale.
+2. Terreurs nocturnes
+Enfant (rares à l’âge adulte) qui brutalement présente des manifestations de terreur intense avec cri strident, pleurs, expression de panique yeux ouverts, manifestations végétatives majeures (rougeur, tachycardie palpitations, tachypnée, etc.), très impressionnant pour l’entourage, mais l’enfant ne garde aucun souvenir si on ne le réveille pas pendant l’épisode.
+Si on le réveille, son discours est en général pauvre : il est effrayé, mais ne sait pas expliquer pour quelle raison (à la différence du cauchemar, cf. ).
+3. Éveils confusionnels
+Confusion mentale avec désorientation temporospatiale, comportements automatiques ou inappropriés donnant l’impression à l’entourage d’être partiellement endormi et partiellement réveillé (fréquent chez l’enfant, parfois observé chez l’adulte sous traitement sédatif).
+Diagnostic : description des épisodes par l’entourage et interrogatoire du patient. Éventuellement vidéo-polysomnographie.
+Traitement : information, rassurer et protéger l’accès des endroits à risque (fenêtres, escaliers). Agir sur les facteurs déclenchants (éviter les privations de sommeil, synchroniser le rythme veille-sommeil), en particulier traiter un trouble respiratoire au cours du sommeil ou des mouvements périodiques nocturnes. Traitement médicamenteux rarement indiqué (benzodiazépines).
+B. Sommeil paradoxal (SP)
+1. Troubles du comportement en SP
+Sujet d’âge mûr (> 50 ans) avec une nette prédominance masculine.
+Pendant le SP préférentiellement en fin de nuit.
+Comportement moteur élaboré, généralement agressif ou défensif, sans déambulation (patiente ne quitte pas son lit) avec un risque de blessure de l’entourage et du patient (en cas de chute du lit). Si l’on réveille le patient durant un épisode, il raconte un rêve qui correspond bien au comportement observé : il « agit » son rêve ce qui « explique » son comportement.
+Fréquemment associés et précédant une maladie dégénérative affectant le système extrapyramidal (maladie de Parkinson et autres synucléinopathies).
+Diagnostic : interrogatoire du patient et de l’entourage ; vidéo-polysomnographie : épisodes de perte d’atonie musculaire en sommeil paradoxal.
+Traitement : clonazépam (Rivotril®, indication hors AMM).
+2. Paralysies du sommeil
+Cf. § III.C.3.a Narcolepsie (ou syndrome de Gélineau).
+
+3. Cauchemars
+Rêves angoissants avec fort contenu émotionnel qui réveillent le sujet.
+Fréquents chez l’enfant, plus rares chez l’adulte.
+C. Autres parasomnies
+1. Énurésie nocturne
+Mictions involontaires récurrentes après l’âge de 5 ans (cf. items de pédiatrie et d’urologie).
+
+2. Rythmies d’endormissement
+Mouvements répétitifs rythmiques et stéréotypés :
+de la tête (cognement ou roulement) ou du tronc et du cou (bercement, roulement) sont des manifestations rythmiques répétitives ;
+survenant au moment de l’endormissement voire lors du sommeil.
+Essentiellement observés dans la petite enfance mais peuvent persister jusqu’à l’âge adulte.
+Pendant l’épisode l’enfant peut réagir à son environnement : il entend et il obéit si on lui demande de cesser ces mouvements.
+Interprétées comme un comportement auto-apaisant procurant des sensations agréables afin d’obtenir l’endormissement.
+3. Bruxisme
+Le bruxisme se manifeste par un grincement des dents pendant le sommeil lent léger, désagréable pour l’entourage, mais aussi source d’abrasion des surfaces dentaires.
+Le traitement est souvent orthodontique, pour corriger une usure des dents associée.
+4. Somniloquie
+C’est le fait de parler pendant le sommeil. La somniloquie peut être isolée ou associée à diverses parasomnies : somnambulisme, troubles du comportement du sommeil paradoxal. Elle n’a aucune valeur d’orientation vers une pathologie spécifique.
+
+5. Trouble alimentaire lié au sommeil
+Épisodes récurrents de prises involontaires d’aliments et de boissons la nuit.
+
+D. Diagnostic différentiel et manifestations épileptiques
+Les crises d’épilepsie partielles ou généralisées peuvent aussi survenir pendant le sommeil et représentent le principal diagnostic différentiel en particulier l’épilepsie frontale nocturne et, en particulier, la dystonie paroxystique nocturne.
+
+ 
+
+POINTS CLÉS
+
+Insomnie
+
+Distinguer :
+
+insomnie transitoire (< 3 mois) et chronique (> 3 mois) ;
+insomnie avec ou sans comorbidités.
+Polysomnographie rarement nécessaire.
+
+Traitement :
+
+prise en charge des causes et facteurs favorisants ;
+hypnotiques :
+l’hypnotique idéal n’existe pas,
+ils ne constituent pas le traitement de l’insomnie et leur prescription doit rester ponctuelle ;
+traitement de référence non médicamenteux (hygiène de sommeil, thérapie cognitivo-comportementale).
+Somnolence diurne
+
+Démarche étiologique : cf. annexe 20.3 (+++).
+
+Connaître en particulier le diagnostic et traitement :
+
+du syndrome d’apnées du sommeil (ronflement, pauses respiratoires nocturnes ; polygraphie ventilatoire ou polysomnographie (PSG) ; traitement : pression positive continue) ;
+du syndrome des jambes sans repos et des mouvements périodiques nocturnes (paresthésies avec besoin impérieux de bouger les jambes, maximum le soir, au repos immobile, calmées par la mobilisation ; PSG : mouvements stéréotypés de flexion dorsale des pieds fragmentant le sommeil ; traitement : corriger une hypofrerritinémie, agonistes dopaminergiques) ;
+des hypersomnies d’origine centrale :
+narcolepsie (accès de somnolence diurne irrésistibles ± cataplexies = perte tonus musculaire lors d’émotions, sieste récupératrice ; TILE : latence moyenne d’endormissement < 8 minutes et = 2 endormissements en sommeil paradoxal [SP] ; endormissement en SP en moins de 15 minutes sur la PSG ; traitement initié par un spécialiste de sommeil : modafinil et/ou GHB),
+hypersomnie idiopathique (somnolence diurne continue, inertie du sommeil au réveil, sieste non récupératrice, forme avec ou sans temps total de sommeil [TTS] allongé, pas de cataplexie ; TILE et enregistrement continu de 24–36 heures : latence moyenne d’endormissement < 8 minutes [avec < 2 endormissements en SP] et/ou TTS > 10 heures ; traitement initié par un centre de référence/compétence sur les hypersomnies rares : modafinil).
+Troubles du rythme circadien
+
+Désynchronisation entre l’horaire de sommeil et l’horaire de l’horloge interne entraînant un trouble du rythme veille-sommeil.
+Savoir distinguer un syndrome de retard de phase (adolescent, sujet jeune, endormissement et lever tardifs), d’avance de phase (sujet âgé, endormissement et lever précoces), une désorganisation du rythme veille-sommeil liée au travail posté ou au décalage horaire.
+Parasomnies
+
+Elles peuvent être occasionnelles, physiologiques, leur répétition est problématique.
+Parasomnies du sommeil lent profond (SLP) : somnambulisme, terreurs nocturnes, éveils confusionnels.
+Éveils incomplets et dissociés (éveil moteur sans éveil cortical) en SLP en première partie de nuit, activité automatique relativement simple (par opposition au trouble du comportement en sommeil paradoxal) et amnésie de l’épisode.
+Trouble du comportement en SP : sujet > 50 ans, prédominance masculine, pendant le SP en fin de nuit, comportement moteur élaboré généralement agressif ou défensif, sans déambulation, devant faire rechercher une maladie de Parkinson et autre synucléinopathies.
+ 
+
+ 
+
+Annexes
+Annexe 20.1 – Règles d’hygiène de sommeil pour l’insomnie
+Trouver son besoin de sommeil et le respecter !
+Trouver son rythme de sommeil et le respecter !
+Le jour
+Assez d’exposition à la lumière la journée, plus tamisée le soir.
+Éviter les siestes, notamment trop longues ou en fin d’après-midi.
+Éviter tous les excitants : café, thé, vitamine C, boissons à base de caféine ou de cola…
+Repas réguliers durant la journée.
+Le soir
+Éviter de pratiquer un sport ainsi que toutes activités stimulantes après 17 heures.
+Ne pas faire de repas copieux le soir et éviter l’alcool au dîner.
+Instaurer une période de décompression le soir et favoriser toutes activités relaxantes : lecture, musique, télé (dans le salon).
+Un bain chaud pris 2 heures avant le coucher détend et favorise le sommeil (mais peut aussi avoir l’effet inverse en effaçant la fatigue). Réchauffer ses mains et ses pieds au coucher, mais rafraîchir son lit en cas d’éveil…
+La nuit
+Dormir dans une chambre aérée, calme, sombre, dont la température ambiante se situe entre 18–20 degrés.
+Lit « juste pour dormir ».
+Annexe 20.2 – Questionnaire d’Epworth
+Évaluation de la somnolence dans huit situations de la vie courante avec un score de 0 à 3 pour chacun des huit items. Score minimum est de 0, maximum de 24, un score normal est = 10 et anormal > 10.
+
+- Quelle chance avez-vous de somnoler ou de vous endormir (pas simplement de vous sentir fatigué) dans les situations suivantes ? Cette question concerne votre mode de vie habituel au cours des derniers mois.
+
+- Au cas où une des situations ne s’est pas produite récemment, essayez d’imaginer ce qui se passerait.
+
+- Utilisez l’échelle suivante pour choisir le chiffre le plus approprié à chaque situation :
+
+0 = « Ne somnolerait jamais ».
+1 = « Faible chance de s’endormir ».
+2 = « Chance modérée de s’endormir ».
+3 = « Forte chance de s’endormir ».
+Situations
+
+1. Assis en train de lire : _________
+2. En train de regarder la télévision : _________
+3. Assis, inactif, dans un endroit public (par exemple au théâtre ou en réunion) : _________
+4. Passager dans une voiture roulant sans arrêt pendant une heure : _________
+5. Allongé l’après-midi pour vous reposer, quand les circonstances le permettent : _________
+6. Assis en train de parler à quelqu’un : _________
+7. Assis calmement après un repas sans alcool : _________
+8. Dans une voiture arrêtée quelques minutes dans un encombrement : _________
+Annexe 20.3 – Orientation diagnostique devant une somnolence diurne
+
+
+Annexe 20.4 – Extrait d’enregistrement polygraphique du sommeil au cours d’un syndrome d’apnées du sommeil
+Fig. 20.2
+
+Enregistrement polygraphique du sommeil.
+Apnées d’une durée de 30 à 40 secondes avec arrêt de la ventilation (interruption du débit ventilatoire, V) ; obstructives (persistance des efforts respiratoires dont témoignent la motilité abdominale, Ab, et l’augmentation de pression œsophagienne, Po pendant l’apnée) ; suivies d’une chute de la saturation oxyhémoglobinée (SaO2) témoin de l’hypoxémie. Noter aussi l’éveil à la fin de l’apnée, indiqué par les modifications EEG, représentées en cartouche à une échelle de temps différente du reste de l’enregistrement.
+
+
+
+
+
+
+--------------------> Annexe 20.5 – Diagnostic différentiel entre terreurs nocturnes et cauchemars
+
+
+
+
+
+

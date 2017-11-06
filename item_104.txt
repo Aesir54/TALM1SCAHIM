@@ -1,0 +1,339 @@
+Maladie de Parkinson
+
+Objectifs pédagogiques
+Diagnostiquer une maladie de Parkinson.
+Argumenter l’attitude thérapeutique et planifier le suivi du patient.
+Décrire les principes de la prise en charge au long cours.
+
+I. Pour comprendre
+La maladie de Parkinson est la cause la plus fréquente de syndrome parkinsonien, défini par l’association d’une akinésie (ralentissement à l’initiation d’un mouvement), d’une bradykinésie (ralentissement à l’exécution d’un mouvement), d’une hypokinésie (diminution de l’amplitude d’un mouvement), d’une rigidité dite plastique et d’un tremblement de repos.
+L’existence d’un syndrome parkinsonien témoigne d’un déficit dopaminergique.
+Le déficit dopaminergique peut être la conséquence d’un processus neurodégénératif (maladie de Parkinson) mais aussi d’une impossibilité de la dopamine d’exercer son action (les neuroleptiques « bloquent » les récepteurs dopaminergiques).
+II. Conditions générales du diagnostic de maladie de Parkinson
+Le diagnostic de maladie de Parkinson est clinique et ne justifie aucun examen complémentaire en cas de présentation typique.
+
+La réalisation d’examens complémentaires (IRM cérébrale, par exemple) est indiquée en cas d’atypie clinique (signes d’alerte ou « drapeaux rouges ») faisant douter du diagnostic de maladie de Parkinson.
+Il est important d’exclure une maladie de Wilson chez un patient jeune (< 40 ans) présentant un syndrome parkinsonien.
+III. Maladie de Parkinson
+Prévalence de 150 pour 100 000 habitants dans la population générale, s’élevant à 1,5 % au-delà de 65 ans (chiffre croissant en raison du vieillissement de la population).
+Débute en général dans la sixième décennie, mais peut survenir à tout âge (10 % avant 40 ans).
+Deuxième cause de handicap moteur chez le sujet âgé.
+A. Physiopathologie
+Perte progressive des neurones dopaminergiques de la voie nigro-striatale.
+
+Perte de 50 à 60 % des neurones nécessaire avant la survenue des signes moteurs de la triade parkinsonienne.
+
+Le processus neurodégénératif dépasse la voie nigro-striatale, expliquant la survenue d’autres signes moteurs (les signes axiaux, par exemple) et non moteurs (les troubles cognitifs, par exemple) résistant au traitement dopaminergique.
+
+Présence de corps de Lewy (inclusions intraneuronales contenant des agrégats anormaux d’alpha-synucléine) (fig. 16.1).
+
+Étiologie inconnue, mais plusieurs facteurs génétiques et environnementaux identifiés.
+
+L’âge est le facteur de risque principal. À un moindre degré, des études épidémiologiques ont mis en évidence un risque plus élevé chez des sujets exposés aux pesticides. Plusieurs mutations de transmission autosomique récessive et autosomique dominante ont été identifiées. Ces mutations comptent pour environ 15 % des patients atteints de maladie de Parkinson (50 % des patients avec un début de maladie avant 40 ans).
+
+Fig. 16.1
+
+
+
+Plusieurs corps de Lewy (flèches noires) sont observés dans des neurones dopaminergiques de la substance noire compacte chez ce patient atteint d’une maladie de Parkinson.
+
+B. Symptomatologie initiale
+1. Triade parkinsonienne
+La manifestation des signes de la triade parkinsonienne est unilatérale ou asymétrique. L’asymétrie persiste tout au long de la maladie.
+
+a. Tremblement de repos (vidéos 16.1 et 16.2 )
+Présent au repos et disparaissant lors du mouvement.
+Lent (4–6 Hz).
+Touchant les membres, les lèvres ou le menton.
+Unilatéral ou asymétrique.
+Aggravé par les émotions et le calcul mental.
+
+Le tremblement de repos est pathognomonique, mais pas obligatoire pour le diagnostic (absence chez un tiers des patients). Il peut être présent dans d’autres syndromes parkinsoniens, en particulier iatrogènes.
+
+b. Rigidité de type plastique
+Mode de révélation
+
+Raideur des extrémités ou de la nuque.
+
+
+
+Résistance constante à la mobilisation passive, cède par à-coups, phénomène de roue dentée, sensibilisation par la manœuvre de Froment.
+
+c. Akinésie/bradykinésie/hypokinésie
+Mode de révélation
+
+Gêne à l’écriture (réduction de la taille des lettres, ou micrographie), à la réalisation des activités de la vie quotidienne (se raser, couper la viande…), troubles de la marche.
+
+
+
+Hypomimie, ralentissement des gestes alternatifs rapides (opposition pouce-index, battre la mesure avec le pied), perte du ballant du bras avec, parfois, une lenteur de la marche (à petits pas), pauvreté de mouvements spontanés (clignement des yeux…), voix monocorde et monotone.
+
+2. Autres signes révélateurs
+En l’absence de tremblement de repos, le syndrome akinéto-rigide peut prendre des aspects trompeurs rhumatologiques (raideur d’un membre, périarthrite scapulo-humérale fréquente dans la maladie de Parkinson) ou neuropsychiques (ralentissement évoquant une dépression).
+D’autres formes de début ont été rapportées plus récemment sous forme d’un déficit de l’odorat par atteinte du noyau du nerf olfactif ou de troubles du comportement en sommeil paradoxal (il s’agit de véritables rêves animés qui peuvent être responsables d’actes auto- ou hétéro-agressifs). Ces symptômes, ainsi que la constipation, peuvent précéder les troubles moteurs de plusieurs années.
+C. Signes non moteurs
+Les signes non moteurs sont fréquents dans la maladie de Parkinson, notamment dans les stades avancés ; la prise en charge doit en tenir compte :
+
+troubles cognitifs et comportementaux ;
+dépression ;
+douleurs ;
+dysautonomie ;
+troubles du sommeil et de la vigilance.
+D. Examen clinique
+L’objectif est :
+
+d’authentifier l’existence d’un syndrome parkinsonien ;
+de différencier une maladie de Parkinson d’une autre cause de syndrome parkinsonien par la recherche de « drapeaux rouges » (cf. encadré et § IV.B. Syndromes parkinsoniens atypiques).
+Drapeaux rouges
+
+Absence de réponse prolongée au traitement dopaminergique, progression rapide avec chutes précoces, signes précoces d’atteinte cognitive, pseudo-bulbaire (dysarthrie et dysphagie) ou de dysautonomie (incontinence urinaire, hypotension orthostatique sévère), syndrome cérébelleux, atteinte pyramidale, troubles oculomoteurs et signes corticaux (apraxie, aphasie, troubles sensitifs).
+
+E. Arguments principaux du diagnostic et investigation
+Arguments principaux :
+tremblement de repos caractéristique ;
+asymétrie de la symptomatologie parkinsonienne ;
+normalité du reste de l’examen neurologique (absence de « drapeaux rouges ») ;
+absence de facteurs iatrogéniques explicatifs.
+Le diagnostic est clinique. Aucun examen complémentaire n’est justifié, sauf chez les sujets de moins de 40 ans (IRM cérébrale et bilan du cuivre afin d’exclure une maladie de Wilson).
+Le marquage des terminaisons dopaminergiques en scintigraphie cérébrale (DaTSCAN®) peut être utile dans le diagnostic différentiel de tremblement « mixte » d’attitude, d’action et de repos ; l’indication est posée par le spécialiste (cf. chapitre 17 [Item 105 – Mouvements anormaux]).
+Le diagnostic est confirmé cliniquement par l’observation d’une nette réduction des signes moteurs à l’instauration du traitement dopaminergique. Dans la maladie de Parkinson cette sensibilité aux traitements est prolongée au-delà de 5 ans.
+F. Diagnostic différentiel
+Syndrome parkinsonien iatrogène.
+Syndrome parkinsonien dégénératif.
+Syndrome parkinsonien vasculaire.
+Maladie de Wilson.
+G. Traitement initial
+Le traitement vise à restaurer la transmission dopaminergique (Encadré 16.1 Traitement)
+
+L-dopa
+
+La L-dopa est un précurseur de la dopamine (transformation intracérébrale en dopamine par la dopa décarboxylase [DDC]). Un inhibiteur périphérique de la DDC est toujours adjoint à la L-dopa afin de limiter les effets secondaires périphériques (nausées, vomissements, hypotension orthostatique). La L-dopa est le traitement le plus efficace sur la symptomatologie parkinsonienne et le mieux toléré.
+
+Agonistes dopaminergiques
+
+Les agonistes dopaminergiques (pramipéxole, ropinirole, rotigotine, piribédil) agissent directement sur les récepteurs dopaminergiques sans passer par la synthèse de la dopamine. Ils ont une action un peu moins puissante que celle de la L-dopa et sont moins bien tolérés que cette dernière. Des troubles du comportement avec parfois des conséquences désastreuses sont observés chez 15 % des patients (jeu pathologique, troubles alimentaires, achats compulsifs, hypersexualité…). Il faut informer systématiquement les patients du risque de survenue de ces troubles qui sont réversibles à la diminution ou à l’arrêt du traitement. L’utilisation des agonistes dopaminergiques au début de la maladie permet de retarder la survenue des complications motrices.
+
+Inhibiteurs de la monoamine oxydase de type B
+
+Les IMAO-B (rasagiline) ont une action dopaminergique modérée par inhibition du métabolisme de la dopamine.
+
+1. Avant 65–70 ans
+Agoniste dopaminergique en monothérapie (retardement de l’apparition des complications motrices) ou inhibiteur de la monoamine oxydase B (IMAO-B).
+Si contrôle insatisfaisant, progression posologique de l’agoniste dopaminergique. Si contrôle insatisfaisant, association avec la L-dopa ou IMAO-B.
+Coprescription de dompéridone (diminution des effets secondaires à la stimulation des récepteurs dopaminergiques périphériques : nausées, vomissements).
+Anticholinergiques : quasi obsolètes en raison de leurs effets secondaires, ils peuvent avoir un intérêt chez les patients jeunes avec tremblement malgré un traitement dopaminergique bien conduit.
+2. Après 65–70 ans
+L-dopa d’emblée en monothérapie ou IMAO-B.
+Si contrôle insatisfaisant, progression posologique de la L-dopa ou association avec IMAO-B.
+Coprescription de dompéridone.
+H. Évolution
+Comme dans toute affection neurodégénérative, les lésions progressent, traduisant une majoration des signes cliniques. On distingue les phases suivantes.
+
+1. Phase diagnostique
+2. Phase du bon contrôle moteur sous traitement
+Qualifiée parfois de « lune de miel ».
+
+3. Phase des complications motrices du traitement dopaminergique
+Les complications motrices apparaissent en moyenne 4 à 5 ans après le début de la maladie.
+L’âge jeune du début de la maladie est un facteur de risque pour l’apparition précoce des complications motrices.
+On distingue fluctuations d’efficacité du traitement et dyskinésies (Encadré 16.2 Fluctuations d’efficacité du traitement et dyskinésies).
+Akinésie de fin de dose
+
+Apparition des signes parkinsoniens avant la prochaine prise du traitement dopaminergique. La durée de l’action de la L-dopa diminue au cours de la maladie en raison de la perte progressive de la capacité de son stockage cérébral. La durée d’action correspond dans les stades avancés à la demi-vie de la L-dopa (60–90 minutes).
+Akinésie de nuit et du petit matin
+
+Se traduisant par des crampes des mollets et orteils, difficultés pour se tourner dans le lit.
+Phénomène « on/off »
+
+Se traduisant par des passages parfois assez brutaux d’un état non parkinsonien (« on ») à un état parkinsonien sévère (« off »).
+Dyskinésies de milieu ou de pic de dose
+
+Mouvements involontaires, notamment choréiques des membres et du tronc, survenant lors de la phase d’efficacité maximale du traitement dopaminergique.
+Dyskinésies biphasiques
+
+Mouvements involontaires, plutôt dystoniques des membres inférieurs (souvent douloureux), survenant lors de la transition entre l’état parkinsonien et l’état non parkinsonien (début ou fin de dose).
+les fluctuations d’efficacité du traitement : réapparition des signes parkinsoniens à distance des prises médicamenteuses (blocages) ;
+les mouvements involontaires : dyskinésies (cf. chapitre 17 [Item 105 – Mouvements anormaux]).
+Dans les stades évolués, le patient oscille entre un état parkinsonien sévère et des phases de symptomatologie parkinsonienne corrigée mais compliquée par la présence de dyskinésies.
+4. Phase du déclin moteur et du déclin cognitif
+Ces déclins ne sont pas ou peu sensibles aux traitements dopaminergiques.
+
+a. Signes moteurs axiaux
+Dysarthrie (et dysphagie), hypersialorrhée en raison de la diminution de la déglutition spontanée.
+Troubles de la marche :
+enrayement cinétique (freezing) : les pieds restent « collés au sol » à l’initiation de la marche ;
+festination : brutal emballement de la marche qui devient incontrôlable, risque de chute.
+Troubles de la posture : triple flexion, camptocormie (flexion du tronc en avant), syndrome de Pise (flexion latérale du tronc).
+Troubles de l’équilibre postural avec chutes en arrière.
+b. Troubles cognitifs et comportementaux
+Syndrome dysexécutif, évoluant vers une démence (30 % des patients, 80 % après 15 à 20 ans d’évolution).
+Le traitement dopaminergique peut provoquer des hallucinations, voire un véritable délire (notamment paranoïaque). La survenue de ces troubles peut être indicatrice d’une évolution de la maladie vers un état démentiel.
+c. Troubles dysautonomiques
+Ils s’accentuent avec le temps, associant selon les cas : constipation, hypotension artérielle orthostatique, troubles vésico-sphinctériens (impériosités mictionnelles).
+
+I. Traitement dans les stades avancés
+1. Fluctuations motrices
+Fractionnement de la L-dopa (rapprochement des prises).
+Agoniste dopaminergique si le traitement reposait sur la L-dopa seule ou renforcement des doses d’agoniste dopaminergique.
+Injection d’apomorphine (agoniste dopaminergique) par stylo en cas de blocage sévère.
+ICOMT en association avec la L-dopa.
+IMAO-B.
+Les inhibiteurs de la catéchol-O-méthyltransférase (ICOMT) diminuent le métabolisme périphérique de la L-dopa et permettent ainsi de prolonger son action.
+
+2. Dyskinésies
+Réduction des posologies de la L-dopa en cas de dyskinésies de milieu de dose avec, en général, un plus grand fractionnement sur la journée.
+Amantadine : son effet antidyskinétique est probablement lié à la correction du dysfonctionnement glutamatergique du striatum secondaire à la déficience dopaminergique.
+3. Fluctuations et/ou dyskinésies sévères non contrôlées par les traitements
+Plusieurs solutions peuvent être envisagées :
+
+la stimulation à haute fréquence du noyau sous-thalamique ou du pallidum interne peut être proposée chez des patients de moins de 70 ans présentant des complications motrices sévères ou un tremblement handicapant malgré un traitement bien conduit, en l’absence de troubles sévères cognitifs ou du comportement ;
+deux autres alternatives sont possibles : la pompe d’apomorphine (agoniste dopaminergique appliqué en continue en sous-cutané) et l’administration intraduodénale continue de la L-dopa via une gastrostomie.
+4. Signes non moteurs
+Hallucinations, délire : suppression progressive des traitements antiparkinsoniens en dehors de la L-dopa ; si persistance, traitement par clozapine (cf. infra).
+Démence : anticholinestérasique.
+ Dépression : antidépresseurs.
+Dysautonomie : hypotension orthostatique (mesures hygiéniques, bas de contention ; si insuffisant : midodrine ou fludrocortisone), impériosités mictionnelles (anticholinergiques de type chlorure de trospium ou oxybutinine).
+Troubles du sommeil : somnifères si nécessaire ; clonazépam si troubles sévères du comportement en sommeil paradoxal.
+J. Autres mesures thérapeutiques
+Demande d’ALD.
+Orthophonie (rééducation de la dysarthrie et de la déglutition) : elle ne doit pas être proposée trop tardivement.
+Kinésithérapie (enseignement de la gymnastique quotidienne, travail de l’équilibre postural, lutte contre la raideur, apprentissage des transferts…).
+Associations de patients (information pour les patients et les aidants).
+IV. Syndromes parkinsoniens
+A. Syndromes parkinsoniens iatrogènes
+Principalement induits par les neuroleptiques ou neuroleptiques « cachés » (antinauséeux comme le métoclopramide et le métopimazine, sédatifs comme l’alimémazine), qu’il faudra méticuleusement rechercher à l’interrogatoire.
+Des inhibiteurs calciques de type flunarizine (traitement de fond de la migraine) et des antidépresseurs sont plus rarement responsables d’un syndrome parkinsonien.
+1. Caractéristiques cliniques
+Syndrome parkinsonien plutôt symétrique (caractéristique inconstante).
+Plus fréquemment un tremblement postural ou d’action qu’un authentique tremblement de repos.
+Absence de réponse au traitement dopaminergique.
+2. Traitement
+Si possible, arrêt du neuroleptique.
+Si impossible, substitution par la clozapine :
+neuroleptique atypique avec peu ou pas d’effets secondaires extrapyramidaux ;
+nécessité d’une surveillance étroite de la numération en raison du risque d’agranulocytose.
+B. Syndromes parkinsoniens atypiques
+Contrairement à la maladie de Parkinson, les signes moteurs des syndromes parkinsoniens atypiques répondent peu ou pas au traitement dopaminergique.
+La progression des signes est plus rapide et la durée de survie est diminuée par rapport à la maladie de Parkinson.
+Le syndrome parkinsonien s’associe à d’autres symptômes (cf. supra, liste des drapeaux rouges).
+1. Atrophie multisystématisée
+Syndrome parkinsonien asymétrique.
+Syndrome cérébelleux.
+Dysautonomie (incontinence urinaire, hypotension orthostatique sévère).
+Irritation pyramidale.
+La combinaison des différents troubles est variable d’un patient à l’autre. Il existe des formes avec prédominance du syndrome parkinsonien (AMS-P) ou du syndrome cérébelleux (AMS-C).
+
+2. Paralysie supranucléaire progressive
+Syndrome parkinsonien axial et symétrique.
+Paralysie des mouvements oculaires de la verticalité.
+Troubles de l’équilibre postural avec chutes précoces.
+Troubles cognitifs précoces (apathie, syndrome dysexécutif, démence).
+3. Dégénérescence cortico-basale
+Syndrome parkinsonien asymétrique.
+Myoclonies, dystonie distale des extrémités.
+Signes corticaux (apraxie, aphasie, troubles sensitifs).
+« Main capricieuse » ou « étrangère ».
+4. Démence à corps de Lewy
+Syndrome parkinsonien asymétrique.
+Troubles cognitifs et démence précoces avec hallucinations spontanées et fluctuations de la vigilance.
+Hypersensibilité aux neuroleptiques.
+C. Syndromes parkinsoniens vasculaires
+Conséquence de lésions vasculaires multiples touchant les noyaux gris centraux.
+L’imagerie cérébrale permet de confirmer le diagnostic.
+Caractéristiques cliniques :
+syndrome parkinsonien plutôt symétrique, peu sensible au traitement dopaminergique ;
+prédominance des troubles aux membres inférieurs (lower body parkinsonism) : marche avec freezing précoce ;
+syndrome pseudo-bulbaire.
+D. Autres syndromes parkinsoniens
+Les intoxications à l’oxyde de carbone et au manganèse (exposition directe, accumulation intracérébrale chez un patient avec shunt porto-systémique, abus de drogues comme l’éphédrone) peuvent induire un syndrome parkinsonien. Les examens complémentaires permettent de confirmer le diagnostic (anomalies caractéristiques à l’imagerie).
+
+V. Maladie de Wilson
+Maladie rare avec une prévalence de 1 à 2,5 pour 100 000 habitants. La fréquence du portage hétérozygote est 1/90.
+
+A. Caractéristiques génétiques et physiopathologiques
+Transmission autosomique récessive.
+Mutation du gène ATPB7 sur le chromosome 13. [l'édition papier du référentiel, page 220, paragraphe A. Caractéristiques génétiques et physiopathologiques, comporte une erreur : il fallait lire "Mutation du gène ATPB7 sur le chromosome 13" et non "Mutation du gène ATPB7 sur le chromosome 7"]
+Déficit de l’ATPB7 (transporteur intrahépatique du cuivre), la conséquence étant une accumulation hépatique du cuivre.
+Le transport plasmatique du cuivre est habituellement assuré par la céruléoplasmine. En raison du déficit en ATPB7, le cuivre n’est plus incorporé dans la céruléoplasmine, entraînant une diminution de la concentration sérique de la céruléoplasmine (90 % des patients) mais également une diminution du taux sérique total du cuivre. Cependant, la concentration du cuivre libre est augmentée (non lié à la céruléoplasmine).
+L’accumulation du cuivre libre intéresse initialement le foie. Une fois les capacités de stockage du foie épuisées, la libération de cuivre dans la circulation est responsable des atteintes extrahépatiques.
+B. Signes cliniques cardinaux
+Atteinte hépatique : hépatomégalie, hépatique aiguë, cirrhose progressive.
+Troubles neurologiques : syndrome parkinsonien, tremblement postural et intentionnel (« tremblement en battement d’ailes »), dystonie focale (« rire sardonique ») ou généralisée, troubles cérébelleux.
+Troubles psychiatriques : changement du comportement, altération des performances scolaires.
+Plus rares : hémolyse ; atteinte rénale, ostéoarticulaire ou cardiaque.
+La surcharge du cuivre peut se poursuivre de nombreuses années avant l’apparition des premiers symptômes cliniques.
+Il existe des formes hépatiques isolées et des formes associant troubles hépatiques et neuropsychiatriques.
+La manifestation par atteinte hépatique isolée est le mode de présentation le plus fréquent chez l’enfant (en moyenne à l’âge de 15 ans). Les formes avec troubles neuropsychiatriques se révèlent un peu plus tard (en moyenne à l’âge de 20 ans). Une manifestation tardive après 35 ans est possible mais exceptionnelle.
+C. Arguments principaux du diagnostic
+Signes d’atteinte hépatique (cliniques ou biologiques).
+Anomalies du bilan du cuivre.
+Troubles neuropsychiatriques (non retrouvés dans les formes hépatiques isolées).
+Anomalies aux explorations complémentaires (IRM cérébrale, anneau de Kayser-Fleischer). Ces anomalies sont surtout retrouvées dans les formes avec troubles neuropsychiatriques.
+D. Investigation
+Bilan du cuivre (cuivre sérique libre augmenté, cuivre sérique total et céruléoplasmine abaissés, cuivre urinaire sur 24 heures augmenté).
+
+Bilan biologique (bilan hépatique, facteur V, prothrombine, numération).
+
+La biopsie hépatique pour dosage du cuivre hépatique est envisagée au cas par cas.
+
+Examen à la lampe à fente (recherche d’anneau de Kayser-Fleischer) (fig. 16.2).
+
+IRM cérébrale (hypersignal en T2/FLAIR des noyaux gris centraux et/ou du cervelet) (fig. 16.3).
+
+Test génétique (après consentement éclairé) si présence d’arguments principaux du diagnostic de maladie de Wilson.
+
+Tout mouvement anormal involontaire ou syndrome parkinsonien chez un patient de moins de 40 ans impose la recherche d’une maladie de Wilson.
+
+Fig. 16.2
+
+
+
+Anneau de Kayser-Fleischer dû à l’accumulation de cuivre à la périphérie de l’iris.
+
+Fig. 16.3
+
+
+
+IRM cérébrale (séquences FLAIR) d’un patient présentant une forme neuropsychiatrique de maladie de Wilson.
+
+A. Hyperintensités du tronc cérébral et des noyaux dentelés du cervelet. B. Hyperintensités des noyaux gris centraux.
+
+E. Traitement
+Chélateur (D-pénicillamine, trientine) pour mobilisation des dépôts de cuivre dans la phase aiguë.
+Réduction de l’absorption intestinale du cuivre par acétate de zinc après la stabilisation de l’état clinique (traitement d’entretien à poursuivre à vie).
+Transplantation hépatique (formes hépatiques fulminantes ; au cas par cas dans les formes neuropsychiatriques sévères et aiguës résistant au traitement médicamenteux) ; traitement endoscopique de l’hypertension portale (au cas par cas).
+Mesures associées (demande d’ALD ; si nécessaire, prise en charge multidisciplinaire incluant orthophonie, kinésithérapie et ergothérapie).
+ 
+
+POINTS CLÉS :
+
+Maladie de Parkinson :
+
+principalement liée à la perte progressive des neurones dopaminergiques de la voie nigro-striatale ;
+la triade parkinsonienne associe tremblement de repos, akinésie/bradykinésie et rigidité ;
+le tremblement de repos est pathognomonique, mais pas obligatoire pour le diagnostic (présent chez deux tiers des patients) ;
+éliminer un facteur iatrogénique en présence de tout syndrome parkinsonien ;
+le diagnostic est clinique et ne justifie aucun examen complémentaire ; il est confirmé par une nette réduction des signes moteurs à l’instauration du traitement dopaminergique ;
+la réalisation d’examens complémentaires est indiquée en cas d’atypie à l’examen clinique ou à l’interrogatoire, faisant douter du diagnostic de maladie de Parkinson ;
+évolution :
+phase diagnostique,
+phase du bon contrôle des signes moteurs (« lune de miel »),
+phase des complications motrices liées au traitement dopaminergique : fluctuations motrices (akinésie de fin de dose, de nuit/petit matin, phénomène « on/off »), dyskinésies (milieu de dose, biphasiques),
+phase du déclin : signes axiaux (dysarthrie, dysphagie, enrayement cinétique, festination, troubles de la posture et de l’équilibre postural), troubles cognitifs et comportementaux (syndrome dysexécutif, démence, hallucinations, psychose) ;
+le traitement repose sur deux principales classes thérapeutiques, la L-dopa et les agonistes dopaminergiques :
+initial : monothérapie selon l’âge du patient,
+fluctuations motrices : les options sont le fractionnement de la L-dopa, le renforcement de l’agoniste dopaminergique, les ICOMT et les IMAO-B,
+dyskinésies de milieu de dose : réduction de la posologie par prise, stimulation à haute fréquence chez les patients avec complications motrices sévères ou tremblement handicapant malgré un traitement médicamenteux bien conduit ;
+les signes non moteurs (cognition, humeur, système végétatif, sommeil) sont également fréquents dans la maladie de Parkinson.
+Autres syndromes parkinsoniens :
+
+syndromes parkinsoniens iatrogènes : toujours y penser (consulter le Vidal) ;
+syndromes parkinsoniens dégénératifs (peu voire non dopa-sensibles) :
+atrophie multisystématisée (dysautomie évolutive ou syndrome cérébelleux) ;
+paralysie supranucléaire progressive (ophtalmoplégie, instabilité posturale précoce) ;
+démence à corps de Lewy (démence précoce, hallucinations spontanées) ;
+syndromes parkinsoniens vasculaires : prédominance du syndrome parkinsonien aux membres inférieurs.
+ 
+
+Compléments en ligne
+Des compléments numériques sont associés à ce chapitre. Pour accéder à ces compléments, connectez-vous sur www.em-consulte.com/e-complement/474386 et suivez les instructions pour activer votre accès.

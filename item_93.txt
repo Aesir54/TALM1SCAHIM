@@ -1,0 +1,1090 @@
+Radiculalgies et syndromes canalaires –– Neuropathies périphériques –– Polyradiculonévrite aiguë inflammatoire (syndrome de Guillain-Barré)
+
+Objectifs pédagogiques
+Item 93
+Savoir diagnostiquer une radiculalgie et un syndrome canalaire.
+Identifier les situations d’urgence et planifier leur prise en charge.
+Argumenter l’attitude thérapeutique et planifier le suivi du patient.
+Item 94
+
+Diagnostiquer les différentes formes de neuropathies périphériques et connaître l’orientation étiologique.
+Distinguer cliniquement une neuropathie périphérique et une sclérose latérale amyotrophique (SLA).
+Item 95
+
+Diagnostiquer un syndrome de Guillain-Barré.
+Identifier les situations d’urgence et planifier leur prise en charge.
+L’atteinte du système nerveux périphérique est définie par l’ensemble des manifestations cliniques, électriques, biologiques et histologiques résultant d’une atteinte du neurone périphérique.
+
+Le système nerveux périphérique est composé :
+
+de fibres motrices efférentes : le corps cellulaire est situé dans la corne antérieure de la moelle spinale ; l’axone quitte la moelle par la racine antérieure et chemine jusqu’au muscle strié squelettique où il tient sous sa dépendance une centaine de fibres (unité motrice) ;
+de fibres sensitives afférentes : le corps cellulaire est situé dans le ganglion spinal de la racine postérieure ; leur destinée médullaire les oppose en deux groupes :
+dont les fibres cheminent dans les cordons postérieurs homolatéraux et véhiculent la sensibilité épicritique et le sens proprioceptif ;
+dont les fibres, qui décussent au niveau du métamère médullaire, véhiculent de façon controlatérale le tact grossier et la thermoalgie ;
+de fibres végétatives (voies efférentes sympathiques et parasympathiques) : le corps cellulaire du neurone préganglionnaire est situé dans le tronc cérébral ou la moelle ; l’axone quitte le système nerveux central par le trajet des nerfs crâniens (III, VII, IX, X) ou des racines antérieures médullaires pour faire un relais avec le neurone post-ganglionnaire innervant muscles lisses et glandes.
+Les fibres nerveuses sont constituées d’axones (cellules nerveuses), de cellules de Schwann (myéline) et de tissus de soutien (vaisseaux et conjonctif). Les lésions élémentaires des fibres nerveuses sont :
+
+la dégénérescence wallérienne : désintégration progressive myélino-axonale puis bouquets de régénérescence axonale (clusters) ;
+la démyélinisation segmentaire : mise à nu progressive des axones par destruction de la myéline au niveau des nœuds de Ranvier qui s’élargissent anormalement.
+Item 93 – Radiculalgies et syndromes canalaires
+Mononeuropathies : syndromes canalaires
+Atteintes plexuelles (plexopathies)
+I. Mononeuropathies : syndromes canalaires
+Les syndromes canalaires sont liés à des compressions des nerfs périphériques dans des zones anatomiques particulières qui correspondent à un lieu de passage étroit pour le cheminement du nerf. On leur rattache aussi les compressions dites posturales survenant dans des zones anatomiques localisées où le nerf est superficiel et donc vulnérable si une compression externe vient à s’exercer.
+
+La symptomatologie est importante à connaître pour établir le diagnostic différentiel avec les radiculalgies (tableau 7.1 et figures 7.1 et 7.2).
+
+Les territoires sensitifs et moteurs des troncs nerveux ne dépassent pas la main ou le pied (fig. 7.1).
+Les territoires sensitifs et moteurs des racines nerveuses dépassent la main ou le pied (fig. 7.2).
+
+
+
+
+
+------------> Tableau 7.1  Synthèse des territoires tronculaires et radiculaires.
+
+
+
+
+
+
+
+Fig. 7.2
+
+Territoires radiculaires.
+
+Fig. 7.1
+
+Territoires tronculaires.
+
+Le trouble initial est lié à un blocage de la propagation de l’influx (bloc de conduction) secondaire à la compression.
+Lorsque la compression est sévère et prolongée, les lésions initiales se compliquent d’une dégénérescence axonale.
+L’ENMG montre le bloc de conduction et établira l’importance de la perte axonale éventuelle.
+Schématiquement, l’atteinte démyélinisante se traduit par un ralentissement ou un blocage de la conduction nerveuse et la dégénérescence axonale par une diminution de la réponse motrice ou sensitive en aval du site lésionnel avec des signes de dénervation des fibres musculaires.
+La sensibilité à la compression est favorisée par le diabète ou une sensibilité familiale des nerfs à la pression (neuropathie génétique dite de susceptibilité à la pression par une délétion du gène PMP22).
+A. Clinique
+Le plus souvent, atteinte de nerfs mixtes (sensitivomoteurs).
+
+La symptomatologie peut être purement sensitive ou à prédominance sensitive (paresthésies) uniquement.
+
+Une atteinte purement motrice doit conduire à remettre le diagnostic en cause (cf. Item 94, page 99).
+
+L’examen objective le territoire anatomique du déficit moteur et sensitif.
+
+Une amyotrophie traduit l’existence d’une atteinte axonale déjà évoluée (fig. 7.3).
+
+D’une manière générale :
+
+une atteinte tronculaire compressive, canalaire chronique est sensitivomotrice ;
+une atteinte tronculaire compressive aiguë est à prédominance motrice indolore (neuropathie par susceptibilité à la pression) ;
+une atteinte tronculaire aiguë sensitivomotrice douloureuse doit évoquer une vascularite et amener à évaluer et traiter le patient en urgence.
+Fig. 7.3
+
+Amyotrophie sévère du muscle court abducteur du pouce en cas de syndrome du canal carpien évolué.
+
+B. Électroneuromyographie
+L’ENMG est fondamental au double plan diagnostique et pronostique.
+
+L’électromyogramme proprement dit (examen de détection) :
+décèle des signes neurogènes dans les muscles atteints ;
+précise la topographie tronculaire de l’atteinte motrice : nerf médian au canal carpien, nerf ulnaire au coude, nerf fibulaire au col du péroné ;
+détecte des signes d’activités spontanées de dénervation en faveur d’une dégénérescence axonale ;
+suit la récupération (augmentation de l’amplitude du potentiel moteur).
+L’étude des vitesses de conduction nerveuse (examen de stimulodétection) évalue :
+sur le contingent de fibres motrices :
+une diminution d’amplitude du potentiel d’action sensitif.
+un ralentissement localisé ou un bloc de propagation,
+une diminution d’amplitude du potentiel d’action distal témoin d’une atteinte axonale et d’une perte en fibres ;
+Cette atteinte localisée définit le site de la compression.
+Une exploration élargie permet quelquefois de déceler des atteintes infracliniques dans d’autres sites canalaires ou de mettre en évidence une neuropathie diffuse (diabète, neuropathie par susceptibilité à la pression).
+Les examens d’imagerie sont le plus souvent inutiles.
+C. Grands syndromes
+1. Nerf médian au canal carpien (le plus fréquent) (vidéo 7.1)
+a. Symptômes et signes sensitifs
+Paresthésies, souvent douloureuses, nocturnes, systématisés dans le territoire du nerf médian (le plus souvent aux trois premiers doigts) et affectant préférentiellement le côté dominant, souvent bilatérales chez les travailleurs manuels.
+Hypoesthésies à tous les modes de la face palmaire des trois premiers doigts.
+Fréquent signe de Tinel (dysesthésies dans les doigts lors de la percussion du canal carpien) et un signe de Phalen (reproduction de l’engourdissement et des paresthésies lors de la flexion forcée du poignet).
+b. Symptômes et signes moteurs
+Faiblesse de la main, lâchage d’objets, difficulté pour mettre les boutons ou tourner une clé dans une serrure.
+Déficit des muscles de la partie externe de l’éminence thénar (court abducteur du pouce, opposant).
+Tardivement, amyotrophie thénarienne.
+c. Causes
+Le plus souvent mécanique (hyperactivité, travail manuel).
+Penser aux causes plus rares :
+neuropathie amyloïde (y penser en cas de découverte ou d’une association à une polyneuropathie axonale avec dysautonomie) ;
+hypothyroïdie ;
+grossesse.
+d. Traitement
+Souvent spontanément résolutif si peu sévère et à prédominance sensitive.
+Dans un premier temps, infiltration de corticoïdes en suspension dans le canal carpien.
+En cas d’échec ou de nécessité de répéter les infiltrations, la chirurgie (section du ligament transverse du carpe) est le traitement de référence.
+2. Nerf ulnaire au coude
+a. Symptômes et signes sensitifs
+Paresthésies des 4e et 5e doigts, hypoesthésie du territoire du nerf à la main.
+
+b. Symptômes et signes moteurs
+Déficit moteur des muscles intrinsèques de la main (interosseux) et respect du muscle fléchisseur ulnaire du carpe.
+Amyotrophie des espaces interosseux (surtout le premier espace) et de l’éminence hypothénar.
+c. Causes
+Compression dans la gouttière épitrochléo-olécrânienne, notamment lors de l’appui prolongé.
+Ou compression par un cal osseux ancien consécutif à une fracture du coude.
+d. Traitement
+Traitement chirurgical (transposition du nerf ulnaire de la gouttière épitrochléo-olécrânienne à la partie antéro-interne de l’avant-bras).
+
+3. Nerf radial dans la gouttière humérale
+a. Symptômes et signes sensitifs
+Peu ou pas présents.
+Le plus souvent sensibilité (1er espace interosseux dorsal) respectée.
+b. Symptômes et signes moteurs
+Déficit moteur de l’ensemble du territoire sous-jacent (muscle brachioradial et extenseurs des doigts et du poignet).
+Respect du muscle triceps et du réflexe tricipital.
+c. Causes
+Fractures de l’humérus.
+Lors de compression externe prolongée du nerf (paralysie posturale : bras comprimé sous une tête ou le corps en décubitus latéral).
+d. Traitement
+Le traitement est généralement conservateur lors de la compression externe prolongée, mais la chirurgie peut être nécessaire en cas de fracture humérale.
+
+4. Nerf cutané latéral de la cuisse, ou méralgie paresthésique
+a. Symptômes et signes sensitifs
+Atteinte purement sensitive : dysesthésies, paresthésies « en raquette » de la partie antéro-externe de cuisse.
+
+b. Causes
+Compression du nerf sous le ligament inguinal au-dessous de l’épine iliaque antérosupérieure.
+Favorisée par le port d’une ceinture serrée, par l’obésité ou la grossesse.
+c. Traitement
+Le traitement est souvent conservateur (infiltration cortisonique au point douloureux de compression, suppression du facteur favorisant : ceinture serrée), plus rarement chirurgical.
+
+5. Nerf fibulaire
+a. Symptômes et signes sensitifs
+Déficit sensitif discret intéressant une zone cutanée du dos du pied (cou-de-pied).
+
+b. Symptômes et signes moteurs
+Déficit des muscles de la loge antéro-externe de jambe (fibulaire, tibial antérieur, long extenseur des orteils, long extenseur de l’hallux, court extenseur des orteils) ; l’ensemble réalise un steppage.
+
+c. Causes
+Compression externe : il s’agit d’une paralysie posturale :
+
+appui prolongé sur la région de la tête de la fibula ;
+position assise jambes croisées ;
+position allongée et amaigrissement (séjour en réanimation) ;
+travail en position agenouillée.
+d. Traitement
+Abstention en cas d’atteinte posturale aiguë.
+Chirurgie en cas de formes progressives ou si une cause locale de compression a été trouvée (kyste synovial articulaire de la fosse poplitée).
+II. Radiculopathies
+A. Complications neurologiques de la pathologie rachidienne lombaire
+Ces complications sont dues le plus souvent à des lésions dégénératives osseuses acquises (arthrosiques) et/ou discales (conflit discoradiculaire), responsables d’une sténose progressive du canal vertébral. Plus rarement, il peut s’agir d’une cause tumorale (osseuse ou intrarachidienne, mais aussi extrarachidienne), infectieuse (spondylodiscites).
+
+Aux membres inférieurs, les radiculopathies L5 et S1 sont improprement appelées « sciatiques ». Le nerf sciatique étant le principal tronc nerveux du membre inférieur, son atteinte ne correspond pas à une radiculopathie.
+
+1. Symptômes cliniques
+La symptomatologie comporte :
+
+des douleurs rachidiennes lombaires pouvant être aiguës (lumbago responsable d’une contracture réflexe) volontiers à l’issue d’un effort de soulèvement, ou chroniques évoluant de façon insidieuse ;
+une douleur radiculaire (radiculalgie) :
+le plus souvent unilatérale, partant de la région lombaire basse et adoptant un trajet précis correspondant à la racine concernée. Ce trajet peut être tronqué, c’est-à-dire limité à une zone du trajet radiculaire complet, rendant le diagnostic difficile :
+la douleur est typiquement mécanique, accentuée par les efforts, la station debout, calmée par le décubitus ; elle peut être impulsive à la toux ou aux efforts de défécation ;
+radiculalgie S1 : face postérieure de la fesse, de la cuisse, du mollet jusqu’au talon, plante du pied et 5e orteil,
+radiculalgie L5 : partie postéro-externe de la cuisse, face externe de jambe jusqu’au dos du pied et aux premiers orteils ; quelquefois trajet inguinal associé,
+radiculalgie L4 : face antéro-externe de la cuisse, bord antérieur de la jambe, malléole interne, rarement gros orteil,
+radiculalgie L3 : partie postéro-interne puis antéro-interne de la cuisse, sans dépasser le genou,
+un déficit moteur :
+mineur ou modéré est fréquemment observé ;
+complet et aigu en cas de sciatique paralysante.
+Une douleur pluriradiculaire des membres inférieurs apparaissant à la marche (claudication intermittente douloureuse), calmée par l’arrêt et le repos dans un contexte de lombalgies chroniques, évoque une souffrance radiculaire multiple dans le cadre d’un canal lombaire étroit.
+2. Examen clinique
+Il comporte un examen du rachis lombaire et un examen neurologique.
+
+a. Signes rachidiens
+Ils sont soit spontanés (effacement de la lordose lombaire, inflexion latérale du côté opposé à la douleur), soit responsables d’une limitation des mouvements (flexion antérieure du tronc : mesure de la distance doigts-sol ou de l’indice de Schöber ; inflexions latérales).
+
+b. Signes radiculaires
+Signe de Lasègue (en décubitus dorsal, l’élévation du membre inférieur va reproduire la douleur radiculaire L4, L5 ou S1 à partir d’un certain angle par rapport au plan du lit).
+Signe de Léri (en décubitus ventral, l’hyperextension de la cuisse sur le bassin, membre inférieur en extension, peut reproduire une douleur L3 ou L4).
+Signes moteurs déficitaires.
+Troubles de la sensibilité.
+Anomalie des réflexes tendineux :
+abolition du réflexe achilléen signant l’atteinte radiculaire S1 ;
+abolition du réflexe rotulien lors des atteintes L3 ou L4 ;
+à noter : pas de perte de réflexe en cas d’atteinte L5.
+Une radiculopathie (sciatique ou fémorale) peut devenir paralysante. La douleur disparaît alors complètement, en même temps que s’installe un déficit monoradiculaire sévère. L’indication opératoire doit alors être portée en urgence pour espérer une récupération.
+
+En cas d’installation aiguë, une imagerie (IRM ou scanner) est urgente.
+La décision opératoire doit également être prise au plus vite, voire en urgence en cas de cause accessible à une prise en charge chirurgicale (compression mécanique).
+c. Atteinte de la queue de cheval
+L’interrogatoire recherchera des troubles urinaires (perte ou rétention d’urines), anaux (constipation, perte des selles) et sexuels (troubles de l’érection).
+L’examen recherche une insensibilité périnéale.
+Une compression pluriradiculaire (par exemple par une hernie discale) doit être recherchée en urgence.
+3. Examens complémentaires
+Pas d’exploration systématique en raison de l’extrême fréquence de la lombalgie et des radiculopathies, en particulier aux membres inférieurs (« sciatique »).
+Un bilan complémentaire est demandé devant une aggravation des symptômes et des signes cliniques ou leur persistance.
+Radiographies du rachis lombaire dans un premier temps, à la recherche d’anomalie de densité osseuse ou de lésions discarthrosiques, d’un tassement discal, d’un rétrécissement du canal rachidien (pédicules courts), d’un éventuel spondylolisthésis avec lyse isthmique.
+Scanner lombaire, sans et avec injection de produit de contraste :
+en cas de persistance des symptômes, malgré un traitement médical bien conduit au-delà de 6 semaines et/ou d’un déficit neurologique franc ; il recherche :
+les fenêtres osseuses montrent l’arthrose des apophyses articulaires postérieures et le retentissement sur la partie latérale du canal rachidien (canal déformé « en feuille de trèfle »).
+une hernie discale postérolatérale, responsable d’un conflit avec la racine passant en regard du disque (par exemple, L5 en regard du disque L4-L5),
+une hernie foraminale qui comprime la racine sus-jacente (L4 pour le disque L4-L5) ;
+L’IRM a pour objectifs, dans certains cas, de visualiser l’ensemble de la queue de cheval, les lésions intradurales (tumeurs radiculaires : neurinomes ; du filum : épendymomes) et les lésions épidurales (métastases ostéo-épidurales).
+Beaucoup plus rarement :
+une radiculographie après injection de produit hydrosoluble par ponction lombaire est quelquefois nécessaire pour affirmer le conflit discoradiculaire, car elle permet de mettre le patient en charge (assis ou debout) ; elle est envisagée en cas de discordance clinicodensitométrique et dans les sténoses canalaires pour préciser le geste chirurgical ;
+elle peut être complétée d’un myéloscanner, permettant une meilleure visualisation du fourreau dural.
+4. Traitement
+Traitement médical dès le début des symptômes sur les seuls éléments cliniques.
+L’indication d’un repos doit être minimalisée.
+
+Les myorelaxants, antalgiques et anti-inflammatoires sont préconisés.
+Le traitement sera poursuivi pendant 2 à 4 semaines.
+Reprise progressive d’activités sous couvert éventuel d’une kinésithérapie appropriée : renforcement des muscles paravertébraux et abdominaux ; apprentissage des règles d’hygiène vertébrale.
+En cas d’échec, une prise en charge rhumatologique en milieu hospitalier avec réalisation d’infiltrations peut encore améliorer certains patients.
+Indication opératoire à discuter en cas d’échec après réalisation de l’examen scannographique : exérèse de la hernie et curetage discal sous anesthésie générale, laminectomie étendue en cas de sténose canalaire, décompression foraminale, stabilisation par arthrodèse et ostéosynthèse en cas de spondylolisthésis.
+Exploration et indication opératoire urgentes en cas de sciatique paralysante.
+B. Complications neurologiques de la pathologie rachidienne cervicale
+Les manifestations sont consécutives à une hernie discale, apparue le plus souvent sans cause déclenchante, ou aux lésions uncodiscarthrosiques des vertèbres cervicales rétrécissant le foramen vertébral.
+
+1. Symptômes et examen clinique
+L’expression clinique peut être liée :
+
+à une douleur éventuellement exacerbée par les mouvements du rachis, les efforts de toux et parfois le décubitus ; l’examen clinique peut retrouver une limitation douloureuse des mouvements du rachis cervical, une contracture des muscles cervicaux ; la mobilisation peut réveiller la douleur radiculaire ; l’examen clinique recherche un déficit moteur, sensitif, une modification (diminution ou abolition) d’un réflexe tendineux ;
+à l’atteinte radiculaire (névralgie cervicobrachiale) : la cervicalgie intéresse toute la nuque, la douleur concernant l’épaule puis le membre supérieur suivant une topographie qui n’est pas toujours aussi précise :
+douleur C5 : face externe du moignon de l’épaule et du bras,
+douleur C6 : antérieure à l’épaule, au bras, au coude, à l’avant-bras pour se terminer dans les deux premiers doigts de la main (pouce),
+douleur C7 : postérieure au bras, au coude, à l’avant-bras et à la main et irradiante dans les trois doigts moyens (index-médius),
+douleur C8 : bord interne du membre supérieur, se terminant dans les deux derniers doigts,
+douleur T1 : face interne du bras ;
+à la myélopathie cervicale : il convient de dépister une souffrance médullaire éventuellement associée (atteinte pyramidale volontiers spastique, prédominant sur les troubles sensitifs et sphinctériens dans le cadre d’une myélopathie cervicarthrosique ; signe de Lhermitte).
+2. Examens complémentaires
+Par ordre de réalisation habituelle :
+
+les radiographies du rachis cervical objectivent l’uncodiscarthrose (aux trous de conjugaison sur les clichés de trois quarts). Cette arthrose cervicale est cependant très fréquente, ce qui nécessite des examens plus performants avant d’évoquer sa responsabilité ;
+l’IRM est l’examen essentiel. Elle objective l’ensemble du rachis cervical et définit le diamètre sagittal du canal rachidien. Elle apprécie l’effacement des espaces sous-arachnoïdiens et d’éventuelles anomalies du signal intramédullaire sur les séquences pondérées en T2 témoignant d’une souffrance médullaire ;
+le scanner avec injection IV de contraste visualise la hernie discale paramédiane ou postérolatérale et foraminale, voire un conflit discarthrosique, c’est-à-dire une protrusion foraminale du disque cervical dans un canal déjà rétréci par un remaniement de l’articulation uncale dû à l’arthrose (uncarthrose) ;
+la myélographie couplée au scanner précise parfois plus finement le conflit discoradiculaire. Sa pratique est plus rare.
+Dans les atteintes radiculaires
+
+Le scanner donne une meilleure image des os.
+L’IRM donne une meilleure image des tissus, en particulier du retentissement sur la moelle spinale ou les racines.
+L’ENMG, lorsqu’il est réalisé, montre :
+une atteinte neurogène avec possible réduction de l’amplitude motrice ;
+et une normalité du potentiel d’action sensitif.
+3. Traitement
+a. Traitement médical
+Le traitement médical (repos ; anti-inflammatoires ; antalgiques ; voire corticothérapie par voie orale à raison de 1 mg/kg durant 10 à 15 jours ; collier cervical) est toujours préconisé en première intention. La plupart des névralgies cervicobrachiales guérissent en 4 à 6 semaines.
+
+b. Traitement chirurgical
+Le traitement chirurgical, d’indication rare, consiste en l’exérèse de la hernie discale (hernie molle généralement post-traumatique) ou, plus rarement, en une décompression de la racine dans le foramen rétréci par un ostéophyte de l’uncus (voie antérieure, un ou plusieurs niveaux selon les données de la clinique et de l’imagerie). Ce traitement est quelquefois indiqué en urgence en cas d’atteinte déficitaire sévère.
+
+En cas d’atteinte médullaire associée, la chirurgie permet le plus souvent une stabilisation des troubles neurologiques anciens, mais des récupérations peuvent être espérées en cas de déficit récent et progressif si l’intervention est rapidement réalisée.
+
+C. Méningoradiculites après morsure/piqûre de tiques
+Borrelia burgdorferi, spirochète vecteur de la maladie de Lyme et transmis par une tique (Ixodes), peut être responsable de manifestations dermatologiques (l’erythema chronicum migrans) à la phase initiale de l’infection.
+
+L’absence de traitement par bêtalactamines ou cyclines peut être suivie de lésions viscérales polymorphes quelques mois après l’infestation initiale :
+
+arthrite, récidive d’erythema chronicum migrans, voire bloc auriculoventriculaire ;
+et d’une méningoradiculite :
+définie par l’association d’une méningite et d’une atteinte radiculaire,
+touchant 10 à 20 % des patients.
+1. Clinique
+Elle est caractérisée par :
+
+des douleurs radiculaires très intenses, diurnes et nocturnes, volontiers pluriradiculaires et asymétriques, associées à un déficit sensitivomoteur dans les territoires atteints, à proximité du site de la morsure ;
+une atteinte faciale, parfois bilatérale dans près de 50 % des cas (surtout chez l’enfant).
+Le syndrome méningé est souvent au second plan et se traduit avant tout par des céphalées.
+
+2. Explorations
+L’examen du LCS montre une augmentation du nombre de cellules à prédominance lymphocytaire, une hyperprotéinorachie, alors que la glycorachie est normale. L’isoélectrofocalisation des protéines du LCS montre une répartition oligoclonale des protéines (bandes).
+L’ENMG montre des tracés neurogènes dans les muscles innervés par les racines intéressées, alors que les vitesses de conduction sont normales.
+3. Diagnostic
+Posé par :
+
+une sérologie positive dans le sang et le LCS (après avoir écarté une sérologie croisée avec le tréponème) avec synthèse intrathécale d’anticorps spécifiques ;
+un résultat positif par une technique ELISA (dépistage) doit être confirmé par un résultat positif en western blot.
+Diagnostic différentiel en cas de méningoradiculite non infectieuse : infiltration méningée (pathologie hématologique ou méningite carcinomateuse).
+
+4. Traitement
+L’antibiothérapie parentérale par ceftriaxone (2 g par jour pendant 15 à 21 jours consécutifs) permet une régression rapide des manifestations, principalement des douleurs dans un premier temps.
+
+D. Méningoradiculites infiltratives
+Leucémie et lymphomes peuvent être révélés par une atteinte radiculaire avec infiltration méningée.
+Le diagnostic sera évoqué sur l’atteinte rapidement progressive et étagée : atteinte radiculaire asymétrique des membres inférieurs, des membres supérieurs et des nerfs crâniens.
+Le diagnostic sera évoqué sur l’étude en cytométrie de flux des cellules du LCS et par un bilan systémique de l’hémopathie.
+III. Atteintes plexuelles (plexopathies)
+Les atteintes du plexus brachial sont les plus fréquentes.
+
+Elles sont diagnostiquées sur une atteinte clinique et neurophysiologique non systématisable en termes de troncs nerveux ou d’atteinte radiculaire.
+
+A. Syndrome de Parsonage-Turner
+Appelé aussi névralgie amyotrophique, le syndrome de Parsonage-Turner apparaît parfois dans les suites ou au décours d’un traumatisme, d’une intervention chirurgicale, d’une grossesse, d’une vaccination, d’une maladie de système, voire d’une infection, ce qui fait évoquer une origine auto-immune.
+
+1. Clinique
+Elle est dominée par une douleur de l’épaule, permanente et insomniante, à type de brûlures, d’arrachement, accrue par la mobilisation de l’articulation et rebelle aux antalgiques.
+Elle précède de quelques jours une paralysie qui devient rapidement amyotrophique. Ce déficit est en général contemporain d’une régression des douleurs.
+Il concerne surtout les muscles innervés par les branches du plexus brachial supérieur (deltoïde, dentelé antérieur, infra- et supra-épineux, parfois le diaphragme).
+Il n’y a pas habituellement de fasciculations, les réflexes sont normaux, parfois diminués ou abolis.
+Les troubles sensitifs sont en général discrets, localisés au moignon de l’épaule (nerf axillaire).
+Les signes sont généralement unilatéraux, mais une bilatéralisation n’est pas rare.
+2. Explorations
+L’ENMG précise l’étendue de l’atteinte (tracés neurogènes dans les muscles intéressés) et la normalité des conductions motrices et sensitives des nerfs le plus communément étudiés (radial, ulnaire et médian). Il est décrit un allongement de certaines latences pour les nerfs proximaux (axillaire, musculocutané, supra-scapulaire).
+Le LCS est le plus souvent normal ; son examen révèle parfois une discrète hyperprotéinorachie. Il n’est pas systématique.
+3. Traitement
+L’évolution n’est pas toujours favorable, mais doit être évaluée sur une longue période (3 ans).
+Le traitement repose sur la rééducation. La corticothérapie n’a qu’une action antalgique.
+B. Autres atteintes du plexus brachial
+1. Plexopathie infiltrative
+Le syndrome de Pancoast-Tobias correspond à l’infiltration du plexus cervical inférieur par une tumeur de l’apex pulmonaire. Elle est responsable d’une atteinte prédominant sur les territoires C8-D1, avec douleurs importantes, et d’un signe de Claude Bernard-Horner.
+
+2. Plexopathies post-radiques
+Elles surviennent plusieurs années après une irradiation sus-claviculaire ou axillaire dans les cancers ORL, du sein et les lymphomes, hodgkiniens ou non. Elles sont d’évolution lentement progressive, indolores, asymétrique le plus souvent, avec un déficit sensitif et moteur à prédominance motrice, avec une aréflexie ostéotendineuse.
+
+POINTS CLÉS
+
+Syndromes canalaires :
+
+compressions des nerfs périphériques (lieux de passage étroits, compressions dites posturales) ;
+démyélinisation segmentaire (ENMG) :
+nerf médian au canal carpien (le plus fréquent) : paresthésies ou engourdissement nocturne des trois premiers doigts ; signes de Tinel et de Phalen ; traitement : infiltration de corticoïdes dans le canal carpien, chirurgie en cas d’échec,
+nerf ulnaire dans la gouttière épitrochléo-olécrânienne : paresthésies et hypoesthésie des 4e et 5e doigts, déficit moteur des muscles intrinsèques de la main ; traitement chirurgical (transposition du nerf),
+nerf radial dans la gouttière humérale (fractures de l’humérus et compression externe du bras) : déficit moteur des muscles brachioradial et extenseurs des doigts et du poignet ; respect du muscle triceps et du réflexe tricipital ; traitement le plus souvent conservateur,
+nerf cutané latéral de la cuisse, ou méralgie paresthésique : atteinte purement sensitive de la partie antéro-externe de la cuisse favorisée par le port d’une ceinture serrée, l’obésité ; traitement conservateur,
+nerf fibulaire au col de la fibule : déficit des muscles de la loge antéro-externe de la jambe (steppage) ; déficit sensitif discret du dos du pied ; traitement conservateur.
+Radiculopathies :
+
+radiculopathies lors de la pathologie rachidienne lombaire (lésions dégénératives osseuses acquises par arthrose ou conflit discoradiculaire, rarement cause tumorale ou infectieuse) :
+douleurs rachidiennes lombaires, radiculalgie mécanique le plus souvent unilatérale (région lombaire et trajet précis au membre inférieur), voire claudication douloureuse dans le cadre d’un canal lombaire étroit (douleurs radiculaires des membres inférieurs apparaissant lors de la marche),
+examen : signes rachidiens (raideur lombaire), radiculaires (Lasègue) et neurologiques (dépistage du syndrome de la queue de cheval : signes sphinctériens),
+pas d’examens complémentaires si la lombosciatique n’est pas compliquée ; la persistance malgré un traitement médical bien conduit au-delà de 6 semaines et/ou d’un déficit neurologique franc peut faire pratiquer des radiographies lombaires, une TDM lombaire ou une IRM,
+traitement médical dès le début des symptômes pendant 2 à 4 semaines ; en cas d’échec : prise en charge rhumatologique (infiltrations) puis éventuel geste chirurgical ;
+radiculopathies lors de la pathologie rachidienne cervicale (hernie discale ou lésions arthrosiques) :
+cervicalgie et irradiation douloureuse de topographie radiculaire au membre supérieur (topographie pas toujours précise), exacerbée par les mouvements du rachis, les efforts de toux et le décubitus,
+examen : limitation douloureuse des mouvements du rachis cervical, rechercher un déficit moteur, sensitif, une modification d’un réflexe ostéotendineux et des signes de souffrance médullaire,
+examens complémentaires : radiographies du rachis cervical (discarthrose), IRM (diamètre du canal rachidien et souffrance de la moelle), TDM (débord discal),
+traitement médical toujours préconisé en première intention, chirurgical en cas de signes neurologiques déficitaires ;
+méningoradiculites après morsure de tiques :
+douleurs radiculaires très intenses, diurnes et nocturnes, volontiers pluriradiculaires et asymétriques, associées à un déficit sensitivomoteur dans les territoires atteints, diplégie faciale et céphalées,
+LCS : méningite lymphocytaire et hyperprotéinorachie, répartition oligoclonale des protéines,
+ENMG : tracés neurogènes dans les muscles innervés par les racines intéressées et vitesses de conduction normales,
+diagnostic sérologique ; sécrétion intrathécale d’anticorps spécifiques,
+antibiothérapie parentérale par ceftriaxone (2 g par jour pendant 15 jours consécutifs).
+Atteintes du plexus brachial :
+
+syndrome de Parsonage-Turner (amyotrophie névralgique) :
+douleur de l’épaule, permanente et insomniante, rebelle aux antalgiques puis déficit amyotrophiant, réflexes ostéotendineux normaux, signes souvent unilatéraux,
+évolution variable pas toujours favorable ;
+atteintes compressives (tumeur de l’apex pulmonaire : atteinte C8-D1, douleurs importantes et signe de Claude Bernard-Horner) ou infiltratives douloureuses sensitivomotrices ;
+plexopathies post-radiques motrices indolores.
+ 
+Item 94 – Neuropathies périphériques
+Diagnostiquer les différentes formes de neuropathies périphériques et connaître l’orientation étiologique
+Distinguer cliniquement une neuropathie périphérique et une sclérose latérale amyotrophique
+I. Diagnostiquer les différentes formes de neuropathies périphériques et connaître l’orientation étiologique
+Le diagnostic d’une neuropathie périphérique nécessite une démarche structurée comportant les différentes étapes suivantes.
+
+Localisation : consistant à déterminer le caractère tronculaire, radiculaire, polyradiculaire ou neuronal (atteinte du corps cellulaire).
+Mécanisme physiopathologique : consistant à déterminer le caractère démyélinisant, axonal ou neuronal de la neuropathie.
+Classement électroclinique : synthèse des deux précédentes étapes.
+Recherche de la cause : les causes principales des neuropathies sont relativement limitées à partir de la classification électroclinique.
+Approche thérapeutique : elle dépend de la cause retenue.
+L’arbre décisionnel de la figure 7.4 fait la synthèse de cette démarche.
+
+Fig. 7.4
+
+Arbre décisionnel pour le diagnostic des neuropathies périphériques.
+
+En matière d’introduction, rappelons la classification et la définition des neuropathies périphériques :
+
+mononeuropathie : atteinte d’un tronc nerveux ;
+mononeuropathie multiple : atteinte de plusieurs troncs nerveux (multinévrite) ;
+polyneuropathie : atteinte de toutes les fibres nerveuses, en fonction de leur longueur (atteinte longueur-dépendante) ;
+polyradiculoneuropathie : atteinte de l’ensemble des racines nerveuses sensitives et motrices et des troncs nerveux (exemple du syndrome de Guillain-Barré) ;
+neuronopathie : atteinte du corps cellulaire du neurone (moteur ou sensitif).
+A. Diagnostic positif
+1. Clinique
+Le diagnostic repose sur l’association plus ou moins complète de trois ordres de signes.
+
+a. Signes moteurs
+Les signes moteurs associent :
+
+une paralysie, ou parésie, par atteinte de la motricité volontaire, réflexe et automatique par souffrance de la voie finale commune (motoneurone alpha) ; parfois associée à une fatigabilité, elle peut être complète, flasque et hypotonique ; elle est cotée de 0 à 5 (testing musculaire) ;
+une amyotrophie retardée de 3 semaines par rapport à la lésion nerveuse ;
+des fasciculations (spontanées ou provoquées par la percussion ou l’exposition au froid) ; traduisant l’activité spontanée d’une unité motrice, elles sont en faveur d’une lésion proche de la corne antérieure (motoneurone, racine) ;
+des crampes au repos ;
+une diminution ou une abolition des réflexes ostéotendineux.
+b. Signes sensitifs
+Les signes sensitifs sont souvent les premiers à apparaître.
+
+Signes subjectifs
+
+Ces sensations anormales sont :
+
+des paresthésies (picotements, fourmillements, engourdissements spontanés) ;
+des dysesthésies (déclenchées par le tact) ;
+des douleurs (brûlures, décharges électriques, striction).
+L’origine des douleurs peut être radiculaire ou tronculaire :
+
+la douleur radiculaire a un trajet traçant le long d’un membre : en ce qui concerne la douleur radiculaire favorisée par un conflit mécanique, elle est accrue ou provoquée par les manœuvres élevant la pression du LCS (toux, éternuement) et celles étirant la racine (Lasègue, mouvements du cou) ; les signes objectifs sont en revanche absents ou discrets ;
+la douleur tronculaire (d’un nerf mixte) est limitée à la main ou au pied, sans dépasser le poignet ou la cheville.
+Atteinte sensitive objective
+
+Les troubles concernent les sensibilités superficielle (au tact, ou sensibilité épicritique ; à la température et à la piqûre, ou sensibilité thermoalgique) et proprioceptive (altération du sens vibratoire, du sens de position des segments de membre, avec ataxie et signe de Romberg).
+
+L’ataxie est évocatrice d’une neuropathie démyélinisante.
+
+c. Signes neurovégétatifs
+Il s’agit des signes :
+
+vasomoteurs (œdème, cyanose) ;
+des troubles trophiques (peau sèche, squameuse et atrophique) et des phanères (chute de poils, ongles cassants) ;
+d’une hypotension orthostatique ;
+d’une impuissance ;
+des troubles digestifs (diarrhée, constipation, gastroparésie), d’une incontinence urinaire.
+d. Autres signes
+Ils comportent la recherche de gros nerfs et d’un signe de Tinel (douleur projetée sur le trajet du nerf lors de la percussion de celui-ci).
+
+On peut, à l’issue des données cliniques, distinguer différents types d’atteinte :
+
+atteinte des grosses fibres (myélinisées) : troubles des sensibilités proprioceptive et tactile, signes moteurs ;
+atteinte des petites fibres (amyéliniques) : troubles de la sensibilité thermoalgique et neurovégétatifs – cette dernière association n’est pas toujours vraie.
+2. Examens complémentaires
+Stratégie d’utilisation des examens complémentaires
+
+Exploration neurophysiologique
+
+Essentiellement par l’électromyogramme, elle est indispensable à la caractérisation de la neuropathie et à la détermination de son mécanisme.
+
+Examen du liquide cérébrospinal
+
+Il donne des arguments pour le caractère proximal (radiculaire ou neuronal) de l’atteinte neuropathique. Il sera effectué dans les polyradiculonévrites et les neuronopathies sensitives principalement.
+
+Biopsie neuromusculaire
+
+Le muscle donne des informations sur le retentissement d’une atteinte motrice.
+Le nerf biopsié est toujours un nerf sensitif.
+La biopsie est principalement effectuée :
+en cas de suspicion de vascularite ;
+en cas de doute diagnostique devant une neuropathie périphérique évolutive sans cause trouvée ;
+en cas d’incertitude diagnostique de polyneuropathie inflammatoire démyélinisante chronique (perte axonale marquée masquant le caractère démyélinisant de l’électromyogramme).
+a. Électrophysiologie neuromusculaire (ou électroneuromyographie)
+L’électroneuromyographie (ENMG) confirme la nature neurogène du trouble. Elle détermine le mécanisme démyélinisant, axonal ou neuronal. L’examen comporte deux temps distincts.
+
+Électromyogramme (détection)
+
+L’électromyogramme (analyse à l’aiguille des tracés de repos et de contraction des différents muscles) montre le caractère neurogène des anomalies : potentiels de fibrillation au repos, appauvrissement en unités motrices, accélération de la fréquence des potentiels individualisés (sommation temporelle) et, au maximum, potentiel à fréquence élevée (tracé simple) lors de la contraction (fig. 7.5).
+
+Fig. 7.5
+
+Tracé de dénervation chronique potentiel polyphasique se répétant à une fréquence élevée (sommation temporelle).
+
+Il donne une indication topographique (tronculaire, radiculaire, diffuse) en fonction des muscles touchés et confirme l’absence de signes myogènes (richesse exagérée des tracés pour un faible effort de contraction, potentiels de faible amplitude très polyphasiques).
+
+Mesure des vitesses de conduction (stimulodétection)
+
+La mesure des vitesses de conduction reflète le processus histopathologique :
+
+neuropathies démyélinisantes :
+ralentissement des vitesses de conduction motrices (fig. 7.6),
+allongement des latences des ondes F,
+allongement des latences distales motrices,
+dispersion des potentiels d’action,
+blocs de conduction motrice (rapport diminué entre l’amplitude obtenue par stimulation proximale et celle obtenue par stimulation distale), sans augmentation de la durée du potentiel (on peut les observer au cours des polyradiculonévrites, des neuropathies à blocs de conduction persistants et des neuropathies canalaires) (fig. 7.7) ;
+neuropathies axonales :
+vitesses normales (ou modérément ralenties),
+baisse d’amplitude du potentiel d’action de la réponse motrice,
+baisse d’amplitude du potentiel d’action de la réponse sensitive ;
+neuronopathies sensitives :
+baisse d’amplitude ou abolition diffuse (aux quatre membres) du potentiel d’action sensitif,
+normalité des paramètres moteurs ;
+neuronopathies motrices :
+baisse d’amplitude du potentiel d’action moteur, de topographie variable suivant la cause,
+normalité des paramètres sensitifs.
+Fig. 7.6
+
+Vitesse de conduction ralentie (CV à 18 m/s) et allongement de la latence distale (Lat A1 = 14,7 ms) dans le nerf fibulaire.
+
+Fig. 7.7
+
+Aspect de bloc de conduction (vitesse de conduction motrice) proximal du nerf ulnaire dans une neuropathie motrice multifocale.
+
+b. Liquide cérébrospinal
+Hyperprotéinorachie isolée dans les polyradiculonévrites, le diabète.
+Réaction cellulaire dans certaines affections paranéoplasiques.
+Véritable méningite en cas de pathologies néoplasiques et hématologiques.
+c. Biopsie du nerf sensitif
+La biopsie de nerf sensitif permet dans certains cas difficiles de confirmer le mécanisme de la neuropathie (démyélinisation segmentaire, dégénérescence axonale) et oriente le diagnostic étiologique :
+
+lésions inflammatoires et démyélinisation/remyélinisation d’une polyneuropathie inflammatoire démyélinisant chronique ;
+occlusion artérielle en cas de vascularite et perte axonale fasciculaire ;
+dépôts d’amylose en cas de neuropathie amyloïde.
+B. Diagnostic différentiel
+Il est développé au chapitre 5 (Item 90 – Déficit moteur et/ou sensitif des membres), ainsi qu’au paragraphe II. Distinguer cliniquement une neuropathie périphérique et une sclérose latérale amyotrophique.
+
+1. Paralysies centrales
+Il s’agit de paralysies spastiques, non amyotrophiantes.
+
+2. Atteintes myogènes
+Ce sont des atteintes motrices pures proximales, avec abolition de la réponse idiomusculaire (éléments du diagnostic : données électromyographiques, élévation du taux des enzymes musculaires).
+
+3. Sclérose latérale amyotrophique
+Cf. § II. Distinguer cliniquement une neuropathie périphérique et une sclérose latérale amyotrophique.
+
+C. Orientation du diagnostic étiologique
+1. Classification électroclinique
+Mononeuropathie : atteinte d’un tronc nerveux (nerf médian, nerf ulnaire, nerf fibulaire) responsable d’une atteinte sensitivomotrice.
+Mononeuropathie multiple : atteinte de plusieurs troncs nerveux.
+Polyneuropathie :
+atteinte de toutes les fibres nerveuses en fonction de leur longueur (atteinte longueur-dépendante) ;
+elles sont à prédominance sensitive, distales aux membres inférieurs initialement ;
+d’évolution souvent chronique ;
+ataxiantes lorsqu’elles sont démyélinisantes.
+Polyradiculoneuropathie :
+atteinte de l’ensemble des racines nerveuses sensitives et motrices et des troncs nerveux (c’est l’exemple du syndrome de Guillain-Barré) ;
+atteinte relativement symétrique ;
+sensitive et motrice ;
+avec une composante proximale ;
+une aréflexie diffuse en général ;
+une augmentation de la protéinorachie ;
+pouvant être aiguë ou chronique.
+Neuronopathie :
+atteinte du corps cellulaire du neurone (moteur ou sensitif) ;
+les neuronopathies sensitives peuvent avoir plusieurs présentations ; la plus caractéristique est l’association de :
+les neuronopathies motrices sont souvent asymétriques ; elles sont souvent un mode d’entrée dans la sclérose latérale amyotrophique et ont alors une distribution qui n’est ni tronculaire ni radiculaire mais plutôt métamérique (cf. II. Distinguer cliniquement une neuropathie périphérique et une sclérose latérale amyotrophique).
+troubles sensitifs non longueur-dépendants (touchant en même temps les membres supérieurs et les membres inférieurs),
+aréflexie diffuse,
+hyperprotéinorachie aux réactions cellulaires en cas d’origine paranéoplasique,
+elles peuvent prendre le masque d’une polyneuropathie sur le plan clinique, le diagnostic étant attesté par le LCS et surtout l’abolition diffuse des potentiels sensitifs sur l’examen neurophysiologique,
+troubles sensitifs asymétriques non longueur-dépendants touchant les quatre membres, le tronc ou la face ;
+2. Orientation étiologique
+Elle nécessite au préalable :
+
+une démarche clinique :
+la recherche de formes familiales,
+des prises médicamenteuses neurotoxiques ;
+un examen neurophysiologique (ENMG) ;
+parfois un examen du LCS ;
+une approche biologique minimale comprenant : NFS, VS-CRP, glycémie à jeun et 2 heures après la prise de 75 g glucose per os, ionogramme, bilan hépatique, hémostase, immunofixation des immunoglobulines du sérum à la recherche d’une gammapathie monoclonale.
+D. Polyneuropathies axonales longueur-dépendantes
+Elles résultent d’une atteinte diffuse et symétrique intéressant les extrémités distales des fibres nerveuses.
+
+Cette polyneuropathie débute donc au pied. Lorsqu’elle atteint le genou, les manifestations touchent alors les mains. Lorsqu’elle atteint le coude, les fibres de l’abdomen (plastron) et du scalp sont touchées à leur tour (fig. 7.8).
+
+Fig. 7.8
+
+Topographie des manifestations neurologiques dans les polyneuropathies.
+A. Forme initiale de polyneuropathie. Atteinte distale symétrique des fibres les plus longues aux pieds. B. Atteinte longueur dépendante, distale et symétrique. Typiquement, les troubles commencent à atteindre les mains lorsque, aux membres inférieurs, les troubles s’étendent aux genoux. C. Extension de la polyneuropathie, les fibres plus courtes sont atteintes, responsables d’une atteinte en plastron (abdomen et face antérieure du thorax) et en calotte (scalp).
+
+1. Clinique
+a. Troubles sensitifs
+Souvent initiaux, les troubles subjectifs (paresthésies permanentes, dysesthésies, brûlures), touchant les extrémités des membres inférieurs sont permanents, diurnes et volontiers nocturnes. L’atteinte des grosses fibres myélinisées se traduit par des troubles de la sensibilité profonde (ataxie).
+
+b. Troubles moteurs
+Au début, le patient rapporte des difficultés à la marche, une fatigabilité anormale. Puis s’installe un steppage (déficit symétrique des releveurs du pied). L’atteinte épargne les muscles respiratoires et les nerfs crâniens. Il existe parfois des crampes (mollets, plante des pieds).
+
+c. Troubles végétatifs
+Ils sont liés à une atteinte des fibres amyéliniques : hypotension artérielle orthostatique, troubles vésico-sphinctériens, sexuels (impuissance), troubles digestifs (diarrhée, constipation).
+
+d. Examen clinique
+Il confirme l’atteinte symétrique, à prédominance distale, des membres inférieurs : abolition des réflexes achilléens, déficit moteur affectant les releveurs du pied, amyotrophie, déficit sensitif qui peut être discret, atteinte végétative (peau et phanères, hypotension).
+
+e. Démarche étiologique
+Elle dépend de nombreux facteurs :
+
+l’âge : enfant (rare et héréditaire), adulte (près de deux cents causes), vieillard (recherche souvent infructueuse) ;
+origine : amylose (dont le foyer géographique est portugais) ;
+circonstances : maladie générale (diabète, insuffisance rénale), médicaments ;
+mode d’installation : toujours déterminant (aigu, subaigu, chronique).
+2. Causes des polyneuropathies axonales
+Il faut rechercher une cause générale susceptible d’altérer la physiologie de l’axone. On retiendra donc essentiellement les causes métaboliques et toxiques (dont les médicamenteuses) sans oublier l’amylose.
+
+a. Neuropathie diabétique
+Le diabète est une des causes les plus fréquentes. L’incidence est difficile à estimer, variant de 5 à 60 %, tenant en grande partie à la difficulté de définir la neuropathie diabétique.
+
+Sa répartition est égale dans les deux sexes.
+
+Plusieurs mécanismes sont en cause : facteurs vasculaires (augmentation de la perméabilité capillaire au niveau du nerf), facteurs métaboliques (accumulation de sorbitol), facteurs immunologiques (infiltrats de lymphocytes et de macrophages dans les fascicules des fibres amyéliniques).
+
+Il existe très probablement un lien entre l’ancienneté de l’hyperglycémie et les neuropathies, qui apparaissent le plus souvent 5 à 10 ans après le début du diabète. De plus, les traitements qui maintiennent une glycémie relativement normale peuvent stabiliser voire améliorer certaines anomalies neurologiques.
+
+Polyneuropathie sensitivomotrice distale
+
+Forme la plus souvent observée des neuropathies diabétiques, associée ou non à une atteinte dysautonomique.
+Survenant généralement chez des patients dont le diabète évolue depuis plus de 5 ans, le début en est généralement lentement progressif, mais un début aigu peut être observé (coma diabétique, stress, infection, chirurgie).
+Il s’agit au début de paresthésies (engourdissements, picotements et brûlures) des pieds et plus rarement des mains. L’examen révèle une aréflexie achilléenne et une hypoesthésie affectant la sensibilité thermoalgique « en chaussettes », plus tardivement la sensibilité vibratoire. Les douleurs sont fréquentes (pieds et jambes), à type de constriction, de broiement.
+Les manifestations dysautonomiques dans les formes plus évoluées comportent des troubles cardiovasculaires (hypotension orthostatique, syndrome de dénervation cardiaque), des troubles de la sphère digestive (constipation, douleurs abdominales, nausées, dysphagie, diarrhée et incontinence fécale), des troubles génito-urinaires (impuissance, atonie vésicale), des troubles de la motilité pupillaire et une anhydrose fréquente.
+Autres neuropathies diabétiques
+
+Neuropathies motrices proximales (ou amyotrophie diabétique)
+
+Elles s’installent de façon subaiguë sur quelques jours à semaines : faiblesse musculaire avec amyotrophie des racines des membres inférieurs asymétrique, qui concerne électivement le psoas, les quadriceps, les adducteurs et les muscles postérieurs de cuisse. Des douleurs sont très souvent présentes dans les territoires concernés, d’intensité variable parfois importante avec une recrudescence nocturne. Les réflexes ostéotendineux sont diminués ou abolis aux membres inférieurs et il n’existe pas de signe sensitif déficitaire.
+Neuropathies focales et multifocales
+
+Elles comportent :
+
+les atteintes des nerfs crâniens (surtout oculomoteurs, nerf facial) ;
+les atteintes des membres (tous les troncs nerveux, mais surtout le nerf ulnaire, le nerf médian et le nerf fibulaire commun) ;
+l’atteinte du nerf fémoral reste la plus évocatrice : début aigu avec douleurs à type d’écrasement et à recrudescence nocturne, déficit quadricipital amyotrophiant, abolition du réflexe rotulien, déficit sensitif dans le territoire du nerf fémoral (correspondant à une forme d’amyotrophie diabétique tronculaire) (cf. supra).
+Neuropathies du tronc
+
+Douleurs de la poitrine et/ou de l’abdomen de topographie tronculaire (nerf intercostal).
+Traitement
+
+Il repose sur l’équilibre du diabète, le contrôle de la douleur, le traitement de l’hypotension orthostatique.
+
+b. Causes médicamenteuses et toxiques
+Les causes médicamenteuses sont les plus fréquentes.
+Il s’agit le plus souvent de polyneuropathies sensitives, parfois douloureuses.
+Les substances le plus souvent incriminées sont :
+les cytostatiques (notamment la vincristine et les platines : neuronopathies) ;
+le thalidomide ;
+l’izoniazide, la nitrofurantoïne, les antirétroviraux ;
+le disulfirame, la chloroquine, le métronidazole ;
+l'amiodarone.
+L’ENMG peut être utilisé pour dépister les manifestations infracliniques, notamment pour permettre la poursuite de certaines prescriptions (thalidomide).
+Les causes toxiques sont principalement d’origine industrielle, comme le benzène. Elles sont plus rares et peuvent se révéler de manière aiguë.
+c. Polyneuropathie toxique alcoolique
+Deuxième cause de polyneuropathie dans les pays industrialisés après le diabète, elle affecterait plus de 10 % des alcooliques chroniques. Elle est habituellement secondaire à la toxicité directe de l’alcool. L’association à une carence en thiamine (vitamine B1), avec ou sans carence en folates associée, est possible, responsable d’une expression à prédominance motrice de la neuropathie. Elle touche les fibres motrices, sensitives et végétatives. La symptomatologie sensitive est prédominante.
+S’installant de façon insidieuse et lentement progressive, la polyneuropathie liée à l’alcoolisme chronique se traduit au début par des paresthésies à type de fourmillements, des crampes nocturnes des mollets, une faiblesse motrice s’exprimant par une fatigabilité anormale à la marche. Après un certain temps d’évolution, le patient se plaint de douleurs en étau et surtout de brûlures avec paroxysmes en éclair, voire une hyperpathie douloureuse diffuse, surtout nocturne.
+Des troubles cutanés et trophiques (dépilation, anhydrose, ongles cassants) sont fréquemment associés.
+L’examen clinique met en évidence une hypoesthésie symétrique, « en chaussettes », concernant de façon variable les différentes sensibilités, moins marquée pour la sensibilité proprioceptive. Il révèle une aréflexie achilléenne, une amyotrophie et un déficit moteur prédominant sur les muscles de la loge antéro-externe de jambe.
+ENMG : les anomalies sont très précoces, axonales.
+L’examen du LCS, habituellement non effectué si le contexte clinique et les données ENMG sont compatibles avec le diagnostic, pourrait montrer une discrète hyperprotéinorachie.
+Traitement
+
+Il associe l’administration parentérale de vitamines, surtout B1, en cas de carence et de sevrage et un régime riche en protéines,
+
+En cas de douleurs importantes, l’utilisation de tricycliques et/ou d’antiépileptiques.
+
+Cette thérapeutique, associée à l’arrêt de l’intoxication, permet une amélioration clinique et électrophysiologique, mais celle-ci peut s’étendre sur plusieurs mois.
+
+Autres formes cliniques
+
+Une polyneuropathie aiguë, responsable d’une paraparésie flasque amyotrophiante, de troubles sensitifs intéressant toutes les modalités, et d’une aréflexie rapidement ascendante en 24 heures, peut exceptionnellement s’observer chez l’alcoolique dénutri, volontiers à la suite d’un état infectieux.
+Une forme ulcéromutilante comportant un déficit thermoalgique sévère, des maux perforants plantaires avec ostéolyse, arthropathies, a été individualisée.
+Enfin, à côté de certaines formes purement motrices, il convient de signaler des formes végétatives, rarement isolées et comportant des troubles de sudation, une hypotension orthostatique, une impuissance, des troubles trophiques et digestifs. Le pronostic est plus réservé, notamment lorsque sont associés des troubles du rythme cardiaque.
+d. Amylose primitive (ou secondaire : gammapathie)
+La recherche d’une amylose primitive (mutation de la transthyrétine) doit être effectuée devant une polyneuropathie axonale comportant une expression dysautonomique riche et un syndrome du canal carpien uni- ou bilatéral.
+Initialement marquées par un déficit de la sensibilité thermoalgique pouvant s’associer à des douleurs. Les manifestations s’étendent ensuite aux membres supérieurs, au tronc avec des manifestations dysautonomiques.
+Diagnostic :
+il est suggéré par le contexte familial (pas toujours présent) ;
+il est réalisé par la mise en évidence de la substance amyloïde :
+par le test génétique à la recherche d’une mutation sur le gène de la transthyrétine (préalbumine) ; la plus fréquente est la mutation VAL/MET 30.
+dans la biopsie des glandes salivaires accessoires, la graisse abdominale ou la biopsie anale,
+dans la biopsie du nerf sensitif ;
+e. Vascularite
+Vingt à 30 % des vascularites prennent la forme d’une polyneuropathie, même si le mécanisme est vasculaire. Une mononeuropathie multiple est plus évocatrice. Lorsque la neuropathie est évoluée, l’asymétrie disparaît.
+
+f. Causes infectieuses
+Le sida peut entraîner une polyneuropathie sensitive à la phase tardive de l’affection.
+
+g. Autres causes
+D’autres causes plus rares de polyneuropathies axonales sont possibles, telles que les dysthyroïdies.
+
+E. Principales polyneuropathies démyélinisantes
+1. Neuropathie à IgM monoclonale à activité anti-MAG
+Neuropathie de la personne de plus de 50 ans.
+Ataxiante, associée à un tremblement des mains.
+Peu de déficit moteur au début.
+Lentement progressive.
+L’ENMG montre une polyneuropathie démyélinisante à prédominance distale.
+Biologie : pic IgM monoclonal dont le taux est faible, inférieur à 10 g/L (plus rarement supérieur à 10 g/L dans le cadre d’une maladie de Waldenström).
+Présence d’anticorps anti-MAG (myelin-associated glycoprotein, constituant de la myéline intervenant dans la compaction de cette dernière).
+À part, le syndrome POEMS, acronyme en référence aux signes cliniques et biologiques cardinaux de cette affection (Polyneuropathy, Organomegaly, Endocrinopathy, Monoclonal plasma cell disorder, Skin Changes) ; la neuropathie prend généralement la forme clinique d’une polyradiculonévrite chronique.
+
+La cause en est un myélome ostéosclérosant ou mixte recherché sur le rachis ou les diaphyses des os longs.
+2. Neuropathies héréditaires
+Les neuropathies héréditaires sont dominées par les polyneuropathies sensitivomotrices de Charcot-Marie-Tooth : atrophie fibulaire, pieds creux (fig. 7.9), atteinte sensitivomotrice.
+
+Les formes démyélinisantes autosomiques dominantes sont les mieux caractérisées. Le diagnostic est porté par le test génétique : duplication du gène PMP22 sur le chromosome 17 dans les formes dominantes, anomalie du gène de la connexine 32 dans les formes liées à l’X.
+
+Fig. 7.9
+
+Pied creux (neuropathie de Charcot-Marie-Tooth)
+
+F. Neuronopathies sensitives
+1. Présentations cliniques des neuronopathies sensitives (vidéo 7.2)
+Les neuronopathies sensitives correspondent à la dégénérescence des neurones sensitifs dans la racine postérieure des nerfs sensitifs.
+Elles sont caractérisées par des manifestations exclusivement sensitives.
+L’atteinte est typiquement asymétrique et non systématisée en termes de tronc ou de racines, et concerne les quatre membres voire la face (25 % des cas) de manière synchrone ou asynchrone.
+L’ataxie est fréquente.
+L’aréflexie est diffuse et quasi constante.
+Les neuronopathies sensitives prédominent sur les grosses fibres (ataxie) ou les petites fibres (troubles de la sensibilité thermoalgique).
+Suivant les causes, leur évolution est soit chronique soit subaiguë.
+Elles ont le plus souvent un mécanisme dysimmunitaire.
+2. Diagnostic
+Il est porté sur l’association d’une atteinte sensitive pure clinique confirmée par une atteinte sensitive pure à l’ENMG : abolition diffuse des potentiels sensitifs sans anomalie des potentiels moteurs.
+L’analyse du LCS montre :
+une augmentation de la protéinorachie : < 1 g/L ;
+une augmentation du nombre de cellules, qui évoque une origine paranéoplasique.
+Immunologie : la présence d’anticorps anti-Hu est caractéristique d’un syndrome paranéoplasique.
+3. Causes
+Les neuronopathies ont pour causes principales :
+
+le cancer du poumon à petites cellules dans le cadre d’un syndrome paranéoplasique (syndrome anti-Hu) : il convient de rechercher le cancer par les moyens les plus exhaustifs (scanner thoracique, biopsie, TEP-TDM) ; la recherche d’anticorps anti-neuronaux (dont ceux de type Hu) est systématique ;
+le syndrome de Gougerot-Sjögren : recherche de syndrome sec oculaire et buccal, biopsie des glandes salivaires accessoires, biologie ;
+une origine dysimmunitaire sans cause ;
+une origine toxique : sels de platine des chimiothérapies.
+G. Mononeuropathies multiples
+Elles correspondent à l’atteinte de plusieurs troncs nerveux.
+
+Elles sont liées :
+
+aux maladies de système : périartérite noueuse (PAN), sarcoïdose, cryoglobulinémie (devant faire rechercher une infection par le virus de l’hépatite C) ;
+au diabète ;
+à la lèpre (neuropathie la plus fréquente dans le monde).
+1. Clinique
+Dans un ou plusieurs territoires de troncs nerveux (médian, ulnaire, fibulaire).
+Installation aiguë ou subaiguë.
+Douleurs, paresthésies pénibles, brûlures.
+Déficit sensitif puis moteur, évoluant vers l’amyotrophie.
+Évolution extensive, confluente, prenant alors le masque d’une polyneuropathie car devenue symétrique.
+L’atteinte des nerfs des membres est prédominante. L’atteinte des nerfs crâniens est possible (nerfs trijumeaux, nerfs oculomoteurs) en particulier au cours du diabète.
+Le contexte général oriente vers une maladie de système : fièvre, amaigrissement, arthralgies, myalgies et signes cutanés (livedo, purpura).
+2. Examen neurophysiologique
+Montre l’atteinte pluritronculaire axonale.
+Dépiste des anomalies infracliniques.
+Guide la biopsie sur le nerf sensitif le plus atteint pour la recherche d’une vascularite.
+3. Biologie
+À la recherche d’une cause :
+
+NFS, VS, CRP, protéinurie des 24 heures ;
+sérologies : hépatites B et C, VIH ;
+facteur rhumatoïde, C3, C4, CH50, cryoglobulinémie ;
+autoanticorps anti-noyaux, anticorps anti-ADN, anticorps anti-antigènes solubles (SSA, SSB, SM, centromères…), pANCA et cANCA.
+4. Biopsie neuromusculaire
+C’est l’examen clé pour la recherche d’une vascularite. Elle est réalisée sur le nerf sensitif le plus atteint, souvent le nerf musculocutané, branche cutanée du nerf fibulaire.
+
+Elle peut montrer une vascularite nécrosante, avec nécrose fibrinoïde, un infiltrat inflammatoire de la paroi des artères de moyen calibre.
+
+5. Causes
+Vascularites des vaisseaux moyens : périartérite noueuse.
+Vascularites des petits vaisseaux :
+vascularites à ANCA ;
+cryoglobulinémie essentielle ;
+Vascularites associées à une maladie de système :
+cryoglobulinémie en rapport avec une infection par le virus de l’hépatite C ;
+lupus systémique ;
+infection par le VIH ;
+polyarthrite rhumatoïde (en régression).
+Vascularites associées à une probable étiologie : vascularite satellite de cancer.
+La périartérite noueuse peut se manifester par une atteinte isolée des nerfs périphériques.
+Le diabète ne nécessite pas de biopsie neuromusculaire.
+La lèpre, responsable de mononeuropathies multiples à grande prédominance sensitive, est une grande cause de neuropathie dans le monde, mais rare en France.
+6. Traitement
+Le traitement est basé sur les corticoïdes et/ou les immunosuppresseurs.
+
+7. Neuropathies motrices à blocs de conduction persistants
+La neuropathie motrice à blocs de conduction persistants est une mononeuropathie multiple motrice pure dysimmunitaire.
+
+Clinique :
+elle touche habituellement l’homme adulte de moins de 50 ans ;
+début asymétrique, prédominant aux membres supérieurs, touchant un ou plusieurs troncs nerveux en particulier le nerf radial ;
+déficit moteur, fasciculations, amyotrophie dans les territoires atteints.
+Diagnostic : ENMG :
+montre des blocs de conduction, en dehors des zones de rétrécissement anatomique, persistants à trois mois d’intervalle, sur les troncs nerveux touchés ;
+le degré de perte axonale témoigne de l’évolutivité de l’atteinte.
+Biologie : présence d’anticorps anti-GM1 de type IgM.
+Traitement : il repose sur les immunoglobulines polyvalentes intraveineuses. Les corticoïdes peuvent aggraver les signes.
+Diagnostic différentiel : essentiellement la sclérose latérale amyotrophique (cf. infra).
+II. Distinguer cliniquement une neuropathie périphérique et une sclérose latérale amyotrophique
+A. Pour comprendre la SLA
+La sclérose latérale amyotrophique (SLA) ou maladie de Charcot ou maladie de Lou Gehrig aux États-Unis, est une affection motrice pure, liée à un processus dégénératif lésant le neurone moteur central (NMc) et le neurone moteur périphérique (NMp) dans le territoire bulbaire et spinal.
+
+Le pronostic est caractérisé par une évolution constamment fatale : la médiane de survie est de 36 mois en l’absence de traitement.
+
+Cette affection se traduit par une paralysie des muscles striés (motricité volontaire) et respecte la sensibilité et la musculature lisse innervée par le système sympathique et parasympathique. La gravité de cette pathologie est liée au retard diagnostique lié à l’absence de marqueurs et à l’absence de traitement curatif. Il est indispensable d’en faire le diagnostic le plus précocement possible afin de mettre en place au plus tôt une prise en charge adaptée multidisciplinaire qui impactera favorablement la durée d’évolution de la maladie et la qualité de vie des patients.
+
+Il existe deux formes cliniques principales définies par le territoire dans lequel le déficit moteur débute :
+
+la forme bulbaire responsable d’une dysarthrie, d’une dysphonie et de troubles de la déglutition ;
+la forme spinale responsable d’un déficit moteur pur, non systématisé à une racine nerveuse, un tronc et un plexus, unilatéral et distal d’un membre.
+Le diagnostic de SLA repose essentiellement sur des données cliniques et neurophysiologiques qui permettront notamment de distinguer cette affection du motoneurone d’une neuropathie.
+
+Les troubles moteurs s’installent progressivement à partir d’un début focal et d’une sémiologie souvent incomplète au stade initial : ceci conduit à un retard diagnostique de plus de 9 mois dans la majorité des cas.
+
+B. Épidémiologie
+Bien que considérée comme une maladie rare, 4 nouveaux diagnostics de SLA sont portés chaque jour en France.
+L’incidence estimée est de l’ordre de 2,5/100 000 et la prévalence de 4–7/100 000. Il existe une discrète prédominance masculine avec un sex-ratio H/F = 1,3.
+L’âge moyen du début de la maladie est de 63 ans avec des extrêmes s’échelonnant de 25 à 95 ans.
+L’évolution est aussi extrêmement variable :
+25 % des patients auront une évolution rapide d’environ 1 an ;
+10 % verront leur maladie évoluer sur plus de 10 ans avec une évolution maximale rapportée de 44 ans.
+Quatre-vingts à quatre-vingt-dix pour cent des formes sont sporadiques mais il existe dans les 10–20 % restants une transmission familiale du trait pathologique ; cette transmission est majoritairement dominante autosomique liée dans plus de la moitié des cas à une anomalie génétique identifiée.
+C. Diagnostic
+1. Diagnostic clinique de la SLA
+a. Principe du diagnostic
+La SLA se caractérise cliniquement par un déficit moteur pur, progressif combinant un syndrome du motoneurone périphérique (MNp) avec un syndrome du motoneurone central (MNc) dans le territoire bulbaire, cervical et lombosacré.
+
+b. Éléments clés du diagnostic
+Le diagnostic de SLA repose essentiellement sur les données cliniques et l’examen neurophysiologique.
+
+Les autres explorations complémentaires ont plus pour finalité d’exclure les pathologies qui peuvent mimer une SLA.
+
+Il faut pour le diagnostic d’une SLA l’association :
+
+d’un déficit moteur, d’une amyotrophie et de fasciculations témoins de l’atteinte du NMp ;
+de ROT vifs, diffusés polycinétiques, d’un signe de Babinski et/ou de Hoffmann et/ou d’un réflexe massétérin exagéré et d’une augmentation du tonus de type spastique, élastique, décrite classiquement « en lame de couteau » témoin de l’atteinte du NMc. Cette hypertonie est responsable de l’attitude spontanée en flexion-pronation des membres supérieurs et de la marche en fauchant ; d’évolution progressive ;
+et l’absence de troubles sensitifs, sphinctériens, cérébelleux, oculomoteurs.
+La présence de troubles cognitifs n’exclut pas le diagnostic : en effet près de 20 % des patients atteints de SLA développent des troubles cognitifs de type frontotemporaux. Cela se traduit par des troubles du comportement et du langage, des changements dans la personnalité des patients. Il n’y a pas de troubles mnésiques à la différence de ce qui est constaté dans la maladie d’Alzheimer.
+
+c. Principaux tableaux cliniques de la SLA
+Deux formes cliniques prédominent :
+
+les formes bulbaires (25–30 % des SLA avec une prédominance féminine) débutent donc par des troubles de l’élocution associés à une parésie et une atrophie linguale qui se compliqueront de troubles de la déglutition ;
+les formes spinales (60 % des cas avec une prédominance masculine) débutent par un déficit moteur distal et indolore d’un membre responsable d’un trouble de la marche ou d’une difficulté de préhension (écriture, ouverture d’une porte…).
+D’autres formes cliniques existent : 10 % environ des SLA ont un début inhabituel marqué par une atteinte respiratoire, un syndrome de la tête tombante voire un amaigrissement important lié à un hypermétabolisme.
+
+2. Diagnostic positif
+L’examen complémentaire clé est l’électroneuromyogramme ; il permet de confirmer l’atteinte de la corne antérieure, de préciser l’étendue des lésions et d’exclure une atteinte des troncs nerveux, et en particulier une neuropathie motrice multifocale avec blocs de conduction (NMMBC) qui est le diagnostic différentiel principal.
+
+Le diagnostic de SLA sera renforcé par la constatation :
+
+d’une diminution des amplitudes des potentiels d’action moteurs et des vitesses de conduction normales ou peu ralenties et l’absence de blocs de conduction évocateurs d’une NMMBC lors de la stimulation des troncs moteurs ;
+de la normalité de l’exploration neurographique sensitive ;
+de l’enregistrement de tracés myographiques combinant une acticité de dénervation active au repos (potentiels de fibrillations, potentiels lents de dénervation et potentiels de fasciculations) et des tracés neurogènes faits de PUM polyphasiques, de grande amplitude dont la fréquence s’élève avec l’effort. L’un des éléments majeurs est l’impossibilité de la systématisation de ces anomalies qui ne respectent aucun territoire radiculaire, tronculaire et plexique et qui dépassent un territoire radiculaire, tronculaire et plexique.
+Tout comme l’examen clinique, la normalité de l’exploration sensitive neurographique est un élément clé du diagnostic.
+
+3. Quel bilan paraclinique réaliser ?
+Les explorations complémentaires à réaliser devant un tableau de SLA comporteront nécessairement :
+
+une IRM de l’encéphale et de la fosse postérieure si le début est bulbaire ou une IRM de la moelle spinale si le début est spinal.L’imagerie cherchera à éliminer toute lésion extra- et intramédullaire (myélopathie cervicarthrosique, syringomyélie) et des processus expansifs tumoraux ou inflammatoires du SNC (SEP, vascularite). Les situations vasculaires font rarement l’objet d’errance diagnostique avec une SLA compte tenu du terrain polyvasculaire, du début brutal et de la systématisation vasculaire du déficit neurologique et du respect du NMp ;
+un examen ENMG des quatre membres et de la face qui permettra de différencier une atteinte du motoneurone, une neuropathie (cf. infra), une myopathie (dont notamment la myosite à inclusions) et une affection de la jonction neuromusculaire (myasthénie) ;
+le bilan biologique comportera une NFS, un bilan thyroïdien (T4, TSH), une immunofixation des protéines plasmatiques. La réalisation d’une ponction lombaire sera discutée selon le tableau clinique. À la différence de ce que l’on peut noter dans le cas de neuropathies infectieuses ou inflammatoires, l’étude du liquide cérébrospinal est normale sans anomalie du comptage cellulaire, de la protéinorachie et il n’y a pas de synthèse intrathécale ;
+un TEP-TDM corps entier ou un scanner thoraco-abdominal pourront être envisagés en fonction du contexte clinique général notamment chez les sujets jeunes et dans les formes rapidement évolutives pouvant conduire à suspecter un lymphome.
+D. Évolution et prise en charge
+1. Évolution de la SLA
+L’évolution d’une SLA est progressive et imprévisible ; il faut garder en mémoire que 25 % des SLA ont une évolution inférieure à 1 an et 10 % supérieure à 10 ans. Le processus dégénératif va s’étendre à tous les territoires moteurs. Au fur et à mesure de l’évolution les capacités motrices vont diminuer pour conduire à un état de tétraparésie compliqué de troubles bulbaires majeurs responsables d’une perte de l’élocution, de la déglutition et d’une atteinte des muscles respiratoires qui conditionnent le pronostic. Le décès est le plus souvent lié à une atteinte respiratoire responsable d’une hypercapnie. Les morts subites sont rares dans la SLA. Les détresses respiratoires aiguës peuvent aussi être symptomatiques d’une embolie pulmonaire dont le diagnostic est rendu difficile par l’hypercapnie liée à l’atteinte musculaire respiratoire.
+
+La présence de troubles cognitifs peut influencer la prise en charge car l’existence d’une démence est considérée comme un facteur contre-indiquant ventilation non invasive (VNI) et gastrostomie.
+
+2. Traitements
+Le traitement de la SLA commence par l’annonce diagnostique. C’est une étape majeure de la prise en charge car elle va :
+
+informer le patient sur l’origine de ses troubles et notamment sur le caractère irréversible du déficit installé ;
+et permettre la mise en place de la prise en charge multidisciplinaire qui sera détaillée au patient.
+a. Traitement étiologique
+À ce jour, le seul traitement ayant montré un effet positif sur la survie est le riluzole. La posologie recommandée est de 100 mg/j en deux prises. La surveillance biologique se limite à la recherche d’une leuconeutropénie et d’une cytolyse hépatique (NFS, TGO, TGP, ?GT, phosphatases alcalines) dont le risque est majeur lors du premier trimestre de prescription. Les principaux effets secondaires rapportés sont une majoration de l’asthénie, des troubles digestifs (10 %), une hépatite médicamenteuse (5 %). Il faut garder en mémoire que l’effet du traitement est modeste, estimé à un gain de survie de 3 mois.
+
+b. Traitements symptomatiques
+La prise en charge associe au traitement étiologique des traitements symptomatiques :
+
+traitement des troubles de l’humeur ;
+traitement des crampes ;
+traitement de la spasticité ;
+traitement des douleurs ;
+traitement du rire et pleurer spasmodiques ;
+traitement de l’hypersalivation qui est liée à une stase salivaire secondaire à des troubles de la déglutition de la salive. Celui-ci débutera par la prescription d’anticholinergiques. Si la gêne reste invalidante, il faudra parfois envisager une irradiation des glandes salivaires.
+La prévention des thromboses veineuses par héparine de bas poids moléculaire reste controversée.
+
+3. Prise en charge multidisciplinaire
+Elle a fait l’objet d’un consensus appliqué dans les 18 centres de recours et de compétence mis en place sur l’ensemble du territoire français. Elle regroupe des expertises médicales neurologique, pneumologique, nutritionnelle, de médecine physique et paramédicales intégrant une évaluation sociale, psychologique du patient et de son entourage. La prise en charge en kinésithérapie sera orientée vers une mobilisation passive pour prévenir les blocages articulaires, un drainage bronchique, des apprentissages et des adaptations vis-à-vis du handicap. La prise en charge orthophonique favorisera la rééducation de la parole et de la déglutition avec apprentissage des postures limitant les fausses routes. L’évaluation nutritionnelle appréciera les apports quotidiens et adaptera les apports à la fois sur la texture et leur valeur énergétiques en fonction de capacités de déglutition du patient.
+
+4. Traitement des complications vitales
+a. Traitement de l’insuffisance respiratoire
+L’insuffisance respiratoire doit être dépistée dès le début de la prise en charge. Le dépistage se fait sur les données de l’interrogatoire mais surtout sur les anomalies constatées lors des épreuves fonctionnelles respiratoires comportant une gazométrie artérielle et une mesure de la capacité vitale forcée trimestrielle et une oxymétrie nocturne semestrielle idéalement.
+
+L’existence de signes cliniques ou paracliniques (dont principalement une PaCO2 > 45 mmHg et/ou une CVF < 5 0 %) doit conduire à la mise en place d’une VNI.
+
+b. Traitement de la dénutrition
+La dénutrition est un facteur péjoratif indépendant majeur.
+La surveillance régulière d’une perte de poids, la durée du repas (qui devient problématique au-delà de 45 minutes), l’existence de fausses routes doivent conduire à une adaptation des apports par la mise en place d’une complémentation orale dans un premier temps puis d’une sonde de gastrostomie (endoscopique percutanée ou radiologique).
+E. Diagnostics différentiels d’une SLA
+1. Distinguer une SLA d’une neuropathie
+À un stade précoce, l’atteinte motrice peut prédominer sur le NMc ou de façon plus déroutante sur le NMp, conduisant alors à une confusion possible avec une neuropathie périphérique.
+
+Le diagnostic différentiel le plus complexe et le plus important est celui d’une NMMBC dont la présentation clinique mime en tout point celle d’une SLA. À la différence de la SLA, l’âge de début est habituellement plus précoce avec une prédominance masculine et une propension à une atteinte initiale asymétrique des membres supérieurs. Comme dans la SLA, les ROT peuvent être vifs malgré l’atrophie et l’atteinte sensitive absente. À la différence de la SLA, le territoire bulbaire est épargné, l’évolution plus lente. L’élément le plus discriminant est l’ENMG qui objectivera des blocs de conduction sur les troncs moteurs et une distribution tronculaire de l’atteinte. La présence d’Ac IgM anti-GM1 renforcera le diagnostic. La prescription régulière de cures d’immunoglobulines intraveineuses permettra une récupération motrice objective.
+Les syndromes tronculaires étagés (syndrome du canal carpien et/ou du tunnel ulnaire) seront reconnus sur l’existence de troubles sensitifs, le caractère systématisé du déficit neurologique et les données ENMG (+++).
+Les neuropathies motrices post-radiques sont le plus souvent constatées aux membres inférieurs. Elles surviennent dans un délai pouvant varier de 3 mois à 20 ans suivant l’irradiation. L’installation du déficit dans un territoire irradié et la présence de myokimies lors de l’examen ENMG conforteront le diagnostic.
+Les neuropathies secondaires à une intoxication au plomb doivent également être évoquées devant un déficit « pseudo-radial » des mains qui « font les cornes » (lors de l’extension des doigts seuls l’index et l’auriculaire s’étendent à la différence de l’annulaire et du majeur qui restent fléchis). L’existence de douleurs abdominales et d’une anémie renforceront cette hypothèse.
+2. Pathologies musculaires et de la jonction neuromusculaire
+Les formes bulbaires de SLA et, de façon plus rare, les formes débutant par un déficit des extenseurs du rachis cervical, peuvent conduire à suspecter une myasthénie. L’atteinte oculomotrice caractéristique fait défaut dans cette situation. La confirmation sera apportée par l’examen ENMG objectivant une atteinte jonctionnelle neuromusculaire et la positivité du titre anticorps anti-RAch (++).
+La myosite à inclusions est l’une des myopathies acquises de l’adulte les plus fréquentes. Il faut évoquer ce diagnostic devant tout tableau de SLA dont l’évolution est très lente ou nulle et réaliser alors une biopsie musculaire. Classiquement le déficit moteur prédomine sur les quadriceps et les fléchisseurs du carpe.
+Les myopathies parmi lesquelles prédominent les dystrophies des ceintures et les dystrophies myotoniques de type II, les maladies métaboliques comme la maladie de Pompe, le déficit en carnitine et les myopathies inflammatoires comme la polymyosite et les maladies mitochondriales.
+3. Autres affections du motoneurone
+La sclérose latérale primitive se caractérise par une atteinte élective du NMc dans le territoire bulbaire, cervical et lombosacré. Il n’y a pas, à la différence de la SLA, d’atteinte du NMp. Il est actuellement admis que l’absence de signes d’atteinte du NMp après 4 ans d’évolution est nécessaire avant de considérer qu’il s’agit d’une forme pure du NMc.
+Le syndrome crampes-fasciculations bénignes. Ce syndrome associe des crampes isolées et des fasciculations diffuses aggravées par l’effort mais sans atteinte clinique du NMp. L’examen myographique objective des PUM de morphologie normale. Bien que bénin dans la majorité des cas, une surveillance régulière doit être envisagée compte tenu du risque rare d’évolution vers une SLA.
+Le syndrome post-polio (antécédent de poliomyélite invalidante dans l’enfance) est caractérisé par la triade : arthralgies, asthénie et déficit moteur ; principalement dans le territoire touché par l’infection.
+4. Affections non neurologiques
+Une dysphonie d’origine fonctionnelle (somatomorphe) peut parfois conduire à craindre une SLA. La discordance entre la sévérité des troubles et la normalité de l’examen neurologique et neurophysiologique en bulbaire et en spinal doit conduire à douter du diagnostic surtout en l’absence d’évolution de l’atteinte motrice.
+Les pathologies rhumatologiques (arthropathie, capsulite rétractile) pourront parfois être l’objet d’une discussion sur une éventuelle maladie du motoneurone.
+POINTS CLÉS
+
+Polyneuropathies
+
+Les polyneuropathies touchent toutes les fibres des nerfs en fonction de leur longueur.
+
+Elles ont une présentation le plus souvent distale, des membres inférieurs, symétrique.
+
+Polyneuropathies axonales :
+leur étiologie est métabolique (diabète, intolérance au glucose, insuffisance rénale…) ;
+l’amylose doit être évoquée avec l’association de manifestations dysautonomiques ;
+les causes toxiques sont soit exogènes (alcool) soit médicamenteuses (chimiothérapie et médicament antirétroviraux) ;
+en cas de douleurs prédominantes, le caractère asymétrique de la neuropathie doit faire évoquer une vascularite évoluée et discuter une biopsie nerveuse ;
+Polyeuropathies démyélinisantes :
+les formes démyélinisantes sont soit héréditaires, à prédominance motrice, soit acquises, à prédominance ataxiante, en rapport avec une gammapathie monoclonale IgM à activité anti-MAG ;
+le traitement repose sur celui de la cause.
+Les neuronopathies sensitives (atteinte sensitive pure) sont soit paranéoplasiques soit dysimmunitaires (syndrome de Gougerot-Sjögren).
+
+Sclérose latérale amyotrophique
+
+La SLA est une maladie neurodégénérative dont 4 nouveaux cas sont diagnostiqués chaque jour en France.
+C’est une affection liée à une dégénérescence progressive des motoneurones centraux et périphériques.
+Le tableau clinique initial est majoritairement celui d’un déficit distal, asymétrique, non systématisé en termes tronculaires et radiculaires, moteur pur.
+La médiane de survie est de 36 mois pour une affection dont le retard diagnostique est d’environ 1 an : raccourcir ce délai est un enjeu majeur de la prise en charge car plus précoce elle sera, plus efficace elle sera.
+Le diagnostic reste majoritairement clinique : association de signes d’atteinte des motoneurones périphériques et des motoneurones centraux.
+Les troubles cognitifs de la lignée frontotemporale sont fréquents et doivent être recherchés systématiquement.
+Le diagnostic s’appuie sur des données paracliniques dont l’ENMG des quatre membres et de la face : dénervation diffuse.
+Les diagnostics différentiels sont nombreux et doivent être éliminés avant de conclure à une SLA : éliminer les lésions autres du système nerveux (ENMG, IRM) et les maladies mimant la SLA (ENMG, biologie) ; la plupart de ces pathologies sont curables dont les neuropathies motrices à blocs de conduction persistants.
+Privilégier une prise en charge multidisciplinaire globale et précoce dès le diagnostic ; un seul traitement médicamenteux étiologique ; suivi multidisciplinaire.
+ 
+Item 95 – Polyradiculonévrite aiguë inflammatoire (syndrome de Guillain-Barré)
+Épidémiologie et physiopathologie
+Aspects cliniques
+Examens complémentaires
+Surveillance et pronostic
+Synonymes : syndrome de Guillain-Barré, polyradiculonévrite inflammatoire aiguë avec démyélinisation segmentaire multifocale d’origine auto-immune.
+
+I. Épidémiologie et physiopathologie
+On estime l’incidence à 1 pour 100 000, sans prédominance pour une période particulière. Il existe fréquemment un antécédent infectieux respiratoire ou digestif (55 %) dans les 15 jours précédents : cytomégalovirus, virus d’Epstein-Barr (formes démyélinisantes) et diarrhées à Campylobacter jejuni (formes axonales de type AMAN) sont plus particulièrement impliqués.
+Les lésions démyélinisantes du syndrome de Guillain-Barré sont en rapport avec la production et le passage dans les espaces endoneuraux d’anticorps, de cytokines et de protéinases. La démyélinisation est effectuée par le macrophage.
+Une réaction d’immunité croisée (mimétisme moléculaire) est vraisemblable entre le Campylobacter jejuni et des gangliosides du nerf périphérique, responsable de formes axonales.
+Dans les formes axonales, l’atteinte est liée à des blocs de conduction d’origine humorale, à la partie distale du nerf périphérique.
+II. Aspects cliniques (vidéo 7.3)
+On différencie deux types de syndrome de Guillain-Barré :
+le syndrome de Guillain-Barré démyélinisant sensitivomoteur avec risque d’intubation ;
+les neuropathies motrices axonales aiguë (AMAN), secondaires aux diarrhées à Campylobacter jejuni, à nette prédominance motrice, habituellement sans risque d’intubation.
+Les deux types évoluent en trois phases : extension, plateau, récupération.
+Le diagnostic est porté sur la clinique et l’ENMG. L’examen du LCS et l’immunologie sont d’un appoint non indispensable au diagnostic.
+A. Phase d’extension des paralysies
+La phase d’extension dure par définition moins de 4 semaines mais elle est souvent de quelques jours (et peut être inférieure à 1 jour).
+Les manifestations sont variées :
+sensitives fréquentes et plutôt subjectives (paresthésies, picotements distaux des quatre membres) ; à évolution ascendante ;
+parésie débutant aux membres inférieurs, rarement des nerfs crâniens (facial, oculomoteur, dysphagie) à la phase initiale ; l’atteinte du cou et du tronc est plus tardive ;
+douleurs (myalgies, radiculalgies des membres inférieurs évocatrices).
+Elle réalise une parésie relativement symétrique, étendue et sévère, qui prédomine en proximal puis touche les extrémités.
+La gravité de l’atteinte respiratoire (15 à 30 % des patients seront sous ventilation assistée) impose une surveillance attentive en réanimation dès aggravation ou atteinte de la musculature bulbaire (troubles de déglutition ou de phonation).
+Une atteinte faciale bilatérale et une aggravation rapide sont associées à un risque plus élevé de complication respiratoire.
+Une durée courte de la phase d’aggravation dans les formes démyélinisantes est de mauvais pronostic.
+La phase d’extension est plus rapide au cours de l’AMAN qu’au cours du syndrome de Guillain-Barré démyélinisant.
+B. Phase de plateau
+Grossièrement :
+un tiers des patients garde une capacité à marcher ;
+un tiers est confiné au lit ;
+un tiers nécessite une assistance respiratoire.
+Le déficit moteur est d’intensité variable. L’atteinte des nerfs crâniens est fréquente : nerf facial (souvent diplégie) et troubles de déglutition (derniers nerfs crâniens), alors que l’atteinte des nerfs oculomoteurs est plus rare.
+L’aréflexie tendineuse dans les territoires déficitaires est la règle.
+Le déficit sensitif prédomine sur la proprioception et est responsable d’ataxie.
+L’atteinte du système nerveux végétatif est fréquente (tachycardie, hypotension orthostatique, anomalie de la sudation, constipation) dans les formes sévères.
+La durée du plateau est variable, plus longue dans les formes sévères (jusqu’à plusieurs mois) et dans certaines AMAN.
+C. Phase de récupération
+La récupération se fait dans l’ordre inverse de l’apparition des déficits.
+Au cours du syndrome de Guillain-Barré démyélinisant, elle peut durer plusieurs mois.
+Au cours de l’AMAN, la récupération est soit rapide par levée des blocs de conduction sous traitement par immunoglobulines IV, soit très lente sur plusieurs mois en cas de persistance des blocs de conduction distaux et dégénérescence axonale.
+L’absence de récupération après 12 à 18 mois peut être considérée comme définitive.
+Dans les meilleures séries, il existe 5 % de décès ; 15 % des patients gardent des séquelles définitives : déficit moteur, ataxie.
+III. Examens complémentaires
+A. Aspects électrophysiologiques
+1. Au cours du syndrome de Guillain-Barré démyélinisant
+Les anomalies sont habituellement retardées par rapport à la clinique.
+Initialement, allongement de la latence des ondes F et des latences distales en rapport avec l’atteinte radiculaire et distale.
+À la phase d’état, anomalies démyélinisantes (évaluées sur les nerfs moteurs) caractérisées par une augmentation de la latence distale motrice (atteinte des fibres les plus rapides), ralentissement des vitesses de conduction, blocs de conduction, dispersion des potentiels.
+Il n’y a pas de parallélisme entre le degré de la paralysie et les anomalies constatées en début d’évolution
+L’examen de détection met en évidence des anomalies neurogènes.
+Seule l’inexcitabilité des nerfs serait de mauvais pronostic.
+2. Au cours de l’AMAN
+Il n’existe pas d’anomalies sensitives.
+Les amplitudes des potentiels moteurs sont diminuées aux quatre membres.
+La détection montre des tracés neurogènes.
+Il n’y a pas d’anomalies démyélinisantes.
+B. Liquide cérébrospinal
+Son étude permet de mettre en évidence :
+
+une hyperprotéinorachie, pouvant être supérieure à 1 g/L, retardée de 3 à 10 jours par rapport au début de la clinique ; elle peut atteindre plusieurs grammes par litre. Il n’y a pas de parallèle entre l’évolution clinique et l’importance de l’hyperprotéinorachie ;
+une absence de réaction cellulaire (< 10 mm3).
+Une pléiocytose supérieure à 50/mm3 doit faire évoquer un autre diagnostic de neuropathie inflammatoire aiguë, telle qu’une méningoradiculite infectieuse.
+C. Autres examens biologiques
+La biologie standard peut mettre en évidence :
+une lymphopénie ;
+des anomalies du bilan hépatique (augmentation des transaminases).
+La pratique des sérologies n’a qu’un objectif épidémiologique : CMV, EBV ; il faut penser à la séroconversion VIH (cependant rare).
+En cas de diarrhée : sérologie Campylobacter jejuni.
+Immunologie : les anticorps anti-gangliosides IgG anti-GM1 et/ou anti-GD1a sont associés aux AMAN.
+IV. Traitement
+A. Traitements spécifiques
+Le traitement doit être précoce, au mieux dans les deux premières semaines.
+
+Deux modalités sont possibles :
+les immunoglobulines polyvalentes : à la dose de 0,4 g/kg par jour pendant 5 jours consécutifs en IV sur plusieurs heures ;
+les échanges plasmatiques : quatre échanges réalisés 1 jour sur 2.
+Ces deux options thérapeutiques sont d’efficacité équivalente. Les immunoglobulines sont plus utilisées car de réalisation plus simple.
+L’efficacité de ces traitements est prouvée sur la réduction de la durée de ventilation assistée, la rapidité de reprise de la marche et la durée d’hospitalisation.
+Ces traitements n’ont pas modifié le pourcentage de patients avec séquelles.
+L’association échanges plasmatiques et immunoglobulines polyvalentes est inutile.
+Les corticoïdes sont inutiles.
+B. Traitement symptomatiques
+Prévention indispensable des complications de décubitus : héparinothérapie par héparine de bas poids moléculaire, prévention des positions vicieuses favorisées par les déficits.
+Ventilation mécanique si nécessaire.
+Contrôle de la dysautonomie.
+Rééducation précoce et poursuivie pour lutter contre la désadaptation à l’effort.
+Mesures sociales pour l’aide à la reprise du travail.
+V. Surveillance et pronostic
+A. Surveillance
+1. Lors de la phase d’aggravation
+Dépistage des troubles de déglutition.
+Dépistage de difficultés respiratoires : efficacité de la toux, rythme respiratoire, capacité vitale par spiromètre portable afin d’évaluer la capacité vitale.
+2. Lors de la phase d’état
+Troubles végétatifs : modifications du rythme cardiaque, variation tensionnelle.
+Complication de décubitus : thrombose veineuse, positions vicieuses.
+Le transfert en unité de soins intensifs est effectué en cas de risque de décompensation respiratoire ou de complications (infectieuses ou atteinte dysautonomique).
+B. Pronostic
+Sont de mauvais pronostic :
+
+une phase d’aggravation très rapide ;
+une atteinte faciale bilatérale initiale ;
+un âge supérieur à 60 ans ;
+une inexcitabilité des nerfs à l’ENMG ;
+une ventilation prolongée.
+Les récidives du syndrome de Guillain-Barré sont très rares.
+
+POINTS CLÉS :
+
+Polyradiculonévrite aiguë :
+
+deux formes : démyélinisantes classiques et axonales (secondaires aux diarrhées à Campylobacter jejuni) ;
+évolution en trois phases :
+extension des paralysies (déficit rapidement progressif à prédominance proximale aux quatre membres, mono- ou diplégie faciale, aréflexie ostéotendineuse),
+plateau (durée proportionnelle aux séquelles),
+récupération ;
+ENMG : atteinte démyélinisante ou axonale ;
+LCS : augmentation isolée de la protéinorachie ;
+traitements immunomodulateurs (immunoglobulines polyvalentes ou échanges plasmatiques) ;
+importance de la surveillance : réanimation en cas de troubles de déglutition ou difficultés respiratoires, anticoagulants.
+ 
+
+Compléments en ligne
+Des compléments numériques sont associés à ce chapitre. Ils sont indiqués dans le texte par le picto et des flashcodes. Pour voir ces compléments, connectez-vous sur http://www.em-consulte.com/e-complement/474386 et suivez les instructions.
+
+
+Canal carpien.
+À l’interrogatoire, on retient la survenue au cours de la grossesse, l’atteinte bilatérale, le caractère douloureux et nocturne, la nécessité de bouger les doigts pour faire diminuer la douleur. On note également le caractère permanent des dysesthésies et l’atteinte du quatrième doigt. L’examen clinique confirme l’hypoesthésie et les dysesthésies dans les territoires symptomatiques. Les signes de Tinel et Phalen sont négatifs ou peu positifs. L’examen moteur n’est pas montré dans la vidéo.
+
+
+
+Neuronopathie sensitive.
+On retient la symptomatologie initiale à type d’étau dans les membres inférieurs qui évoque une atteinte proprioceptive. L’extension des troubles aux membres supérieurs, également de type atteinte de la sensibilité profonde est asymétrique, touchant d’abord la main droite avant la main gauche. Les troubles sont responsables d’une maladresse gênant l’écriture ou la manipulation des petits objets. Aux membres inférieurs, l’ataxie empêche de fermer les yeux sous la douche, de monter des escaliers où de descendre une pente sans aide. La patiente précise bien qu’il ne s’agit pas d’un manque de force.Si la diffusion des membres inférieurs aux membres supérieurs dans un deuxième temps pourrait évoquer une polyneuropathie, l’atteinte ultérieure asymétrique et le caractère sensitif pur sont en faveur d’une neuronopathie sensitive.Enfin, à l’examen clinique, le signe de Romberg est positif, les réflexes tendineux sont tous abolis. Même si la pallesthésie n’est abolie qu’aux membres inférieurs, le diagnostic (confirmé par l’électroneuromyogramme) est celui de neuronopathie sensitive.
+
+
+
+Polyradiculonévrite aiguë.
+On retient chez cette patiente la survenue à la suite d’une infection respiratoire, de douleurs radiculaires très sévères, continues, touchant d’abord les membres inférieurs puis les membres supérieurs. Elles sont caractéristiques du syndrome de Guillain-Barré et sont prises dans l’exemple pour des douleurs d’origine mécanique. On note également leur apparition aux membres supérieurs. Par la suite surviennent des troubles sensitifs des pieds et des jambes ainsi que des mains. La patiente se plaint aussi de lourdeur des membres inférieurs qui correspondent vraisemblablement à un déficit moteur. Enfin, la paralysie faciale reflète le caractère diffus de l’atteinte neurologique. La patiente montre la déviation de la bouche vers la droite en raison de la paralysie faciale gauche. À noter que la patiente signale que son œil gauche avait tendance à se fermer. Il s’agit vraisemblablement d’une atteinte du muscle frontal responsable de la chute de la queue du sourcil, à ne pas confondre avec l’orbiculaire de l’œil dont le déficit est responsable de la mauvaise occlusion de l’œil dans la paralysie faciale.Il faut également entendre le caractère orienté de l’interrogatoire qui permet de reconstituer les différentes étapes d’une polyradiculonévrite : événement déclenchant, déficit sensitif des quatre membres puis déficit moteur avec paralysie faciale.
+
+ 
+
+ 
+
+0 = Pas de contraction. 1 = Contraction faible sans déplacement. 2 = Déplacement faible si pesanteur éliminée. 3 = Déplacement possible contre pesanteur. 4 = Déplacement possible contre résistance. 5 = Force normale ; la réponse idiomusculaire est conservée.
+
+
+
+
+
+
+
+

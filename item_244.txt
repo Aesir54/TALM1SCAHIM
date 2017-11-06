@@ -1,0 +1,411 @@
+Hémorragie méningée
+
+Objectifs pédagogiques
+Diagnostiquer une hémorragie méningée.
+Identifier les situations d’urgence et planifier leur prise en charge.
+L’hémorragie méningée, ou hémorragie sous-arachnoïdienne (HSA) non traumatique, est définie par l’extravasation de sang dans les espaces sous-arachnoïdiens survenant en l’absence de traumatisme. L’anévrisme cérébral rompu en est la cause la plus fréquente et rend compte d’environ 85 % des HSA. Dix autres pour cent, sont des hémorragies périmésencéphaliques non anévrismales de très bon pronostic et 5 % sont liées à des causes variées. L’incidence annuelle moyenne de l’HSA non traumatique est actuellement de 7–9 pour 100 000 habitants. L’âge médian de survenue d’une HSA est d’environ 55 ans, et elle est plus fréquente chez les femmes (1,6 fois plus). C’est une pathologie grave, caractérisée par une mortalité de 50 % et une dépendance fonctionnelle d’un tiers des survivants. Le risque de resaignement en l’absence de traitement de l’anévrisme rompu et le vasospasme sont en grande partie responsable de ce mauvais pronostic. La gravité de l’HSA est déterminée par l’extension de l’hémorragie vers le parenchyme et les cavités ventriculaires mais aussi par d’éventuelles lésions ischémiques retardées liées à l’altération de la perfusion cérébrale. L’HSA est une urgence diagnostique et thérapeutique qui impose une admission immédiate en milieu spécialisé et pluridisciplinaire pour une prise en charge diagnostique et thérapeutique optimale.
+
+I. Symptômes et signes cliniques
+A. Céphalée brutale
+Il s’agit d’une céphalée soudaine, « explosive », d’emblée maximale, qui domine la présentation clinique.
+
+De nombreuses variantes existent, mais elles gardent la même valeur diagnostique :
+
+céphalée parfois modérée, mais toujours brutale ;
+chez le patient migraineux, le caractère brutal et inhabituel de la céphalée est recherché ;
+perte de connaissance initiale avec récupération rapide. Un coma d’emblée ou une mort subite par inondation massive des espaces sous-arachnoïdiens peuvent survenir ;
+syndrome confusionnel d’installation aiguë, crise épileptique généralisée, voire état de mal. ;
+à signaler, le cas particulier de l’HSA non diagnostiquée au stade aigu (céphalées brutales initiales négligées par le patient ou par le médecin).
+D’autres signes associés inconstants et non spécifiques peuvent s’observer :
+
+des vomissements en jet ou des nausées,
+une photophobie et une phonophobie,
+des troubles de la vigilance (de l’obnubilation au coma).
+B. Signes cliniques initiaux
+1. Signes neurologiques
+Ils sont souvent limités à la raideur méningée (enraidissement douloureux de la nuque), parfois responsable des signes de Kernig et de Brudzinski.
+Des signes neurologiques sans valeur localisatrice peuvent être observés : signes pyramidaux (Babinski bilatéral, réflexes ostéotendineux vifs), paralysie du VI.
+Des anomalies du fond d’œil sont possibles : hémorragies rétiniennes ou vitréennes (syndrome de Terson), œdème papillaire liés à une augmentation brutale de la pression intracrânienne.
+Des déficits neurologiques focaux :
+la paralysie du III intrinsèque et extrinsèque (diplopie) témoigne d’une compression du nerf oculomoteur commun par un anévrisme de l’artère carotide interne (portion supraclinoïdienne, au voisinage de la naissance de l’artère communicante postérieure) ;
+les autres signes de localisation témoignent d’une diffusion intraparenchymateuse de l’hémorragie (hématome intraparenchymateux associé). Sont notamment observés : une hémiparésie, une hémianopsie, une aphasie en cas d’hématome temporal (hémisphère dominant) compliquant un anévrisme de l’artère cérébrale moyenne ; une paraparésie, un mutisme, un syndrome frontal en cas d’hématome frontobasal compliquant un anévrisme de l’artère communicante antérieure ou de l’artère péricalleuse.
+2. Signes extraneurologiques
+Des signes végétatifs systémiques sont possibles. Ils surviennent très précocement après le saignement (dans les premières 24 heures) :
+
+bradycardie ou tachycardie ;
+choc avec œdème pulmonaire et insuffisance cardiaque aiguë (orage catécholaminergique) ;
+instabilité tensionnelle (hypertension sévère à la phase aiguë) ;
+modifications de la repolarisation à l’ECG qui peuvent mimer un infarctus du myocarde ;
+hyperthermie retardée (38–38,5 °C).
+Le score clinique le plus employé pour classifier une HSA est le score de la WFNS (World Federation of the Neurosurgical Societies) qui prend en compte le score de Glasgow du patient et la présence ou l’absence d’un déficit moteur (l’atteinte oculomotrice n’étant pas considérée comme un déficit moteur) (tableau 30.1). Ce score clinique est un score pronostique.
+
+
+
+
+
+
+
+-------------------------------------------------------> Tableau 30.1  Échelle WFNS de l’HSA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+II. Explorations complémentaires visant à affirmer l’hémorragie sous-arachnoïdienne
+A. Imagerie cérébrale
+Il faut distinguer les examens d’imagerie destinés à faire le diagnostic positif d’HSA (scanner cérébral sans injection de produit de contraste, IRM) de ceux destinés à établir le diagnostic étiologique de la cause sous-jacente (anévrisme le plus souvent) que sont l’angioscanner, l’IRM/ARM et/ou l’artériographie cérébrale.
+
+1. Scanner cérébral
+Le scanner cérébral sans injection de produit de contraste est l’examen clé du diagnostic positif, à réaliser de toute urgence. Sa capacité à faire le diagnostic d’HSA dépend de la quantité de sang dans les espaces sous-arachnoïdiens. Il sera positif dans 95 % des cas le premier jour, puis cette proportion va diminuer progressivement avec la résorption du sang extravasé liée à la circulation du liquide cérébrospinal (LCS).
+
+Le scanner cérébral :
+
+affirme le diagnostic lorsqu’il montre une hyperdensité spontanée dans les espaces sous-arachnoïdiens : citernes de la base, vallées sylviennes, et scissure interhémisphérique essentiellement (fig. 30.1). Les anévrismes étant situés à la base du cerveau, les HSA corticales doivent faire évoquer une étiologie autre qu’anévrismale ;
+oriente la localisation de la rupture vasculaire par la prédominance de l’HSA, plus rarement en montrant directement un anévrisme (calcifications de la paroi anévrismale) ;
+recherche des complications précoces : hématome intraparenchymateux associé, rupture intraventriculaire, ischémie cérébrale, hydrocéphalie aiguë, et œdème cérébral.
+Fig. 30.1
+
+Scanner cérébral sans injection (coupe axiale) montrant une hyperdensité spontanée des citernes de la base, des deux vallées sylviennes et basifrontale droite.
+
+Ainsi, le scanner permet d’établir un score radiologique qui prend en compte l’importance de l’HSA, l’existence d’une hémorragie intraventriculaire et/ou intraparenchymateuse. Ce grade, appelé grade de Fisher, est corrélé à la survenue d’un vasospasme artériel (tableau 30.2).
+
+
+
+
+
+
+
+
+------------------------------> Tableau 30.2  Échelle scanographique de Fisher.
+
+Grade
+Aspect du scanner
+1
+Absence de sang
+2
+Dépôts de moins de 1 mm d’épaisseur
+3
+Dépôts de plus de 1 mm d’épaisseur
+4
+Hématome parenchymateux ou hémorragie intraventriculaire
+Un scanner normal n’élimine pas le diagnostic d’HSA. Exceptionnellement, un anévrisme rompu peut se manifester par une hémorragie intraventriculaire isolée, un hématome intraparenchymateux isolé ou un hématome sous-dural aigu isolé sans HSA associée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. IRM cérébrale
+L’IRM est moins utilisée que le scanner en dépistage précoce du fait d’une moindre accessibilité (surtout si le patient est intubé ou agité). Cependant des études rapportent une sensibilité comparable au scanner en période aiguë et meilleure que le scanner dans les jours qui suivent l’HSA du fait d’une capacité plus grande à détecter le sang avec les séquences FLAIR (fig. 30.2) et T2*. Par ailleurs, l’IRM aurait aussi l’avantage de pouvoir détecter un certain nombre d’autres causes (tumeurs, thrombose veineuse cérébrale, syndrome de vasoconstriction cérébrale réversible).
+
+Fig. 30.2
+
+IRM cérébrale (coupe axiale, séquence FLAIR) : HSA corticale frontale gauche.
+
+L’IRM est donc indiquée dans certains cas particuliers, surtout si le scanner est normal :
+
+suspicion de diagnostic différentiel ;
+hémorragie vue tardivement (fig. 30.2).
+B. Ponction lombaire
+La ponction lombaire (PL) n’est jamais faite d’emblée. Rappelons que le premier examen en cas de suspicion clinique d’HSA est le scanner sans injection. La PL reste indiquée en cas de scanner négatif (grade 1 de Fisher), ce qui est parfois le cas pour les HSA de très faible abondance ou les HSA vues de façon retardée. Elle est bien sûr contre-indiquée en cas d’hémorragie responsable d’un effet de masse (hématome intraparenchymateux, hématome sous-dural aigu) dont le diagnostic aura été fait sur le scanner.
+
+Les conditions pratiques de sa réalisation doivent être soigneusement respectées. Il faut distinguer les informations de la PL obtenues au lit du patient des analyses faites en laboratoire de biologie. Les analyses suivantes sont systématiquement réalisées avec acheminement immédiat des tubes au laboratoire :
+
+examen cytologique (comptage des globules rouges et globules blancs) ;
+examen biochimique standard (glycorrachie et protéinorrachie) ;
+examen du surnageant en spectrophotométrie après centrifugation ;
+examen bactériologique direct avec mise en culture (rares hémorragies méningées compliquant une méningite).
+a. Résultats de la ponction lombaire
+Les anomalies caractéristiques du LCS en cas HSA sont les suivantes :
+
+pression du LCS élevée, témoignant de l’augmentation de la pression intracrânienne ;
+aspect visuel : examen des tubes au lit du malade : liquide uniformément rouge (rosé), incoagulable, dans les trois tubes ;
+compte des GR au laboratoire :
+sensibilité élevée mais inférieure à 100 %, et spécificité faible,
+érythrocytes en nombre abondant, rapport érythrocytes/leucocytes supérieur à celui du sang (103),
+la leucocytose possède initialement la même répartition que celle du sang, puis devient à prédominance lymphocytaire ;
+examen du surnageant après centrifugation au laboratoire :
+aspect visuel : teinte rosé jaunâtre du fait de la présence de pigments sanguins (bilirubine et oxyhémoglobine à partir de la 12e heure de l’hémorragie) : sensibilité de 27 à 47 %, spécificité de 98 %,
+analyse par spectrophotométrie : recherche d’oxyhémoglobine, de bilirubine, de méthémoglobine, de ferritine. La sensibilité est de 85 à 100 %, la spécificité de 75 à 95 %.
+Ces résultats s’opposent point par point à ceux d’une PL traumatique (tableau 30.3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------> Tableau 30.3  Tableau comparatif du LCS dans l’HSA et PL traumatique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b. Quand réaliser la PL ?
+Le délai de réalisation de la PL a un impact direct sur ses résultats du fait de la dégradation progressive de l’hémoglobine et de la production continue de LCS qui lave les espaces sous-arachnoïdiens. On retiendra que :
+
+une PL normale réalisée dans les 6 heures qui suivent la céphalée aiguë ne permet pas d’éliminer une HSA. Une PL doit donc être réalisée après 6 heures en cas de scanner normal ;
+la normalité d’une PL 12 heures après le début de la céphalée (avec notamment absence de xantochromie) permet d’éliminer le diagnostic d’HSA.
+III. Causes et facteurs de risque
+A. Principales causes
+L’anévrisme artériel est de loin la principale cause (85 % des HSA). Dans 10 % des cas, l’HSA est idiopathique et de bon pronostic. Les autres causes sont diverses et incluent, entre autres, les dissections artérielles, les malformations vasculaires cérébrales et médullaires, le syndrome de vasoconstriction cérébral réversible (qui associe des céphalées en coup de tonnerre, une vasoconstriction des artères cérébrales réversible en 1–3 mois ; des complications hémorragiques et ischémiques peuvent survenir) (tableau 30.4).
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------> Tableau 30.4  Étiologie des hémorragies sous-arachnoïdiennes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Anévrisme artériel
+Il s’agit d’une dilatation sacciforme (rarement fusiforme) de l’artère dont la zone d’implantation sur l’artère, plus ou moins étroite, est appelée collet. Histologiquement, l’anévrisme correspond à une anomalie pariétale, avec disparition de la média et fragmentation de la lame élastique interne, responsable d’une perte de parallélisme des parois artérielles. La malformation artérielle peut augmenter progressivement de taille, sous l’influence notamment d’une hypertension artérielle, d’un tabagisme et/ou de facteurs hémodynamiques.
+
+Plus de 90 % des anévrismes mesurent moins de 10 mm et siègent au niveau de la circulation antérieure : les localisations préférentielles sont l’artère communicante antérieure (40 %), l’artère carotide interne (30 %), l’artère cérébrale moyenne (20 %) ; puis sur le système vertébrobasilaire (10 %).
+
+2. Hémorragie sous-arachnoïdienne non anévrismale périmésencéphalique
+Cette HSA est centrée sur la citerne située en avant du mésencéphale avec ou sans extension à l’origine des vallées sylviennes. Il s’agit d’un diagnostic d’exclusion et un examen angiographique reste indispensable. La nature de l’examen (angioscanner ou angiographie sera décidée au cas par cas en fonction des centres). En cas de négativité de l’examen angiographique, le diagnostic d’HSA non anévrismale périmésencéphalique peut être retenu et un contrôle angiographique ultérieur n’est pas nécessaire, à la différence d’HSA plus abondantes dont la première angiographie est négative. La cause de cette HSA n’est pas connue. Mais l’évolution est le plus souvent favorable et les complications décrites pour les HSA d’origine anévrismale (resaignement, vasospasme, hydrocéphalie) sont très rares.
+
+B. Facteurs de risque
+Parmi les facteurs de risque des HSA nous distinguerons ceux qui sont acquis de ceux qui sont constitutionnels.
+
+1. Facteurs de risque acquis modifiables
+L’impact sur le risque de rupture a été particulièrement bien établi par des études épidémiologiques pour trois d’entre eux : l’hypertension artérielle en premier lieu, le tabagisme et, à un moindre degré, l’intoxication alcoolique.
+
+2. Facteurs de risque congénitaux non modifiables
+Antécédents familiaux au premier degré d’une HSA anévrismale. Le risque est majoré si deux membres ou plus apparentés au 1er degré ont présenté une HSA.
+Les affections héréditaires du tissu conjonctif exposent au développement d’un anévrisme intracrânien :
+en premier lieu la polykystose rénale ;
+la neurofibromatose de type 1 ;
+le syndrome Marfan ;
+le syndrome d’Ehlers-Danlos.
+Les facteurs propres à l’anévrisme qui majorent le risque de rupture sont mal connus :
+
+le principal facteur semble être la taille de l’anévrisme : le risque est extrêmement faible au-dessous de 6 à 10 mm, mais il existe des HSA consécutives à des anévrismes de petite taille, ce qui explique les incertitudes thérapeutiques face à un petit anévrisme de découverte fortuite (sur IRM pour céphalée bénigne, par exemple) ;
+le second est la localisation sur le polygone de Willis : d’une façon générale les anévrismes de la circulation postérieure (vertébrobasilaire y compris communicante postérieure) ont un risque de rupture plus élevé.
+IV. Explorations complémentaires à visée étiologique
+A. Angioscanner
+L’angioscanner avec reconstruction tridimensionnelle est l’examen à réaliser de première intention pour diagnostiquer l’anévrisme intracrânien. En pratique, il est réalisé immédiatement après le scanner sans injection, qui a permis de faire le diagnostic d’HSA. Il permet de préciser le collet et les rapports de l’anévrisme avec les structures vasculaires adjacentes. Ceci permet, dans de nombreux cas et sans réalisation d’une artériographie, au neuroradiologue et au neurochirurgien de décider ensemble du traitement : soit endovasculaire, soit neurochirurgical. La sensibilité et la spécificité de cet examen sont proches de 100 % pour les anévrismes de taille supérieure à 2 mm.
+
+B. Angiographie cérébrale conventionnelle
+L’angiographie cérébrale par cathétérisme artériel demeure l’examen de référence, mais n’est plus systématiquement réalisée si l’angioscanner identifie l’anévrisme cérébral.
+
+La technique permet une injection sélective des six axes vasculaires (artères carotides internes, artères vertébrales et carotides externes).
+Son résultat permet :
+de confirmer la présence de l’anévrisme artériel (image d’addition opacifiée aux temps artériels précoces sur les artères du cercle de Willis), de préciser sa taille, sa localisation (artère qui le porte), ses rapports avec les axes vasculaires à proximité, sa forme sacculaire ou fusiforme, le siège du collet (cf. fig. 30.3A) ;
+le diagnostic d’autres anévrismes non rompus (20 % des patients présentant une HSA sont porteurs d’anévrismes multiples) ;
+le diagnostic d’un vasospasme des artères cérébrales (rétrécissement concentrique du calibre artériel, fig. 30.3A) ;
+le diagnostic d’autres malformations vasculaires plus rares (fistules artérioveineuses durales alimentées par les carotides externes, malformations artérioveineuses alimentées par les artères intracrâniennes…).
+Elle est parfois normale à l’issue d’un examen complet. Le patient est alors surveillé et une autre angiographie conventionnelle est réalisée 8 jours plus tard en cas d’HSA vraie. En effet, un anévrisme peut être non visualisé car thrombosé ou non opacifié du fait d’un vasospasme.
+Fig. 30.3
+
+Angiographie conventionnelle (temps artériel de profil) : anévrisme de la communicante postérieure avant (A) et après (B) embolisation.
+
+C. Autres examens
+Ils sont demandés au cas par cas :
+
+hémocultures en cas de suspicion d’anévrismes mycotiques (dilatation anévrismale des artères cérébrales d’origine infectieuse, qui est une complication rare et grave des endocardites infectieuses) ;
+examens à la recherche d’une affection congénitale en fonction du contexte familial (échographie rénale pour la polykystose rénale, biopsie de peau pour les affections du collagène, etc.).
+V. Prise en charge
+Toute HSA impose un transfert médicalisé immédiat en milieu neurochirurgical.
+
+Les objectifs du traitement sont de :
+
+lutter contre la douleur du syndrome méningé aigu ;
+supprimer la cause du saignement ;
+prévenir et traiter les complications éventuelles.
+A. Traitement de l’hémorragie sous-arachnoïdienne
+Le traitement est commencé aux urgences où sur le lieu de prise en charge et s’assure avant le contrôle de l’anévrisme, en premier lieu que la ventilation, l’oxygénation et la circulation ne soient pas défaillantes. Puis le patient est transféré en urgence dans une unité de soins intensifs ou une réanimation d’un centre spécialisé assurant une surveillance continue une prise en charge pluridisciplinaire. Le traitement comporte :
+
+l’évaluation d’une hydrocéphalie et/ou d’une hypertension intracrânienne (HTIC) ;
+l’intubation/ventilation en cas de coma, de troubles de la vigilance, de choc cardiogénique ou de détresse respiratoire ;
+le repos strict au lit avec isolement neurosensoriel ;
+l’arrêt des apports par voie orale ;
+la mise en place d’une voie veineuse : une normovolémie est souhaitable ;
+la pose de sonde nasogastrique est discutée en cas de trouble de la vigilance, mais proscrite en cas d’HTIC ;
+le traitement de la douleur par des antalgiques de classe 1 qui ne perturbent pas les fonctions plaquettaires : Perfalgan® par exemple, les salicylés et AINS sont en revanche contre-indiqués ;
+le contrôle rigoureux de la pression artérielle (PA) afin d’éviter les pics d’hypertension et le risque de resaignement. Éviter toute chute brutale de la PA ;
+des antiémétiques ;
+la prévention d’un ulcère de stress ;
+la prévention du spasme artériel par la prescription de nimodipine (inhibiteur calcique) par voie orale ou IV, adaptée à la PA, avec surveillance rapprochée de celle-ci pour éviter toute baisse inadaptée de la PA ;
+la prévention de thromboses veineuses (compression pneumatique puis héparine de bas poids moléculaire une fois l’anévrisme sécurisé) ;
+les antiépileptiques ne sont pas instaurés en l’absence de crise d’épilepsie évidente. Il n’y a donc pas de prophylaxie ;
+le bilan préopératoire : groupe-Rhésus, NFS-plaquettes, TP, TCA, ionogramme sanguin, urée, créatinine, glycémie, ECG, radiographie de thorax ;
+une surveillance : pouls, PA, conscience toutes les heures, température toutes les 8 heures, examen neurologique plusieurs fois par jour à la recherche d’un déficit focal.
+B. Prévention du resaignement
+La prévention du resaignement repose sur le traitement précoce de l’anévrisme intracrânien dans les 24 à 48 heures qui suivent l’hospitalisation (et le plus précocement par rapport à la rupture), compte tenu du pronostic extrêmement grave d’un resaignement.
+
+Ce traitement peut être retardé (au-delà de la 2e semaine) s’il existe :
+
+des troubles de la conscience ;
+des troubles neurovégétatifs sévères ;
+un spasme artériel.
+C. Traitement de l’anévrisme
+Deux types de traitements existent : le traitement chirurgical et le traitement endovasculaire (ou embolisation).
+
+1. Traitement chirurgical
+Historiquement le plus ancien des traitements, il consiste, après ouverture du crâne à disséquer sous microscope opératoire les artères de la base et à positionner un clip au niveau du collet de l’anévrisme.
+
+Les gestes chirurgicaux réalisés lors de la prise en charge d’une HSA peuvent être :
+
+le clippage d’anévrisme ± associé à une évacuation d’un hématome ;
+la dérivation ventriculaire en cas d’hydrocéphalie (avec ou sans hémorragie intraventriculaire) ou d’HTIC ;
+l’évacuation de l’hématome si hémorragie intraparenchymateuse associée à un effet de masse ;
+la craniectomie décompressive si l’on souhaite uniquement traiter une HTIC et un effet de masse sans vouloir réaliser un geste intraparenchymateux.
+2. Traitement endovasculaire ou embolisation
+Le traitement endovasculaire s’est développé à partir des années 1990 avec le développement de spirales de platine à détachement contrôlé. C’est devenu le traitement de première intention des anévrismes rompus depuis la publication de l’étude ISAT (International Subarachnoid Aneurysm Trial) qui a montré une moindre morbidité associée à l’embolisation par rapport à la chirurgie. L’intervention se déroule sous anesthésie générale (en général immédiatement après l’artériographie diagnostique). Un microcathéter est positionné dans l’anévrisme. Des spires de platine (appelés coils) à mémoire de forme et à libération contrôlée sont alors introduites dans le microcathéter puis déployées et larguées dans l’anévrisme. La présence de ce matériel provoque une thrombose de la poche et donc l’exclusion de l’anévrisme de la circulation artérielle (fig. 30.3).
+
+3. Choix du type d’intervention
+Lorsqu’un anévrisme rompu est accessible à l’embolisation, ce traitement est désormais privilégié par rapport à la chirurgie. La décision dépend dans une certaine mesure du centre/de l’équipe qui prend en charge le patient.
+
+Le traitement peut être chirurgical ou endovasculaire en fonction de l’état du patient et surtout de considérations anatomiques (localisation de l’anévrisme, aspect du collet). La décision du traitement optimal est prise au sein d’une équipe multidisciplinaire composée d’un neurochirurgien, d’un neuroradiologue et d’un neuroréanimateur.
+
+Le traitement après contrôle de l’anévrisme repose sur :
+
+la surveillance de la conscience toutes les heures, température toutes les 8 heures, examen neurologique plusieurs fois par jour à la recherche d’un déficit focal ;
+la surveillance du pouls, PA, et la prévention de l’hypotension et de l’hypovolémie/déshydratation extracellulaire ;
+la prévention du spasme artériel par la nimodipine (inhibiteur calcique), avec surveillance de la PA.
+VI. Complications évolutives
+Elles sont nombreuses et graves.
+
+A. Hypertension intracrânienne
+L’HTIC est liée à l’irruption de sang dans l’espace sous-arachnoïdien responsable d’un œdème cérébral. C’est la conséquence à la fois de la présence d’une hémorragie intraparenchymateuse et/ou intraventriculaire associée, mais aussi de l’existence plus rare de foyers d’ischémie. L’HTIC peut être majorée par l’hydrocéphalie aiguë. Le risque d’une HTIC est celui d’une baisse de la pression de perfusion cérébrale qui serait à l’origine de nouvelles lésions ischémiques. L’objectif thérapeutique est donc de maintenir une pression de perfusion cérébrale satisfaisante, donc d’adapter la PA en fonction de la pression intracrânienne (on rappelle que pression de perfusion cérébrale = pression artérielle moyenne – pression intracrânienne).
+
+Le traitement est médical et/ou chirurgical. Il peut inclure une osmothérapie (le mannitol fait partie de l’arsenal pour le traitement d’urgence de l’HTIC, mais il n’y a pas de place pour les corticoïdes. Ils n’ont pas d’intérêt sur l’œdème et sont délétères pour le risque infectieux) avec surveillance stricte tensionnelle et électrolytique et dans certaines situations une craniectomie.
+
+B. Hydrocéphalie aiguë précoce et retardée
+Elle est définie par un élargissement du système ventriculaire et concerne 20 % des patients. Elle est liée à l’obstruction des voies de circulation du LCS. Elle peut être précoce (3–72 heures) ou retardée (3e jour–3e semaine). Les troubles de résorption liés à l’HSA s’installent plus volontiers à distance et rendent compte des hydrocéphalies chroniques.
+
+L’hydrocéphalie aiguë peut être symptomatique (trouble de la vigilance ou coma) ou asymptomatique. Son traitement consiste en la mise en place d’un cathéter de dérivation ventriculaire externe qui est préférentiellement posé avant tout geste d’embolisation. En effet, l’embolisation peut nécessiter des antiagrégants plaquettaires ou des anticoagulants, qui peuvent exposer à des complications hémorragiques lors de la mise en place d’un cathéter de dérivation ventriculaire externe.
+
+Chez les patients conscients que l’on peut examiner, la réalisation d’une PL peut être une alternative. Le sevrage de la dérivation ventriculaire externe doit être fait dans les 2 à 3 semaines qui suivent son implantation du fait d’un risque infectieux non négligeable. En cas d’échec et ou d’hydrocéphalie chronique l’implantation d’une dérivation interne est nécessaire.
+
+C. Récidive hémorragique
+La récidive est fréquente en cas d’HSA par rupture d’anévrisme. Le resaignement est une complication majeure qui peut survenir à tout moment avant l’exclusion de l’anévrisme et qui est grevée d’une mortalité de 40 %. Le risque de resaignement est de 30 à 40 % dans les 24 heures qui suivent la rupture initiale. Ce risque en l’absence de traitement diminue progressivement pour retourner à un seuil d’environ 3 %/an à 1 mois. Ce constat impose un traitement en urgence de l’anévrisme responsable du saignement. Cette seconde hémorragie est souvent plus sévère que l’initiale (et responsable d’un décès dans plus d’un tiers des cas).
+
+D. Vasopasme cérébral
+Le vasopasme consiste en une vasoconstriction sévère et prolongée entraînant des modifications histologiques de la paroi artérielle parfois irréversibles.
+
+Sa fréquence est estimée à 50 % au cours des anévrismes rompus.
+Sa sévérité est fonction du volume de l’HSA.
+Il survient :
+
+au voisinage de l’anévrisme rompu ou s’étend de proche en proche à distance du siège de la rupture ;
+généralement entre le 4e et le 10e jour d’évolution et sa durée est de 2 à 3 semaines.
+Ses conséquences sont variables. Selon son étendue, sa sévérité et l’état de la circulation de suppléance, le vasospasme peut être :
+
+asymptomatique (objectivé uniquement par les examens complémentaires) ;
+symptomatique, responsable d’une ischémie cérébrale diagnostiquée par IRM ou scanner.
+Le vasospasme est mis en évidence par le Doppler transcrânien, qui montre une augmentation des vitesses circulatoires au niveau de l’artère spasmée. Cet examen peut être répété facilement au cours de l’évolution. L’angiographie cérébrale permet de confirmer le diagnostic (fig. 30.4).
+
+Fig. 30.4
+
+Angiographie conventionnelle (temps artériel de face) : vasospasme de la terminaison de la carotide interne et cérébrale moyenne proximal droites avant (A) et après (B) angioplastie.
+
+La prévention de l’ischémie cérébrale consécutive au spasme artériel par la prescription d’inhibiteurs calciques (nimodipine) est systématique en cas d’HSA abondante, compte tenu de sa gravité potentielle. La surveillance tensionnelle doit être stricte, pour prévenir toute chute tensionnelle qui pourrait perturber le maintien de la perfusion cérébrale.
+
+E. Autres complications
+D’autres complications précoces sont d’ordre général :
+
+hyponatrémie par hypersécrétion du facteur natriurétique (SIADH) ;
+hyperthermie, complications de réanimation (pneumopathie, ulcère, etc.) ;
+troubles de la repolarisation et du rythme cardiaque ; insuffisance cardiaque transitoire (orage catécholaminergique) ;
+convulsions.
+F. Complications à distance
+Hydrocéphalie chronique :
+elle se révèle quelques semaines à quelques mois après l’HSA ;
+elle est la conséquence d’un feutrage de l’arachnoïde au niveau des aires de résorption du LCS (granulations de Pacchioni) ;
+la triade symptomatique classique associe des troubles de la marche et de l’équilibre, des troubles sphinctériens et des troubles cognitifs.
+Anosmie pour les anévrismes de la communicante antérieure.
+Épilepsie, notamment en cas : d’HSA abondantes, hémorragies intraparenchymateuses, d’ischémie.
+Troubles cognitifs.
+VII. Pronostic en cas de rupture d’anévrisme
+Le pronostic d’une rupture d’anévrisme est défavorable même s’il a été amélioré ces dernières décennies. Les chiffres sont variables d’une étude à l’autre mais on peut retenir que :
+
+10 à 20 % environ des patients décèdent avant d’arriver à l’hôpital ;
+parmi les patients vivants pris en charge à l’hôpital :
+25 à 40 % des patients décéderont (les 3/4 dans la première semaine qui suit l’hospitalisation),
+35 à 55 % des patients seront indépendants,
+5 à 20 % des patients seront dépendants.
+Le taux de mortalité globale est d’environ 40 à 50 % mais a tendance à diminuer dans tous les pays, ce qui témoigne d’une meilleure prise en charge globale de la maladie. Un tiers des patients retrouveront une vie normale. Les troubles cognitifs ont été moins bien étudiés mais existent chez les patients ayant eu une HSA. Certaines localisations favorisent ces troubles (exemple les anévrismes de la communicante antérieure).
+
+Les facteurs de mauvais pronostic sont les suivants :
+
+âge (plus de 70 ans) ;
+HTIC initiale ;
+taille et localisation de l’anévrisme ;
+consommation alcoolique importante ;
+troubles de la conscience initiaux sévères, déficit neurologique ;
+survenue d’un resaignement précoce (avant exclusion de l’anévrisme) ou d’un vasospasme cérébral ;
+anévrisme non accessible à la chirurgie ou à la neuroradiologie interventionnelle ;
+importance du volume de l’hémorragie.
+ 
+
+POINTS CLÉS :
+
+C’est une pathologie grave, caractérisée par une mortalité de 50 % et une dépendance fonctionnelle d’un tiers des survivants.
+Toute céphalée d’installation brutale (classiquement en coup de tonnerre ou explosive) doit faire pratiquer des examens radiologiques (scanner ± IRM) et biologiques (analyse du LCS) nécessaires en vue de confirmer ou d’infirmer la présence de sang dans le LCS (= HSA).
+Le scanner sans injection est l’examen incontournable pour le diagnostic d’HSA et doit être réalisé en urgence.
+La ponction lombaire est impérative en cas d’anamnèse typique et de scanner sans injection interprété comme normal.
+Le diagnostic d’HSA doit faire rechercher en première intention un anévrisme intracrânien. Les examens clés à visée étiologique sont l’angioscanner, et l’angiographie conventionnelle cérébrale. Ils seront demandés en fonction des habitudes de la structure d’accueil. Un premier examen angiographique négatif doit faire répéter cet examen quelques jours plus tard ;
+L’IRM et l’ARM artérielle sont réalisées plus rarement. Elles sont cependant essentielles dans les HSA autres qu’anévrismales (TVC, tumeurs…).
+L’angiographie conventionnelle peut permettre de dépister une lésion vasculaire non visible sur les examens non invasifs (angioscanner, IRM/ARM). Elle peut être aussi la première étape d’un traitement endovasculaire réalisé en urgence.
+Un transfert immédiat vers un centre où coexistent les spécialités de neuroréanimation, de neurochirurgie, de neurologie et de neuroradiologie diagnostique et interventionnelle est impératif.
+Le traitement de l’anévrisme est urgent pour prévenir un resaignement. Il est réalisé en concertation avec les différents intervenants (neurochirurgiens et neuroradiologues interventionnels).
+L’abondance de l’hémorragie initiale, sa diffusion éventuelle dans le parenchyme et/ou dans les ventricules, sont des caractéristiques déterminantes dans la survenue des complications telles que l’hydrocéphalie et le vasospasme.
+
+
+
+

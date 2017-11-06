@@ -1,0 +1,184 @@
+Myasthénie
+
+Objectifs pédagogiques
+Diagnostiquer une myasthénie.
+Connaître les traitements et planifier le suivi du patient.
+Connaître les médicaments contre-indiqués dans la myasthénie.
+Identifier les situations d’urgence et planifier leur prise en charge.
+I. Pour comprendre
+Myasthénie (ou myasthenia gravis) :
+
+maladie auto-immune liée à un blocage des récepteurs de la plaque motrice par des anticorps anti-récepteurs de l’acétylcholine ou d’autres types d’anticorps : c’est un bloc post-synaptique ;
+la responsabilité du thymus est importante : les récepteurs de l’acétylcholine des cellules myoïdes du thymus entraîneraient la stimulation d’anticorps contre les récepteurs de la jonction neuromusculaire ; le thymus serait une source de lymphocytes T helper stimulant la production de ces anticorps par les lymphocytes B ;
+elle atteint surtout des adultes mais peut survenir à tout âge ;
+entre 20 et 30 ans, elle est plus fréquente chez la femme que chez l’homme (dans une proportion de 3 pour 2), alors qu’au-dessus de 60 ans les cas masculins sont les plus fréquents.
+Syndrome myasthénique de Lambert-Eaton :
+
+maladie auto-immune due à des autoanticorps anti-canaux calciques voltage-dépendants et à une insuffisance de libération de l’acétylcholine : c’est un bloc présynaptique ;
+surtout chez le sujet de sexe masculin âgé de plus de 40 ans ;
+dans 70 % des cas, syndrome paranéoplasique (+++) : 60 % de cancers intrathoraciques, 50 % de cancers bronchiques à petites cellules, 10 % de cancers différents (rein, vessie) ;
+dans 15 % des cas, associé à une autre maladie auto-immune (Biermer, Sjögren…) ;
+dans 15 % des cas, syndrome isolé.
+II. Myasthénie
+A. Diagnostic clinique
+Quelquefois évident, le diagnostic est souvent difficile et longtemps méconnu.
+
+Déficit moteur variable dans le temps (fatigabilité, ou phénomène myasthénique), qui :
+apparaît ou augmente à l’effort ;
+peut se manifester dans les muscles directement mis en action au cours de l’effort ou à distance d’eux ;
+augmente en fin de journée ;
+se corrige au repos.
+Ce déficit moteur est sélectif : il prédomine pour certains muscles (ci-après par ordre de fréquence).
+1. Muscles oculaires et palpébraux
+Ptosis unilatéral au début, qui peut se bilatéraliser par la suite ; il reste habituellement asymétrique (fig. 8.1).
+
+Diplopie, le plus souvent intermittente.
+
+Ptosis et diplopie sont augmentés par la fatigue, la lumière, la fixation d’un objet.
+
+La musculature pupillaire est indemne.
+
+Fig. 8.1
+
+Ptosis unilatéral droit.
+
+2. Muscles d’innervation bulbaire
+Troubles de la déglutition, de la phonation et de la mastication.
+La voix s’éteint progressivement, devient nasonnée puis inintelligible.
+Troubles de la mastication qui apparaissent au cours des repas, le sujet se trouvant parfois dans l’obligation de soutenir sa mâchoire inférieure avec sa main.
+Troubles de la déglutition donnant parfois lieu au rejet des liquides par le nez et pouvant sérieusement entraver l’alimentation.
+Une parésie faciale donnant un faciès atone est souvent associée aux troubles bulbaires.
+La fatigabilité des muscles cervicaux est à l’origine d’une chute de la tête en avant ou de douleurs cervicales liées à un phénomène de contracture.
+3. Autres muscles
+Muscles des membres : l’atteinte prédomine sur les muscles proximaux, plutôt de la ceinture scapulaire.
+Muscles axiaux : extenseurs du tronc avec camptocormie (antéflexion progressive du tronc), muscles abdominaux.
+4. Muscles respiratoires
+L’atteinte peut conduire à une décompensation ventilatoire rapide : gravité (+++).
+
+5. Examen clinique
+Il fait apparaître le phénomène myasthénique en utilisant des tests de répétition des mouvements, comme celui de l’abduction répétée des bras, de l’accroupissement, de l’occlusion des paupières ou de la fixation latérale prolongée du regard.
+
+L’examen peut être normal si les symptômes sont intermittents et s’il est réalisé en période intercritique. Ceci contribue à la difficulté du diagnostic de cette maladie.
+
+6. Évolution
+Chronique et capricieuse, par succession irrégulière de poussées et de rémissions, difficile à schématiser et à prévoir.
+Risques vitaux possibles, du fait des crises myasthéniques se manifestant par des troubles respiratoires, avec dyspnée et encombrement. L’évolution fatale se produit dans plus de deux tiers des cas malgré la réanimation (cf. infra).
+Effet de la grossesse variable mais risque d’aggravation de 30 % en post-partum.
+B. Éléments paracliniques du diagnostic
+1. Recherche des autoanticorps
+Anticorps anti-récepteurs de l’acétylcholine (anti-RAC) :
+présents chez 80 % des malades avec myasthénie généralisée et chez 50 % de ceux avec myasthénie oculaire (cf. infra) ;
+pas de corrélation entre le taux d’anticorps et la gravité de la maladie d’un patient à l’autre ;
+chez un même sujet, le taux peut fluctuer en fonction de l’évolutivité de la maladie ;
+dans les thymomes malins, le taux est très élevé ;
+les formes sans anticorps anti-RAC détectés peuvent être liées à d’autres types d’anticorps.
+Anticorps anti-MuSK (dirigés contre une protéine associée au récepteur à l’acétylcholine ; Muscle Specific Kinase) : 40 % environ des formes sans anticorps anti-RAC.
+Formes séronégatives : pas d’anti-RAC et pas d’anti-MuSK. Il peut exister des anticorps anti-récepteurs de l’acétylcholine de faible affinité, non mis en évidence par les techniques classiques.
+2. Recherche de décrément en ENMG (stimulodétection répétitive)
+Décrément : diminution de l’amplitude du potentiel évoqué musculaire (= 10 %) lors des stimulations répétées du nerf.
+
+Il apparaît pour des fréquences basses de stimulation (le plus souvent à 3 Hz) et pour la 4e stimulation (fig. 8.2).
+
+La sensibilité dépend du territoire où on le recherche : plus sensible dans les territoires cliniquement atteints comme un muscle proximal (trapèze) ou facial. La sensibilité diagnostique ne dépasse pas 50 à 75 %.
+
+Fig. 8.2
+
+Décrément à l’ENMG.
+Diminution de l’amplitude du potentiel évoqué musculaire lors des stimulations répétées du nerf à basse fréquence.
+
+3. Test thérapeutique aux anticholinestérasiques
+À pratiquer en hospitalisation seulement, par crainte d’un syndrome vagotonique ou d’une crise cholinergique (cf. infra).
+Administration d’edrophonium IV (Enlon®, médicament en ATU) ou de néostigmine (Prostigmine®) : par exemple, 1 à 2 amp par voie SC de Prostigmine®, éventuellement associée à 0,5 mg d’atropine pour éviter les effets secondaires intestinaux et une bradycardie.
+La régression ou la disparition des signes neurologiques objectivables, ptosis en particulier, si elle est franche et rapide (délai d’action inférieur à 5 minutes pour l’edrophonium et 30 minutes pour la néostigmine) a un grand intérêt diagnostique.
+4. Imagerie
+Le scanner ou l’IRM thoracique explore la loge thymique à la recherche d’un reliquat thymique suspect d’hyperplasie thymique ou d’un thymome (bénin ou malin) (fig. 8.3).
+
+Fig. 8.3
+
+Scanner thoracique. Thymus hyperplasique résiduel.
+
+C. Pathologies associées
+1. Thymus et myasthénie
+Dans 65 % des cas, hyperplasie thymique (thymus macroscopiquement normal mais caractérisé par la prolifération de follicules germinatifs à centre clair).
+Dans 15 % des cas, thymome (tumeur thymique) ; les thymomes peuvent être bénins ou malins et doivent être opérés.
+2. Myasthénie et maladies auto-immunes
+Affection thyroïdienne : environ 15 % des cas.
+Autres associations dans environ 5 % des cas (polyarthrite rhumatoïde, anémie de Biermer, lupus érythémateux disséminé, etc.).
+D. Formes cliniques
+1. Formes oculaires de myasthénie
+Dans 15 à 20 % des cas.
+L’atteinte reste limitée aux muscles oculomoteurs tout au long de l’évolution. Il faut les distinguer d’une forme oculaire au début qui se généralise ensuite. Ces formes posent essentiellement un problème fonctionnel.
+2. Formes avec anti-MuSK
+Atteinte bulbaire plus fréquente que dans les autres formes.
+Atrophie musculaire des muscles d’innervation bulbaire (langue).
+Fréquence des crises myasthéniques et gravité (++).
+Pas de pathologie thymique associée à la myasthénie avec anticorps anti-MuSK.
+3. Myasthénie néonatale
+Transitoire, elle survient chez 10 à 25 % des enfants de mère myasthénique.
+Les symptômes se manifestent très précocement, durant les 24 premières heures de la vie et se prolongent 2 à 3 semaines, rarement jusqu’à 15 semaines, nécessitant un traitement anticholinestérasique puis ils régressent spontanément.
+Hypotonie associée à des troubles de la succion, de la déglutition et de la respiration.
+E. Traitement
+1. Traitement symptomatique
+Les anticholinestérasiques prolongent l’action de l’acétylcholine au niveau de la membrane post-synaptique par blocage réversible de l’acétylcholinestérase : pyridostigmine (Mestinon®), ambénonium (Mytelase®).
+Posologie à augmenter progressivement jusqu’à la dose optimale (efficacité versus effets secondaires), à adapter à chaque patient et en fonction de son activité physique.
+Efficacité moindre voire intolérance dans les formes avec anti-MuSK.
+Durée d’action brève, de 4 à 5 heures, nécessitant des prises répétées dans la journée.
+Risque d’une crise cholinergique avec surdosage : effets muscariniques (hypersécrétion bronchique, intestinale, salivaire et sudorale) et nicotiniques (fasciculations, crampes musculaires).
+2. Traitements de fond
+Corticothérapie avec possibilité d’une aggravation transitoire la première semaine.
+Immunosuppresseur : azathioprine (Imurel®) surtout, mycophénolate mofétil (Cellcept®).
+Thymectomie : effet bénéfique sur l’évolutivité de la maladie, en particulier chez le sujet jeune de moins de 40 ans porteur d’une hyperplasie thymique ; également indiquée en cas de thymome. Elle n’est pas indiquée dans les formes avec anti-MuSK.
+3. Traitements des poussées évolutives
+Immunoglobulines polyvalentes IV (par exemple, 0,4 g/kg par jour pendant 5 jours).
+Alternative : échanges plasmatiques (efficacité équivalente).
+4. Autres
+Tout patient doit porter sur lui une carte de myasthénie et la liste des principaux médicaments interdits (Encadré 8.1 Médicaments contre-indiqués)
+Tous les médicaments susceptibles d’altérer la transmission neuromusculaire sont contre-indiqués au cours de la myasthénie, en distinguant les contre-indications absolues et relatives et en appréciant le rapport bénéfice-risque.
+En cas de doute chez un patient, il ne faut pas hésiter à consulter le Vidal pour chercher d’éventuelles contre-indications ou vérifier la liste des médicaments contre-indiqués remis habituellement au patient par son médecin spécialiste.
+Contre-indications absolues : D-pénicillamine, curarisants, antibiotiques du groupe des aminosides, colimycine, bacitracine, polymyxine et cycline injectable, bêtabloquants même locaux, phénytoïne, diphényl-hydantoïne, triméthadione, dantrolène, quinine, quinidine, chloroquine, procaïnamide.
+Contre-indications relatives : phénotiazines, carbamazépine, benzodiazépines, neuroleptiques, vérapamil, lithium, progestérone.
+Prise en charge à 100 % (ALD).
+La grossesse est possible sous anticholinestérasiques ; des poussées de la maladie sont possibles dans le post-partum.
+III. Syndrome myasthénique de Lambert-Eaton
+Déficit moteur des membres inférieurs accompagné d’une fatigabilité excessive, sans amyotrophie.
+Réflexes faibles ou absents, surtout aux membres inférieurs (ils sont facilités et apparaissent si on les recherche immédiatement après un effort musculaire).
+Des signes d’atteinte céphalique évoquant une myasthénie sont parfois présents (moins fréquents que dans la myasthénie).
+Dysautonomie cholinergique possible (troubles de la motricité pupillaire, de la sudation, des sécrétions salivaire et lacrymale, impuissance…).
+ENMG :
+potentiel d’action musculaire au repos d’amplitude très diminuée par rapport à la normale et dont l’amplitude augmente de plus de 100 % immédiatement après tétanisation ;
+stimulation nerveuse répétitive à fréquence rapide (10 à 50 Hz) : incrément toujours supérieur à 100 %.
+Anticorps dirigés contre les canaux calcium présynaptiques voltage-dépendants.
+Médicaments pour augmenter le nombre de quanta d’acétylcholine libérés : 3,4-diaminopyridine.
+Dans les formes paranéoplasiques, l’évolution dépend du traitement du cancer. Dans les autres formes, un traitement immunosuppresseur ou immunomodulateur peut être proposé comme dans la myasthénie.
+IV. Autres anomalies de la transmission neuromusculaire
+A. Botulisme
+Il survient après ingestion de conserve avariée contenant une neurotoxine paralysante produite par des bactéries du genre Clostridium.
+Douze trente-cinq heures après l’ingestion : nausées et vomissements, troubles de la vision, diplopie, sécheresse des muqueuses buccale et trachéale, déficit moteur généralisé à prédominance proximale.
+L’évolution peut être sévère en cas de survenue de complications respiratoires.
+ENMG : anomalies similaires à celles du syndrome de Lambert-Eaton, témoignant d’un trouble présynaptique de la libération d’acétylcholine.
+B. Autres
+Venins de serpents.
+Intoxication par le magnésium (chez l’insuffisant rénal notamment).
+Traitement par D-pénicillamine.
+Syndromes myasthéniques congénitaux par anomalie génétique : très rares.
+POINTS CLÉS
+
+La myasthénie auto-immune est de loin la plus fréquente :
+
+déficit moteur lié à l’effort et fluctuant ;
+ptosis, diplopie, voix nasonnée, troubles de la déglutition, muscles de la nuque, ceinture scapulaire ;
+diagnostic confirmé par :
+la présence d’anticorps anti-récepteurs de l’acétylcholine ou anti-MuSK,
+la présence d’un bloc neuromusculaire à l’ENMG : décrément,
+le test thérapeutique aux anticholinestérasiques (hospitalisation si forme injectable) ;
+intérêt de la recherche :
+d’une hyperplasie thymique ou d’un thymome (scanner thoracique),
+d’une autre maladie auto-immune associée ;
+traitements :
+anticholinestérasiques (Mestinon® ou Mytelase®),
+thymectomie (sujet jeune et thymome),
+immunodépresseurs (corticoïdes ou immunosuppresseurs),
+immunoglobulines IV ou échanges plasmatiques pour passer un cap difficile (crise myasthénique),
+remettre une liste des médicaments formellement contre-indiqués au malade ;
+gravité de l’atteinte de la musculature respiratoire (détresse aiguë : crise myasthénique).
+Les autres syndromes myasthéniques sont beaucoup plus rares : syndrome de Lambert-Eaton (souvent paranéoplasique).

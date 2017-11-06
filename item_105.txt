@@ -1,0 +1,130 @@
+Mouvements anormaux
+
+Objectif pédagogique
+Argumenter les principales hypothèses diagnostiques et justifier les examens complémentaires pertinents.
+I. Pour comprendre
+Les mouvements anormaux et/ou involontaires sont le plus souvent causés par un dysfonctionnement, une lésion ou une pathologie dégénérative affectant le système des noyaux gris centraux (ou ganglions de la base) appelé aussi système extrapyramidal (en opposition à la voie de l’exécution volontaire du mouvement appelée système pyramidal).
+Les ganglions de la base sont responsables de la programmation et de l’exécution automatique des séquences motrices apprises.
+Les mouvements anormaux correspondent à un trouble de la programmation et/ou de l’exécution du mouvement.
+Ils ont deux caractéristiques : ils sont peu ou pas contrôlés par la volonté et surviennent en l’absence de paralysie (sauf en cas d’atteinte associée du système pyramidal liée à la pathologie sous-jacente).
+Le diagnostic positif de ces mouvements anormaux est clinique, mais le diagnostic étiologique nécessite parfois de faire des examens complémentaires biologiques (y compris génétiques) ou d’imagerie.
+La reconnaissance des différents types de mouvements anormaux repose sur l’observation clinique (d’un patient réel, d’une vidéo ou d’un mouvement mimé). Les étudiants pourront se reporter à l’onglet premier cycle du site internet du collège pour visualiser les principales formes sémiologiques de ces mouvements anormaux.
+L’examen d’un patient présentant des mouvements anormaux repose beaucoup sur l’inspection mais l’interrogatoire (mode d’apparition du mouvement anormal, recherche de prise de toxique ou de médicament) et l’examen clinique à la recherche d’une autre anomalie neurologique ou non neurologique sont aussi primordiaux.
+Tous les mouvements anormaux peuvent être dus à la prise d’un médicament (mouvement anormal iatrogène) ou d’un produit toxique  (il faut rechercher/évoquer l’origine iatrogène d’un mouvement anormal ou l’implication possible des neuroleptiques [ou antipsychotiques] dans un syndrome parkinsonien) . Le cas échéant, il conviendra d’arrêter le médicament si possible et si nécessaire de le substituer par un autre médicament mieux toléré.
+II. Différents types de mouvements anormaux
+A. Tremblement
+Oscillation rythmique involontaire de tout ou partie du corps autour de sa position d’équilibre. On distingue deux grands types de tremblement : ceux qui surviennent sur des muscles au repos (caractéristique du syndrome parkinsonien et plus particulièrement de la maladie de Parkinson), et ceux qui surviennent sur des muscles activés (c’est-à-dire à l’action) avec des composantes posturale et intentionnelle souvent associées (fig. 17.1, et vidéos infra).
+
+Fig. 17.1
+
+
+
+Manœuvres permettant de distinguer un tremblement de repos d’un tremblement d’action (postural ou intentionnel).
+
+Remerciements au professeur Emmanuelle Apartis.
+
+1. Tremblement de repos (ou tremblement parkinsonien)
+Présent au repos et disparaissant lors de la contraction musculaire et du sommeil.
+Lent (4–6 Hz).
+Touchant les membres en distalité, les lèvres ou le menton, jamais le chef.
+Unilatéral ou asymétrique.
+Aggravé par les émotions et le calcul mental.
+Examiné en position de repos (mains reposant sur un plan ou sur les cuisses, paumes tournées vers le haut chez un patient décontracté). Les mains étant au repos lors de la marche, un tremblement d’une main survenant lors de la marche est habituellement un tremblement parkinsonien (vidéos 16.1, 16.2 et 17.1).
+
+Vidéo 17.1 Tremblement du menton.
+
+
+
+Scintigraphie cérébrale au DaTScan® : dénervation dopaminergique nigro-striatale avec hypofixation (flèche) du DaT dans la maladie de Parkinson (B).
+
+Fixation dopaminergique nigro-striatale normale dans le tremblement essentiel (de même que dans le syndrome parkinsonien lié aux neuroleptiques (A)).
+
+Si le diagnostic de maladie de Parkinson est fortement suspecté et qu’il s’agit d’un individu âgé de plus de 40 ans, aucun examen complémentaire n’est nécessaire.
+
+À l’inverse, une IRM cérébrale et un bilan cuprique comprenant cuprémie, céruléoplasminémie et cuprurie des 24 heures sont nécessaires avant 40 ans pour éliminer une maladie de Wilson.
+
+Le traitement de la maladie de Parkinson est abordé dans le chapitre 16 (Item 104 – Maladie de Parkinson). Pour traiter le tremblement dans la maladie de Parkinson, les agonistes dopaminergiques (pramipexole [Sifrol®], ropinirole [Réquip®], rotigotine [Neupro®], piribédil [Trivastal®]) et les anticholinergiques comme la trihexyphénidyle (Artane®) peuvent être plus efficaces que la L-dopa (Modopar®, Sinemet®). Celui du tremblement lié au neuroleptique repose sur l’arrêt du neuroleptique en cause. Le traitement spécifique de la maladie de Wilson sera brièvement évoqué plus loin.
+
+2. Tremblement d’action
+Présent lors du maintien d’une posture (tremblement postural) et/ou de l’arrivée à la cible (tremblement intentionnel).
+La cause la plus fréquente de tremblement postural est le tremblement essentiel.
+Le tremblement cérébelleux est un tremblement surtout intentionnel.
+Le tremblement essentiel (vidéo 17.5 ) en est la cause la plus fréquente, il s’agit d’un tremblement d’action, à la fois postural (vidéo 17.6 ) et intentionnel évoluant lentement sur plusieurs années et parfois décennies. Ce tremblement peut être mis en évidence lorsque le patient écrit, reproduit une spirale, maintient une posture comme tendre les mains devant lui (manœuvre des bras tendus appelée aussi manœuvre du serment) ou rapprocher ses index à l’horizontale (manœuvre du bretteur), fait une action comme verser de l’eau d’un verre à l’autre (épreuve des verres) ou tient une note à voix haute. Il peut être handicapant dans la réalisation des gestes de la vie quotidienne.
+
+Vidéo 17.6 Flapping tremor (myoclonies rythmées).
+
+
+
+IRM cérébrale (séquence T2/FLAIR) révélant une atrophie modérée du striatum (flèche) dans une forme débutante de maladie de Huntington (A), comparativement à un patient contrôle (B).
+
+b. Traitement : uniquement symptomatique
+Troubles psychiatriques : neuroleptiques atypiques de type olanzapine (Zyprexa®), aripiprazole (Abilify®), pimozide (Orap®), rispéridone (Risperdal®).
+Chorée : tétrabénazine (Xénazine®) ou neuroleptiques atypiques.
+Dépression : antidépresseurs inhibiteurs de la recapture de la sérotonine, thymorégulateurs, neuroleptiques atypiques.
+Anxiété, insomnie : anxiolytiques et/ou hypnotiques.
+Prise en charge multidisciplinaire (ALD, sociale, kinésithérapie, orthophonie).
+2. Autres chorées
+Vasculaires : responsables d’un tableau d’hémichorée aiguë (voire d’hémiballisme) souvent transitoire (quelques heures à quelques jours) liée à un infarctus dans le territoire de l’un des noyaux gris centraux (par exemple le striatum responsable d’une hémichorée controlatérale ou le noyau subthalamique appelé aussi corps de Luys responsable d’un hémiballisme controlatéral).
+Médicamenteuses : L-dopa et agonistes dopaminergiques (responsables des dyskinésies de pic de dose appelées aussi dyskinésies de milieu de dose), neuroleptiques, antiépileptiques, lithium, inhibiteurs calciques, cocaïne, amphétamines ou toxique (monoxyde de carbone).
+Endocriniennes : contraception orale, grossesse (dosage ß-HCG).
+Métaboliques : thyréotoxicose (dosage de la TSH), hyperglycémie sans cétose (doser la glycémie).
+Infectieuses (VIH, toxoplasmose, Creutzfeldt-Jakob) ou post-infectieuses (chorée de Sydenham, correspondant à la survenue d’une chorée dans les semaines après une angine streptococcique non traitée par antibiotique : rechercher les anticorps anti-streptolysine O et anti-streptodornase).
+Inflammatoires : lupus (parfois responsable de la classique hémichorée lupique), syndrome des antiphospholipides (doser les anticorps antiphospholipides, les anticorps antinucléaires), thyroïdite d’Hashimoto (doser la TSH et les anticorps anti-TPO).
+Causes paranéoplasiques : rechercher les anticorps antineurones et un cancer.
+C. Dystonie
+Contraction musculaire involontaire, prolongée, responsable d’une posture anormale et/ou de mouvements répétitifs, aggravée par les mouvements et habituellement stéréotypée.
+
+Il peut donc s’agir d’une posture et/ou d’un mouvement anormal (cf. vidéo).
+
+Dystonie focale : un segment du corps est atteint (vidéo 17.15 ).
+
+Vidéo 17.15  Dystonie du pied.
+
+
+
+Hypersignaux des ganglions de la base et notamment du putamen gauche (flèche blanche), ainsi que du cortex (flèche noire) dans une maladie de Creutzfledt-Jakob (séquence T2/FLAIR).
+
+E. Tic
+Mouvement soudain, bref, intermittent, stéréotypé (aspect de « caricature de geste normal »), répétitif. Il peut être précédé d’une sensation prémonitoire (sensation interne de besoin de bouger précédant le tic) et est contrôlable par la volonté pendant quelques minutes au prix d’une tension interne croissante et d’un phénomène de rebond survenant après l’effort de contrôle. Le tic est le mouvement anormal le plus fréquent.
+
+Le tic peut être simple et ne toucher que quelques muscles (clignement des yeux, secousse de la tête, haussement des épaules…) ou être complexe et correspondre à une séquence motrice élaborée.
+
+Les tics moteurs s’opposent aux tics vocaux (cri, reniflement, raclement de gorge…) qui peuvent parfois correspondre à des obscénités appelées coprolalie.
+
+Les tics peuvent être bénins et isolés, survenant le plus souvent dans l’enfance et ne pas compromettre l’adaptation socioprofessionnelle, ou correspondre à la maladie de Gilles de la Tourette définie par la combinaison de tics moteurs et vocaux simples et complexes présents tous les jours, ayant un retentissement sur le fonctionnement du patient et son adaptation socioprofessionnelle, et parfois associés à des comorbidités (troubles obsessionnels compulsifs, dépression, anxiété, syndrome d’hyperactivité avec déficit attentionnel, automutilation ou autisme).
+
+Le diagnostic positif de tic repose sur la clinique, de même que le diagnostic de syndrome de Gilles de la Tourette.
+
+Le traitement du syndrome de Gilles de la Tourette est symptomatique et multidisciplinaire et doit être adapté à la gêne. Une abstention thérapeutique peut être proposée quand la gêne causée par les tics est absente ou minime. En cas de gêne modérée à sévère, un traitement par neuroleptique de type olanzapine (Zyprexa®) ou aripiprazole (Abilify®) peut être proposé. Un traitement adapté aux comorbidités (antidépresseur, anxiolytique, amphétamine) peut aussi être proposé. Une psychothérapie adaptée ainsi qu’une prise en charge du retentissement social du trouble et de ses comorbidités sont parfois indispensables.
+
+F. Dyskinésie
+Littéralement, il s’agit d’un mouvement anormal, sans plus de précision. Il peut mêler différentes composantes précédemment citées. Le plus souvent il s’agit de mouvements choréiques et/ou dystoniques. Le terme de dyskinésie est habituellement réservé :
+
+soit aux mouvements anormaux involontaires induits par la L-dopa dans la maladie de Parkinson (dyskinésies de pic de dose [ou de milieu de dose] ou dyskinésies biphasiques [de début ou de fin de dose]) ;
+soit aux dyskinésies induites par les neuroleptiques (ou antipsychotiques), parmi lesquelles on distingue les dyskinésies précoces (dystonie cervicale, crises oculogyres, trismus, plus volontiers chez les sujets jeunes et à traiter par injection d’anticholinergique de type tropatépine [Lepticur®] 10 mg en intramusculaire ou en intraveineuse lente), les dyskinésies tardives lors de cures prolongées (dyskinésies bucco-facio-masticatoires à l’origine de troubles de la phonation, de la déglutition et d’un mauvais état dentaire) difficiles à traiter, et l’akathisie (piétinement incessant).
+ 
+
+POINTS CLÉS
+
+Un tremblement de repos pur est un tremblement parkinsonien, dont la cause la plus fréquente est la maladie de Parkinson (dont le diagnostic ne nécessite aucun examen complémentaire).
+Un tremblement d’action et notamment postural sans autre symptôme associé est le plus souvent un tremblement essentiel (dont le diagnostic ne nécessite aucun examen complémentaire).
+Un tremblement d’action d’étiologie indéterminée justifie de doser la TSH à la recherche d’une hyperthyroïdie.
+La présence de tics moteurs et de tics vocaux de façon chronique évoque un syndrome de Gilles de la Tourette, et ne justifie pas d’imagerie cérébrale s’il n’y a pas d’autre signe neurologique associé.
+Une imagerie cérébrale est indiquée dans le bilan étiologique des tremblements cérébelleux, des tremblements d’action asymétriques, en cas de tremblement de début brutal et en cas de suspicion de maladie de Wilson.
+Une imagerie cérébrale et un bilan biologique sont indiqués en cas de chorée, de dystonie (notamment en cas d’hémidystonie) ou de myoclonie d’origine indéterminée.
+Tout mouvement anormal (et notamment un tremblement) apparaissant avant l’âge de 50 ans doit conduire à éliminer une maladie de Wilson (IRM cérébrale, bilan cuprique).
+L’association de troubles psychiatriques et de mouvements anormaux (en dehors des mouvements anormaux liés à la prise de neuroleptiques) doit conduire à rechercher une maladie de Huntington, une maladie de Wilson, une maladie de Creutzfeldt-Jakob (en cas de début récent des symptômes), un lupus et une maladie de Gilles de la Tourette.
+Un conseil génétique doit être systématiquement proposé en cas de diagnostic de maladie de Huntington, pour le patient et pour ses apparentés à risque asymptomatiques majeurs.
+Face à un mouvement anormal, il faut toujours rechercher des antécédents de mouvements anormaux dans la famille.
+Devant tout mouvement anormal, une cause toxique, notamment médicamenteuse, doit être recherchée.
+Les neuroleptiques peuvent causer tout type de mouvement anormal (mais pas d’ataxie ni de tremblement cérébelleux).
+Une chorée peut révéler une maladie auto-immune, notamment un syndrome des anticorps antiphospholipides ou un lupus érythémateux disséminé (doser les anticorps antinucléaires, antiphospholipides…), une grossesse (doser les ß-HCG) ou une hyperthyroïdie (doser la TSH).
+Associées à des troubles de la vigilance, les myoclonies doivent conduire à rechercher en priorité une encéphalopathie métabolique, toxique ou infectieuse.
+Le DaTSCAN® est justifié pour différencier un tremblement essentiel d’un tremblement lié à une maladie de Parkinson ou pour différencier une maladie de Parkinson d’un syndrome parkinsonien lié aux neuroleptiques. Le DatSCAN® est normal dans le tremblement essentiel et dans le tremblement parkinsonien lié au neuroleptique.
+Un enregistrement électromyographique du tremblement permet de déterminer la nature d’un mouvement anormal (tremblement, dystonie, myoclonie) et d’en préciser les caractéristiques (tremblement de repos/action, fréquence du tremblement…).
+ 
+
+Compléments en ligne
+Des compléments numériques sont associés à ce chapitre. Pour accéder à ces compléments, connectez-vous sur www.em-consulte.com/e-complement/474386 et suivez les instructions pour activer votre accès.
+
+Site Internet du Collège des enseignants de neurologie : www.cen-neurologie.fr

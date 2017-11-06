@@ -1,0 +1,409 @@
+Confusion, démences –– Troubles cognitifs du sujet âgé –– État confusionnel et trouble de la conscience chez l’adulte et chez l’enfant
+
+Objectifs pédagogiques
+Item 106
+
+Diagnostiquer un syndrome confusionnel, savoir évoquer un hématome sous-dural chronique.
+Diagnostiquer un syndrome démentiel, une maladie d’Alzheimer.
+Argumenter l’attitude thérapeutique et planifier le suivi du patient en abordant les problématiques techniques, relationnelles, éthiques, organisationnelles consécutives à l’évolution de la maladie.
+Item 129
+
+Orientation diagnostique devant des troubles cognitifs du sujet âgé et principales causes.
+Item 338
+
+Diagnostiquer un état confusionnel et un trouble de la conscience.
+Identifier les situations d’urgence et planifier leur prise en charge préhospitalière et hospitalière.
+ 
+
+I. Démence
+A. Pour comprendre
+La démence est un syndrome défini par la présence simultanée des deux critères suivants :
+altération durable d’une ou plusieurs fonctions cognitives (ou fonctions intellectuelles : mémoire, attention, langage, gnosies, praxies, raisonnement, jugement, etc.) et/ou comportementales (personnalité, affects, régulation des conduites sociales, etc.) ;
+les troubles ci-dessus sont suffisamment sévères pour entraîner, indépendamment des autres atteintes (de la motricité, par exemple), une altération de l’autonomie dans la vie quotidienne.
+Ce qui n’est pas une démence :
+les affections de début brusque à leur phase aiguë (un accident vasculaire, un syndrome de Korsakoff, une méningo-encéphalite herpétique, etc.) ;
+l’état confusionnel : début brusque, atteinte globale des fonctions cognitives, troubles de vigilance ; physiopathologie différente.
+Il existe une gradation de la sévérité de la démence en fonction de son retentissement dans la vie quotidienne (légère, modérée et sévère).
+Les causes des démences sont dominées par les maladies neurodégénératives (70 à 90 % des démences) et surtout par la maladie d’Alzheimer (plus de 70 % des démences neurodégénératives).
+Les démences dégénératives sont des démences dont la cause n’est pas directement reliée à un mécanisme carentiel, métabolique, vasculaire, inflammatoire, tumoral, infectieux, toxique ou traumatique.
+La neurodégénérescence est un processus pathologique conduisant à la perte lente mais inexorable des cellules nerveuses. Les causes sont multiples (la plupart du temps, il s’agit de protéinopathies). Il ne faut pas confondre la neurodégénerescence avec le vieillissement normal.
+La première étape du diagnostic des démences repose sur le principe d’un regroupement des signes et symptômes en syndrome puis sur une interprétation topographique du syndrome, qui conditionne souvent le diagnostic étiologique. Il est donc indispensable d’avoir au minimum une représentation schématique des grandes fonctions cérébrales et de disposer de quelques outils cliniques de base permettant de tester ces grandes fonctions (cf. annexes 18.1 et 18.2).
+La personne âgée peut présenter des troubles cognitifs légers non pathologiques : il s’agit de difficultés n’entravant pas l’autonomie et touchant ce que l’on appelle les fonctions exécutives (cf. ). Il s’agit principalement d’un léger trouble de la flexibilité de la pensée. Les tests psychométriques prennent en compte de l’âge et les résultats rendus au clinicien sont « corrigés » pour l’âge. La faible intensité de ces troubles ainsi que le profil qualitatif les distinguent des troubles cognitifs pathologiques associés aux maladies neurologiques.
+B. Maladie d’Alzheimer
+La maladie d’Alzheimer étant de loin la cause la plus fréquente des démences du sujet âgé (mais aussi la plus fréquente de toutes les démences), elle constituera dans ce chapitre le modèle de description du syndrome démentiel.
+
+1. Pour comprendre
+La maladie d’Alzheimer est un enjeu majeur de santé publique1 car :
+elle touche environ un million de personnes en France ; c’est la première cause de démence ;
+sa prévalence est en augmentation régulière. Elle touche 2 à 4 % de la population après 65 ans et atteint 15 % à 80 ans ;
+sa morbidité est majeure (perte d’autonomie pour le patient/souffrance pour les aidants) ;
+son coût socio-économique est massif (soins chroniques très coûteux au domicile ou en institution).
+La cause de la maladie d’Alzheimer n’est pas identifiée mais la cascade biologique conduisant à la mort progressive des neurones est de mieux en mieux connue (cf. annexe 18.3).
+Les facteurs de risque ne sont pas identifiés dans leur ensemble :
+certains sont génétiques (par exemple, le portage de l’homozygotie pour l’allèle e4 de l’apolipoprotéine E) ;
+certains sont environnementaux ou liés au mode de vie (par exemple, les facteurs de risque cérébrovasculaire et le faible niveau d’éducation).
+Trois grandes anomalies biologiques2 caractérisent l’affection :
+l’accumulation anormale de protéines ß-amyloïdes en amas extracellulaires (« plaque amyloïde » ou « plaque sénile »). Celles-ci sont surtout présentes dans les cortex cérébraux associatifs (cortex préfrontaux, pariétaux et temporaux) et épargnent relativement le cortex visuel primaire (lobes occipitaux) et le cortex moteur (frontale ascendante) ;
+l’accumulation anormale dans les prolongements neuronaux de protéines TAU anormalement hyperphosphorylées formant les dégénérescences neurofibrillaires (DNF) ; ces DNF sont trouvées en grande quantité dans les régions temporales internes (hippocampes en particulier) ;
+la perte des neurones dont les prolongements ont préalablement été le siège des DNF. Cette perte cellulaire, lorsqu’elle est massive, conduit à l’atrophie des régions affectées.
+2. Conditions générales du diagnostic de maladie d’Alzheimer3
+Il ne s’agit plus d’un diagnostic par défaut (ou d’élimination).
+Aujourd’hui, le diagnostic repose certes sur la présence d’arguments négatifs mais aussi et surtout d’arguments positifs.
+Le diagnostic du vivant du patient est un diagnostic de probabilité. Le diagnostic de certitude repose sur la neuropathologie (post-mortem).
+La probabilité de porter un bon diagnostic repose sur le faisceau d’arguments associant les signes positifs et négatifs. Plus la concordance des arguments est importante plus la probabilité du diagnostic est élevée.
+Le diagnostic repose sur cinq types d’arguments4 :
+arguments positifs cliniques : le profil des troubles cognitifs ;
+arguments de neuro-imagerie positifs (atrophie hippocampique) et négatifs (pas d’autres lésions) ;
+arguments positifs d’imagerie métabolique (hypométabolisme et/ou hypoperfusion des cortex associatifs) ;
+arguments positifs par détection des biomarqueurs de la pathologie Alzheimer (profil caractéristique des taux intrathécaux des protéines TAU, TAU phosphorylée et bêta-amyloïde 42 [cf. infra]) ;
+arguments négatifs par la pratique d’un bilan biologique plasmatique, servant à éliminer des diagnostics différentiels, en particulier de démences dites curables.
+Dans l’immense majorité des cas, l’association examen clinique (incluant le bilan précis des fonctions cognitives) + imagerie cérébrale par IRM + bilan biologique suffit à obtenir un diagnostic de haute probabilité (cf. fig. 18.3).
+3. Clinique de la maladie d’Alzheimer
+Il faut distinguer trois phases évolutives (fig. 18.1) :
+
+la phase prédémentielle ou prodromale ; c’est le début de la phase symptomatique ;
+la phase d’état ou de démence (légère à sévère) ;
+la phase de démence très sévère.
+Fig. 18.1
+
+Histoire naturelle de la maladie d’Alzheimer symptomatique.
+MMS : Mini Mental Status.
+NB : Le MMS est un outil d’évaluation de la sévérité de l’atteinte clinique. Il ne s’agit pas d’un outil diagnostique.
+
+a. Phase « prédémentielle » ou « prodromale »
+À cette phase de la maladie, les patients sont autonomes pour la plupart des gestes de la vie quotidienne.
+
+L’anomalie principale est un trouble de la consolidation en mémoire épisodique :
+il est le reflet clinique de l’atteinte sévère des régions temporales internes (hippocampes et cortex adjacents) (cf. ) ;
+la plainte mnésique est, de loin, le symptôme conduisant à évoquer le diagnostic. Il s’agit d’un oubli à mesure (par exemple, le patient fait répéter plusieurs fois la même chose) témoignant de l’incapacité à former un souvenir durable à partir d’un événement vécu. Il n’est pas rare que le patient minimise la plainte (« anosognosie ») alors que l’entourage s’en inquiète.
+À l’épreuve des cinq mots (cf. ), les patients présentant un trouble de la consolidation en mémoire épisodique ne sont pas capables de donner les cinq mots après un délai de quelques minutes. Surtout, ils ne sont pas aidés par les indices de catégorie. Cela suggère qu’ils n’ont pas enregistré les mots.
+L’évaluation de la mémoire par un neuropsychologue complète le bilan, en confirmant par un test de mémoire (le plus utilisé est le « rappel libre/rappel indicé à 16 items ») le trouble de la consolidation en montrant un effondrement des capacités à rappeler des informations (par exemple, des mots à mémoriser), non significativement amélioré par les indices de catégorie. La répétition des phrases de rappel n’améliore pas la restitution. Les patients introduisent dans la liste des mots à rappeler des mots n’en faisant pas partie (« intrusions »).
+Ce profil de troubles de la mémoire s’oppose aux troubles « pseudo-amnésiques » secondaires aux troubles de l’attention ou des fonctions exécutives, qui altèrent la qualité de l’enregistrement ou du rappel en mémoire (mais pas la consolidation). Dans ce cas, les sujets ont des difficultés à restituer spontanément une liste de mots (par exemple, les cinq mots) mais sont significativement aidés par les indices. On observe en particulier ce profil, dans les situations fonctionnelles suivantes : dépression, troubles du sommeil, anxiété, prise excessive de psychotropes.
+b. Phase démentielle
+L’autonomie est significativement altérée pour les gestes de la vie quotidienne (courses, toilette/habillage, repas, gestions des biens, etc.).
+Outre les troubles de la mémoire, il existe une atteinte plus ou moins sévère des fonctions instrumentales (syndrome dit « aphaso-apraxo-agnosique ») et des fonctions exécutives.
+Ces nouvelles atteintes cognitives reflètent l’extension des lésions aux régions corticales associatives (cortex préfrontal, pariétal et temporal externe).
+c. Phase très avancée de la maladie (démence sévère)
+La perte de l’autonomie est totale. Souvent, les patients sont en institution. Cette phase précède la fin de vie et survient en moyenne 7 à 8 ans après la détection des premiers symptômes de la maladie.
+Outre les troubles touchant l’ensemble des fonctions cognitives (et pouvant aller jusqu’à la non-reconnaissance des proches), il peut exister des troubles du comportement (agitation ou apathie, hallucinations, déambulation, troubles du sommeil et de l’appétit, troubles du contrôle des sphincters) et d’autres signes neurologiques (épilepsie, myoclonies, troubles de la marche et de la posture avec chutes, syndromes pyramidal et extrapyramidal).
+Le décès survient par une complication générale due à l’état grabataire (surinfection bronchique, suite d’une chute avec alitement prolongé…) ou par mort subite.
+4. Arguments positifs et négatifs de neuro-imagerie
+La pratique d’une IRM cérébrale est indispensable au diagnostic de maladie d’Alzheimer.
+Les objectifs sont de montrer l’atrophie cérébrale, en particulier des hippocampes, et d’éliminer une cause non dégénérative.
+
+Il s’agit :
+
+de détecter des lésions vasculaires ischémiques et hémorragiques (séquences utiles : T2/FLAIR et T2 en écho de gradient, respectivement) ;
+d’évaluer visuellement l’atrophie des hippocampes (séquence utile : T1 coronal avec un plan de coupes perpendiculaire au grand axe de l’hippocampe) (fig. 18.2). Toutefois, c’est une mesure subjective qui dépend de l’expérience du clinicien.
+Fig. 18.2
+
+IRM cérébrale pour le diagnostic positif de la maladie d’Alzheimer.
+IRM en séquence pondérée T1. Les flèches localisent les hippocampes. Coupes coronales passant par le grand axe de l’hippocampe.
+A. Cerveau sain, pas d’atrophie des hippocampes. B. Patient Alzheimer : atrophie hippocampique bilatérale.
+
+5. Arguments positifs d’imagerie métabolique
+La scintigraphie de perfusion peut mettre en évidence une hypoperfusion des régions corticales associatives et temporales internes. La tomographie par émission de positrons peut mettre en évidence un hypométabolisme de ces mêmes régions.
+
+6. Arguments positifs par détection des biomarqueurs de la pathologie Alzheimer
+Dosage dans le liquide cérébrospinal des taux de la protéine ß-amyloïde (Aß-42) et de la protéine TAU hyperphosphorylée (TAU-p).
+Le profil typique est une baisse massive d’Aß-42 et une augmentation de TAU-p.
+7. Arguments négatifs par la pratique d’un bilan biologique plasmatique5
+Le bilan minimal comprend : NFS-plaquettes, VS, ionogramme plasmatique, calcémie, TSHus et glycémie à jeun.
+Selon le contexte, ajouter : B12-folates, sérologie syphilitique et VIH.
+En pratique clinique, devant une plainte mnésique, le diagnostic se fait par l’évaluation neuropsychologique, une IRM cérébrale et le bilan biologique plasmatique. La PL et la scintigraphie sont réservées aux formes de diagnostic difficile (fig. 18.3).
+Fig. 18.3
+
+Algorithme décisionnel devant un trouble progressif et isolé de la mémoire (ou des autres fonctions intellectuelles).
+RL : rappel libre ; RI : rappel indicé.
+
+8. Diagnostic différentiel
+a. Confusion mentale (cf. § II. État confusionnel)
+Attention ! Chez le sujet âgé, l’état confusionnel peut être un mode de découverte d’une démence ou émailler le cours évolutif de celle-ci. La confusion n’élimine donc pas la démence. Au contraire, elle doit la faire rechercher à distance (six mois plus tard), par la réalisation de tests neuropsychologiques.
+b. Causes fonctionnelles de troubles des fonctions cognitives
+La dépression, les troubles du sommeil (insomnie et apnées du sommeil), l’anxiété chronique, la prise de psychotropes (benzodiazépines, antidépresseurs, hypnotiques, etc.) peuvent donner des troubles de l’attention et des fonctions exécutives retentissant sur le fonctionnement de la mémoire (« pseudo-amnésie »).
+Si les troubles cognitifs apparaissent dans un contexte de dépression, proposer un traitement d’épreuve par antidépresseurs, à dose pleine, pendant une période minimale de trois mois.
+c. Causes organiques
+« Démences » secondaires et éventuellement curables
+L’hypothyroïdie, la carence en B12 et folates, la syphilis, l’évolution d’une infection par le VIH, certaines tumeurs cérébrales (méningiomes frontaux).
+
+L’hydrocéphalie à pression « normale » : elle se manifeste par des troubles de la marche (à petits pas), des troubles cognitifs, surtout de type frontal avec apathie et des troubles du contrôle urinaire. Les troubles cognitifs sont quelquefois suffisamment sévères pour entraîner une démence et/ou des épisodes de confusion. Le scanner cérébral et l’IRM du cerveau montrent une dilatation tétraventriculaire sans effet de masse et avec une suffusion de liquide dans le parenchyme périventriculaire (« résorption transépendymaire ») entraînant des anomalies radiologiques (hypodensité au scanner X et en IRM, un hypersignal en pondération T2 de la substance blanche périventiculaire). Un test diagnostique et thérapeutique consiste à effectuer des ponctions lombaires évacuatrices. Le traitement chirurgical par dérivation ventriculo-péritonéale est proposé quand la probabilité diagnostique est forte.
+
+L’hématome sous-dural chronique est une cause fréquente de troubles cognitifs (ralentissement psychomoteur, apathie, syndrome frontal, confusion mentale…) chez la personne âgée. Il est souvent détecté à distance d’un traumatisme crânien même léger (et passant quelquefois inaperçu). Il est aussi favorisé par la déshydratation, l’éthylisme chronique et les traitements affectant la coagulation. Le scanner X ou l’IRM du cerveau mettent en évidence une collection liquidienne dans les espaces méningés (entre la dure-mère et l’arachnoïde). Lorsqu’il est chronique, l’hématome sous-dural apparaît le plus souvent hypodense au scanner X cérébral ou associant des zones d’épanchement de sang frais (hyperdenses) et des zones hypodenses. L’évacuation chirurgicale ou la surveillance simple se discutent au cas par cas.
+
+Les lésions vasculaires par atteintes des petites artères (HTA, diabète) peuvent produire une démence « vasculaire » avérée ou une démence mixte (associant les conséquences de la vasculopathie et d’une atteinte neurodégénérative de type Alzheimer) (fig. 18.4).
+
+Si le syndrome démentiel évolue rapidement dans un délai inférieur à un an, envisager les encéphalopathies subaiguës : maladie de Creutzfeld-Jacob, encéphalite auto-immune (y compris syndrome paranéoplasique).
+
+Fig. 18.4
+
+Exemples en IRM de lésions vasculaires responsables de troubles cognitifs et de démences.
+A. Infarctus corticaux et sous-corticaux multiples (séquences T1 et T2). B. Hypersignaux de la substance blanche sus-tentorielle (séquence T2/FLAIR). C. Microsaignements (séquence T2, écho de gradient).
+
+Autres démences dégénératives
+Démence frontale (dégénérescence lobaire frontotemporale [DLFT])
+À la différence de la maladie d’Alzheimer, qui est une démence par troubles cognitifs, la DLFT est une démence par troubles comportementaux.
+Elle est le prototype clinique du syndrome frontal.
+Les symptômes et signes cliniques de la DLFT sont expliqués par le dysfonctionnement du lobe frontal qui a pour principales fonctions de générer des comportements volontaires et adaptés aux besoins de l’individu ou en rapport avec les interactions sociales et de bloquer (ou réguler) les comportements automatiques, pulsionnels, ou archaïques.
+Les signes cliniques apparaissent insidieusement entre 50 et 60 ans (en moyenne 10 ans avant ceux de la maladie d’Alzheimer).
+Il s’agit :
+d’une perte des convenances sociales (familiarité excessive, impudeur, comportements en société non adaptés compte tenu de ce que l’on connaît de la personne et de son milieu social) ;
+d’un trouble du contrôle des conduites personnelles (gloutonnerie, diminution de l’hygiène corporelle, baisse du contrôle urinaire, etc.) ;
+d’une perte de l’intérêt pour les autres (baisse de l’empathie, indifférence affective) ;
+d’une difficulté par le patient à percevoir et analyser ses symptômes (anosognosie) ;
+d’une apathie (diminution spontanée de l’initiative et des comportements volontaires).
+À l’examen : signes de désinhibition du comportement, des troubles des fonctions exécutives.
+Dans environ 25 à 30 % des cas il s’agit d’une maladie héréditaire, transmise sur un mode autosomique dominant.
+Il existe plusieurs formes cliniques. La forme la plus fréquente est la forme frontale (ou comportementale) mais il existe aussi des formes débutant par une aphasie progressive.
+L’IRM cérébrale peut montrer une atrophie du cortex frontal et du tissu sous-cortical (entraînant un aspect « ballonisé » des cornes ventriculaires frontales)
+Les autres examens complémentaires (PL, scintigraphie de perfusion, bilan biologique) n’apportent pas ou peu de contribution positive, mais permettent d’éliminer une autre cause.
+Il n’y a pas de traitement spécifique à ce jour.
+Au total, la DLFT est à évoquer devant des troubles du comportement évoquant un syndrome frontal, évoluant progressivement et isolément.
+
+Maladie à corps de Lewy diffus
+À la différence de la maladie d’Alzheimer, la démence à corps de Lewy est accompagnée d’un syndrome parkinsonien et d’hallucinations précoces.
+Les anomalies pathologiques = celles de la maladie de Parkinson (synucléopathie), à la différence qu’elles siègent de façon plus importante dans les régions associatives du cortex cérébral alors que dans la maladie de Parkinson, ces lésions touchent surtout la profondeur du cerveau.
+Cette différence de topographie lésionnelle explique principalement la démence.
+L’affection peut se présenter initialement comme une maladie d’Alzheimer ou comme une maladie de Parkinson avec les différences essentielles suivantes :
+l’existence d’hallucinations visuelles ou auditives et de troubles psychiatriques (dépression sévère, troubles psychotiques), souvent inauguraux ou précoces dans l’évolution de la maladie ;
+des fluctuations majeures des performances cognitives évoquant une confusion mentale chronique a minima ;
+quand le mode d’entrée est celui d’une démence : il faut rechercher un syndrome parkinsonien ;
+quand le mode d’entrée est un syndrome parkinsonien : il faut rechercher un syndrome démentiel.
+La prise en charge thérapeutique est souvent un mélange des deux maladies (Alzheimer et Parkinson).
+9. Traitement de la maladie d’Alzheimer
+Il est actuellement purement symptomatique mais les perspectives futures (essais cliniques) vont dans le sens d’un blocage le plus précoce possible de la cascade biologique conduisant à la mort cellulaire (approche de neuroprotection).
+
+a. Traitement médicamenteux
+Quatre molécules ont l’AMM en France. Trois d’entre elles sont des anticholinestérasiques centraux (ils augmentent la biodisponibilité de l’acétylcholine dans le cerveau) : le donépézil (Aricept®), la rivastigmine (Exelon®) et la galantamine (Reminyl®) et l’une, la mémantine (Ebixa®) est un antagoniste des récepteurs NMDA du glutamate. Ces traitements sont prescrits par voie orale. La rivastigmine existe aussi sous forme de timbres à diffusion transdermique (« patch »).
+L’indication actuelle se limite aux phases démentielles de la maladie (légère à modérément sévère).
+Les essais thérapeutiques montrent que le déclin cognitif est légèrement moins marqué chez les patients traités et que le traitement améliorerait aussi certains troubles comportementaux (apathie, agitation, hallucinations…).
+Les effets secondaires principaux (anticholinestérasiques) sont des troubles digestifs (nausées, vomissements, diarrhées et perte de poids) et des crampes musculaires.
+Des troubles de la conduction auriculoventriculaire ayant été rapportés avec les anticholinestérasiques, un ECG sera réalisé avant l’initiation du traitement. La présence de troubles de la conduction avant l’initiation du traitement ou leur apparition au cours de celui-ci constitue une contre-indication et une raison légitime d’arrêter le traitement, compte tenu du ratio bénéfice/risque désavantageux.
+Leur initiation est faite obligatoirement par un neurologue, un psychiatre ou un gériatre.
+Leur efficacité est considérée comme modeste.
+Les autres traitements médicamenteux ont pour but de limiter les troubles comportementaux. Il s’agit de psychotropes (à utiliser avec grande prudence ++++).
+Il faut penser à limiter (ou arrêter) les médicaments aggravant potentiellement les troubles cognitifs (psychotropes et en particulier les anticholinergiques).
+Une très grande prudence s’impose avec les neuroleptiques qui peuvent très rapidement (en quelques jours) amener une personne encore active à l’état grabataire. S’il n’est pas possible d’éviter leur recours (du fait de troubles majeurs du comportement résistants à toute autre approche), alors il faut utiliser les plus petites doses possibles et choisir un neuroleptique dit « atypique » (clozapine, olanzapine et rispéridone).
+b. Traitement non médicamenteux
+Aides humaines/intervention de tiers :
+soutien logistique des aidants : aide à domicile (auxiliaire de vie, aide-soignant) ;
+soutien psychologique des aidants (psychothérapie, groupe de parole) ;
+dans la mesure du possible faire intervenir un réseau de soins hôpital-ville ;
+centre d’accueil de jour (médicalisé) ou centre d’activité non médicalisé (club de loisirs ou de sport), séances de stimulation des fonctions cognitives (avec un orthophoniste) ;
+institutionnalisation quand le maintien au domicile est impossible : maison de retraite médicalisée (maison de retraite adaptée dite « EHPAD ») ou service de long séjour.
+Aides financières et médico-légales :
+prise en charge à 100 % (forme démentielle) ;
+soutien financier : aide pour l’autonomie (APA), sous réserve de revenu et de degré de perte d’autonomie ;
+mesures de protection médico-légale de type sauvegarde de justice ou tutelle si nécessaire (pas systématique).
+Hygiène de vie et autres traitements :
+activités physiques quotidiennes (marche à pied, par exemple) ;
+sorties quotidiennes ;
+traiter les déficiences sensorielles (surdité, troubles visuels), aggravant les difficultés cognitives et d’interactions sociales ;
+traitement des facteurs aggravants curables (anémie, anémie, insuffisance cardiaque, antéhypophysaire, médicament psychotrope, déficits sensoriels, hématome sous-dural, etc.) ;
+dans les phases de démences sévères, une surveillance accrue de l’état nutritionnel est nécessaire (oubli fréquent des repas).
+La plupart de ces mesures ont pour but :
+
+d’éviter le retrait social et l’absence de stimulation physique et cognitive ;
+et de soutenir les familles, souvent épuisées par la prise en charge chronique.
+II. État confusionnel
+A. Pour comprendre
+L’état confusionnel (ou confusion mentale) est dû à une altération modérée de la vigilance entraînant une désorganisation globale de la pensée et des fonctions cognitives.
+Les principaux symptômes et signes cliniques de la confusion mentale résultent des troubles attentionnels, eux-mêmes secondaires à l’altération de la vigilance.
+L’attention peut être considérée comme la « porte d’entrée » ouvrant vers le fonctionnement de l’ensemble des fonctions cognitives. Si la porte est « entrebâillée » ou « fermée », les fonctions intellectuelles qui en dépendent sont perturbées, entraînant une désorganisation majeure et globale de la pensée cohérente.
+L’attention n’est pas une fonction unique. Par exemple, l’attention sélective permet de se « concentrer » sur une tâche. L’attention partagée permet de réaliser plusieurs tâches en parallèle sans perdre le fil. Plus une tâche est complexe plus elle requiert d’attention. C’est pourquoi les fonctions les plus consommatrices d’attention, les fonctions exécutives (planification, raisonnement, jugement, etc.) en particulier, sont plus facilement touchées dans la confusion mentale que les autres fonctions cognitives.
+B. Diagnostic
+La confusion se manifeste par l’apparition brusque ou rapidement progressive (en quelques minutes, heures ou jours) de troubles neuropsychiques :
+il s’agit de difficultés attentionnelles :
+de troubles du comportement : perplexité anxieuse, agitation, agressivité, délire onirique (plus rarement structuré), hallucinations le plus souvent visuelles ;
+de labilité de l’humeur et de l’affect, allant de l’euphorie à la tristesse.
+difficulté pour maintenir l’attention sur les questions de l’examinateur ;
+troubles de la mémoire à court terme : répéter une phrase longue, une suite de chiffres dans l’ordre direct ou inversé (« empan chiffré »), les mois de l’année dans l’ordre inverse, faire une opération de calcul mental, etc. ;
+caractère décousu et incohérent du langage spontané ;
+troubles de l’étape attentionnelle de l’enregistrement en mémoire à long terme (« encodage »), entraînant des difficultés à retenir une liste de mots et surtout une désorientation temporospatiale constante avec souvent un télescopage d’événements anciens avec le présent ;
+globalement, les troubles attentionnels induisent une désorganisation de la pensée avec altération du raisonnement et du jugement.
+L’argument clinique majeur est la fluctuation des troubles cliniques. Elle est le reflet de la fluctuation de la vigilance. Les troubles décrits ci-dessus peuvent être absents ou présents (de modérément à intensément) selon le moment de la journée. Au maximum, il peut exister une inversion du cycle veille/sommeil (cycle nycthéméral), la confusion et l’agitation s’aggravant significativement en période vespérale et dans l’obscurité, tandis qu’une grande partie de la journée est occupée par la somnolence.
+Il peut exister des signes somatiques non spécifiques d’une étiologie : un tremblement myoclonique (secousses irrégulières) des extrémités, d’attitude et d’action, un astérixis (ou flapping tremor : myoclonies négatives par chutes intermittentes et répétées du tonus musculaire).
+L’EEG met en évidence un ralentissement global de l’activité électrique (non spécifique d’une étiologie).
+Il y a une amnésie lacunaire pour la toute la durée de l’épisode confusionnel.
+C. Diagnostic différentiel
+1. Aphasie de Wernicke
+Elle peut mimer une confusion car les propos sont incohérents, le patient ne comprend pas son interlocuteur et il peut être agité du fait des troubles du langage.
+Le patient aphasique de Wernicke ne comprend pas le sens des mots alors que le patient confus ne comprend pas le sens des phrases car il perd le fil de l’attention (ainsi plus la consigne est longue plus le patient confus est perdu).
+Dans l’aphasie de Wernicke, il existe des paraphasies sémantiques (un mot dit pour un autre) et surtout des néologismes (non-mots).
+Pas de troubles de la vigilance, pas de fluctuations nycthémérales de l’état neurologique et les autres champs de la cognition sont respectés.
+2. Trouble psychotique aigu
+Si les propos sont diffluents comme au cours d’une confusion, en revanche, les éléments psychiatriques sont au premier plan.
+Son apparition ne paraît pas liée à une atteinte somatique ou neurologique.
+Il faudra néanmoins se méfier d’une prise de toxiques ou de médicaments.
+3. Ictus amnésique
+Trouble aigu de l’enregistrement en mémoire épisodique.
+Installation brusque.
+Dure environ six à huit heures.
+Cet état est spontanément réversible.
+Laisse une lacune amnésique.
+Pendant l’épisode, le patient ne peut pas enregistrer volontairement de nouvelles informations. Le patient est perplexe sur son état et, symptôme très caractéristique, pose répétitivement les mêmes questions.
+Il n’est pas, à la différence de la confusion, désorienté dans l’espace et la vigilance est conservée.
+Il peut être spontané ou post-traumatique (trauma crânien ou stress aigu). Sa physiopathologie n’est pas précisément connue. Il peut récidiver, mais rarement (20 % des cas).
+4. Syndrome démentiel
+D’un point de vue physiopathologique, la démence (quelle que soit l’étiologie) est due aux lésions structurelles (réversibles ou non) de circuits cérébraux essentiels pour l’élaboration cognitive tandis que la confusion mentale est liée à un trouble de la vigilance altérant de façon non spécifique les fonctions cognitives.
+D’un point de vue clinique, le syndrome démentiel correspond à un trouble chronique (> 6 mois), sans grande variation nycthémérale et constitué de troubles cognitifs spécifiques. Toutefois, une confusion mentale peut révéler ou émailler l’évolution d’un syndrome démentiel.
+D. Recherche étiologique
+Un très grand nombre de situations peuvent produire un état confusionnel. Elles sont en grande partie superposées aux causes responsables du coma ().
+L’examen clinique et le contexte orientent le diagnostic étiologique vers les causes neurologiques (principalement : traumatismes crâniens, hémorragie méningée, méningite et méningo-encéphalite, processus expansifs) et non neurologiques (principalement : affections endocriniennes, métaboliques et insuffisances d’organe aiguës ou chroniques décompensées, intoxications volontaires ou involontaires).
+Les causes non neurologiques sont bien plus fréquentes que les causes neurologiques.
+Il faut insister sur l’existence de facteurs favorisant la confusion mentale :
+chez une personne âgée, elle peut être produite par des causes générales inattendues chez les sujets jeunes (fécalome, globe vésical, etc.) ;
+une pathologie chronique préexistante (insuffisance rénale ou hépatique, etc.) ;
+elle peut être révélatrice d’un syndrome démentiel débutant. Il est justifié de réévaluer l’état cognitif des patients à distance (à 6 mois) de l’épisode confusionnel.
+
+
+
+
+
+
+
+-----------> Tableau 18.1
+Principales causes neurologiques et non neurologiques de confusion et de coma.
+
+
+
+
+
+
+
+La stratégie du bilan étiologique (interrogatoire des proches, examen clinique et bilan complémentaire) rejoint celle du coma (cf. § III. Coma).
+
+E. Prise en charge d’un patient confus
+La confusion mentale est une urgence médicale, diagnostique et thérapeutique nécessitant presque toujours une hospitalisation immédiate car :
+la cause de la confusion est souvent une pathologie grave voire létale rapidement (diabète décompensé, insuffisance surrénale aiguë, hémorragie méningée, etc.) ;
+la confusion elle-même est potentiellement dangereuse (troubles majeurs du comportement et signes somatiques tels que la déshydratation).
+La première étape de la prise en charge est d’évaluer le retentissement à court terme de l’état clinique (constantes vitales) et de traiter immédiatement les troubles vitaux (état de choc, hypothermie, etc.).
+La seconde étape est de déterminer l’étiologie et de la lever. La recherche de la cause de l’état confusionnel ne doit pas être différée même si les fonctions vitales sont assurées car seul le traitement de la cause permet la guérison.
+L’étape du diagnostic étiologique et de son traitement rejoint la prise en charge d’un coma (cf. chapitre 28). Cette étape repose sur :
+l’interrogatoire des proches ou des secouristes ayant transporté le patient aux urgences (antécédents médicaux, prise de médicaments ou de toxiques) ;
+l’examen des documents médicaux disponibles ;
+un examen clinique approfondi général et neurologique (ne pas oublier la prise de la température, la recherche d’une morsure latérale de langue, l’examen des pupilles, la recherche de plaies, les traces d’injections, la recherche d’un globe urinaire ou d’un fécalome par toucher rectal) ;
+le bilan paraclinique effectué en urgence dépendra des hypothèses formulées au décours de la phase clinique. Le bilan paraclinique minimum est :
+ionogramme sanguin, calcémie, CRP, fonctions rénale (y compris calcul de la clairance de la créatinine) et hépatique, protides totaux, numération sanguine, TP-TCA, glycémie au doigt et plasmatique, bandelette urinaire, SatO2,
+ECG,
+radiographie thoracique,
+si le scanner cérébral sans injection (pour éliminer l’hématome sous-dural) n’est pas recommandé de façon systématique par la HAS6, il ne faut pas hésiter à le demander en urgence devant le moindre doute de pathologie neurologique.
+Le traitement de l’épisode confusionnel ne peut être envisagé indépendamment de la cause.
+Dans tous les cas :
+veiller au maintien de la nutrition et réhydratation, si besoin par voie parentérale ;
+le patient au calme, en chambre individuelle (avec lumière tamisée et porte ouverte pour la surveillance) ;
+surveillance des constantes vitales et de la conscience fréquente et régulière ;
+retirer tous les médicaments non indispensables ou utiliser les plus petites doses possibles. Cette démarche s’impose d’autant plus que l’ordonnance contient des psychotropes (se méfier en particulier des anticholinergiques +++) et qu’il existe un trouble de l’élimination (insuffisance rénale ou hépatique). Attention aussi à ne pas arrêter brusquement un traitement psychotrope ancien car le sevrage brutal (par exemple aux benzodiazépines) peut être lui-même source de confusion mentale ;
+il faut éviter, dans la mesure du possible, la contention physique, qui aggrave l’agitation et l’angoisse.
+Il faudra rester prudent quant à l’administration de psychotropes sédatifs car ils peuvent aggraver les troubles psychiques (troubles de la vigilance) et l’état somatique (syndrome akinéto-rigide des neuroleptiques). S’ils sont indispensables, préférer les benzodiazépines anxiolytiques à demi-vie courte aux neuroleptiques. Ces derniers ne doivent être administrés qu’en cas d’agitation majeure faisant courir un risque au patient ou à l’entourage.
+La confusion apparaît rapidement mais disparaît quelquefois très lentement, même quand la cause est levée (cela d’autant plus que le patient est âgé ou altéré sur le plan cognitif). Il faut donc être patient et ne pas conclure trop rapidement à l’absence d’efficacité de la prise en charge.
+
+III. Coma
+(Cf. chapitre 28)
+
+POINTS CLÉS
+
+Démence
+
+La définition de la démence inclut deux dimensions : la détérioration cognitive et la perte de l’autonomie.
+La démence de loin la plus fréquente est la maladie d’Alzheimer (MA).
+Les trois principaux stigmates histologiques de la MA sont la plaque amyloïde, la dégénérescence neurofibrillaire et la perte cellulaire.
+Le diagnostic de MA repose surtout sur des arguments positifs cliniques et paracliniques.
+La principale atteinte clinique, à la phase prédémentielle de MA, est un oubli à mesure, dû à un trouble de la consolidation en mémoire épisodique.
+Un trouble progressif de la mémoire ne signe pas obligatoirement une MA (il existe des troubles fonctionnels de la mémoire).
+L’anomalie radiologique principale de la MA est une atrophie des régions temporales internes, détectable avec une IRM en séquence T1 perpendiculaire au grand axe des hippocampes.
+Le bilan minimal d’une démence comprend : une évaluation neuropsychologique, une IRM cérébrale et un bilan biologique.
+À la phase démentielle de MA, il existe une atteinte corticale associative diffuse entraînant une amnésie, une atteinte des fonctions exécutives et instrumentales (syndrome aphaso-apraxo-agnosique).
+La démence frontale est une démence comportementale.
+La maladie à corps de Lewy diffus associe à la démence, des fluctuations attentionnelles, des hallucinations et un syndrome parkinsonien.
+Le traitement de la MA est purement symptomatique et les effets modestes.
+Il ne faut pas négliger l’apport des traitements non médicamenteux des démences.
+Confusion/coma
+
+La confusion mentale est une urgence médicale qui implique une hospitalisation immédiate.
+La recherche de l’étiologie ou de l’état confusionnel ne doit pas être différée même si les fonctions vitales sont assurées car seul le traitement de la cause permet la guérison.
+La fluctuation nycthémérale de l’atteinte clinique est caractéristique de la confusion mentale.
+Une confusion mentale chez une personne âgée peut être produite par des causes générales inattendues chez les sujets jeunes (fécalome, globe vésical, etc.).
+La confusion mentale peut être révélatrice d’un syndrome démentiel débutant il faut réévaluer l’état cognitif des patients à distance (à 6 mois).
+La prudence s’impose pour l’utilisation des psychotropes chez les patients confus car ceux-ci en modifiant l’état de vigilance peuvent aggraver la confusion.
+ 
+
+Annexes
+Annexe 18.1 – Principes du raisonnement topographique devant un syndrome démentiel
+Schématiquement, il faut dissocier quatre grandes fonctions (fig. 18.5).
+
+Fig. 18.5
+
+Schéma (simplifié) d’organisation des fonctions intellectuelles.
+1. Régions corticales postérieures (lobes temporaux et pariétaux) : intégration perceptive ; destruction ? atteinte des fonctions instrumentales (« syndrome aphaso-apraxo-agnosique »). 2. Régions préfrontales : fonctions exécutives ; destruction ? syndrome dysexécutif (« syndrome frontal »). 3. Régions temporales internes : consolidation en mémoire épisodique ; destruction ? amnésie (« oubli à mesure »).
+
+Attention
+Elle dépend des systèmes de vigilance et d’éveil cortical (cf. § ).
+Si elle est perturbée, alors toutes les fonctions qui en dépendent directement (c’est-à-dire toutes les grandes fonctions intellectuelles) sont perturbées.
+Avant toute exploration des fonctions cognitives, vérifier le degré d’atteinte attentionnelle (cf. § ).
+Fonctions d’intégration perceptive
+Ce sont les fonctions d’identification, de reconnaissance et de compréhension du langage, des gestes, de l’espace, des objets (simples ou complexes) sonores ou visuels et du schéma corporel. On les appelle aussi les fonctions instrumentales.
+Elles se situent en aval des fonctions de perception (surtout audition et vision).
+Ces fonctions sont portées par les régions corticales postérieures (surtout les lobes temporaux et pariétaux) :
+Lorsque le lobe temporal est touché, on peut observer une aphasie par atteinte de la compréhension (quand la région temporale latérale de l’hémisphère dominant est touchée), une agnosie visuelle, c’est-à-dire un défaut d’identification et de représentation des objets visuels simples (couleurs ou formes) ou plus complexes (visages, objets manufacturés ou vivants), selon que les lésions affectent l’avant ou l’arrière des lobes temporaux.
+Quand le lobe pariétal est touché, on peut observer, selon le côté (gauche ou droit) ou selon le siège lésionnel au sein du lobe pariétal, une apraxie (défaut de réalisation gestuelle en l’absence de déficit de la sensibilité ou de la motricité élémentaire), une négligence visuelle unilatérale, c’est-à-dire une inattention pour l’hémichamp visuel controlatéral (en l’absence d’amputation du champ visuel), un trouble de la représentation du schéma corporel (difficulté pour nommer les parties du corps, indistinction entre le côté gauche et droit, etc.).
+Mémoire
+Il existe plusieurs systèmes de mémoire (épisodique, sémantique, procédurale, etc.).
+En pratique clinique courante, seule la mémoire épisodique est testée au « lit du malade ».
+La mémoire épisodique est la capacité de transformer un événement vécu par soi en souvenir durable et de le restituer ultérieurement. Cette forme de mémoire est la mémoire de « tous les jours ». Sa formation et son rappel sont toujours associés au contexte de l’événement vécu (c’est-à-dire le lieu, le moment, l’état émotionnel). Cela l’oppose à la mémoire sémantique qui est la mémoire des connaissances (générales ou autobiographiques) mais dont l’évocation est détachée du contexte d’acquisition (par exemple, la connaissance d’un fait historique ou de sa propre date de naissance).
+La phase « critique » de la mémoire épisodique est la phase d’enregistrement de l’information en mémoire (encore appelée « consolidation »).
+Cette phase dépend de la partie interne des lobes temporaux (T5), en particulier des hippocampes et des cortex adjacents.
+L’atteinte des deux hippocampes entraîne une amnésie antérograde conduisant à un oubli à mesure (« qu’ai-je fait il y a deux minutes ? il y a une heure ? la veille ? il y a une semaine ? »).
+Fonctions exécutives
+Opérations mentales permettant à l’individu de comprendre le contexte de l’action, d’inhiber les comportements automatiques ou réflexifs et de générer un comportement volontaire dirigé vers un but.
+Elles dépendent d’un vaste réseau cérébral mais les régions les plus critiques sont les lobes frontaux et les ganglions de la base.
+Le syndrome dysexécutif conduit à un défaut de contextualisation (difficulté d’adaptation sociale, perte de l’empathie, trouble du jugement et du raisonnement), à une libération des comportements automatiques (comportements répétitifs et stéréotypés) et réflexifs ou archaïques en dépendance avec l’environnement immédiat (trouble du contrôle urinaire, adhérence à l’environnement, précipitation sur la nourriture, désinhibition, etc.) et à un défaut d’élaboration et d’initiation de l’action volontaire (défaut de planification, apathie).
+ 
+Annexe 18.2 – Outils cliniques minimums pour diagnostiquer une démence
+Attention
+Répéter une phrase longue.
+Exécuter une consigne complexe.
+Donner les mois de l’année ou les jours de la semaine à l’envers.
+Fonctions d’intégration perceptive (fonctions instrumentales)
+Compréhension d’ordres simples (« fermez les yeux »).
+Désignation d’objets.
+Dessin sur copie d’une figure géométrique (image du MMS, par exemple).
+Dessin sans copie d’une fleur ou d’une maison ou placer les repères horaires et les aiguilles sur une horloge dont vous avez dessiné les contours.
+Réalisation de gestes arbitraires sur imitation, de gestes symboliques (« salut militaire », « pied de nez ») et de gestes d’utilisation d’objets (« se laver les dents », « se coiffer », « jouer du violon », « planter un clou »).
+Fonctions exécutives
+Faire passer la batterie rapide d’efficience frontale (« BREF ») :
+fluence verbale littérale (donner en une minute le plus de mots commençant par la lettre « S » ou la lettre « M ») ;
+similitudes (« En quoi se ressemblent une orange et une banane ? »…) ;
+séquence gestuelle (poing, paume, tranche) ;
+épreuves de contrôle comportemental (« Quand je tape une fois [sur la table], vous tapez deux fois et inversement » suivi d’un « go/no go » : « Quand je tape une fois, vous tapez une fois, quand je tape deux fois, vous ne tapez pas »).
+Mémoire épisodique
+Orientation temporelle et spatiale.
+Interrogatoire du patient sur son emploi du temps des jours précédents sous contrôle de l’entourage.
+Épreuve des cinq mots : elle est capitale pour déterminer si l’atteinte mnésique affecte la consolidation ou non.
+Il s’agit de faire lire cinq mots (« Musée », « Limonade », « Passoire », « Sauterelle » et « Camion ») à voix haute puis de les faire lire une seconde fois mais en commençant par demander la catégorie taxonomique du mot (« Quelle est la boisson ? »).
+Immédiatement après, le patient doit restituer les cinq mots (« rappel immédiat »).
+Après un intervalle de 3 minutes (occupé à faire une autre tâche non verbale, par exemple une tâche de dessin), on demande de nouveau les cinq mots. Si le patient ne peut rappeler les mots, on lui donne l’indice de catégorie taxonomique du mot.
+ 
+Annexe 18.3 – Cascade biologique (simplifiée) de la maladie d’Alzheimer
+La protéine ß-amyloïde est issue du peptide Aß, protéine de membrane des neurones. Lors de son élimination, ce peptide est clivé par trois complexes enzymatiques distincts (les « sécrétases »). En l’absence de pathologie, la voie principale, celle de l’a-sécrétase, permet un clivage en 40 acides aminés (Aß-40) rendant cette protéine soluble.
+Dans la maladie d’Alzheimer, les voies ß- et ?-sécrétase sont favorisées, entraînant un clivage en un point différent. La protéine ß-amyloïde de 42 acides aminés (Aß-42) néoformée n’est pas soluble et forme de petits amas circulants (oligomères) puis de plus gros, statiques : les plaques séniles ou amyloïdes.
+La protéine TAU est constitutive des microtubules de charpente des prolongements neuronaux. Dans la maladie d’Alzheimer, un changement de conformation physique secondaire à son hyperphosphorylation la rend non fonctionnelle et conduit à la formation des dégénérescences neurofibrillaires (DNF).
+Il semble que les plaques séniles précèdent les dégénérescences neurofibrillaires sans qu’il soit possible, à ce jour, d’établir une relation de causalité entre les plaques et les DNF
+La mort neuronale survient dans les neurones affectés par les DNF.
+Les raisons pour lesquelles ce processus pathologique se produit sont à ce jour inconnues.
+Fig. 18.6
+
+Cascade biologique (simplifiée) impliquée dans la p physiopathologie de la maladie d’Alzheimer
+
+ 
+
+1/ La mise en place de trois plans nationaux « Alzheimer » (2001–2012) par le gouvernement français, pour développer la recherche et mieux prendre en charge les patients, témoigne de l’importance sociétale de ce problème.
+
+2/ Les protéines ß-amyloïdes et TAU hyperphosphorylées sont des protéines anormales, résultant de dysfonctions de voies de régulation de protéines constituantes des neurones. Par exemple, la protéine TAU (normalement phosphorylée) est une protéine nécessaire à la charpente microtubulaire des prolongements neuronaux. Elle participe aux transferts moléculaires du corps du neurone vers la synapse.
+
+3/ En France, le système de dépistage de la maladie est organisé dans les centres de consultation mémoire intégrés aux Centres de mémoire de référence et de recherche (CMRR). Il y a 22 CMRR couvrant l’ensemble du territoire français.
+
+4/ Le diagnostic génétique moléculaire est un sixième argument. Il permet de faire un diagnostic de certitude de maladie d’Alzheimer dans les très rares formes génétiques de la maladie (< 1 % des patients). En effet, dans ces cas, la maladie d’Alzheimer est due à une mutation monogénique, de transmission autosomique dominante. Toutefois, ces formes génétiques se distinguent des autres par le début jeune (avant 60 ans, voire bien plus tôt) et par l’existence d’autres signes neurologiques. Elles ne doivent être évoquées que lorsqu’il existe des antécédents de démence du sujet jeune ne « sautant » pas de génération.
+
+5/ Dans le but de rechercher une comorbidité associée, la HAS recommande de pratiquer aussi une albuminémie et une créatininémie avec calcul de la clairance selon la formule de Cockroft et Gault. (HAS. Maladie d’Alzheimer et maladies apparentées : diagnostic et prise en charge. Décembre 2011).
+
+6/ HAS. Recommandations de bonne pratique. Confusion aiguë chez la personne âgée : prise en charge initiale de l’agitation. Mai 2009.

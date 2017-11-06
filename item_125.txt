@@ -1,0 +1,158 @@
+Objectifs pédagogiques
+Diagnostiquer une sclérose en plaques (SEP).
+Argumenter l’attitude thérapeutique et planifier le suivi du patient.
+Décrire les principes de la prise en charge au long cours.
+
+I. Pour comprendre
+La SEP est une affection inflammatoire chronique du système nerveux central (SNC) touchant préférentiellement l’adulte jeune.
+Le diagnostic repose sur les notions de dissémination spatiale (au moins deux lésions) et de dissémination temporelle (au moins deux épisodes neurologiques séparés d’au moins 1 mois). Ces deux critères peuvent être remplis par des données cliniques et/ou IRM.
+La ponction lombaire aide au diagnostic positif et au diagnostic différentiel. Elle permet d’affirmer le caractère inflammatoire de l’affection, localisée au SNC.
+Les traitements ont pour but :
+d’accélérer la récupération des symptômes des poussées ;
+de limiter la fréquence des poussées et la progression de la maladie ;
+et d’améliorer les symptômes résiduels.
+
+II. Épidémiologie et étiologie
+Adulte jeune (20–40 ans), médiane de début à 32 ans, prédominance féminine (3 femmes pour 1 homme).
+Prévalence : 80 000 à 100 000 patients en France (> 1 personne/1 000). Gradient Nord-Sud : la SEP est plus fréquente quand on s’éloigne de l’équateur (2 fois plus de SEP dans les pays scandinaves que méditerranéens).
+Les causes de la SEP sont multifactorielles :
+facteurs génétiques : population caucasienne, concordance de 30 % chez les jumeaux monozygotes versus 2–3 % chez les hétérozygotes, gènes de susceptibilité (liés en particulier au groupe HLA) ;
+facteurs environnementaux (considérés comme des facteurs de risque individuels) : une infection virale à EBV, un tabagisme, une carence en vitamine D et/ou un faible ensoleillement surtout au cours de l’enfance, une obésité. De façon populationnelle, il semble qu’une hygiène « excessive » durant l’enfance augmenterait le risque et que les parasitoses infantiles auraient un effet protecteur. Beaucoup de facteurs restent à ce jour inconnus.
+
+III. Physiopathologie
+Maladie inflammatoire chronique du système nerveux central (SNC). La gaine de myéline est la cible du système immunitaire, mais il existe également une atteinte de l’axone (primitive ou secondaire).
+Plaques de démyélinisation focales disséminées dans la substance blanche (principale zone myélinisée) du SNC (nerf optique, zones périventriculaires, corps calleux, cervelet, moelle épinière, etc.). Les symptômes cliniques sont liés à la localisation de la plaque, expliquant leur diversité. Remyélinisation possible par les oligodendrocytes, expliquant la récupération des poussées.
+
+IV. Clinique
+A. Présentation clinique
+Elle est très variable, fonction de la localisation de la plaque. Elle peut être mono- ou plurisymptomatique, la multiplicité des symptômes ne signifiant pas multiplicité des lésions.
+
+1. Symptômes
+Les troubles moteurs : déficits et troubles de la marche (limitation du périmètre de marche, fauchage), de l’équilibre (syndrome cérébelleux), monoparésie ou paraparésie, plus rarement, hémiparésie (syndromes pyramidaux).
+La névrite optique rétrobulbaire : révèle la maladie dans un quart des cas, surtout chez l’adulte jeune. Baisse de l’acuité visuelle s’installant sur quelques heures à quelques jours, associée à une douleur périorbitaire augmentée par la mobilisation du globe oculaire dans 80 % des cas. Un scotome et une dyschromatopsie rouge/vert sont parfois retrouvés. Le fond d’œil est normal au début, mais dans 10 % des cas, il est le siège d’un œdème papillaire. Une décoloration de la papille peut être observée dans les semaines qui suivent l’épisode aigu. La récupération de la fonction visuelle est complète dans 80 % des cas en 6 mois. Après récupération, il peut survenir à l’effort ou lors de l’augmentation de la température corporelle, une baisse transitoire de quelques minutes de l’acuité visuelle (phénomène d’Uhthoff).
+Les troubles sensitifs : premières manifestations de la maladie dans 20 % des cas. Ils correspondent à des picotements, des fourmillements, des sensations d’hypoesthésie ou même d’anesthésie, des douleurs, des décharges, des sensations de striction ou d’étau, de ruissellement, de chaud, de froid. Le signe de Lhermitte est très évocateur : il s’agit d’une impression de décharge électrique très brève le long de la colonne vertébrale, parfois des membres, se déclenchant électivement à la flexion de la tête vers l’avant. Il témoigne d une démyélinisation des cordons postérieurs de la moelle cervicale.
+Les autres symptômes sont plus rares au tout début de la maladie, mais sont fréquents à la phase d’état : atteintes du tronc cérébral (diplopie, ophtalmoplégie internucléaire antérieure1, paralysie faciale centrale ou périphérique, névralgie faciale, dysarthrie, troubles de déglutition), troubles sphinctériens (hyperactivité vésicale responsable d’impériosités mictionnelles, pollakiurie ; hypertonie sphinctérienne responsable d’une dysurie), fatigue, troubles cognitifs…
+2. Deux événements de base
+Ces symptômes neurologiques s’installent le plus souvent (85 à 90 % des cas) de manière subaiguë, en quelques heures ou quelques jours, puis régressent, définissant la poussée ; plus rarement, les symptômes sont insidieux d’emblée, s’aggravant sur plusieurs mois ou années (10 à 15 %).
+
+a. La poussée
+Une poussée se définit comme l’apparition de nouveaux symptômes, la réapparition d’anciens symptômes ou l’aggravation de symptômes préexistants, s’installant de manière subaiguë en quelques heures à quelques jours, et récupérant de manière plus ou moins complète. Sa durée est au minimum de 24 heures. Une fatigue seule, ou des symptômes survenant dans un contexte de fièvre, ne sont pas considérés comme une poussée. Par définition, deux poussées doivent être séparées d’au moins un mois.
+
+b. La progression
+La progression est définie comme l’aggravation continue, sur une période d’au moins un an, de symptômes neurologiques. Une fois commencée, elle ne s’interrompt plus et est donc une cause majeure de handicap chez les patients atteints de SEP.
+
+B. Évolution
+1. Trois formes cliniques principales
+L’évolution globale de la SEP est polymorphe, reflet de l’interaction entre les poussées et la progression continue du handicap. Trois formes cliniques principales de SEP peuvent être définies en fonction de la combinaison de ces deux événements de base.
+
+a. Forme rémittente-récurrente
+La forme rémittente-récurrente est composée exclusivement de poussées. Ces poussées peuvent laisser des séquelles, ces séquelles restant stables entre deux épisodes. Cette forme débute vers 30 ans en moyenne et représente 85 % des formes de début.
+
+b. Forme secondairement progressive
+La forme secondairement progressive est l’évolution naturelle tardive de la forme précédente, une phase de progression succédant à la phase rémittente. Elle peut toucher tous les patients initialement rémittents, après une période plus ou moins longue, de 15 à 20 ans en moyenne.
+
+c. Forme primaire progressive
+La forme primaire progressive ou progressive d’emblée, où la progression est présente dès le début, sans poussée, affecte 15 % des patients et débute en moyenne un peu plus tardivement, vers 40 ans. Le sex-ratio est proche de 1 pour cette forme clinique. Elle se caractérise habituellement par une atteinte médullaire chronique (limitation progressive du périmètre de marche liée à une paraparésie spastique et une ataxie). Les troubles génitosphinctériens sont, le plus souvent, présents dès le début.
+
+2. Pronostic général
+Le pronostic global de la SEP est très hétérogène, allant de formes bénignes ou pauci-symptomatiques (25 % des cas) à des formes graves, entraînant rapidement un état grabataire et une dépendance complète (10 %). L’espérance de vie moyenne n’est en revanche que peu réduite, de 5 ans environ. Avant l’ère des traitements, on considérait qu’un tiers des malades devraient un jour utiliser un fauteuil roulant, alors qu’un quart avaient une évolution bénigne, compatible avec une vie personnelle et professionnelle quasiment normale. Les autres patients, tout en restant autonomes, gardaient peu à peu des séquelles permanentes limitant leurs activités.
+Le pronostic est imprévisible pour un individu donné. Sur des grandes séries de malades, il est estimé que la moitié des patients aura une gêne à la marche après 8 ans d’évolution, avec nécessité de prendre une canne après 15 ans et un fauteuil roulant après 30 ans. Cette évolution semble améliorée par les traitements de fond, notamment lorsqu’ils sont prescrits précocement. Cependant, le recul n’est pas encore suffisant (15 ans environ) pour pouvoir affirmer que les traitements de fond, qui ont un effet indéniable sur les poussées et le handicap à court terme, retardent la survenue d’une SEP secondairement progressive ou la nécessité d’une aide à la marche à long terme.
+Quelques facteurs cliniques prédictifs d’évolution ont pu être mis en évidence. L’âge de début jeune, le mode rémittent, un long délai entre les deux premières poussées semblent plutôt de meilleur pronostic. À l’opposé, les SEP débutant après 40 ans, de type primitivement progressif ou avec une atteinte motrice initiale, sont de plus mauvais pronostic.
+C. Diagnostic
+Il n’existe pas de test permettant de faire le diagnostic de SEP. Celui-ci repose donc sur des critères, évoluant avec le temps et la meilleure connaissance de la maladie. Il reste cependant basé sur un faisceau d’arguments : dissémination des symptômes et/ou des lésions dans le temps et dans l’espace, inflammation du LCS, absence d’atteinte générale et absence de meilleure explication. La démarche diagnostique implique donc une phase d’élimination de diagnostics différentiels.
+
+1. Diagnostic positif
+La dissémination temporelle des lésions se définit comme la succession d’épisodes neurologiques dans le temps (ex. : une névrite optique à un temps t puis un syndrome cérébelleux l’année suivante). Elle doit être recherchée systématiquement à l’interrogatoire. Elle peut être mise en évidence cliniquement mais aussi à l’IRM, soit par l’apparition de nouvelles lésions sur des IRM successives, soit sur l’association de lésions prenant (récentes) et ne prenant pas (anciennes) le contraste. Dans les formes progressives d’emblée, on considère par définition que le critère de dissémination dans le temps est rempli quand la maladie évolue depuis plus d’un an.
+La dissémination spatiale des lésions correspond à l’atteinte de plusieurs zones du SNC. Elle peut être mise en évidence par les données cliniques (une névrite optique et un syndrome pyramidal ne peuvent pas être expliqués par une seule lésion) ou par les examens paracliniques, en particulier l’IRM.
+La démarche diagnostique face à un malade suspect de SEP comporte donc cette quête de la dissémination spatiale et temporelle cliniquement d’abord, mais aussi par l’intermédiaire des examens paracliniques qui accélèrent la procédure :
+
+l’IRM encéphalique est l’examen de choix pour le diagnostic de SEP (fig. 14.1. et 14.2).
+
+Les lésions apparaissent sous la forme d’hypersignaux de la substance blanche sur les séquences pondérées en T2 (le liquide cérébrospinal apparaît blanc lors de ces séquences) ou en FLAIR (fluid attenuation inversion recovery) qui est une séquence T2 avec inversion du signal du LCS, qui apparaît en hyposignal, permettant une meilleure différenciation avec les lésions (fig. 14.3). Elles peuvent aussi apparaître en hyposignal (« trous noirs ») sur les séquences en T1. Les lésions sont ovoïdes, de plus de 3 mm habituellement, localisées majoritairement dans la substance blanche périventriculaire, avec un grand axe perpendiculaire à l’axe des ventricules. Elles peuvent également être juxta-corticales, sous-tentorielles (dans le cervelet ou le tronc cérébral) ou médullaires. Une lésion est définie comme périventriculaire lorsqu’elle touche le ventricule et une lésion est définie comme juxta-corticale lorsqu’elle touche le cortex. Elles doivent être différenciées des lésions sous-corticales qui ne touchent ni le ventricule ni le cortex. Les lésions récentes (en pratique moins de 1 mois) apparaissent en hypersignal T1 après injection de produit de contraste (gadolinium). Une IRM médullaire peut être réalisée si la symptomatologie initiale évoque cette localisation ou si le nombre et la localisation des hypersignaux cérébraux ne sont pas suffisants pour poser le diagnostic.
+
+Les critères les plus récents (critères de McDonald 2010), autorisent le diagnostic de SEP dès la première poussée à condition qu’il y ait une dissémination spatiale (deux localisations différentes), soit cliniquement, soit dans deux des quatre zones stratégiques à l’IRM (périventriculaire, sous-tentorielle, juxta-corticale ou médullaire) sans prendre en compte la lésion responsable de la clinique et une dissémination temporelle (lésions d’âges différents objectivées par une prise de contraste pour certaines et pas pour d’autres). Dans le cas contraire, il faudra attendre une nouvelle poussée (clinique ou IRM) pour définir cette dissémination temporelle et/ou spatiale. En pratique pour mettre cette nouvelle poussée en évidence précocement, on réalise souvent une nouvelle IRM environ 3 à 6 mois après l’IRM initiale ;
+
+l'analyse du liquide cérébrospinal (LCS) permet de mettre en évidence l’inflammation du SNC. Le LCS est considéré comme inflammatoire s’il existe des bandes oligoclonales en immunofixation ou, mieux, en isoélectrofocalisation (plus de 90 % des SEP) et/ou un index IgG augmenté (supérieur à 0,7) correspondant à une sécrétion intrathécale d’IgG. La protéinorachie n’est augmentée que dans 25 % des cas, en restant inférieure à 1 g/L. La cytorachie, composée d’éléments mononucléés (surtout des lymphocytes et plasmocytes), est supérieure à 4 éléments/mm3 dans un tiers des cas, mais le plus souvent inférieure à 50 éléments/mm3. Il existe une élévation des gammaglobulines dans le LCS dans 70 % des cas, alors qu’elles sont normales dans le sang. Le LCS peut aussi être normal. L’examen du LCS n’est pas systématique si les critères diagnostiques sont déjà remplis, mais il aide aussi à éliminer des diagnostics différentiels ;
+les potentiels évoqués (PE) sont de moins en moins pratiqués. Ils n’apparaissent plus dans les critères nécessaires au diagnostic (McDonald 2010). Ils ne sont réalisés que dans les cas cliniquement compatibles avec le diagnostic de SEP, où l’IRM ou le LCS sont non concluants ou bien lors d’un doute sur l’organicité des troubles. Les PEV restent les plus utilisés compte tenu de la fréquence de la névrite optique.
+Fig. 14.3
+A. Séquence en pondération T2, hypersignaux de substance blanche touchant le tronc cérébral et les lobes temporaux. B. Séquence FLAIR montrant des hypersignaux nodulaires. C. Séquence en pondération T1 avec injection de gadolinium montrant deux lésions rehaussées par le produit de contraste.
+
+Fig. 14.2
+
+Imagerie médullaire dans la sclérose en plaques. IRM en séquence T2.
+Multiples hypersignaux le long de la moelle cervicodorsale (flèches).
+
+Fig. 14.1
+
+Imagerie cérébrale dans la sclérose en plaques.
+A. IRM en séquence T1 : « trous noirs » dans la substance blanche. B. IRM en séquence FLAIR : hypersignaux à prédominance périventriculaire. C. IRM en séquence T1 avec injection de gadolinium : lésions périventriculaires. D. IRM en séquence T2 : hypersignaux à prédominance périventriculaire. E. IRM en séquence FLAIR chez un patient ayant une maladie évoluée : hypersignaux confluents de la substance blanche associés à une atrophie corticale.
+
+Cependant, aucun de ces examens ne constitue un marqueur spécifique de la maladie et leurs perturbations peuvent être retrouvées dans des maladies pouvant être confondues avec la SEP.
+
+2. Diagnostic différentiel
+Les maladies inflammatoires systémiques comme la sarcoïdose, la maladie de Behçet, le lupus érythémateux disséminé, la maladie de Gougerot-Sjögren, les artérites cérébrales, les infections à tropisme neurologique, les maladies cérébrovasculaires à attaques successives peuvent simuler une SEP rémittente. La recherche d’une altération de l’état général, d’une atteinte d’un autre organe que le SNC à l’interrogatoire ou à l’examen clinique général, la présence d’un syndrome inflammatoire dans le sang, d’une méningite et/ou l’absence de bandes oligoclonales dans le LCS sont des arguments pour évoquer ces maladies.
+
+Les atteintes neurologiques localisées, même si elles évoluent par poussées, doivent faire rechercher une tumeur, une malformation vasculaire ou une compression médullaire. La neuro-imagerie éliminera ces diagnostics.
+
+V. Traitements
+A. Traitements de la poussée
+Les corticoïdes à fortes doses permettent d’accélérer la récupération de la poussée. Ils sont prescrits en perfusion intraveineuse de durée de 3 heures à la dose de 1 g par jour pendant 3 jours (méthylprednisolone). Ils n’ont pas d’effet sur la prévention de nouvelles poussées. Leur utilisation n’est pas systématique si les symptômes ne sont pas gênants. La première perfusion doit être effectuée en hospitalisation. Toutes les autres peuvent être effectuées à domicile sauf précaution particulière (HAS).
+
+B. Traitements de fond
+Ils ont pour but de réduire la fréquence des poussées et de ralentir la progression du handicap. Ils agissent tous sur la réponse immune soit de façon immunomodulatrice (en modifiant l’équilibre de certains systèmes immunologiques comme le réseau des cytokines), soit de façon immunosuppressive (en interférant avec le cycle cellulaire des cellules immunocompétentes ou en modifiant la distribution de ces cellules dans l’organisme).
+
+1. Immunomodulateurs
+Parmi les immunomodulateurs :
+
+les interférons ß permettent de réduire la fréquence des poussées d’environ 30 % et de ralentir la progression du handicap dans les essais cliniques à 2 ou 4 ans par rapport à des malades sans traitement. Leur tolérance est globalement bonne, sauf les premières semaines où il peut exister un syndrome pseudo-grippal pour la moitié des malades après les injections. Les contraintes de ces traitements sont à prendre en compte pour le patient (produit injectable par voie sous-cutanée ou intramusculaire) et leur prix est élevé (entre 700 et 900 €/mois) ; une surveillance trimestrielle de la numération formule et des transaminases est indiquée ;
+l’acétate de glatiramère est également injectable. Il a aussi une action immunomodulatrice et réduit la fréquence des poussées de façon comparable aux interférons ß. Les injections sous-cutanées sont quotidiennes, mais il n’y a pas de syndrome pseudo-grippal. Le coût est similaire à celui des interférons ;
+depuis 2014, deux traitements de fond par voie orale sont disponibles : le diméthyl fumarate (2 cp/j) et le tériflunomide (1 cp/j). Le coût est au moins équivalent aux précédents. Le premier peut donner des effets indésirables digestifs et des bouffées congestives, le second des effets indésirables digestifs. La surveillance biologique de ces traitements est obligatoire (numération formule et transaminases).
+2. Immunosuppresseurs
+Parmi les immunosuppresseurs : trois molécules ont une efficacité démontrée. Leur indication est restreinte à des formes sévères de la maladie. Elles s’administrent pour deux d’entre elles par perfusion mensuelle. Il s’agit de :
+
+la mitoxantrone, anthracycline dont la toxicité cardiaque oblige à une surveillance cardiologique précise et à une utilisation limitée dans le temps. Une surveillance hématologique est également nécessaire de manière prolongée, du fait d’un risque de leucémie myéloïde aiguë chez moins de 1 % des patients ;
+le natalizumab, anticorps monoclonal humanisé anti-intégrine (molécule d’adhésion des lymphocytes sur les cellules endothéliales), empêchant les lymphocytes de traverser la barrière hémato-encéphalique. Il permet une diminution plus importante de la fréquence des poussées (70 % par rapport au placebo à 2 ans) et de la progression du handicap que les immunomodulateurs. Son utilisation est limitée par la survenue d’une encéphalite virale à virus JC, la leucoencéphalopathie multifocale progressive, chez 3 patients sur 1 000, au-delà de deux ans de traitement. Son coût est également plus élevé que celui des traitements immunomodulateurs, environ 1 800 €/perfusion, en plus du coût de l’hospitalisation ;
+le fingolimod, disponible depuis 2012, est le premier traitement par voie orale de la SEP. C’est un modulateur des récepteurs à la sphingosine-1-phosphate, qui bloque certains lymphocytes hors de la circulation, dans les ganglions lymphatiques. Il réduit la fréquence des poussées de 50 % à 2 ans par rapport au placebo et réduit la progression du handicap. Son utilisation a été limitée aux formes rémittentes actives, en raison d’un risque de troubles de conduction cardiaque à l’instauration du traitement, de troubles visuels (œdème maculaire) et d’une possible augmentation du risque de certaines infections. Son coût est d’environ 1 800 euros par mois également.
+L’azathioprine, le méthotrexate, le cyclophosphamide, le mycophénolate mofétil sont d’autres immunosuppresseurs parfois utilisés dans la SEP sans certitude formelle d’efficacité et sans AMM dans cette indication.
+
+À ce jour, aucun traitement de fond n’a prouvé son efficacité dans les formes primitivement progressives de SEP.
+
+C. Symptomatiques
+Ils ont pour but de traiter les complications de la maladie, ce qui améliore la qualité de vie des malades. Ils représentent donc un complément essentiel des traitements précédents.
+
+La spasticité : elle ne doit être combattue que si elle est néfaste pour le patient. Dans ce cas, elle peut être traitée par des antispastiques (baclofène) à prescrire d’abord à faible dose pour éviter d’aggraver l’état moteur du malade par une hypotonie. Dans les spasticités sévères, les injections locales de toxine botulinique ou l’implantation d’une pompe intrarachidienne de baclofène peuvent être indiquées. La kinésithérapie permet de lutter contre l’hypertonie et les déformations.
+Les troubles urinaires doivent être dépistés et traités pour éviter une atteinte du haut appareil urinaire. En plus de l’interrogatoire, un bilan urodynamique et radiologique est souvent nécessaire. S’il existe une hyperactivité vésicale (vessie irritative) se traduisant par des urgences mictionnelles, les anticholinergiques sont utilisés. En cas de dysurie (vessie obstructive), les alphabloquants peuvent être prescrits. En cas de résidu post-mictionnel, la pratique d’autosondages intermittents pluriquotidiens doit être proposée aux malades, éventuellement associée dans un second temps à des injections intravésicales de toxine botulinique. Les infections urinaires symptomatiques seront traitées pour éviter les pyélonéphrites. Elles constituent de plus des épines irritatives pouvant aggraver la spasticité.
+Les troubles sexuels, en particulier de l’érection, peuvent être améliorés par une prise en charge médicamenteuse et par un suivi sexologique ou psychothérapique.
+Les douleurs peuvent être soulagées par des antalgiques classiques, des tricycliques ou certains antiépileptiques.
+La fatigue est difficile à combattre. Les médicaments antiasthéniques sont peu efficaces et aucun n’a une AMM dans cette indication (amantadine, modafinil). L’activité physique est recommandée.
+Une prise en charge psychothérapique peut être nécessaire, car il existe souvent un syndrome dépressif associé. Des antidépresseurs peuvent être proposés en cas de besoin.
+Une prise en charge multidisciplinaire (kinésithérapie, rééducation fonctionnelle, soutien psychologique, ergothérapie, soins infirmiers, aide sociale, etc.) permet d’améliorer le quotidien des malades en limitant le retentissement de leur maladie. Dans de nombreuses régions françaises se sont organisés des réseaux de soins ville-hôpital, où interviennent divers professionnels de santé, pour harmoniser et améliorer la prise en charge globale des patients SEP. Ils permettent également aux neurologues de discuter des orientations thérapeutiques lors de réunions de concertation.
+ 
+
+POINTS CLÉS :
+
+La SEP est une maladie inflammatoire démyélinisante chronique confinée au système nerveux central :
+
+inflammation focale ? plaques ? poussées ;
+dégénérescence diffuse ? atrophie ? progression.
+Le diagnostic est un diagnostic de probabilité, reposant sur des critères variables basés sur quatre éléments fondamentaux :
+
+dissémination dans le temps ;
+dissémination dans l’espace ;
+inflammation localisée au SNC ;
+pas d’autre explication.
+Les moyens diagnostiques pour mettre en évidence ces éléments sont :
+
+clinique ;
+IRM ;
+LCS ;
+(± PEV).
+Le traitement de la SEP repose sur plusieurs types de prise en charge complémentaires :
+
+traitement de la poussée ;
+traitement symptomatique ;
+traitement de fond.
+Prise en charge multidisciplinaire et en réseau.
+ 
+
+1/ L’ophtalmoplégie internucléaire témoigne d’une atteinte du faisceau longitudinal médian. Elle réalise une déconjugaison des yeux dans le regard latéral : l’œil en abduction est animé d’un nystagmus, tandis que l’autre œil ne passe pas la ligne médiane (mais les globes oculaires peuvent converger, ce qui témoigne de l’intégrité du noyau du III).

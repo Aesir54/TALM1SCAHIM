@@ -1,0 +1,983 @@
+Accidents vasculaires cérébraux
+
+
+Objectifs pédagogiques
+Diagnostiquer un accident vasculaire cérébral.
+Identifier les situations d’urgence et planifier leur prise en charge préhospitalière et hospitalière.
+Argumenter l’attitude thérapeutique et planifier le suivi du patient.
+Décrire les principes de la prise en charge au long cours en abordant les problématiques techniques, relationnelles et éthiques en cas d’évolution défavorable.
+I. Pour comprendre
+A. Définitions et épidémiologie
+Les accidents vasculaires cérébraux (AVC) sont caractérisés par la survenue brutale d’un déficit neurologique focal.
+Ils affectent environ 150 000 patients par an, un nombre qui a tendance à croître en raison de l’augmentation et du vieillissement de la population. Environ un quart des AVC sont des récidives survenant chez des patients ayant un antécédent cérébrovasculaire.
+Les AVC peuvent survenir à tout âge y compris dans l’enfance mais dans 75 % des cas ils affectent des patients âgés de plus de 65 ans.
+L’âge moyen de survenue d’un AVC est de 73 ans (70 ans pour les hommes et 76 ans pour les femmes).
+L’AVC est une pathologie fréquente et potentiellement grave qui constitue une urgence médicale et, parfois, chirurgicale.
+Le terme d’AVC regroupe l’ensemble des pathologies vasculaires cérébrales d’origine artérielle ou veineuse, à savoir :
+les ischémies cérébrales artérielles (80 %) :
+les hémorragies cérébrales (ou intraparenchymateuses) (20 %) ;
+les thromboses veineuses cérébrales (rares).
+transitoires : accidents ischémiques transitoires (AIT),
+constituées : infarctus cérébraux ;
+Environ un quart des hémorragies cérébrales (5 % de tous les AVC) correspondent à une hémorragie méningée, dont la prise en charge est totalement différente (neurochirurgie ou radiologie interventionnelle).
+Les AVC représentent :
+
+la première cause de handicap moteur acquis de l’adulte ;
+la deuxième cause de démence après la maladie d’Alzheimer ;
+la troisième cause de mortalité pour les hommes (après les cancers et les cardiopathies ischémiques) et la première pour les femmes (avant les cardiopathies ischémiques et le cancer du sein).
+L’amélioration du pronostic dépend de la qualité de la prévention primaire et secondaire et de la rapidité de prise en charge diagnostique et thérapeutique à la phase aiguë.
+B. Physiopathologie
+Le fonctionnement cérébral nécessite un apport sanguin constant en oxygène et en glucose. En raison de l’absence de réserve en ces deux substrats, toute réduction aiguë du flux artériel cérébral sera responsable d’une souffrance du parenchyme cérébral situé dans le territoire de l’artère occluse. L’étendue de la zone ischémiée dépendra de la mise en jeu de systèmes de suppléances artérielles et de leur qualité (cf. ). Ainsi, en cas d’infarctus cérébral, il existe :
+
+une zone centrale, où la nécrose s’installe immédiatement ;
+une zone périphérique, dite « zone de pénombre » (fig. 29.1), où les perturbations tissulaires sont réversibles si le débit sanguin cérébral est rétabli rapidement (premières heures) : cette zone constitue la cible des traitements d’urgence de l’ischémie cérébrale.
+L’ischémie cérébrale peut être la conséquence de deux mécanismes différents :
+
+occlusion artérielle (le plus fréquent) par thrombose ou embolie ;
+hémodynamique (rare) :
+chute de la perfusion cérébrale sans occlusion, à l’occasion d’un effondrement de la pression artérielle : régionale (sténose aiguë artérielle préocclusive sur athérosclérose par hématome sous-plaque, dissection), systémique (arrêt cardiaque),
+en cas de mécanisme hémodynamique, l’infarctus cérébral touche volontiers une zone jonctionnelle entre deux territoires (perfusion de « dernier pré »).
+Fig. 29.1
+
+Évolution de la zone de l’ischémie cérébrale en l’absence de recanalisation.
+
+II. Présentation clinique
+Un AVC doit être évoqué devant un :
+
+déficit neurologique :
+seules les pertes de fonctions (motricité, sensibilité, vision, audition, langage…) sont à prendre en compte,
+toute manifestation productive (clonies, phosphènes, douleurs…) doit faire remettre en question le diagnostic ;
+focal : la perte de fonction correspond à la lésion d’une structure anatomique cérébrale donnée ;
+d'apparition brutale :
+le plus souvent le déficit neurologique focal apparaît sans prodromes et est d’emblée maximal,
+plus rarement, le déficit peut connaître :
+le déficit peut rester stable ou s’améliorer progressivement.
+une aggravation rapide sur quelques minutes (aggravation en « tache d’huile » de l’hémorragie intraparenchymateuse),
+des paliers d’aggravation successifs (sténose artérielle préocclusive),
+des fluctuations initiales (lacune) ;
+La nature ischémique ou hémorragique d’un AVC peut être évoquée en fonction :
+
+des données épidémiologiques (fréquence plus importante des infarctus cérébraux) ;
+du contexte :
+affection cardiaque emboligène connue (valvulopathie, trouble du rythme) ou des manifestations antérieures de maladie athéroscléreuse (coronaropathie, artériopathie des membres inférieurs) ? infarctus cérébral,
+trouble de la coagulation ? hémorragie intraparenchymateuse ;
+des données cliniques :
+correspondance à un territoire artériel ? infarctus cérébral ;
+symptomatologie d’HTIC associée précoce (céphalées, nausées, vomissements, troubles de la conscience) ? hémorragie intraparenchymateuse.
+A. Infarctus cérébraux constitués
+On distingue (tableau 29.1) :
+
+infarctus cérébraux de la circulation antérieure : carotidiens (artère ophtalmique, cérébrale antérieure, cérébrale moyenne) ;
+infarctus cérébraux de la circulation postérieure : vertébrobasilaires (artères vertébrales, cérébelleuses et cérébrales postérieures) ;
+petits infarctus profonds (ou « lacunes ») ;
+infarctus cérébraux jonctionnels (aux confins de deux territoires artériels).
+
+
+
+
+
+
+
+------------------------------> Tableau 29.1  Principales manifestations cliniques des infarctus cérébraux en fonction des territoires artériels.
+
+
+
+
+
+
+
+1. Infarctus cérébraux carotidiens
+Les symptômes déficitaires moteurs et sensitifs sont controlatéraux à la lésion cérébrale. Exception : l’occlusion de l’artère ophtalmique, qui provoque une cécité homolatérale.
+
+a. Infarctus cérébraux sylviens (territoire de l’artère cérébral moyenne)
+Ce sont les plus fréquents (++). On les différencie en infarctus cérébral superficiel, profond ou total.
+
+Infarctus cérébral sylvien superficiel (fig. 29.2A)
+
+Hémiplégie à prédominance brachiofaciale (++).
+Troubles sensitifs dans le territoire paralysé.
+Hémianopsie latérale homonyme.
+Fig. 29.2
+
+Infarctus cérébraux en territoire carotidien.
+A. Sylvien superficiel gauche (IRM séquence diffusion). B. Sylvien profond gauche (IRM séquence FLAIR). C. Sylvien total droit (IRM séquence de diffusion). D. Cérébral antérieur droit (IRM séquence de diffusion).
+
+L’atteinte de l’hémisphère majeur comporte :
+
+une aphasie d’expression (motrice) et non fluente (Broca) en cas d’infarctus antérieur (atteinte du pied de la 3e circonvolution frontale : zone de Broca) ;
+une aphasie de compréhension (sensorielle) et fluente (Wernicke) en cas d’infarctus postérieur (atteinte temporale postérieure : zone de Wernicke) ;
+une apraxie idéomotrice (atteinte pariétale).
+L’atteinte de l’hémisphère mineur se manifeste par un syndrome d’Anton-Babinski :
+
+anosognosie (non-reconnaissance du trouble) (+) ;
+hémiasomatognosie (non-reconnaissance de l’hémicorps paralysé) (+) ;
+héminégligence (spatiale et visuelle de l’hémichamp controlatéral, gênant la rééducation ; motrice : sous-utilisation de l’hémicops controlatéral).
+Infarctus cérébral sylvien profond (fig. 29.2B)
+
+Hémiplégie massive proportionnelle (atteinte de la capsule interne).
+Infarctus cérébral sylvien total (fig. 29.2C)
+
+Associe des signes d’infarctus cérébral superficiel et profond :
+
+hémiplégie massive proportionnelle + hémianesthésie ;
+aphasie globale en cas d’atteinte de l’hémisphère majeur ;
+déviation conjuguée de la tête et des yeux vers la lésion (atteinte de l’aire oculocéphalogyre frontale) ;
+troubles de conscience initiaux fréquents.
+b. Infarctus cérébral dans le territoire de l’artère cérébrale antérieure (fig. 29.2D)
+Hémiplégie à prédominance crurale avec troubles sensitifs (atteinte du lobule paracentral).
+Syndrome frontal (adynamie, syndrome dysexécutif).
+En cas d’atteinte bilatérale et complète, un mutisme akinétique est observé.
+
+L’association à un infarctus cérébral sylvien est possible dans le cadre d’une thrombose de la terminaison de l’artère carotide interne (« T » carotidien).
+
+L’association d’un infarctus cérébral antérieur ou sylvien à une cécité monoculaire controlatérale à l’hémiplégie par atteinte de l’artère ophtalmique définit le syndrome opticopyramidal et suggère une occlusion carotidienne.
+
+2. Infarctus cérébraux vertébrobasilaires
+a. Infarctus cérébral dans le territoire de l’artère cérébrale postérieure (fig. 29.3A)
+Territoire superficiel
+
+Hémianopsie latérale homonyme souvent isolée (++), avec parfois :
+
+alexie/agnosie visuelle (hémisphère majeur) ;
+troubles de la représentation spatiale et prosopagnosie (physionomies) (hémisphère mineur).
+Fig. 29.3
+
+Infarctus en territoire vertébrobasilaire.
+A. Cérébral postérieur gauche (IRM séquence FLAIR). B. Cérébraux postérieurs droit et gauche (IRM séquence de diffusion : restriction du coefficient apparent de diffusion). C. Cérébelleux et territoire d’une perforante du tronc cérébral (IRM séquence de diffusion).
+
+Territoire profond
+
+Syndrome thalamique :
+
+troubles sensitifs à tous les modes de l’hémicorps controlatéral ;
+parfois douleurs intenses (jusqu’à l’hyperpathie) d’apparition secondaire ;
+rarement, mouvements anormaux de la main.
+En cas d’atteinte bilatérale et complète (fig. 29.3B) : cécité corticale et troubles mnésiques.
+
+b. Infarctus cérébraux sous-tentoriels (fig. 29.3C)
+Responsables de lésions du tronc cérébral et du cervelet par occlusion d’artères perforantes du tronc basilaire (infarctus paramédians ou latéraux) ou des branches d’artères cérébelleuses.
+
+Infarctus du tronc cérébral
+
+Ils peuvent être étagés et s’associer à des infarctus hémisphériques d’aval (artère cérébrale postérieure).
+Responsables de syndromes alternes définis par l’atteinte :
+d’un nerf crânien du côté de la lésion ;
+d’une voie longue, sensitive ou motrice, controlatérale à la lésion ;
+par exemple : infarctus protubérantiel associant atteinte du VII de type périphérique homolatérale à la lésion et hémiplégie controlatérale épargnant la face.
+Le plus fréquent est le syndrome de Wallenberg (+++) :
+conséquence d’un infarctus de la partie latérale de la moelle allongée (rétro-olivaire) irriguée par l’artère de la fossette latérale de la moelle allongée, elle-même branche de l’artère cérébelleuse postéro-inférieure ;
+symptomatologie initiale dominée par une sensation vertigineuse avec troubles de l’équilibre, parfois associés à des céphalées postérieures.
+Syndrome de Wallenberg (ou syndrome alterne sensitif)
+
+Du côté de la lésion
+
+Syndrome de Claude Bernard-Horner : atteinte de la voie sympathique.
+Hémisyndrome cérébelleux : atteinte du pédoncule cérébelleux inférieur.
+Atteinte du VIII : syndrome vestibulaire avec nystagmus rotatoire.
+Atteinte des nerfs mixtes (IX et X) : troubles de phonation et de déglutition (qui imposent un arrêt de l’alimentation orale), paralysie de l’hémivoile et de l’hémipharynx (signe du rideau).
+Atteinte du V (racine descendante du trijumeau) : anesthésie de l’hémiface.
+Du côté opposé
+
+Atteinte du faisceau spinothalamique se traduisant par une anesthésie thermoalgique de l’hémicorps épargnant la face.
+Infarctus graves du tronc cérébral
+
+Conséquences, notamment, d’une occlusion du tronc basilaire, ils se révèlent par :
+
+un coma pouvant mener au décès ;
+une atteinte motrice bilatérale ;
+au maximum un locked-in syndrome par infarctus bilatéral du pied de la protubérance : quadriplégie avec diplégie faciale (seul mouvement possible : verticalité des yeux) mais conscience normale.
+Infarctus cérébelleux
+
+Parfois asymptomatiques, ils se révèlent souvent par un trouble de l’équilibre et provoquent un hémisyndrome cérébelleux ipsilatéral à la lésion.
+En cas d’infarctus cérébelleux de grande taille, il peut exister un risque vital par :
+compression du tronc cérébral par l’œdème cérébelleux ;
+hydrocéphalie aiguë par compression du IVe ventricule.
+3. Petits infarctus profonds, ou « lacunes » (fig. 29.4A et B)
+Conséquence d’une occlusion d’une artériole perforante (diamètre de 200 à 400 µm) par lipohyalinose (cf. infra).
+
+Fig. 29.4
+
+Microangiopathie cérébrale.
+A. Infarctus lacunaire récent (IRM séquence de diffusion). B. Infarctus lacunaire ancien (IRM séquence FLAIR). C. Leucoencéphalopathie vasculaire (IRM séquence FLAIR). D. Microbleeds (microsaignements) (IRM séquence T2*).
+
+Des tableaux cliniques évocateurs divers peuvent révéler ces petits infarctus. Les plus fréquents sont :
+
+hémiplégie motrice pure (capsule interne) ;
+hémianesthésie pure d’un hémicorps ou à prédominance chéiro-orale (thalamus) ;
+hémiparésie + hémihypoesthésie ;
+dysarthrie + main malhabile (pied de la protubérance) ;
+hémiparésie + hémi-ataxie (protubérance ou substance blanche hémisphérique).
+L’« état lacunaire » est la conséquence de la multiplication des petits infarctus profonds. Il est caractérisé par l’association :
+
+syndrome pseudo-bulbaire :
+troubles de la déglutition et de la phonation (voix nasonnée),
+rires et pleurs spasmodiques,
+marche à petits pas,
+troubles sphinctériens ;
+détérioration des fonctions cognitives.
+B. Accident ischémique transitoire
+1. Définition
+L’AIT est un épisode bref (typiquement de moins d’une heure) de déficit neurologique dû à une ischémie focale cérébrale ou rétinienne, sans lésion cérébrale identifiable en imagerie.
+
+2. Diagnostic de l’AIT
+Il est difficile, du fait de la brièveté du phénomène, et repose d’abord sur la qualité de l’interrogatoire.
+
+La symptomatologie clinique des AIT est aussi variée que celle des infarctus cérébraux.
+
+On distingue AIT probable et AIT possible.
+
+a. AIT probable
+Installation rapide, habituellement en moins de 2 minutes, de l’un ou de plusieurs des symptômes suivants.
+Symptômes évocateurs d’un AIT carotidien :
+cécité monoculaire ;
+troubles du langage (aphasie) ;
+troubles moteurs et/ou sensitifs unilatéraux touchant la face et/ou les membres.Ces symptômes traduisent le plus souvent une ischémie du territoire carotide mais en l’absence d’autres signes il n’est pas possible de trancher entre une atteinte carotide et vertébrobasilaire.
+Symptômes évocateurs d’un AIT vertébrobasilaire :
+troubles moteurs et/ou sensitifs bilatéraux ou à bascule d’un épisode à l’autre, touchant la face et/ou les membres ;
+perte de vision dans un hémichamp visuel homonyme (hémianopsie latérale homonyme) ou dans les deux hémichamps visuels homonymes (cécité corticale).
+b. AIT possible
+Les symptômes suivants sont compatibles avec un AIT mais ne doivent pas faire retenir le diagnostic en première intention s’ils sont isolés :
+
+vertige ;
+diplopie ;
+dysarthrie ;
+troubles de la déglutition ;
+perte de l’équilibre ;
+symptômes sensitifs isolés ne touchant qu’une partie d’un membre ou d’une hémiface ;
+(dérobement des jambes sans trouble de la conscience).
+Le diagnostic d’AIT devient probable si ces signes s’associent (++), de façon successive ou concomitante, entre eux ou aux signes cités dans le paragraphe « AIT probable ».
+
+Une perte de connaissance, une confusion, une amnésie aiguë, une faiblesse généralisée transitoire ne sont pas évocatrices d’AIT.
+
+3. AIT : situation d’urgence
+L’AIT est un « syndrome de menace cérébrale » car :
+
+30 % des infarctus cérébraux sont précédés d’AIT ;
+en l’absence d’institution d’un traitement spécifique, 10 % des patients ayant été victimes d’un AIT vont présenter un infarctus cérébral constitué dans le mois qui suit ; ce risque est maximal dans les premiers jours suivant l’AIT.
+Le risque de récidive à court terme post-AIT peut être évalué par le score ABCD2 (tableau 29.2). Plus le score est élevé plus le risque est important.
+
+Les AIT et les infarctus cérébraux partagent les mêmes causes.
+
+
+
+
+
+
+
+------------------------------> Tableau 29.2  Score ABCD2 : évaluation du risque de récidive post-AIT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peuvent venir enrichir ce score : la présence d’une anomalie en diffusion, l’existence d’une sténose artérielle extra- ou intracrânienne, la notion d’AIT récent.
+* Plus le score est élevé plus le risque d’infarctus cérébral constitué est élevé au cours du suivi.
+
+4. Diagnostics différentiels de l’AIT
+Les principaux diagnostics différentiels de l’AIT sont :
+
+neurologiques :
+aura migraineuse (importance de la marche migraineuse progressive),
+crise épileptique partielle (ou déficit post-critique) révélatrice d’une lésion sous-jacente (tumeur…) ;
+hypoglycémie ;
+autres : ils sont nombreux et varient selon la présentation clinique :
+vertige paroxystique bénin ou maladie de Ménière (en cas de vertige),
+glaucome ou pathologie rétinienne (en cas de trouble visuel),
+lipothymie,
+hystérie, etc.
+C. Hémorragies intraparenchymateuses
+La symptomatologie ne répond pas à une systématisation artérielle et dépend de la localisation de l’hémorragie intraparenchymateuse.
+Autres différences avec les infarctus cérébraux :
+céphalées plus fréquentes et plus sévères ;
+troubles de la conscience plus précoces, conséquences de l’HTIC ou de l’étendue de l’hémorragie.
+Néanmoins, la symptomatologie clinique ne permet pas de distinguer une hémorragie intraparenchymateuse d’un infarctus cérébral de manière fiable : l’imagerie cérébrale est indispensable (++).
+On distingue les hémorragies intraparenchymateuses en fonction de leur localisation :
+hématomes profonds (noyaux gris) (fig. 29.5A et B) ;
+hématomes superficiels (ou « lobaires ») (fig. 29.5C et D) ;
+hématomes sous-tentoriels (protubérance, cervelet).
+Fig. 29.5
+
+Hémorragies intracérébrales.
+A. Hématome sous-cortical de l’HTA en scanner. B. Hématome sous-cortical de l’HTA en IRM (séquence T2*). C. Hématome lobaire de l’angiopathie amyloïde en scanner. D. Hématome lobaire de l’angiopathie amyloïde en IRM (séquence T2*).
+
+III. Étiologie
+A. Infarctus cérébraux
+Les causes sont multiples.
+
+Plusieurs causes peuvent être présentes en même temps chez un même patient (par exemple, athérosclérose et fibrillation atriale).
+Dans 25 % des cas environ, l’infarctus cérébral reste d’origine indéterminée.
+Les infarctus cérébraux peuvent être dus à (fig. 29.6) :
+
+une atteinte des grosses artères (macroangiopathies) (++) ;
+une atteinte des petites artères (microangiopathies) (++) ;
+une cardiopathie emboligène (++) ;
+un état prothrombotique (rare) ;
+des causes métaboliques (rares).
+Fig. 29.6
+
+Principales étiologies d’infarctus cérébraux.
+
+1. Macroangiopathies (fig. 29.7)
+a. Athérosclérose (fig. 29.7A à D)
+Environ 30 % de l’ensemble des infarctus cérébraux.
+Diagnostic : présence d’une sténose > 50 % d’une artère en amont de l’infarctus cérébral et présence de facteurs de risque vasculaire.
+L’athérosclérose peut conduire à un infarctus cérébral par différents mécanismes :
+thromboembolique (+++) : fragmentation d’un thrombus sur plaque et occlusion d’une artère distale ;
+thrombotique : occlusion artérielle au contact de la plaque ;
+hémodynamique (rare, sur sténose serrée).
+Les localisations privilégiées de l’athérosclérose sont les suivantes :
+circulation antérieure : origine des carotides internes, siphons carotidiens, origine des artères sylviennes ;
+circulation postérieure : origine des artères vertébrales, tronc basilaire ;
+origine des artères perforantes.
+Fig. 29.7
+
+Exploration des troncs supra-aortiques.
+A. Sténose carotidienne athéromateuse en angioscanner. B. Hématome pariétal de dissection carotidienne bilatérale (IRM séquence T1 SPIR). C. Sténose carotidienne athéromateuse en artériographie. D. Sténose de l’artère sylvienne gauche en angio-IRM.
+
+b. Dissections des artères cervicoencéphaliques (fig. 29.7C)
+Cause la plus fréquente des infarctus cérébraux du sujet jeune (environ 20 %).
+La dissection correspond au développement d’un hématome dans la paroi de l’artère, responsable d’une sténose (avec risque d’embole distal), voire d’une occlusion de l’artère disséquée.
+Origine de la dissection :
+post-traumatique (choc, hyperextension) ou spontanée ;
+elle peut survenir sur une artère pathologique (maladie du tissu conjonctif de type Ehlers-Danlos, dysplasie fibromusculaire), mais plus souvent sur une artère saine (sans raison clairement identifiée) ;
+elle est plus fréquente chez les patients ayant une hypertension artérielle chronique et moins fréquente chez les patients en surcharge pondérale.
+La symptomatologie associe une triade comprenant des douleurs (céphalées ou cervicalgies), des signes locaux et des signes ischémiques d’aval, mais chaque élément de cette triade est inconstant :
+cervicalgie/céphalée : signe essentiel de la dissection, à rechercher devant tout infarctus cérébral du sujet jeune (céphalée périorbitaire sur dissection carotidienne, postérieure sur dissection vertébrale) ;
+signes locaux homolatéraux à la dissection :
+syndrome de Claude Bernard-Horner douloureux par compression du plexus sympathique péricarotidien,
+paralysie des paires crâniennes basses (IX, X, XI) par atteinte de l’artère carotide interne dans l’espace sous-parotidien postérieur,
+acouphène pulsatile par perception de l’accélération du flux sanguin dans la carotide intrapétreuse,
+signes ischémiques : variables en fonction du territoire artériel concerné.
+c. Causes macroangiopathiques rares
+Syndrome de vasoconstriction réversible : favorisé par la prise de certains médicaments (inhibiteurs spécifiques de la sérotonine, vasoconstricteurs nasaux…) ou toxiques (cannabis…). Le diagnostic sera évoqué devant l’association d’un facteur déclenchant, de céphalées ictales récurrentes et de vasospasmes observés en imagerie.
+Certaines artérites (maladie de Horton…).
+2. Microangiopathies (fig. 29.4)
+a. Infarctus dits « lacunaires »
+Environ 20 % de l’ensemble des infarctus cérébraux.
+Petit infarctus profond de moins de 15 mm de diamètre.
+Ils sont liés à l’occlusion d’une artériole profonde sur artériopathie locale, la lipohyalinose, dont le principal facteur de risque est l’HTA.
+Localisation préférentielle des infarctus « lacunaires » :
+noyaux gris centraux ;
+capsule interne ;
+pied de la protubérance.
+On suspecte un infarctus lacunaire chez un patient hypertendu en cas de tableau clinique évocateur (cf. supra).
+b. Autres causes rares de microangiopathie
+Rares maladies génétiques, telles que CADASIL (cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy).
+Artérite primitive du système nerveux central ou secondaire touchant les petites artères distales ; le diagnostic est évoqué devant l’association à des sténoses artérielles multiples et diffuses.
+3. Cardiopathies emboligènes
+Environ 20 % des infarctus cérébraux.
+Conséquence d’une atteinte morphologique ou fonctionnelle du myocarde.
+La liste des cardiopathies emboligènes est longue () : on distingue celles à risque élevé (risque de complication embolique > 5 % par an) et celles à risque modéré ou mal déterminé.
+La fibrillation atriale est de très loin la plus fréquente des cardiopathies emboligènes (50 % des cas). Le risque embolique est d’autant plus élevé que le score CHADS2-VASc est élevé (cf. ).
+Le mécanisme cardioembolique est systématiquement évoqué devant des infarctus cérébraux simultanés ou distincts survenant dans des territoires artériels différents.
+
+
+
+
+
+
+
+
+------------------------------------> Tableau 29.3  Principales cardiopathies emboligènes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Autres causes rares
+États prothrombotiques :
+hémopathie (maladie de Vaquez, thrombocytémie essentielle…) ;
+coagulation intravasculaire disséminée ;
+anticoagulant circulant (anticorps anti-phospholipides).
+Maladies métaboliques rares : drépanocytose, maladie de Fabry, mitochondriopathies…
+B. Hémorragies intraparenchymateuses
+1. HTA chronique
+Cause de 50 % des hémorragies intraparenchymateuses.
+L’hémorragie intraparenchymateuse est secondaire à la rupture des artérioles perforantes, due à l’HTA chronique ().
+L’hémorragie intraparenchymateuse est typiquement profonde ; par ordre de fréquence décroissante :
+capsulothalamique ;
+capsulolenticulaire ;
+cérébelleuse.
+2. Rupture d’une malformation vasculaire
+Elle ne concerne qu’environ 5 à 10 % des hémorragies intraparenchymateuses, mais au moins un tiers chez le sujet jeune.
+Il peut s’agir :
+d’une malformation artérioveineuse ;
+d’un cavernome (malformation cryptique, c’est-à-dire non visible à l’angiographie) : il peut être isolé ou multiple (cavernomatose).
+3. Trouble de l’hémostase
+Le trouble peut être
+
+d’origine congénitale (hémophilie…) ;
+d’origine acquise (anticoagulants, alcoolisme chronique…).
+Parmi les causes acquises, l’origine iatrogène est prédominante : environ 10 % de l’ensemble des hémorragies intraparenchymateuses sont liés à la prise d’AVK (antivitamine K) au long cours. Le risque des antiplaquettaires est beaucoup plus faible.
+
+4. Tumeurs cérébrales
+Cause de 5 à 10 % des hémorragies intraparenchymateuses. Les tumeurs malignes sont les plus concernées.
+L’hémorragie intraparenchymateuse est souvent révélatrice de la tumeur.
+5. Autres causes (nombreuses)
+Angiopathie amyloïde (hémorragies intraparenchymateuses lobaires récidivantes + déficit cognitif), cause fréquente chez le sujet âgé (fig. 29.5 C et D).
+
+Thrombose veineuse cérébrale (fig. 29.8B et D).
+
+Endocardite infectieuse (rupture d’anévrisme mycotique).
+
+Artérites cérébrales.
+
+Méningo-encéphalite herpétique.
+
+Fig. 29.8
+
+Thrombose veineuse cérébrale.
+A. Thrombose du sinus latéral gauche en scanner sans injection. B. Infarctus veineux hémorragique en scanner. C. Infarctus veineux en séquence IRM FLAIR. D. Infarctus veineux avec remaniement hémorragique en séquence IRM T2*. E. Infarctus veineux avec remaniement hémorragique en séquence IRM de diffusion. F. Thrombose du sinus latéral gauche en séquence IRM T1 après injection de gadolinium.
+
+IV. Prise en charge à la phase aiguë
+L’AVC justifie une hospitalisation en urgence en unité neurovasculaire pour :
+
+confirmation diagnostique par imagerie cérébrale ;
+prise en charge thérapeutique ;
+bilan étiologique.
+Le pronostic immédiat (vital) et ultérieur (fonctionnel) dépend de la rapidité et de la qualité de cette prise en charge.
+
+A. Imagerie cérébrale
+L’IRM est l’examen de référence pour confirmer le diagnostic d’AVC.
+En cas de non-accessibilité un scanner peut être réalisé.
+1. Scanner sans injection
+a. Dans les premières heures
+Il présente les caractéristiques suivantes :
+
+en cas d’infarctus cérébral :
+souvent normal,
+signes précoces possibles (fig. 29.9A à C) :
+hyperdensité artérielle (artère sylvienne « trop belle ») témoignant du thrombus dans l’artère,
+effacement des sillons corticaux,
+dédifférenciation substance blanche/substance grise : atténuation du manteau cortical de l’insula ; atténuation du noyau lenticulaire ;
+en cas d’hémorragie intraparenchymateuse : hyperdensité spontanée.
+Fig. 29.9
+
+Signes précoces d’ischémie cérébrale en scanner sans injection (infarctus cérébral sylvien droit).
+A. Scanner cérébral normal. B. Hypodensité systématisée au territoire sylvien, effacement partiel du noyau lenticulaire et effacement des sillons corticaux hémisphériques droits. C. Hyperdensité spontanée de l’artère cérébrale moyenne droite (signe de la sylvienne blanche).
+
+b. Au-delà de la 6e heure
+L’hypodensité de l’infarctus cérébral apparaît et s’accentue les premiers jours.
+Elle est systématisée au territoire artériel infarci ().
+Elle entraîne, après plusieurs mois, une dilatation du ventricule en regard et une atrophie localisée du parenchyme.
+2. IRM
+Sa sensibilité est nettement supérieure à celle du scanner.
+
+Le protocole d’urgence comporte quatre séquences (fig. 29.10A à D) :
+
+diffusion (DWI) : elle visualise l’infarctus cérébral de manière très précoce (quelques minutes) sous la forme d’une hyperintensité systématisée à un territoire artériel (). Elle permet le calcul du coefficient apparent de diffusion (ADC) qui est diminué (noir) en cas d’œdème cytotoxique () ;
+T2/FLAIR : elle visualise l’infarctus cérébral récent au bout de quelques heures et permet aussi l’identification des AVC plus anciens et des anomalies de la substance blanche (leucoencéphalopathie vasculaire) () ;
+T2* (ou écho de gradient) : elle visualise toute lésion hémorragique intraparenchymateuse ;
+time of flight (c’est-à-dire « temps de vol », ou 3D-ToF) : séquence d’angio-RM (ARM) réalisée sans injection de produit de contraste, pour l’étude des branches du polygone de Willis et la visualisation d’une éventuelle occlusion artérielle.
+La séquence de perfusion, non obligatoire et réservée à quelques centres spécialisés, visualise la zone hypoperfusée. La soustraction entre perfusion et diffusion permet d’identifier la zone de pénombre où les lésions sont réversibles, qui constitue la cible des stratégies thérapeutiques de reperfusion.
+
+Fig. 29.10
+
+Signes précoces d’ischémie cérébrale en IRM (infarctus cérébral sylvien gauche à la phase précoce en imagerie IRM).
+A. Hyperintensité en séquence de diffusion. B. Hypo-intensité (œdème cytotoxique) en séquence ADC (coefficient apparent de diffusion). C. Imagerie subnormale en séquence FLAIR. D. Absence d’anomalie en séquence T2*.
+
+B. Unités neurovasculaires (UNV ou stroke units)
+L’unité neurovasculaire comporte des lits de soins intensifs :
+
+elle regroupe médecins et personnel paramédical spécialisés en pathologie neurovasculaire ;
+elle permet, en urgence et en parallèle, les prises en charge diagnostique et thérapeutique.
+L’hospitalisation en unité neurovasculaire réduit la morbi-mortalité post-AVC (un décès ou handicap évité pour vingt patients traités).
+
+L’hospitalisation en unité neurovasculaire est justifiée :
+
+pour les infarctus cérébraux et les hémorragies intraparenchymateuses ;
+quels que soient l’âge et le sexe des patients ;
+quelle que soit la sévérité clinique (de l’AIT à l’AVC grave).
+C. Prise en charge thérapeutique
+1. Mesures générales
+a. Positionnement initial
+Alitement avec redressement de la tête à 30°.
+Prévention des attitudes vicieuses.
+Mise au fauteuil après exclusion d’une sténose artérielle serrée de la circulation cérébrale (écho-Doppler + Doppler transcrânien ou angio-TDM ou angio-IRM) en cas d’ischémie cérébrale.
+b. Surveillance rapprochée
+Neurologique (score NIHSS) : en cas d’aggravation refaire une imagerie cérébrale à la recherche d’une extension de l’ischémie ou d’une complication hémorragique.
+Déglutition : troubles de la déglutition à rechercher systématiquement (++) car il y a risque de pneumopathie de déglutition ; donc, en leur présence :
+suspension de l’alimentation orale ;
+pose au besoin d’une sonde gastrique.
+Pression artérielle : respect de la poussée tensionnelle au décours de l’AVC, indispensable au maintien d’un débit sanguin cérébral suffisant (risque de nécrose de la zone de pénombre en cas d’abaissement intempestif des chiffres tensionnels). En phase aiguë, on ne traite (de manière progressive) qu’en cas de chiffres élevés de pression artérielle :
+infarctus cérébral : PA > 220/120 mmHg ;
+infarctus cérébral si thrombolyse : PA > 185/110 mmHg ;
+hémorragie intraparenchymateuse : PA systolique > 140 mmHg (diminuer la PA en 1 heure permet de réduire la croissance de l’hémorragie). Il s’agit donc d’une urgence thérapeutique.
+Fréquence cardiaque (si possible sous scope) pour recherche de trouble du rythme.
+Température : lutte contre l’hyperthermie même en l’absence de cause identifiée : paracétamol à partir d’une température supérieure à 37,5 °C.
+Saturation en oxygène : lutte contre l’hypoxie et l’hypercapnie :
+oxygénothérapie si SaO2 < 95 % ;
+aspiration si encombrement bronchique.
+Glycémie : lutte contre l’hyperglycémie et l’hypoglycémie sévère :
+insulinothérapie sous-cutanée si glycémie > 1,8 g/L ;
+glucosé si glycémie < 0,5 g/L.
+Perfusion (si besoin) avec du sérum physiologique et prévention des troubles métaboliques.
+Nursing : prévention d’escarres, soins de bouche, etc.
+Kinésithérapie motrice précoce, pour améliorer la perception d’un membre paralysé, prévenir les attitudes vicieuses et les limitations articulaires.
+Prévention de complications systémiques : thromboemboliques (cf. infra), ulcère gastrique, etc.
+2. Thrombolyse (en cas d’infarctus cérébral)
+La thrombolyse par le rt-PA (recombinant tissue-plasminogen activator) par voie IV est bénéfique lorsqu’elle est appliquée dans les 4 heures et demie qui suivent l’installation des premiers signes d’infarctus cérébral.
+Elle s’accompagne d’un risque élevé d’hémorragie cérébrale et d’hémorragie systémique (gastrique).
+La décision de thrombolyse doit donc être prise par un médecin formé en pathologie neurovasculaire après évaluation des contre-indications majeures (sévérité de l’AVC, taille de l’infarctus cérébral en imagerie, antécédents, contrôle de la pression artérielle…).
+Jusqu’à la 6e heure, une thrombolyse par voie intra-artérielle ou une thrombectomie peuvent être discutées dans des centres hautement spécialisés (neuroradiologie interventionnelle). Les études récentes montrent un bénéfice significatif, en cas d’occlusion proximale (carotide ou premiers centimètres de la sylvienne), de la thrombectomie en compléments de la thrombolyse IV.
+3. Traitements antithrombotiques (en cas d’infarctus cérébral)
+Prescrits dès l’arrivée ou après un délai de 24 heures en cas de thrombolyse.
+Bénéfices attendus :
+prévention d’une récidive précoce d’infarctus cérébral :
+un bénéfice d’une association aspirine-clopidogrel pendant une période transitoire pour les AIT avec score ABCD2 élevé (> 4) ou infarctus cérébraux mineurs avec NIHSS faible (< 5) est suggéré par certaines études ;
+prévention d’une complication thromboembolique :
+aspirine entre 160 et 300 mg par jour,
+clopidogrel en cas de contre-indication à l’aspirine ;
+héparine à doses isocoagulantes (sous forme d’HBPM en l’absence d’insuffisance rénale chronique) pour prévenir le risque thromboembolique veineux en cas d’alitement dû au déficit d’un membre inférieur,
+ce traitement sera débuté 24 heures après le début des symptômes en cas d’hémorragie intraparenchymateuse.
+Cas particulier : l’héparine à doses hypocoagulantes :
+est rarement prescrite, car le bénéfice est largement contrebalancé par le risque hémorragique (cérébral et systémique) ;
+est contre-indiquée en cas d’infarctus cérébral étendu ;
+est discutée au cas par cas dans quelques situations particulières : cardiopathies emboligènes à haut risque, dissections des troncs supra-aortiques, en respectant dans tous les cas les contre-indications.
+4. Antagonisation (en cas d’hémorragie intraparenchymateuse)
+Hémorragie sous AVK : administration en urgence de PPSB + vitamine K adaptée au poids du patient.
+Hémorragie sous anticoagulants oraux directs (antithrombine, antiXa) : administration en urgence de PPSB ou Feiba®.
+Hémorragie sous antiagrégant plaquettaire : absence de démonstration du bénéfice de la transfusion de plaquettes.
+5. Autres traitements
+Ils visent les complications neurologiques de l’AVC.
+
+Œdème cérébral : risque d’engagement et d’aggravation des lésions ischémiques :
+lutte contre l’hypercapnie ;
+parfois macromolécules (mannitol) mais pas de corticoïdes (effet délétère et absence d’efficacité car œdème cytotoxique) ;
+craniectomie de décompression en cas d’infarctus cérébral étendu dit « malin » (réservée aux patients de moins de 60 ans avec NIHSS > 16 et troubles de la vigilance). Le bénéfice au-delà de 60 ans peut être évalué au cas par cas (fig. 29.11).
+Crises épileptiques : pas de traitement préventif, traitement à discuter en cas de première crise isolée.
+Prise en charge neurochirurgicale rarement indiquée :
+infarctus cérébral malin du sujet jeune (craniectomie décompressive) ;
+hématome ou infarctus cérébelleux avec compression du tronc cérébral ou du IVe ventricule et risque d’engagement des amygdales cérébelleuses ou hydrocéphalie aiguë.
+Fig. 29.11
+
+Infarctus sylvien malin après craniectomie de décompression (scanner sans injection).
+
+D. Diagnostic étiologique
+Le diagnostic étiologique commence par l’imagerie cérébrale qui seule permet la distinction entre infarctus cérébral et hémorragie intraparenchymateuse (cf. supra).
+
+1. En cas d’infarctus cérébral
+a. Orientation initiale
+Elle dépend de :
+
+l’interrogatoire : palpitations, traumatisme cervical, contexte vasculaire antérieur (facteurs de risque, médicaments à tropisme vasculaire) ;
+la clinique : atteinte isolée de la motricité ou de la sensibilité d’un hémicorps (syndrome lacunaire), syndrome de Claude Bernard-Horner ou cervicalgie (dissection), souffle cardiaque (endocardite) ou artériel (sténose athéromateuse), etc. ;
+l’imagerie :
+des infarctus jonctionnels (à la jonction de deux territoires artériels) unilatéraux sont évocateurs d’une sténose artérielle,
+des infarctus cortico-sous-corticaux bilatéraux sont évocateurs d’une cardiopathie emboligène,
+un infarctus sous-cortical de moins de 15 mm de diamètre associé à une leucoencéphalopathie vasculaire est évocateur d’un infarctus lacunaire ().
+b. Examens complémentaires
+Ils ont pour objectif de rechercher les différentes causes.
+
+Macroangiopathie extra- et intracrânienne
+
+Examen à réaliser à l’admission :
+
+écho-Doppler des troncs supra-aortiques avec Doppler transcrânien ;
+ou angioscanner ;
+ou angio-IRM.
+L’angiographie conventionnelle n’a pas sa place en première intention.
+
+Microangiopathie (petits infarctus profonds)
+
+Le diagnostic repose sur le tableau clinique (cf. supra) associé aux résultats de l’IRM (cf. supra), en l’absence d’autre étiologie évidente.
+
+Cardiopathie emboligène
+
+Altération fonctionnelle :
+
+ECG (recherche de trouble du rythme) : réalisé dès l’admission ;
+scope si ECG négatif, Holter-ECG si absence de cause évidente ;
+en cas de forte suspicion de fibrillation atriale paroxysitique peuvent être discutés un enregistrement longue durée de type Holter (3 semaines) ou l’implantation d’un Holter implantable.
+Altération morphologique :
+
+échographie transthoracique : recherche de valvulopathie, anévrisme ventriculaire gauche, altération de la fraction d’éjection ; à réaliser le plus vite possible en l’absence d’étiologie évidente ;
+échographie transœsophagienne (étude de l’atrium gauche, du septum interauriculaire et de la crosse de l’aorte) après élimination des contre-indications (radiothérapie médiastinale, cancer de l’œsophage, varice œsophagienne…) ; à réaliser en cas de bilan initial négatif.
+Autres causes
+
+Un état prothrombotique sera recherché sur la NFS-plaquettes et le TP-TCA réalisé à l’admission.
+En outre, le bilan biologique initial comprendra ionogramme sanguin avec créatininémie, CRP, glycémie et bilan lipidique afin d’évaluer l’état général du patient et ses facteurs de risque vasculaire.
+Lorsqu’une cause rare est envisagée, d’autres examens sont discutés au cas par cas : ponction lombaire (artérite cérébrale), biopsies cutanée ou musculaire (maladies du tissu élastique et de surcharge), anticorps antinucléaires, dosage de l’homocystéinémie ou hémostase complète (recherche d’une thrombophilie), etc.
+2. En cas d’hémorragie intraparenchymateuse
+Le bilan étiologique dépend de l’âge du patient et de la localisation de l’hématome. Il comprendra :
+
+une IRM cérébrale ;
+un bilan de coagulation (plaquettes, TP, TCA) ;
+une angiographie des artères intracrâniennes (angio-TDM ou angio-IRM et, plus rarement, une angiographie conventionnelle) en l’absence d’argument pour une hémorragie intraparenchymateuse liée à l’HTA.
+Ce bilan pourra être complété en fonction d’orientations étiologiques spécifiques (ponction lombaire pour artérite, bilan d’infarctus cérébral pour remaniement hémorragique post-infarctus cérébral…).
+
+V. Prévention
+A. Prévention primaire
+Elle repose sur la prise en charge des facteurs de risque d’AVC.
+
+HTA : principal facteur de risque des AVC, ischémiques ou hémorragiques : augmentation du risque (c’est-à-dire risque relatif [RR]) de 4 environ ; plus de la moitié des AVC surviennent dans un contexte d’HTA chronique.
+Tabac : RR = 2. Important facteur de risque d’athérosclérose carotidienne.
+Hypercholestérolémie : RR = 1,5. Ce facteur de risque majeur de l’infarctus du myocarde est un facteur de risque plus accessoire des infarctus cérébraux. L’hypocholestérolémie semble à l’inverse augmenter le risque d’hémorragie intraparenchymateuse.
+Diabète : RR = 1,5.
+Alcoolisme chronique : augmentation progressive du risque au-delà de trois verres standard par jour (risque d’infarctus cérébral et d’hémorragie intraparenchymateuse).
+Migraine : augmentation du risque chez la femme jeune, surtout en cas de migraine avec aura associée à un tabagisme et une contraception orale.
+Contraception orale : faible augmentation du RR, limitée encore par l’utilisation des pilules microdosées ; le risque est essentiellement lié à l’effet.
+Obésité, syndrome métabolique, absence d’activité physique, syndrome d’apnées obstructives du sommeil : leur rôle est moins bien démontré que pour les cardiopathies ischémiques.
+Il n’y a pas d’intérêt au plan neurovasculaire à la prise d’aspirine au long cours en l’absence de manifestation d’AIT ou d’infarctus cérébral.
+L’administration d’un traitement anticoagulant par AVK ou autres anticoagulants oraux (antithrombine et anti-facteur Xa) en prévention primaire devant une fibrillation atriale apporte un bénéfice démontré pour un score CHADS2-VASc = 1.
+Le bénéfice de la chirurgie par endartériectomie sur sténose carotide asymptomatique serrée est modeste car le risque spontané d’infarctus cérébral est faible (1 % par an), alors que le risque opératoire avoisine 3 %. L’indication est donc discutée individuellement pour les patients ayant une sténose supérieure à 60 % et une espérance de vie supérieure à 5 ans. Elle nécessite une concertation multidisciplinaire (appréciation notamment du pronostic cardiaque).
+L’information des patients à risque sur les manifestations évocatrices d’un AVC (critères FAST : face, arm, speech, time) est une étape importante de la stratégie de prévention.
+B. Prévention secondaire des infarctus cérébraux
+La prévention secondaire dépend de la cause de l’infarctus cérébral.
+
+1. Athérosclérose
+Prise en charge des facteurs de risque vasculaire :
+antihypertenseurs :
+hypocholestérolémiants :
+antidiabétiques : objectif : HbA1c < 6,5 % ;
+règles hygiéno-diététiques ;
+activités physiques régulières (30 minutes de marche rapide quotidienne).
+privilégier les inhibiteurs de l’enzyme de conversion et diurétiques thiazidiques,
+objectif : PA < 140/90 mmHg (130/80 mmHg pour les diabétiques) ;
+privilégier les statines,
+objectif : LDL-cholestérol < 1 g/L ;
+Traitement antiagrégant plaquettaire, qui réduit le risque de récidive d’infarctus cérébral de 20 % environ :
+trois traitements ont fait la preuve de leur efficacité ;
+l’association de ces traitements n’apporte pas de bénéfice et augmente le risque de complications hémorragiques ;
+les anticoagulants oraux (AVK, antithrombine, antiXa) au long cours n’ont pas d’intérêt dans cette indication.
+aspirine (50 et 300 mg par jour),
+clopidogrel (75 mg par jour) (Plavix® 1 cp par jour),
+association dipyridamole-aspirine (400 mg–50 mg par jour) (Asasantine®, 2 cp par jour) ;
+Prise en charge chirurgicale des sténoses carotidiennes symptomatiques serrées :
+les sténoses > 70 % à l’origine de l’artère carotide interne représentent l’indication principale ; l’indication sera discutée au cas par cas pour les sténoses entre 50 et 70 % ;
+l’endartériectomie est la technique de référence ; à ce jour, il n’y a pas d’indication démontrée de l’angioplastie (± stent) ;
+une intervention dans les 15 jours suivant l’infarctus cérébral est souhaitée ; le bénéfice diminue au fur à mesure qu’on s’éloigne de l’événement initial ;
+elle n’est pas indiquée en cas d’infarctus cérébral sévère.
+2. Petits infarctus profonds (ou « lacunes »)
+La prévention repose sur :
+
+le traitement des facteurs de risque (HTA ++) ;
+un médicament antiplaquettaire (cf. V.B.1. Athérosclérose).
+3. Cardiopathies emboligènes
+En cas de fibrillation atriale, les anticoagulants oraux (AVK, antithrombine [dabigatran], anti-Xa [rivaroxaban, apixaban]) constituent le traitement de référence :
+les AVK réduisent des deux tiers le risque d’infarctus cérébral ultérieur ; l’INR cible se situe entre 2 et 3 ;
+les antithrombines (dabigatran) et anti-Xa (rivaroxaban, apixaban) comportent un risque hémorragique cérébral moindre et ont une efficacité identique à celle des AVK. Ils sont contre-indiqués en cas de fibrillation auriculaire valvulaire ou d’insuffisance rénale ;
+la prescription des anticoagulants doit toujours tenir compte des risques hémorragiques. Ce risque pourra être évalué par le score HAS-BLED (cf. ).En cas de contre-indication aux anticoagulants (risque de chutes traumatisantes, risque d’erreurs dans les traitements, par exemple du fait de troubles cognitifs), l’aspirine peut être utilisée mais son efficacité est moindre (réduit le risque de récidive de 20 %).
+La fermeture de l’auricule gauche est une méthode en cours d’évaluation.
+En cas de prothèses valvulaires mécaniques, les AVK sont les seuls anticoagulants oraux autorisés. L’INR cible est entre 2, 5 et 3, 5 pour les valves aortiques et entre 3 et 4,5 pour les valves mitrales.
+En cas de cardiopathies à risque embolique modéré ou mal déterminé, le risque des anticoagulants dépasse habituellement le bénéfice attendu : un antiagrégant plaquettaire est alors recommandé.
+4. Autres causes
+a. Après dissection artérielle extracrânienne
+Les AVK ou l’aspirine peuvent être prescrits.
+Le choix du traitement dépend de la taille de l’infarctus cérébral et du degré de sténose.
+Le traitement est interrompu après cicatrisation de l’artère (3 à 6 mois).
+b. Infarctus cérébral sans cause identifiée
+Un traitement par antiplaquettaire au long cours est recommandé.
+
+C. Prévention secondaire des hémorragies intraparenchymateuses
+Elle repose avant tout sur le traitement de l’étiologie :
+
+traitement de l’HTA ;
+traitement endovasculaire ou chirurgical d’une malformation vasculaire ;
+correction d’un trouble de la coagulation.
+VI. Pronostic
+A. Mortalité
+La mortalité après un AVC est de 20 % à 1 mois et de 40 % à 1 an.
+La mortalité précoce est plus élevée en cas d’hémorragie intraparenchymateuse que d’infarctus cérébral, en raison de l’effet de masse.
+La surmortalité à distance est surtout liée à l’augmentation du risque coronarien (40 % des décès à distance d’un AVC).
+B. Morbidité
+1. À distance d’un AVC
+Un tiers des survivants sont dépendants.
+Un tiers des survivants gardent des séquelles tout en étant indépendants.
+Un tiers des survivants retrouvent leur état antérieur.
+2. Pronostic fonctionnel
+Le pronostic fonctionnel est meilleur en cas de :
+âge jeune ;
+infarctus cérébral de petite taille ;
+infarctus cérébral peu sévère ;
+entourage aidant ;
+hémorragie intraparenchymateuse plutôt qu’infarctus cérébral à taille égale (le saignement peut refouler les structures nerveuses sans destruction).
+Le pronostic d’un AVC est toujours difficile à établir à la phase aiguë et doit amener le praticien à rester prudent dans les informations délivrées à l’entourage (++).
+L’essentiel de la récupération se fait dans les 3 premiers mois, mais elle se poursuit jusqu’à 6 mois.
+Au-delà, l’amélioration fonctionnelle est possible et tient à une meilleure adaptation au handicap résiduel.
+3. Complications
+Les différentes complications potentielles sont :
+
+récidive : 30 % à 5 ans ;
+troubles cognitifs (ou démence vasculaire) ;
+troubles de l’humeur post-AVC (dépression, anxiété) ;
+spasticité ;
+troubles vésico-sphinctériens ;
+douleurs neuropathiques et syndrome régional complexe ;
+épilepsie vasculaire ;
+syndrome parkinsonien vasculaire et mouvements anormaux (chorée, tremblement).
+4. Suivi du patient
+Les objectifs du suivi post-AVC sont les suivants :
+évaluer les séquelles ;
+évaluer les complications neurologiques ;
+confirmer le diagnostic étiologique ;
+s’assurer de la prescription, tolérance et efficacité du traitement de prévention secondaire ;
+évaluer le retentissement des facteurs de risque vasculaire sur les différents organes cibles :
+déficit moteur résiduel,
+déficit sensitif résiduel, ataxie proprioceptive,
+troubles de l’équilibre et de la marche,
+aphasie, dysarthrie,
+dysphagie, dysphonie, diplopie ;
+spasticité ;
+mouvements anormaux et syndromes parkinsoniens,
+douleurs neuropathiques,
+troubles vésico-sphinctériens,
+troubles du sommeil,
+troubles de l’humeur (dépression, anxiété),
+troubles cognitifs ;
+antithrombotique en cas d’infarctus cérébral,
+équilibre des facteurs de risque vasculaire ;
+Le suivi a lieu entre 3 et 6 mois après l’événement initial puis à 1 an. Une adaptation de la fréquence des suivis sera effectuée au cas par cas.
+La prise en charge au long cours fait intervenir en fonction des problématiques spécifiques différents intervenants médicaux (neurologues, médecins de médecine physique et réadaptation, cardiologues, médecin généraliste…) et paramédicaux (kinésithérapeute, ergothérapeute, orthophoniste, neuropsychologues…).
+Une information claire et loyale est donnée au patient et à sa personne de confiance quant aux décisions des choix thérapeutiques et d’investigations ainsi qu’au pronostic fonctionnel.
+Le rapport bénéfice/risque des investigations complémentaires ou prise en charge thérapeutique est évalué en fonction de l’état clinique de chaque patient.
+En cas d’évolution clinique défavorable il sera tenu compte d’éventuelles directives anticipées définies par le patient avant l’accident vasculaire cérébral. Toute décision de prise en charge en réanimation est prise de façon collégiale en tenant compte des arguments pronostiques neurologiques ainsi que de l’origine de la défaillance viscérale.
+VII. Thromboses veineuses cérébrales (fig. 29.8)
+Les thromboses veineuses cérébrales, ou thrombophlébites, sont rares (< 2 % des AVC) mais doivent être bien connues car elles sont accessibles à un traitement anticoagulant.
+Elles touchent un ou plusieurs sinus veineux, exceptionnellement une veine corticale.
+Elles peuvent provoquer ou non un infarctus cérébral, souvent avec composante hémorragique, dont la topographie ne correspond pas à un territoire artériel.
+A. Symptomatologie
+La triade céphalées-crises d’épilepsie-déficit neurologique focal est fortement évocatrice du diagnostic. Ces trois signes peuvent être isolés ou associés et leur installation peut être aiguë ou progressive sur quelques semaines. La grande variabilité des présentations cliniques peut rendre le diagnostic difficile.
+
+Les céphalées :
+témoignent de l’HTIC ;
+intenses ou modérées, permanentes ou intermittentes, diffuses ou focalisées ;
+associées à un œdème papillaire ;
+parfois associées à des troubles de la conscience ;
+isolées dans 25 % des thromboses veineuses cérébrales.
+Les crises épileptiques :
+partielles ou généralisées ;
+hémicorporelles à bascule, rares, mais évocatrices.
+Les déficits neurologiques focaux :
+inconstants et variables selon la localisation de la thrombose veineuse cérébrale ;
+par exemple, déficits à bascule en cas de thrombose du sinus longitudinal supérieur, ophtalmoplégie en cas de thrombose du sinus caverneux.
+B. Diagnostic
+1. IRM cérébrale avec angio-RM veineuse
+C’est l’examen de référence, à réaliser devant toute suspicion de thrombose veineuse cérébrale. Elle permet la visualisation :
+
+du sinus thrombosé :
+hypersignal T1 et T2 et hyposignal T2* à la phase d’état,
+absence de flux dans le sinus occlus en angio-RM veineuse,
+« signe du delta » après injection de gadolinium (prise de contraste de la paroi du sinus thrombosé) ;
+du retentissement sur le parenchyme cérébral :
+œdème vasogénique,
+infarctus veineux,
+remaniement hémorragique ;
+du retentissement ventriculaire : hydrocéphalie ;
+d’une orientation étiologique :
+tumeur cérébrale comprimant un sinus (méningiome),
+méningite chronique,
+pathologie locorégionale (ORL, mastoïdite).
+2. Scanner cérébral et angioscanner
+Moins sensible que l’IRM, il peut montrer :
+
+un infarctus hémorragique ;
+une hydrocéphalie aiguë ;
+une hyperdensité spontanée du thrombus dans le sinus (sinus thrombosé) ;
+un « signe du delta » au niveau du sinus après injection de produit de contraste.
+3. Examen du LCS
+Il est réalisé en l’absence de lésion intracrânienne focale.
+Il peut montrer :
+une élévation de la pression d’ouverture ;
+une hyperprotéinorachie ;
+une pléiocytose de formule variable et quelques hématies.
+Il apporte peu d’information sur le diagnostic positif mais peut orienter le diagnostic étiologique en identifiant une méningite. En outre, il peut soulager les céphalées liées à l’HTIC par défaut de résorption du LCS.
+C. Étiologie, facteurs de risque
+Les causes sont nombreuses et s’associent volontiers chez un même patient. Il est habituel de les séparer en causes générales et causes locorégionales (tableau 29.4).
+
+
+
+
+
+
+
+
+--------------------------------------------> Tableau 29.4  Principales causes de thrombophlébites cérébrales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D. Traitement et pronostic
+Le traitement comprend :
+
+anticoagulation :
+héparinothérapie commencée en urgence (même en cas d’infarctus hémorragique) apportant une amélioration rapide de la symptomatologie,
+relayée par des AVK (minimum 6 mois, parfois plus si une cause persiste) ;
+traitement étiologique (éradication d’un foyer infectieux, arrêt définitif de la contraception orale…) ;
+traitement symptomatique :
+antiépileptique en cas de crise,
+antiœdémateux (Mannitol®) si signes d’HTIC.
+Le pronostic est favorable dans la grande majorité des cas après mise en route du traitement anticoagulant. Les thromboses veineuses cérébrales profondes sont plus souvent d’évolution défavorable.
+
+ 
+
+POINTS CLÉS
+
+Les AVC en chiffres : 150 000 nouveaux cas par an ; 1re cause de handicap moteur de l’adulte ; 2e cause de démence ; 3e cause de mortalité ; 80 % d’infarctus cérébraux ; 75 % des patients ont plus de 65 ans ; 75 % des patients vont garder une séquelle ; 30 % de dépression à 3 mois ; 20 % de mortalité à 1 mois ; 30 % de récidive à 5 ans.
+
+Diagnostic :
+
+déficit neurologique focal d’apparition brutale ;
+seule l’imagerie cérébrale permet la distinction entre AIT, infarctus cérébral et hémorragie intraparenchymateuse ;
+l’IRM est l’examen d’imagerie de référence.
+Étiologie :
+
+trois causes représentent 70 % de l’étiologie des infarctus cérébraux :
+athérosclérose,
+petits infarctus profonds (infarctus lacunaires),
+cardiopathie emboligène (fibrillation atriale ++) ;
+l’HTA chronique est la principale cause d’hémorragie intraparenchymateuse profonde.
+Prise en charge à la phase aiguë :
+
+hospitalisation en urgence en unité neurovasculaire pour toute suspicion d’AVC ;
+l’AIT est un syndrome de menace justifiant une prise en charge en urgence ;
+une imagerie cérébrale doit être réalisée en urgence devant toute suspicion d’AVC ;
+l’unité neurovasculaire réduit la morbi-mortalité de tous les patients ;
+évoquer la possibilité d’une thrombolyse pour tout infarctus cérébral de moins de 4 heures et demie ;
+aspirine pour tout infarctus cérébral non thrombolysé ;
+l’HTA doit être respectée à la phase initiale d’un infarctus cérébral ;
+l’HTA doit être contrôlée à la phase initiale d’une hémorragie cérébrale ;
+il faut lutter contre : l’hyperthermie, l’hyperglycémie, l’hypoxie ;
+il faut prévenir :
+les thromboses veineuses profondes par une HBPM en cas d’alitement,
+les pneumopathies de déglutition par une sonde nasogastrique en cas de trouble de la déglutition.
+Bilan étiologique :
+
+doit explorer : le cœur, les grosses artères cervicoencéphaliques, les petites artères cérébrales, l’hémostase ;
+comprend au minimum :
+un bilan biologique (NFS-plaquettes, ionogramme, urée, créatinine, CRP),
+un ECG, si possible un monitoring continu initial,
+une évaluation des artères cervicales et cérébrales dans leur portion extra- et intracrânienne par un examen non invasif,
+une échocardiographie transthoracique en l’absence d’étiologie évidente.
+Prévention des AVC :
+
+prévention primaire :
+l’HTA est le principal facteur de risque des AVC,
+l’aspirine n’est pas indiquée en prévention primaire ;
+prévention secondaire des infarctus cérébraux, qui repose sur :
+le contrôle des facteurs de risque vasculaire,
+l’utilisation d’un antithrombotique adapté à l’étiologie : antiagrégant plaquettaire en cas d’athérosclérose ou d’infarctus lacunaire, anticoagulant oral en cas de cardiopathie emboligène à haut risque,
+l’endartériectomie dans les 15 jours en cas de sténose carotidienne supérieure à 70 % et d’infarctus cérébral peu sévère ;
+prévention secondaire des hémorragies intraparenchymateuses : dominée par le contrôle de la pression artérielle.
+Le pronostic des AVC est marqué par :
+
+un fréquent handicap physique séquellaire ;
+un risque accru de survenue de troubles cognitifs et de dépression ;
+un fort risque de récidive à 5 ans.
+Les thromboses veineuses cérébrales :
+
+sont des affections rares ;
+la symptomatologie associe des signes d’HTIC, des crises épileptiques et des déficits neurologiques focaux ;
+le diagnostic repose sur l’IRM cérébrale associée à l’ARM veineuse ;
+le traitement repose sur les anticoagulants ;
+le pronostic est le plus souvent favorable (selon l’étiologie).
+ 
+
+Pour en savoir plus
+Société Française de Neurovasculaire
+
+European Stroke Organisation
+
+American Heart Association/American Stroke Association
+
+Formation NIHSS (DVD d'autoformation au score NIHSS pour plateforme windows)
+
+ 
+
+Annexes
+Annexe 29.1 – Rappels d’anatomie vasculaire cérébrale
+Deux systèmes artériels (fig. 29.12)
+
+Système carotidien
+
+L’artère carotide interne (ACI) possède une seule branche collatérale importante, l’artère ophtalmique, et se termine en quatre branches :
+
+l’artère cérébrale moyenne (ou sylvienne) ;
+l’artère cérébrale antérieure ;
+l’artère choroïdienne antérieure ;
+l’artère communicante postérieure.
+Fig. 29.12
+
+Angio-RM des axes artériels à destination cérébrale.
+
+Système vertébrobasilaire
+
+Les deux artères vertébrales, après un long trajet intratransversaire, pénètrent dans la boîte crânienne et se rejoignent sur la ligne médiane pour donner une artère unique, le tronc basilaire. Les collatérales de ce système sont :
+
+les artères cérébelleuses (postéro-inférieures, moyennes, supérieures) ;
+les artères perforantes (tronc cérébral).
+Le tronc basilaire se termine par les deux artères cérébrales postérieures.
+
+Voies de suppléance
+
+Leur qualité rend compte de la variabilité du tableau clinique d’un patient à l’autre pour une même occlusion artérielle.
+
+Polygone de Willis
+
+Il s’agit d’un cercle d’anastomoses entre le système carotidien (antérieur) et le système vertébrobasilaire (postérieur).
+
+Il est composé :
+
+en avant : par les deux cérébrales antérieures réunies par l’artère communicante antérieure ;
+sur chaque côté : par l’artère communicante postérieure ;
+en arrière : par les deux artères cérébrales postérieures.
+Anastomoses entre l’artère carotide interne et l’artère carotide externe
+
+Les anastomoses entre l’artère carotide interne (ACI) et l’artère carotide externe (ACE) se font dans l’orbite entre l’artère ophtalmique (branche de l’artère carotide interne) et l’artère faciale (branche de l’artère carotide externe). En cas de thrombose de l’artère carotide interne, le sens de la circulation sanguine dans l’artère ophtalmique peut être inversé, établissant un shunt de l’artère carotide externe vers la terminaison de l’artère carotide interne, décelable par l’examen Doppler.
+
+Anastomoses corticales
+
+Elles se développent entre deux artères voisines à la convexité du cerveau (par exemple entre les extrémités des artères cérébrales antérieure et moyenne).
+
+
+
+
+
+
+-----------------------------------------> Annexe 29.2 – Score CHADS2-VASc
+
+
+
+
+
+
+
+
+---------------------------------------------> Annexe 29.3 – Score HAS-BLED : évaluation du risque hémorragique sous anticoagulant*
+
+* Un score > 3 témoigne d’un risque hémorragique augmenté.

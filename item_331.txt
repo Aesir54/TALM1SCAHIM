@@ -1,0 +1,276 @@
+Comas non traumatiques chez l’adulte
+
+
+Objectifs pédagogiques
+Diagnostiquer un coma non traumatique.
+Identifier les situations d’urgence et planifier leur prise en charge préhospitalière et hospitalière.
+I. Pour comprendre
+Un coma traduit une défaillance de la formation réticulée activatrice ascendante (FRAA) du tronc cérébral qui constitue le support neurophysiologique de la vigilance.
+C’est une urgence diagnostique et thérapeutique.
+Il peut résulter d’une souffrance cérébrale diffuse (par exemple de nature toxique, métabolique, traumatique, infectieuse, épileptique) ou d’une lésion cérébrale focale sous-tentorielle ou sus-tentorielle.
+Il peut apparaître d’emblée ou faire suite à une obnubilation ou à une stupeur :
+en cas d’obnubilation, il persiste une réaction aux ordres complexes : le patient répond à un ordre oral et écrit, exécute les ordres, l’orientation temporospatiale est normale, la réactivité moins rapide et moins précise ;
+lors d’un état stuporeux : la réactivité à des stimuli extéroceptifs simples persiste (appel du nom, stimulation auditive, stimulation nociceptive), la réponse obtenue est un geste ou une parole.
+Dans le cas du coma, seule la réaction aux stimulations nociceptives est obtenue.
+II. Prise en charge en urgence
+A. Premiers gestes
+Un examen initial rapide est indispensable pour s’assurer de l’intégrité des fonctions vitales (ventilation, PA, rythme cardiaque, température) qui justifient des gestes d’urgence détaillés dans le paragraphe suivant.
+
+Devant tout coma non traumatique il faut appeler le 15 pour une hospitalisation rapide dans le service des urgences le plus proche du domicile. La personne présente doit s’assurer de la liberté des voies aériennes et évaluer la fréquence cardiaque pour réaliser si nécessaire des mesures de réanimation (massage cardiaque et ventilation).
+
+À l’admission il faut effectuer :
+
+un examen général : auscultation cardiaque et pulmonaire, palpation abdominale, prise de température ;
+déshabiller le malade. Rechercher toutes indications externes d’une étiologie évidente : traumatisme même si pas de contexte évocateur, purpura, trace de piqûres, etc.
+rechercher une raideur de nuque, une hémiplégie, des troubles oculomoteurs évidents ;
+faire un dextro pour éliminer une hypoglycémie ;
+obtenir auprès de toute personne (famille, médecin, pompiers, voisins) le maximum de renseignements : antécédents, circonstances entourant le coma, prise de toxique, mode d’installation progressif ou brutal, signes d’accompagnement, crises convulsives, traumatisme.
+B. Prise en charge thérapeutique en urgence
+Maintien de la ventilation : indications thérapeutiques (sonde à oxygène, intubation, ventilation assistée) posées en fonction de l’encombrement des voies aériennes, de la fréquence respiratoire, des gaz du sang.
+Maintien de la circulation : voie veineuse centrale, apport hydroélectrolytique, utilisation de vasopresseurs, scope ECG et monitoring de la PA.
+Sondage urinaire (surveillance de la diurèse) et nasogastrique (éviter le risque d’inhalation).
+Administration de glucose : systématique devant tout coma inexpliqué (en association à la vitamine B1 chez le patient éthylique ou dénutri).
+Traitement de la cause dès qu’elle est définie, voire suspectée sans attendre les résultats de certains examens (par exemple antibiothérapie si purpura fulminans) : correction de troubles hydroélectrolytiques ou métaboliques, antibiothérapie en cas de méningite, antidote en cas d’intoxication, contrôle de crises épileptiques répétées (Valium® ou Rivotril®).
+En cas d’œdème cérébral : utilisation de corticoïdes ou de mannitol par voie veineuse.
+Traitement chirurgical d’un hématome, d’une tumeur, mise en place d’une valve en cas d’hydrocéphalie.
+Dans un second temps prévention des complications de décubitus : accidents thromboemboliques, escarres.
+C. Principaux examens complémentaires
+Les examens complémentaires dépendent du contexte. Les principaux examens demandés en urgence sont :
+
+examens biologiques (glycémie, ionogramme, fonctions rénale et hépatique, gaz du sang, NFS, bilan d’hémostase, alcoolémie, amoniémie, etc.), recherche de toxiques dans le sang et les urines, dosage du monoxyde de carbone, hémocultures en cas d’hyperthermie ;
+ECG, radiographie du thorax ;
+scanner cérébral sans injection en urgence pour préciser la nature lésionnelle d’un coma, il sera réalisé en l’absence de cause évidente même en l’absence de signes de focalisation ;
+IRM encéphalique en urgence, justifiée en cas de suspicion de thrombophlébite cérébrale ;
+ponction lombaire devant toute suspicion de méningite ;
+électro-encéphalogramme en cas de coma métabolique (par exemple, encéphalopathie hépatique) ou en cas de suspicion de crise convulsive.
+III. Examen neurologique détaillé
+Il est réalisé lorsque les fonctions vitales sont stabilisées, afin de déterminer la cause du coma et de définir son pronostic.
+
+Plan d’examen d’un malade avec troubles de vigilance
+
+Relation verbale (langage, exécution des gestes).
+Réactions d’éveil (ouverture des yeux selon les stimuli).
+Tonus musculaire (membres, nuque, paupières).
+Mimique ou grimace à la douleur.
+Réactivité motrice (adaptée ou non, répartition).
+Réflexes tendineux et cutanés plantaires.
+Clignement à la menace et réflexe de clignement (cornéen, fronto-orbiculaire).
+Diamètre des pupilles, réflexe photomoteur.
+Position et mouvements des globes oculaires, réflexes oculomoteurs.
+Respiration (fréquence, amplitude, rythme), réflexe de toux.
+Réflexe oculocardiaque.
+A. Réactivité à la douleur
+Étudiée par friction du sternum, pression du lit unguéal, pincement du mamelon, pression du nerf sus-orbitaire, compression du nerf facial derrière les maxillaires inférieurs.
+Réactions d’éveil : ouverture des yeux, réaction d’orientation, réaction mimique (déficit facial central ou paralysie faciale).
+Au niveau des membres, plusieurs types de réponses possibles :
+absence de réponse d’un côté en faveur d’une hémiplégie ;
+réponse appropriée dirigée vers la stimulation en cas de coma léger ;
+réponse inappropriée sans finalité : souffrance des structures hémisphériques profondes ou de la partie haute du tronc cérébral ;
+réponse en décortication (membres supérieurs en flexion, adduction, membres inférieurs en extension) : souffrance hémisphérique étendue ;
+réponse en décérébration (membres supérieurs en extension, adduction, rotation interne, membres inférieurs en extension) : souffrance de la partie haute du tronc cérébral.
+B. Examen des yeux
+1. Clignements réflexes
+Présence d’un clignement à la menace ? persistance d’un certain degré d’activation corticale.
+Abolition unilatérale du réflexe cornéen ? signe de localisation (atteinte de la voie efférente du VII ou de la voie afférente du V).
+Abolition bilatérale du réflexe cornéen ? atteinte diencéphalo-mésencéphalique (nature lésionnelle, toxique ou métabolique).
+2. Motricité intrinsèque (pupille)
+Mydriase aréactive unilatérale ? engagement temporal.
+Myosis aréactif, toujours évoquer un coma métabolique ou toxique ou un coma de mauvais pronostic (souffrance de la partie basse du tronc cérébral).
+Causes de mydriase bilatérale aréactive :
+mort cérébrale ;
+encéphalopathie post-anoxique ;
+hypothermie ;
+souffrance mésencéphalique ;
+certaines intoxications (anticholinergiques, imipraminiques, organophosphorés, barbituriques).
+3. Position des globes oculaires
+Patient regarde son hémicorps sain : déviation conjuguée des yeux dans le plan horizontal ipsilatérale à la lésion ? lésion hémisphérique.
+Patient regarde son hémiplégie : déviation conjuguée des yeux controlatérale à la lésion ? lésion protubérantielle.
+Strabisme horizontal ? atteinte d’un nerf oculomoteur (III, VI).
+Skew deviation (déviation oblique avec un œil vers le haut et un vers le bas) ? lésion du tronc cérébral.
+4. Mouvements spontanés
+Mouvements d’errance oculaire conjugués horizontaux et mouvements réflexes ; préservés ils témoignent d’une intégrité du tronc cérébral et écartent toute arrière-pensée de non-organicité.
+oculaire : successivement déplacement des yeux vers le bas suivi après une pause d’une réascension plus lente vers la position de départ (mouvement de « révérence ») ? lésions protubérantielles.
+5. Mouvements oculaires réflexes
+Toute suspicion de lésion du rachis cervical interdit la recherche des mouvements oculaires réflexes ++.
+
+On impose à la tête du malade des mouvements passifs de rotation, d’extension et de flexion. Ces réflexes physiologiques se traduisent par le phénomène des « yeux de poupée », les globes oculaires déviant de façon conjuguée dans le sens opposé au mouvement passif :
+la possibilité d’obtenir une déviation conjuguée des deux côtés témoigne de l’intégrité fonctionnelle d’une grande partie du tronc cérébral ;
+l’absence de toute réponse traduit une souffrance sévère du tronc cérébral (lésion, cause métabolique ou toxique).
+Les réflexes oculocéphaliques verticaux s’abolissent avant les réflexes oculocéphaliques horizontaux.
+C. Étude du tonus et des réflexes
+Recherche de signes méningés et d’une hypotonie d’un hémicorps.
+Recherche d’un signe de Babinski, de valeur localisatrice si unilatéral.
+Étude des réflexes du tronc cérébral (cf. ) : leur connaissance se justifie si on veut appliquer l’échelle de Glasgow-Liège, échelle de gravité d’un coma (cf. infra).
+D. Étude de la fonction ventilatoire (fig. 28.1)
+Respiration périodique de Cheyne-Stokes (mouvements respiratoires d’amplitude variable avec alternance régulière de périodes d’apnée et d’hyperpnée) ? souffrance diencéphalique ou mésencéphalique supérieure ou perturbations métaboliques générales.
+Hyperventilation neurogène centrale (hyperpnée) ? atteinte mésodiencéphalique ou mésencéphalique, à distinguer de l’hyperventilation compensatrice d’une acidose métabolique ou d’une hypoxie (gaz du sang).
+Respiration apneustique (pauses en inspiration ou en expiration) ? souffrance de la partie basse de la protubérance (mauvais pronostic).
+Dyspnée de Kussmaul (alternance inspiration-pause en inspiration-expiration-pause en expiration) ? souffrance de la partie basse du tronc, acidose métabolique ; pronostic variable selon la cause.
+Respiration ataxique, irrégulière et anarchique ? souffrance bulbaire avant l’arrêt cardiaque.
+Dans les encéphalopathies toxiques, notamment barbituriques, l’arrêt respiratoire peut survenir rapidement sans être précédé d’autres signes de souffrance du tronc cérébral.
+
+Fig. 28.1
+
+Classification des dyspnées au cours des troubles de la vigilance et des comas.
+
+IV. Classification des comas
+A. Stades de coma
+Stade 1 : patient dit en coma vigil, réponses possibles (phrases ± compréhensibles) aux stimulations répétées verbales et sensorielles, mouvements de défense adaptés contre la douleur.
+Stade 2 : coma léger, réponse inadaptée aux stimulations nociceptives, pas de troubles neurovégétatifs.
+Stade 3 (coma carus) : coma profond, mouvements de décérébration aux stimulations nociceptives ou absence de réponse, troubles neurovégétatifs.
+Stade 4 : coma dépassé, pas de réponse aux stimulations, hypotonie, mydriase, abolition des fonctions végétatives.
+B. Échelles de gravité (tableau 28.1)
+Échelle de Glasgow :
+
+s’établit sur trois types de réponse : ouverture des yeux (E), réponse motrice (M), réponse verbale (V) (cotation attribuée à la meilleure des réponses) ;
+somme E + M + V définit un score de 3 à 15 ;
+coma si score = 7.
+Étude des réflexes du tronc cérébral utilisée comme instrument d’évaluation de la gravité. L’échelle de Glasgow-Liège intègre l’étude de ces réflexes. Les scores additionnés (E + M + V + T) possibles vont de 3 à 20. Au cours du coma, il y a disparition progressive des réflexes du tronc cérébral dans l’ordre d’énumération.
+
+
+
+
+
+
+-----------------------------------> Tableau 28.1  Échelle de Glasgow et échelle de Glasgow-Liège.
+
+
+
+
+
+
+
+
+
+
+
+
+* En cas d’hémiplégie, seul le côté mobile est pris en compte dans la cotation.
+
+C. Engagements
+L’engagement est de gravité extrême, avec risque de mort imminente.
+
+1. Engagement temporal
+Correspond à un engagement temporal interne en trans-tentoriel.
+Suspecté en cas de lésion focale sus-tentorielle devant toute modification de vigilance.
+Associe mydriase unilatérale aréactive et hémiparésie controlatérale, précédant l’apparition des troubles de vigilance par lésions irréversibles du tronc cérébral.
+2. Engagement des amygdales cérébelleuses
+Correspond à un engagement des amygdales cérébelleuses dans le trou occipital.
+Complication d’une lésion focale sous-tentorielle (fosse postérieure).
+Responsable de crises motrices postérieures avec attitude en opisthotonos, spontanées ou déclenchées par des stimuli nociceptifs.
+D. Mort encéphalique
+Diagnostic posé :
+
+quand tout signe de fonctionnement des hémisphères cérébraux et du tronc cérébral fait défaut de façon durable ;
+quand on est certain que cette abolition de la fonction cérébrale est d’origine lésionnelle et non pas toxique ou métabolique.
+Les critères suivants doivent être réunis :
+
+coma aréactif (Glasgow 3), absence totale de ventilation spontanée, absence de réflexes du tronc cérébral ;
+dans l’optique du don, le diagnostic clinique de mort encéphalique doit être confirmé par l’un des examens complémentaires exigés par la loi qui peut être soit deux EEG nuls et non réactifs pendant trente minutes réalisés avec amplification maximale et effectués à quatre heures d’intervalle, soit une angiographie cérébrale objectivant l’arrêt de perfusion des quatre axes.
+absence d’hypothermie et de traitement dépresseur de l’activité cérébrale.
+V. Diagnostic différentiel
+Si le malade ne parle pas, n’obéit pas aux ordres, mais il bouge et a les yeux ouverts
+
+Aphasie globale ou aphasie de Broca, ou état psychotique.
+
+Si le malade ne parle pas, n’obéit pas, garde les yeux ouverts, mais ne bouge pas
+
+Mutisme akinétique caractérisé par un syndrome frontal bilatéral, négligence motrice et sensitive, inattention, absence de déficit moteur, réflexes et tonus normaux.
+
+Syndrome de désafférentation motrice (locked-in syndrome)
+
+Lié à un infarctus protubérantiel bilatéral entraînant une lésion des faisceaux pyramidaux et géniculés. Il se traduit par un tableau de quadriplégie avec diplégie faciale, paralysie labio-glosso-laryngo-pharyngée et de la latéralité du regard, conservation des mouvements de verticalité (respect de la partie haute du tronc cérébral) ; la vigilance et la conscience sont normales par intégrité des hémisphères cérébraux et de la partie rostrale mésodiencéphalique. Il est possible de communiquer avec le patient en établissant un code avec les mouvements de verticalité des yeux.
+
+Si le malade ne parle pas, ne bouge pas et garde les yeux fermés
+
+Hystérie avec phénomène d’opposition lors de la levée des paupières.
+
+VI. Étiologies
+On peut distinguer cinq cadres étiologiques (les comas traumatiques ne sont pas exposés dans ce chapitre).
+
+A. Coma toxique
+Le plus fréquent des comas.
+
+Cause évoquée devant tout coma de cause inexpliquée (la recherche de toxiques dans les urines et dans le sang s’impose : barbitémie, alcoolémie).
+Devant un coma dépassé (aréactivité, mydriase, hypothermie, apnée, collapsus circulatoire, voire silence électrique à l’EEG), l’exclusion de toute participation toxique doit être formelle.
+Si on craint une overdose (coma, myosis serré, dépression respiratoire, traces de piqûres), l’administration IV de Narcan®, antidote des opiacés, permet de confirmer le diagnostic.
+On distingue causes iatrogènes et causes exogènes.
+1. Causes iatrogènes
+Barbiturique responsable d’un coma calme et profond, hypotonique, avec dépression respiratoire (recherche dans les urines et dans le sang).
+Antidépresseur tricyclique (souvent associé aux benzodiazépines), responsable d’un coma avec convulsions, mydriase, risque de troubles du rythme.
+2. Causes exogènes
+Intoxication oxycarbonée (« teinte cochenille », syndrome pyramidal et hypertonie généralisée, convulsions fréquentes).
+Intoxication alcoolique aiguë.
+Produits organophosphorés (insecticides : paralysie des muscles respiratoires, fasciculations, myosis serré ; antidote : atropine).
+B. Coma métabolique
+Quelle que soit la cause d’un coma, un facteur métabolique surajouté doit être envisagé.
+
+Évoqué devant un coma d’apparition rapidement progressive avec des antécédents évocateurs.
+Plusieurs causes métaboliques associées sont possibles (atteinte multiviscérale).
+L’étiologie peut être :
+l’anoxie cérébrale par arrêt cardiaque, choc cardiogénique, infectieux ou hémorragique. Dans l’encéphalopathie respiratoire, les troubles de la vigilance s’associent à des mouvements anormaux (astérixis ou myoclonies négatives). Autres causes : asphyxie, fausse route alimentaire, embolie pulmonaire, trouble du rythme cardiaque
+l’hypoglycémie : coma avec sueurs abondantes, signe de Babinski bilatéral, hypothermie, parfois crises convulsives et signes déficitaires localisés `
+les encéphalopathies hypo-osmolaires (les grandes hyponatrémies s’accompagnent de troubles de vigilance et de crises convulsives) ou hyper-osmolaire (diabète) ;
+l'encéphalopathie de Gayet-Wernicke (carence en vitamine B1) : troubles de vigilance avec paralysie oculomotrice, troubles de l’équilibre, syndrome cérébelleux ; l’évolution vers le coma est parfois précipitée par l’administration de sérum glucosé sans vitamine B1 associée ;
+l’encéphalopathie hépatique : coma précédé d’une confusion avec astérixis (myoclonies négatives) et hypertonie oppositionnelle (l’hépatite fulminante peut justifier une greffe hépatique) ;
+l’encéphalopathie de l’insuffisance rénale : évolution progressive vers le coma, manifestations motrices fréquentes (astérixis, myoclonies, crises convulsives) ;
+l’encéphalopathie des affections endocriniennes : hypothyroïdie sévère, insuffisance surrénale aiguë, hypercalcémie.
+C. Coma épileptique
+Le coma post-critique n’excède pas 20 à 30 minutes. Au-delà, il faut envisager une complication traumatique, vasculaire, tumorale, infectieuse, toxique, iatrogène ou métabolique.
+
+Devant un coma en l’absence de notion de crise tonicoclonique, rechercher systématiquement une perte d’urine, morsure de langue, respiration stertoreuse.
+En l’absence de phénomènes convulsifs, l’hypothèse d’un état de mal épileptique non convulsif justifie la réalisation d’un EEG (activité paroxystique infraclinique).
+D. Coma avec signes méningés
+1. En dehors d’un contexte fébrile
+On évoque une hémorragie méningée (présence de sang au scanner dans les espaces sous-arachnoïdiens) ; les causes sont diverses : hypertension intracrânienne, vasospasme, hématome, hydrocéphalie.
+
+2. Devant un coma fébrile
+Évoquer en premier lieu une méningo-encéphalite bactérienne, en tenant compte de tout indice d’un contexte infectieux général, local (ORL, pulmonaire, cutané, etc.) ou biologique (NFS). Indication majeure de la ponction lombaire (réaction cellulaire, hypoglycorachie). En cas de signes de focalisation, elle sera précédée en urgence d’un scanner cérébral (contre-indication en cas d’effet de masse).
+Une méningite puriforme aseptique doit faire rechercher un foyer cérébral (abcès, possibles signes de focalisation) ou de voisinage (ORL, empyème sous-dural).
+Devant un coma fébrile d’aggravation rapide associé à des signes cliniques ou électriques de souffrance temporale, hypothèse d’une méningo-encéphalite herpétique justifiant sans retard l’instauration d’un traitement par aciclovir (Zovirax®).
+Un accès pernicieux palustre doit être envisagé en cas de séjour en zone d’endémie (diagnostic par frottis sanguin).
+E. Coma avec signes de focalisation
+L’imagerie cérébrale en urgence contribue au diagnostic.
+
+1. Début progressif
+Un début progressif évoque un processus expansif intracrânien.
+
+2. En cas d’installation brutale
+On évoque :
+
+une hémorragie cérébrale :
+coma souvent d’installation brutale avec céphalées, vomissements et signes de focalisation,
+principales causes : hypertension artérielle, malformation vasculaire, trouble de la coagulation ;
+un accident vasculaire ischémique :
+coma souvent retardé après un délai de quelques heures, conséquence de l’œdème cérébral développé autour de l’infarctus,
+dans les infarctus du tronc cérébral, le coma peut survenir d’emblée, lorsque la lésion intéresse la FRAA,
+dans les infarctus du cervelet, les troubles de conscience surviennent secondairement (compression du tronc cérébral, risque d’engagement des amygdales cérébelleuses).
+Les autres causes sont :
+
+encéphalopathie hypertensive : coma associé à des convulsions, céphalées et cécité corticale ;
+thrombophlébite cérébrale du sinus longitudinal supérieur ou de la veine de Galien qui entraîne des lésions bilatérales (infarctus hémorragique, œdème) ; l’IRM avec séquences veineuses confirme le diagnostic ;
+embolie gazeuse (accidents de décompression en plongée, chirurgie thoracique) ;
+embolie graisseuse (fractures des os longs) ;
+tumeurs primitives ou secondaires sus-tentorielles ou sous-tentorielles avec hydrocéphalie ;
+hématome sous-dural chronique (le plus souvent précédé d’autres signes neurologiques avant le coma).
+ 
+
+POINTS CLÉS :
+
+Un coma traduit une défaillance de la formation réticulée activatrice ascendante du tronc cérébral (support neurophysiologique de la vigilance) ou une souffrance corticale diffuse.
+Un examen initial rapide s’assure de l’intégrité des fonctions vitales (ventilation, PA, rythme cardiaque, température) justifiant des gestes d’urgence.
+Les examens biologiques suivants sont systématiques : glycémie, ionogramme, fonctions rénale et hépatique, gaz du sang, NFS, bilan d’hémostase ; d’autres sont demandés en fonction du contexte (amoniémie, toxiques dans le sang et les urines au moindre doute, dosage du monoxyde de carbone, hémocultures, ECG, radiographie de thorax, etc.).
+Un scanner cérébral en urgence est réalisé en l’absence de cause évidente, même en l’absence de signes de focalisation ; une ponction lombaire se justifie en cas de suspicion de méningite (fièvre).
+Un examen neurologique plus détaillé est réalisé (réactivité, motricité, tonus, réflexes, oculomotricité et pupilles, ventilation) lorsque les fonctions vitales sont stabilisées (détermination de la cause et du pronostic).
+On distingue des comas d’origine toxique, métabolique, épileptique, avec signes méningés, avec signes de focalisation (AVC ischémique ou hémorragique, processus expansif).
+Annexe
+Annexe 28.1 – Les huit réflexes du tronc cérébral
+Réflexe ciliospinal : dilatation pupillaire après stimulation sus-claviculaire.
+Réflexe fronto-orbiculaire homolatéral : fermeture palpébrale après percussion glabellaire.
+Réflexe oculocéphalique vertical : mouvement conjugué des yeux dans le sens vertical dans le sens inverse du mouvement imprimé de flexion/extension de la tête.
+Réflexe photomoteur : contraction pupillaire par stimulation lumineuse.
+Réflexe cornéen : fermeture de la paupière par stimulation cornéenne (arc réflexe V, VII et III).
+Réflexe massétérin : contraction du masséter par percussion mentonnière.
+Réflexe oculocéphalique horizontal : mouvement conjugué des yeux dans le sens horizontal dans le sens inverse du mouvement imprimé de rotation de la tête.
+Réflexe oculocardiaque : ralentissement cardiaque après compression des globes oculaires.
+Exemple de réflexe pathologique du tronc cérébral : le réflexe cornéomandibulaire, qui est un mouvement de diduction de la mandibule après stimulation de la co

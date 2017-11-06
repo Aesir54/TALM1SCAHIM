@@ -1,0 +1,328 @@
+Déficit moteur et/ou sensitif des membres
+
+Objectifs pédagogiques
+Argumenter les principales hypothèses diagnostiques et justifier les examens complémentaires pertinents.
+Argumenter l’attitude thérapeutique et planifier le suivi de l’évolution.
+Les troubles de la motilité ou de la sensibilité d’un membre sont des motifs fréquents de consultation, parfois dans des situations d’urgence. Tout médecin doit savoir orienter son diagnostic :
+
+en faisant la distinction entre un déficit par atteinte des voies de la motricité ou de la sensibilité et un trouble d’origine non neurologique ;
+en sachant localiser le niveau de la ou des lésions sur la base des caractéristiques cliniques du déficit :
+atteinte centrale versus périphérique,
+si l’atteinte est centrale, pouvoir préciser si la lésion se situe dans le cerveau, le tronc cérébral ou la moelle épinière,
+si l’atteinte est périphérique, pouvoir préciser :
+en cas de déficit moteur, si la lésion touche la corne antérieure, les racines, le plexus, le tronc nerveux, la jonction neuromusculaire ou le muscle lui-même,
+en cas de déficit sensitif, distinguer entre atteinte radiculaire (mono- ou polyradiculaire), plexique (plexus brachial, lombosacré), ou tronculaire (mononévrite, mononeuropathie multiple ou polyneuropathie).
+Cette étape de reconnaissance topographique est un préalable indispensable à la demande d’investigations complémentaires orientées.
+
+I. Causes non neurologiques de déficit moteur ou sensitif
+Il faut en particulier évoquer :
+
+une origine ostéoarticulaire : fracture, arthrite aiguë, tendinite peuvent être responsables d’une impotence fonctionnelle d’un membre en cas de douleur exquise à la mobilisation ;
+une origine vasculaire : une artérite des membres inférieurs provoque une claudication intermittente douloureuse avec réduction du périmètre de marche variable selon la sévérité de l’affection ; le principal signe fonctionnel est la douleur à type de crampes d’un ou des deux mollets ;
+de manière plus large, toute douleur, quelle qu’en soit la cause, peut restreindre la mobilisation d’un membre (lésion cutanée étendue, hématome profond, etc.). Il est alors plus juste de parler d’impotence fonctionnelle douloureuse si la douleur ne permet pas de savoir s’il existe un déficit moteur réel ou non ;
+l’origine psychogène d’un trouble de la motricité ou de la sensibilité peut poser des problèmes diagnostiques difficiles lorsqu’il apparaît sans contexte psychiatrique connu ; les arguments en sa faveur sont :
+le contexte d’apparition (choc émotionnel),
+les discordances anatomo-cliniques (par exemple : zone d’anesthésie débordant un territoire sensitif anatomique),
+les discordances entre les signes observés et leur retentissement, c’est-à-dire pour un déficit moteur une discordance nette entre le testing musculaire analytique et les mouvements réalisés par le patient dans les actes de la vie quotidienne ou lors de manœuvre de distraction. Ainsi, un membre inférieur apparemment paralysé et flasque au lit n’empêchera ni le patient de s’asseoir dans le lit ni la marche, ni un membre supérieur apparemment anesthésié le retrait de la main d’une source de chaleur,
+le manque de reproductibilité des signes d’un examen clinique à l’autre.
+Le diagnostic est retenu après vérification de la normalité des explorations d’imagerie et neurophysiologiques appropriées.
+
+II. Diagnostic syndromique et topographique d’un déficit moteur ou sensitif des membres
+L’orientation diagnostique, face à un déficit moteur ou sensitif d’un ou de plusieurs membres, passe par deux étapes distinctes (fig. 5.1). Les deux étapes, topographique et étiologique (mécanisme et cause), sont intimement liées, car elles font toutes deux appel à des informations issues de l’interrogatoire (du patient, parfois de son entourage), de l’observation du ou des membres déficitaires au cours de la consultation, de l’examen clinique. L’anamnèse doit être dans un premier temps non orientée et laisser le patient s’exprimer, puis l’interrogatoire semi-directif s’attachera à lever toute ambiguïté dans l’utilisation des termes utilisés par le patient pour décrire son trouble.
+
+Fig. 5.1
+
+
+Schéma décisionnel devant un déficit moteur.
+
+Il est fréquent qu’un trouble de la marche, quelle que soit son origine (ataxie cérébelleuse, marche parkinsonienne, etc.), soit rapporté par le patient à une « faiblesse » des membres inférieurs. Des termes comme « engourdissement » ou « lourdeur » d’un membre peuvent correspondre à des symptômes différents selon les patients. Une « malhabileté » de la main peut correspondre selon les patients à un déficit moteur, une atteinte proprioceptive ou une atteinte cérébelleuse.
+
+A. Déficit moteur
+Il existe quatre grands syndromes moteurs neurologiques dont les caractéristiques sont rappelées dans le tableau 5.1.
+
+
+
+
+----> Tableau 5.1  Caractéristiques sémiologiques des quatre grands syndromes moteurs.
+
+
+
+
+
+Il s’agit du :
+
+syndrome pyramidal (atteinte du motoneurone central) ;
+syndrome neurogène périphérique (atteinte du motoneurone périphérique) ;
+syndrome myasthénique (jonction neuromusculaire) ;
+syndrome myogène.
+La première étape consiste à effectuer le diagnostic syndromique et, par voie de conséquence, le diagnostic topographique de l’atteinte (cf. fig. 5.1) :
+
+atteinte centrale (premier motoneurone) : responsable d’un syndrome pyramidal. La lésion peut se situer au niveau de :
+hémisphère cérébral : cortex, centre semi-ovale, capsule interne,
+tronc cérébral : mésencéphale, protubérance, moelle allongée (bulbe),
+moelle épinière : cervicale, dorsale, lombaire ;
+atteinte périphérique : responsable d’un syndrome neurogène périphérique. La lésion peut se situer au niveau de :
+corne antérieure de la moelle,
+racine motrice,
+plexus,
+tronc nerveux ;
+atteinte de la jonction neuromusculaire : responsable d’un syndrome myasthénique ;
+atteinte des muscles : responsable d’un syndrome myogène.
+1. Atteinte du système nerveux central (SNC)
+L’atteinte centrale se caractérise par la présence d’un syndrome pyramidal :
+
+le déficit moteur prédomine sur les muscles extenseurs des membres supérieurs (radiaux, interosseux) et les muscles raccourcisseurs des membres inférieurs (psoas, jambier antérieur) ;
+le tonus est exagéré (hypertonie spastique) ;
+présence de réflexes pathologiques (signe de Babinski, de Rossolimo ou de Hoffman…).
+Attention ! Dans les premiers jours d’une atteinte aiguë de la voie pyramidale (accident vasculaire cérébral par exemple), une paralysie flasque est fréquente avec abolition des réflexes tendineux et hypotonie (« sidération »). C’est en moyenne entre la première et la troisième semaine que se développe l’hypertonie spastique.
+
+À retenir
+
+Un déficit spastique est toujours d’origine centrale.
+Un déficit flasque est le plus souvent d’origine périphérique, mais il peut s’agir d’une atteinte centrale (à la phase initiale lors d’une lésion aiguë de la voie pyramidale).
+a. Répartition de l’atteinte motrice
+La répartition de l’atteinte motrice permet en elle-même d’orienter le diagnostic topographique.
+
+Hémiplégie
+
+Elle traduit une atteinte du système nerveux central au-dessus de la moelle cervicale (moelle cervicale comprise) :
+
+l’atteinte de la face (déficit facial central) permet d’affirmer l’existence d’une lésion supramédullaire ;
+le caractère proportionnel ou non de l’hémiplégie a aussi une valeur de localisation.
+Un déficit moteur prédominant en brachiofacial orientera vers une atteinte corticale du faisceau pyramidal (par exemple dans le cadre d’un infarctus cérébral du territoire de l’artère cérébrale moyenne).
+Un déficit « proportionnel », de même sévérité aux trois étages (la face, le membre supérieur et le membre inférieur), orientera vers une atteinte de la capsule interne.
+Syndrome alterne moteur
+
+Il s’agit de l’association d’une hémiparésie ou d’une hémiplégie et d’une atteinte controlatérale d’un nerf crânien moteur (III, VII, XII), par atteinte des neurones périphériques dans le tronc cérébral. Ce syndrome indique une lésion située dans le tronc cérébral.
+
+Tétraplégie
+
+Elle traduit une atteinte de la moelle épinière cervicale haute ou du tronc cérébral.
+
+Paraplégie
+
+Elle traduit une atteinte cervicale basse, thoracique ou du cône terminal. Une paraplégie peut aussi être liée à une atteinte du système nerveux périphérique : syndrome de la queue de cheval, ou à une atteinte pluriradiculaire autre (polyradiculonévrite, méningoradiculite).
+
+Attention ! À la paraparésie en rapport avec une lésion cérébrale de localisation bifrontale paramédiane (infarctus cérébral antérieur bilatéral, méningiome de la faux du cerveau) qu’il faudra savoir rechercher en cas de normalité des explorations médullaires.
+
+b. Répartition du déficit sensitif
+De même, la répartition d’un déficit sensitif associé au déficit moteur permet de préciser le diagnostic topographique.
+
+En cas d’atteinte supramédullaire, l’examen de la sensibilité révèle habituellement un déficit à tous les modes dans le même territoire que l’atteinte motrice. Cependant lorsque la lésion est de petite taille et/ou épargne les structures sensitives, le déficit moteur peut être isolé (exemple d’un AVC lacunaire).
+Dans les atteintes médullaires, les atteintes sensitives suivantes peuvent être retrouvées avec une grande valeur localisatrice :
+un niveau sensitif sur le tronc ou le cou, qui témoigne d’un syndrome lésionnel ;
+une atteinte sensitive dissociée (syndrome de Brown-Séquard, syndrome syringomyélique).
+2. Atteinte du système nerveux périphérique (SNP)
+a. Syndrome neurogène périphérique
+Il se caractérise par une atteinte de la motricité volontaire, automatique et réflexe.
+
+Les fasciculations spontanées peuvent être observées dès l’inspection ou décrites par le patient à l’anamnèse. Elles peuvent aussi être recherchées et déclenchées par la percussion des muscles (quadriceps, biceps).
+Le déficit moteur est d’intensité variable.
+Les muscles agonistes et antagonistes sont également touchés (contrairement au syndrome pyramidal) dans les neuropathies diffuses.
+Les muscles atteints correspondent à l’innervation d’une racine ou d’un tronc nerveux en cas d’atteinte focale.
+Hypotonie.
+Abolition de réflexes ostéotendineux.
+Amyotrophie des muscles atteints quand le déficit moteur se prolonge.
+Il existe trois grands types de neuropathies diffuses selon le mode d’installation, la répartition et la distribution du déficit moteur :
+
+la polyneuropathie : atteinte bilatérale, symétrique, distale, à début synchrone et d’installation subaiguë ou chronique ;
+la polyradiculonévrite aiguë : atteinte bilatérale, symétrique, proximale et distale, d’installation aiguë sur quelques jours ;
+les mononeuropathies multiples : atteintes tronculaires multiples, asymétriques et asynchrones (par exemple : atteinte du nerf fibulaire commun droit puis une semaine plus tard du nerf ulnaire gauche etc.).
+Les neuropathies focales sont quant à elles en rapport avec l’atteinte d’une racine, d’un plexus ou d’un tronc répondant à une systématisation précise.
+
+b. Syndrome myasthénique (cf. chapitre 8)
+L’atteinte de la jonction neuromusculaire (ou plaque motrice) se caractérise par :
+
+une fatigabilité musculaire avec apparition d’une faiblesse musculaire (ptosis, diplopie, dysphonie, dysphagie, faiblesse des membres) préférentiellement le soir ou après un effort. Amélioration voire disparition de cette faiblesse le matin ou avec le repos ;
+un examen neurologique normal ou pouvant montrer un déficit moteur qui apparaît avec l’effort et s’améliore avec le repos ;
+une absence de signes pyramidaux, d’atteinte sensitive ou vésicosphinctérienne.
+c. Syndrome myogène
+Le syndrome myogène est caractérisé par :
+
+un déficit moteur de topographie variée, en principe plutôt proximal, affectant les ceintures ;
+une marche dandinante, une difficulté à la montée des escaliers ou à se relever d’une position assise ou accroupie : le malade prend appui sur ses mains pour se relever de la position assise (signe du tabouret) ;
+une abolition du réflexe idiomusculaire alors que les réflexes tendineux sont conservés ;
+une amyotrophie progressive, cependant certaines formes de myopathies peuvent présenter une pseudo-hypertrophie ;
+une absence de troubles sensitifs.
+3. Atteinte du motoneurone
+L’atteinte peut toucher :
+
+le motoneurone central ou premier motoneurone situé au niveau corticospinal entraînant un syndrome pyramidal ;
+le motoneurone périphérique ou second motoneurone situé au niveau spinal ou bulbaire entraînant un syndrome de dénervation motrice : paralysie, amyotrophie, hypotonie ;
+la distribution du déficit moteur en fonction de la topographie lésionnelle.
+
+
+
+
+------> Tableau 5.2  Distribution du déficit moteur en fonction de la topographie lésionnelle.
+
+
+
+
+
+B. Déficit sensitif
+1. Atteinte du système nerveux central
+a. Atteinte encéphalique
+Cortex pariétal : hypoesthésie à prédominance brachiofaciale (par exemple en cas d’infarctus dans le territoire de l’artère cérébrale moyenne). Dans ce cas, d’autres déficits neurologiques sont le plus souvent présents (hémiplégie à prédominance brachiofaciale, aphasie, héminégligence, etc.).
+Thalamus : hypoesthésie proportionnelle des trois étages, non dissociée (à tous les modes) de l’hémicorps controlatéral.
+Tronc cérébral : syndrome alterne sensitif appartenant au syndrome de Wallenberg. Il s’agit d’une hypoesthésie de la face par atteinte du V homolatéral à la lésion et hypoesthésie de l’hémicorps controlatéral avec respect de la face par atteinte de la voie spinothalamique. La lésion se situe alors dans la fossette latérale de la moelle allongée (appelée auparavant bulbe).
+b. Moelle épinière
+La sémiologie sensitive de la moelle épinière est très riche avec plusieurs tableaux cliniques dépendant du site et de l’étendue de la ou des lésions(s).
+
+En cas d’atteinte transversale complète de la moelle, en plus du déficit moteur (tétra- ou paraplégie), existe un niveau sensitif avec un syndrome lésionnel et sous-lésionnel.
+La lésion responsable d’un niveau sensitif se situe toujours au-dessus de ce niveau. En pratique devant une hypoesthésie des membres inférieurs et du tronc avec un niveau sensitif T4, il faut rechercher une lésion T4 ou au-dessus (IRM de la moelle thoracique et cervicale).
+L’atteinte cordonale postérieure de la moelle se manifeste par une marche ataxique, un signe de Romberg et une ataxie proprioceptive des membres concernés et éventuellement un signe de Lhermitte. Le signe de Lhermitte correspond à une décharge électrique brève perçue le long du rachis et dans les membres à la flexion de la nuque. Ce signe est en rapport avec une atteinte des cordons postérieurs de la moelle cervicale.
+Le syndrome de l’hémi-moelle (syndrome de Brown-Séquard) a une très grande valeur localisatrice et consiste du côté homolatéral à la lésion en un syndrome pyramidal et proprioceptif et du côté controlatéral en une hypoesthésie thermoalgique. Ainsi, devant un déficit moteur pyramidal d’un membre inférieur, la lésion peut se trouver au niveau cérébral ou médullaire. Si l’examen clinique montre une atteinte proprioceptive de ce membre et une atteinte de la sensibilité thermoalgique de l’autre membre, l’exploration à demander en premier est une IRM médullaire.
+Le syndrome syringomyélique est causé par une cavité (syrinx) localisée le plus souvent en centromédullaire avec un retentissement sur les fibres spinothalamiques. Cliniquement, il existe une hypoesthésie dissociée avec hypoesthésie thermoalgique le plus souvent des membres supérieurs et de la partie haute du tronc (en cape) et une sensibilité au tact préservée (voie lemniscale).
+Encadré 5.1 Diagnostic topographique des principaux syndromes sensitifs
+
+Pariétal : hypoesthésie à prédominance brachiofaciale.
+Thalamus : hypoesthésie à tous les modes, proportionnelle d’un hémicorps.
+Tronc cérébral : syndrome alterne sensitif (syndrome de Wallenberg). Moelle allongée.
+Moelle (atteinte transverse) : présence d’un niveau sensitif.
+Moelle (cordons postérieurs de la moelle cervicale) : signe de Lhermitte.
+Moelle (hémi-moelle) : atteinte proprioceptive homolatérale à la lésion et spinothalamique controlatérale : syndrome de Brown-Séquard.
+Moelle : hypoesthésie suspendue thermoalgique de la syringomyélie.
+SNP diffus : hypoesthésie « en gants » et en « chaussettes » : polyneuropathie axonale ascendante progressive.
+SNP focal : atteinte systématisable en termes de racines (métamères), plexus, tronc nerveux.
+2. Atteinte du système nerveux périphérique
+a. Neuropathies focales
+Racine : l’atteinte d’une racine donne des troubles sensitifs précoces (douleur et hypoesthésie), des troubles moteurs parfois associés et l’abolition d’un réflexe si la racine fait partie d’un arc réflexe explorable. Le déficit sensitif correspond à un territoire de dermatome. Par exemple : sciatalgie L5, cruralgie L4, névralgie cervicobrachiale.
+Plexus : l’atteinte plexique associe à divers degrés paralysie, atteinte sensitive et réflexe. Le territoire sensitif correspond à l’atteinte de plusieurs dermatomes. Par exemple : syndrome de la queue de cheval.
+Tronc nerveux : l’atteinte tronculaire provoque une atteinte motrice au premier plan et des troubles sensitifs focaux systématisables en termes de tronc nerveux. Par exemple : la paralysie du nerf médian entraîne des paresthésies des trois premiers doigts, une diminution de la motilité du pouce, une amyotrophie de l’éminence thénar.
+b. Neuropathies diffuses
+Polyneuropathie : déficit sensitif de type longueur-dépendant avec atteinte d’abord des pieds, puis remontant aux mollets et au-dessus des cuisses (déficit sensitif « en chaussettes » au début puis « en cuissardes » après plusieurs mois ou années d’évolution). Quand l’atteinte sensitive aux membres inférieurs atteint les genoux, les mains peuvent être touchées (déficit sensitif « en gants »). Une hypoesthésie du tronc peut aussi s’observer « en plastron » et du crâne « en calotte ».
+Polyradiculonévrites : atteinte sensitivomotrice ascendante, diffuse, atteignant aussi bien les racines des nerfs crâniens (ex. : diplégie faciale et troubles de la déglutition) et des nerfs spinaux que l’extrémité des membres.
+Mononeuropathies multiples : atteinte tronculaire, multifocale, asymétrique et asynchrone (par exemple : atteinte du nerf fibulaire commun droit puis une semaine plus tard du nerf ulnaire gauche etc.).
+III. Orientation étiologique devant un déficit moteur ou sensitif des membres
+L’examen clinique permet de localiser le niveau de l’atteinte, mais pas le mécanisme en cause. L’étape étiologique repose donc sur l’interrogatoire, qui précise le mode d’apparition et le profil évolutif du déficit, ainsi que les antécédents et le terrain.
+
+Dans le profil évolutif, il faut tenir compte du mode de début, et de l’évolution dans le temps (amélioration, aggravation, stabilisation, évolution par accès) (cf. chapitre 4).
+
+Les grands mécanismes en cause en neurologie sont :
+
+vasculaire : début soudain et récupération incomplète et lente ;
+tumoral : début progressif et extension du déficit « en tache d’huile » ;
+infectieux : évolution aiguë ou subaiguë avec contexte général infectieux ;
+inflammatoire : évolution aiguë ou subaiguë en l’absence de signe systémique ;
+dégénératif : aggravation lentement progressive ;
+traumatique ;
+épileptique : début et fin soudaine, récidive identique ;
+migraineux : manifestation positive accompagnant des céphalées.
+Le contexte et les renseignements apportés par l’examen clinique (cf. supra) complètent cette étape, permettant la formulation de l’hypothèse étiologique (cause).
+
+Cette étape se poursuit par la réalisation d’investigations complémentaires.
+
+A. Examens complémentaires
+Aucun examen complémentaire n’est réalisé systématiquement. Leur demande et leur ordre dépendent des hypothèses étiologiques formulées à partir des données cliniques.
+
+1. Imagerie du système nerveux central
+L’IRM est l’examen de référence du système nerveux central (en cas de contre-indication, on demandera un scanner). Le niveau d’exploration (cerveau, moelle) sera précisé en fonction des hypothèses topographiques. L’IRM permet de rechercher :
+
+au niveau cérébral : une lésion vasculaire (ischémie ou hématome), tumorale, infectieuse, inflammatoire expliquant le déficit. La présence d’autres lésions peut aider au diagnostic (ex. : multiples plaques de démyélinisation dans la sclérose en plaques) ;
+au niveau médullaire : une lésion extra-axiale (compression osseuse dans la myélopathie cervicoarthrosique), intra-axiale mais extramédullaire (méningiome, neurinome), ou intramédullaire (tumeur gliale, épendymome, plaque de démyélinisation, lésion vasculaire).
+2. Électroneuromyogramme
+L’électroneuromyogramme (ENMG) va permettre de confirmer l’existence d’un syndrome neurogène périphérique, d’une anomalie de la jonction neuromusculaire, ou d’une atteinte myogène.
+
+a. Suspicion d’atteinte du système nerveux périphérique
+Les principaux paramètres étudiés par l’ENMG sont :
+
+en détection : la recherche de tracés neurogènes (pauvres et accélérés) ;
+en stimulodétection : les vitesses de conduction motrice et les potentiels sensitifs distaux.
+L’ENMG en détection confirme le caractère neurogène de l’atteinte.
+
+Dans le vaste groupe des neuropathies périphériques, l’ENMG permet de préciser :
+
+l’extension des lésions (multiples racines touchées, mononeuropathie révélatrice d’une mononeuropathie multiple, etc.) ;
+le mécanisme de l’atteinte du nerf :
+atteinte axonale : vitesses de conduction motrice préservées et potentiels sensitifs distaux franchement diminués,
+atteinte démyélinisante : vitesses de conduction motrice diminuées et potentiels sensitifs distaux relativement préservés ;
+le niveau de compression d’un nerf : par exemple, atteinte au canal carpien pour le nerf médian, compression au coude pour le nerf cubital, compression au genou pour le nerf sciatique poplité externe.
+b. Suspicion d’atteinte de la jonction neuromusculaire
+L’ENMG recherche un bloc neuromusculaire par stimulation répétée à basse fréquence (bloc post-synaptique : myasthénie) ou haute fréquence (bloc présynaptique : syndrome de Lambert-Eaton).
+
+c. Suspicion d’atteinte musculaire
+L’ENMG en détection fournit des tracés myogènes (riches et polyphasiques), avec stimulodétection normale.
+
+3. Ponction lombaire
+Elle est effectuée en cas d’atteinte proximale ou de suspicion d’atteinte inflammatoire ou infectieuse du SNP (polyradiculonévrite aiguë, méningoradiculite) ou d’atteinte inflammatoire ou infectieuse du SNC (sclérose en plaques, notamment).
+
+4. Examens biologiques sanguins
+Ils sont demandés au cas par cas. Ils peuvent être d’une aide déterminante pour le diagnostic positif (enzymes musculaires élevées pour une atteinte musculaire) ou étiologique (diabète révélé par une polyneuropathie).
+
+5. Biopsies
+Musculaires ou neuromusculaires, elles permettent la confirmation histologique d’un syndrome neurogène périphérique ou myogène et peuvent apporter des arguments clés pour le diagnostic étiologique.
+
+La biopsie neuromusculaire ne se conçoit qu’en cas d’atteinte des fibres sensitives à l’examen clinique et à l’ENMG. À la différence de la biopsie musculaire, elle peut être source de complications (zone d’hypoesthésie séquellaire sur la face dorsale du pied après biopsie, difficultés de cicatrisation, etc.). Elle se discute en milieu neurologique, au cas par cas, en fonction de l’âge, de l’évolutivité de l’atteinte et des hypothèses diagnostiques (accessibilité à une thérapeutique).
+
+(Pour détail, cf. chapitre 7).
+
+B. Stratégie d’utilisation des examens
+Ils sont choisis et orientés en fonction de l’hypothèse topographique et étiologique. Un algorithme décisionnel est proposé dans la figure 5.2.
+
+Fig. 5.2
+
+Stratégie diagnostique devant un déficit moteur aigu.
+
+1. Hémiplégie
+Une imagerie cérébrale est à réaliser dans tous les cas.
+
+2. Tétraplégie et paraplégie centrales
+On effectue une IRM médullaire de niveau ciblé, éventuellement complétée d’une ponction lombaire (en l’absence de compression médullaire et en fonction du mécanisme étiologique suspecté). En cas de normalité de l’IRM médullaire, une IRM cérébrale devra être demandée pour éliminer une atteinte bilatérale.
+
+En cas de paraplégie périphérique, une IRM centrée sur la queue de cheval est réalisée.
+
+3. Atteinte successive de plusieurs troncs nerveux
+L’ENMG est réalisé en urgence pour confirmer une mononeuropathie multiple, un diabète est recherché, une biopsie neuromusculaire discutée.
+
+4. Atteinte sensitive/motrice rapide, symétrique, ascendante des membres
+ENMG et ponction lombaire sont effectués à la recherche d’une polyradiculonévrite aiguë, en sachant que ces examens peuvent être normaux les premiers jours.
+
+5. Fatigabilité sévère des membres
+L’ENMG recherche un bloc neuromusculaire en faveur d’une myasthénie.
+
+6. Autres
+D’autres situations fréquentes nécessitent des examens dans des délais moins urgents :
+
+atteinte sensitive/motrice progressive et symétrique des membres : ENMG pour confirmer une polyneuropathie et examens biologiques à visée étiologique (recherche de diabète, syndrome inflammatoire, gammapathie monoclonale, hypothyroïdie, carence vitaminique,…) ;
+atteinte motrice proximale, progressive et symétrique des membres : ENMG à la recherche d’une atteinte musculaire ou d’un bloc neuromusculaire, dosage des enzymes musculaires, discussion d’une biopsie musculaire.
+IV. Situations diagnostiques particulières
+A. Troubles moteurs ou sensitifs transitoires
+Les troubles moteurs ou sensitifs transitoires (par définition non observés par un médecin) posent un problème particulier :
+
+accident ischémique transitoire (AIT ou syndrome de menace pour le cerveau) : les implications thérapeutiques et pronostiques sont telles que tout déficit moteur ou sensitif transitoire d’installation brutale sans autre cause évidente doit être exploré en urgence comme un AIT (bilan artériel, cardiaque, d’hémostase) ;
+migraine : l’aura sensitive suit l’aura visuelle et le mode d’installation des troubles est progressif ;
+plus rarement, crise épileptique partielle.
+Une symptomatologie négative (déficitaire) évoquera une origine ischémique alors que les manifestations positives évoqueront plus une pathologie épileptique ou migraineuse.
+
+B. Origine multifactorielle
+Un trouble de la motilité d’un membre peut parfois être d’origine multifactorielle.
+
+C’est le cas par exemple de complications rhumatologiques sur déficit moteur (périarthrite scapulohumérale sur hémiparésie, etc.) ou de l’apparition d’un trouble d’origine psychique sur un déficit neurologique authentique. Distinguer la part de chacune de ces origines relève de l’expérience clinique et du résultat d’investigations ciblées.
+
+V. Complications d’un déficit moteur ou sensitif d’un membre
+Elles sont nombreuses et nécessitent des mesures préventives.
+
+A. Complications générales
+Les complications générales sont les plus redoutables et surviennent surtout en cas de déficit des membres inférieurs :
+
+complications thromboemboliques chez un patient confiné au lit. Les mesures de prévention d’une thrombophlébite d’un membre inférieur doivent être mises en place très rapidement : anticoagulation à doses isocoagulantes, mobilisation et stimulations mécaniques du retour veineux ; tout essoufflement, douleur basithoracique, malaise doit faire craindre une embolie pulmonaire chez ces patients exposés ;
+complications bronchopulmonaires par encombrement, favorisé par l’alitement et parfois des fausses routes ;
+lors de la reprise de la marche, par déficit moteur ou trouble proprioceptif sévère, avec risque de fracture ou de traumatisme crânien.
+B. Complications locorégionales
+Les complications locorégionales sont également fréquentes :
+
+escarres (talons, sacrum), prévenues par les modifications régulières du positionnement au lit (décubitus latéral alterné), les massages cutanés pluriquotidiens, la mobilisation du membre paralysé et le matériel de décharge (coussins de forme diverse, matelas à eau) ;
+enraidissement d’un membre déficitaire avec risque de rétraction (sur hypertonie pyramidale, notamment) et de complications ostéoarticulaires : périarthrite, notamment scapulohumérale, ostéome para-articulaire, notamment au coude et au genou. La lutte contre la spasticité passe par une prise en charge en kinésithérapie avec mobilisation et parfois l’injection de toxine botulique ;
+algoneurodystrophie du membre supérieur, dont la prévention passe par une prise en charge en kinésithérapie douce indolore ; une fois la complication apparue, le traitement fait appel au repos, au refroidissement du membre ;
+traumatisme d’un membre porteur d’un déficit sensitif : brûlures non perçues à la main, troubles trophiques au pied (mal perforant).
+Le traitement est essentiellement préventif (mobilisation précoce, prévention d’attitude vicieuse [pied équin]), parfois curatif (intervention sur tendons rétractés).
+
+ 
+
+POINTS CLÉS :
+
+Un trouble de motilité d’un membre peut avoir des causes neurologiques ou non neurologiques.
+L’orientation étiologique face à un déficit moteur ou sensitif nécessite un diagnostic topographique préalable, dont dépendent les investigations complémentaires qui doivent être ciblées.
+De nombreuses complications peuvent survenir après un déficit moteur ou sensitif, nécessitant des mesures préventives adaptées.
+Une réhabilitation précoce est toujours requise.

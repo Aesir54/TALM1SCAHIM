@@ -1,0 +1,169 @@
+Addiction à l’alcool – Complications neurologiques de l’alcoolisme
+
+Objectifs pédagogiques :  
+Repérer, diagnostiquer, évaluer le retentissement d’une addiction à l’alcool.
+Expliquer les indications et principes du sevrage thérapeutique. Argumenter l’attitude thérapeutique et planifier le suivi du patient.
+L’alcoolisme est la cause directe ou indirecte de 15 à 25 % des hospitalisations et d’environ 35 000 décès par an en France.
+
+L’identification d’un alcoolisme chronique est le plus souvent aisée : consommation excessive reconnue, présence de plusieurs signes cliniques (faciès vultueux, couperose du visage, parfois rhinophima) et de signes biologiques (macrocytose, augmentation des ?GT).
+
+Plusieurs mécanismes peuvent expliquer les effets de l’alcool sur le système nerveux :
+
+toxicité directe : l’alcool se fixe sur les phospholipides membranaires, notamment sur les récepteurs des systèmes gabaergique et glutamatergique, entraînant une dysfonction des canaux ioniques ;
+toxicité indirecte : carences vitaminiques (dues à une mauvaise nutrition et à une gastrite chronique), conséquences de l’atteinte d’organes retentissant sur le cerveau (insuffisance hépatique, cardiomyopathie alcoolique, dépression immunitaire) ou de troubles induits (traumatismes crâniens, accidents).
+Quand la symptomatologie n’est pas typique, il faut penser à une autre cause que l’alcool et ne pas trop facilement attribuer une symptomatologie neurologique au seul alcoolisme connu d’un patient.
+
+Il faut aussi garder à l’esprit que l’alcoolisme chronique est habituellement associé à un tabagisme chronique et aux complications neurologiques de celui-ci (par exemple, métastase cérébrale d’un cancer bronchique, encéphalopathie respiratoire due à une BPCO).
+
+Enfin, il importe de souligner que plusieurs de ces complications peuvent et doivent être prévenues en prescrivant chez tout patient alcoolique hospitalisé, quelle qu’en soit la raison, un supplément vitaminique B1, B6, B12, folates et PP.
+
+Les complications neurologiques de l’alcoolisme chronique sont exposées ici séparément mais, en pratique, il n’est pas rare que plusieurs d’entre elles soient associées chez un même patient.
+
+I. Complications neurologiques de l’intoxication alcoolique aiguë
+A. Ivresse simple
+Conséquence de l’action de l’alcool notamment sur la substance réticulée du tronc cérébral, les noyaux vestibulaires, le cervelet et le cortex, l’ivresse banale associe le plus souvent jovialité, hypomanie (parfois tristesse), propos incohérents et dysarthrie, troubles cérébelleux et vertiges.
+
+Le diagnostic repose sur la mesure de l’alcoolémie.
+
+B. Ivresse pathologique
+L’ivresse pathologique associe des troubles du comportement (agressivité, violences, dangerosité, actes clastiques délictueux), parfois des hallucinations et un délire. Elle est suivie d’un sommeil profond et d’une amnésie lacunaire.
+
+C. Ivresse convulsivante
+Par abaissement du seuil épileptogène, il s’agit le plus souvent d’une crise généralisée unique au cours d’une intoxication aiguë chez un buveur occasionnel, ne nécessitant pas de traitement antiépileptique.
+
+D. Coma éthylique
+En cas d’absorption massive d’alcool, une encéphalopathie peut s’installer sous la forme d’une phase d’obnubilation puis de stupeur, enfin de coma éthylique qui peut comporter des signes de gravité (aréactivité, mydriase, hypotonie, dépression respiratoire, hypothermie, hypotension) engageant le pronostic vital et nécessitant alors le transfert en réanimation où seront prévenues les complications.
+
+Trois troubles métaboliques devront systématiquement être recherchés dans ce contexte car susceptibles d’engager le pronostic vital : hypoglycémie, acidocétose, hyponatrémie (principalement chez le gros buveur de bière) qu’il conviendra de ne pas corriger trop rapidement (risque de myélinolyse centropontine, cf. infra).
+
+Des séquelles (compressions nerveuses périphériques tronculaires et/ou plexuelles, troubles mnésiques post-anoxiques) sont possibles.
+
+II. Complications neurologiques aiguës du sevrage alcoolique
+L’alcool agit comme agoniste des récepteurs GABA (fonction inhibitrice). Le sevrage entraîne donc une diminution de la transmission gabaergique, avec pour conséquence une hyperexcitabilité. Le sevrage correspond à un arrêt complet ou à une diminution de la consommation. Il est souvent contemporain d’une affection intercurrente (pathologie infectieuse, traumatisme) qu’il importe d’identifier et de traiter.
+
+La seule hospitalisation peut être l’occasion d’un sevrage.
+
+A. Crise d’épilepsie
+Elle survient surtout chez un patient encore jeune, stade où les autres complications neurologiques sont encore rares. Il s’agit le plus souvent d’une crise généralisée tonicoclonique, unique – mais des états de mal peuvent survenir dans 5 % des cas – dans les 12 à 24 heures du sevrage. L’EEG est le plus souvent normal, des anomalies paroxystiques à la stimulation lumineuse intermittente sont possibles. Une première crise nécessite un scanner cérébral, car elle peut révéler une pathologie associée. Il n’y a pas d’indication à un traitement antiépileptique mais on peut utiliser ponctuellement des benzodiazépines qui seront également utiles pour diminuer les autres symptômes de sevrage.
+
+B. Delirium tremens
+Les signes de début (« pré-delirium tremens ») doivent être dépistés : inversion du rythme nycthéméral, cauchemars, irritabilité, anxiété, sueurs, tremblement postural des mains. Ces signes de début nécessitent d’urgence :
+
+une hydratation per os avec vitaminothérapie (B1, B6 et PP) ;
+les benzodiazépines per os (diazépam, clorazépam) ou par voie parentérale (diazépam) en cas d’agitation plus importante, imposant une surveillance cardiorespiratoire. Ce traitement a en fait un double intérêt : d’une part la prise en charge symptomatique de l’agitation mais surtout la prévention de l’évolution vers un delirium tremens avéré.
+Ainsi, en l’absence de traitement, l’évolution se fait vers un delirium tremens, caractérisé par un syndrome confuso-onirique : propos incohérents, agitation, hallucinations multiples surtout visuelles avec zoopsie et scènes d’agression causes d’agressivité et de réactions de frayeurs. Le syndrome physique associe fièvre, sueurs, trémulations, parfois signes de déshydratation, modification de la pression artérielle, tachycardie, troubles du rythme. Des crises d’épilepsie, voire un état de mal, peuvent survenir.
+
+Le delirium tremens est une urgence médicale dont le traitement associe :
+
+hydratation adaptée au bilan électrolytique qui doit être répété, avec surveillance de la diurèse, apport vitaminique (B1, B6, PP), correction de l’hypokaliémie ;
+benzodiazépines IV (dose de charge par diazépam 10 mg par heure). Il est souhaitable de disposer de moyens de réanimation et d’un antidote des benzodiazépines (flumazénil) ; en cas d’insuffisance hépatocellulaire, on privilégiera des benzodiazépines métabolisées par conjugaison (plutôt que par oxydation), telles que le lorazépam ;
+correction de l’hyperthermie (antipyrétiques) ;
+recours prudent aux neuroleptiques (surveillance, diminution rapide de la posologie, uniquement si les hallucinations persistent malgré les benzodiazépines) ;
+sans oublier le traitement des facteurs favorisants ou aggravants (infection pulmonaire, traumatisme, par exemple).
+C. Prévention des manifestations neurologiques du sevrage alcoolique
+Le sevrage, thérapeutique préventive des complications de l’alcoolisme, peut se réaliser en ambulatoire ou en milieu institutionnel. La prévention des accidents de sevrage associe hydratation, prescriptions vitaminiques et traitement par benzodiazépine pendant une semaine à dose dégressive.
+
+III. Complications neurologiques de l’intoxication alcoolique chronique
+A. Encéphalopathies
+1. Encéphalopathie de Gayet-Wernicke (ou Wernicke-Korsakoff)
+Due à une carence en vitamine B1, parfois induite par un apport glucidique, son diagnostic doit être posé au début devant un seul des signes suivants et a fortiori en présence de leur association :
+
+syndrome confusionnel ;
+signes oculomoteurs : paralysie oculomotrice, paralysie de fonction, nystagmus ;
+syndrome cérébelleux statique ;
+hypertonie oppositionnelle.
+En dehors du dosage de la vitamine B1 (effondré), le diagnostic est fait par l’IRM (hypersignal FLAIR du corps mamillaire sur la coupe sagittale). Le traitement, urgent, repose sur la vitamine B1 IV. Il est surtout préventif : supplémentation systématique en vitamine B1 de tout patient alcoolique chronique dénutri, prescription systématique de vitamine B1 lors d’un apport glucosé chez un patient dénutri ou éthylique.
+
+2. Encéphalopathie pellagreuse
+Due à une carence en vitamine PP, elle se manifeste par une confusion mentale et une hypertonie extrapyramidale ; les troubles digestifs et les signes cutanéomuqueux (glossite, desquamation) étant très inconstants. Le traitement repose sur la vitamine PP parentérale (500 mg par jour). Il est surtout préventif : prescription systématique de vitamine PP à tout patient alcoolique dénutri.
+
+3. Encéphalopathie hépatique
+Secondaire à l’insuffisance hépatique (cirrhose), elle comporte une confusion mentale associée à un astérixis (flapping tremor), fait de myoclonies dites négatives (correspondant à une chute transitoire du tonus responsable de mouvements de flexion brusque puis extension des poignets lors de la manœuvre de Barré) avec, parfois, des signes extrapyramidaux (par dépôts de manganèse dans les ganglions de la base : intérêt de l’IRM encéphalique) et des crises d’épilepsie. Au stade de coma, des myoclonies, des signes focaux, des mouvements de décérébration sont possibles. L’EEG montre des signes (non spécifiques) évocateurs d’une encéphalopathie : ralentissement et diffusion du rythme de base, ondes triphasiques. L’évolution dépend du stade de la maladie, du traitement des facteurs déclenchants : saignement, apport protidique trop important, une prise de benzodiazépines, infection, trouble métabolique. Le traitement curatif associe lactulose et néomycine (par sonde nasogastrique ou lavement). Le traitement préventif est celui des facteurs déclenchants.
+
+B. Troubles cognitifs
+1. Démence alcoolique
+Une démence alcoolique non liée à la maladie de Marchiafava-Bignami ou au syndrome de Korsakoff (cf. infra) fait toujours l’objet d’une certaine controverse. En effet, de nombreux facteurs peuvent être impliqués : effet toxique propre, carences vitaminiques, traumatismes répétés, accidents vasculaires cérébraux, effet du vieillissement, possible pathologie dégénérative associée. Les signes cliniques les plus fréquents sont frontaux : apathie et bradypsychie. L’imagerie cérébrale montre une atrophie corticale diffuse mais sans corrélation avec les signes cliniques.
+
+2. Maladie de Marchiafava-Bignami
+La maladie de Marchiafava-Bignami se caractérise par une démyélinisation du corps calleux, parfois plus étendue latéralement. Le diagnostic clinique est difficile car la présentation est souvent aspécifique : démence avec mutisme akinétique, troubles de la marche (astasie-abasie), dysarthrie, hypertonie. Les signes de dysconnexion calleuse sont souvent mis en évidence a posteriori. Plus rarement, le tableau est celui d’une encéphalopathie avec confusion puis coma. Le diagnostic est confirmé par l’aspect du corps calleux en imagerie : hypodense au scanner (bien visible en avant et en arrière des cavités ventriculaires sur les coupes axiales) et hyposignal T1 à l’IRM (coupe sagittale médiane). Le pronostic à moyen terme est classiquement sombre, mais une atteinte limitée avec régression partielle des signes est possible.
+
+3. Syndrome de Korsakoff
+Le syndrome de Korsakoff est le plus souvent la conséquence d’une encéphalopathie de Gayet-Wernicke (cf. supra) mal ou non traitée ; plus rarement, il apparaît d’emblée, sans phase encéphalopathique préalable. Il traduit l’atteinte des corps mamillaires, des noyaux dorsomédians du thalamus, du trigone, du gyrus cingulaire. Cette lésion du circuit hippocampo-mamillo-thalamique et l’atteinte frontale associée sont responsables du syndrome amnésique combiné à des signes frontaux. L’amnésie est principalement antérograde (avec au maximum un « oubli à mesure »), associée à des fausses reconnaissances et fabulations. Le traitement vitaminique parentéral est nécessaire, parfois partiellement efficace. Les conséquences sociales sont majeures, avec la présence constante d’une tierce personne ou la nécessité d’un placement en institution, ce qui n’est jamais aisé avec des sujets souvent jeunes.
+
+C. Épilepsie
+L’éthylisme chronique est une des causes les plus fréquentes d’épilepsie tardive : les crises surviennent de façon aléatoire après de nombreuses années d’intoxication mais indépendamment du rythme d’ingestion. L’épilepsie peut revêtir tous les types (mais le plus souvent généralisée) et peut même continuer à se manifester après le sevrage en cas de lésions cérébrales irréversibles dues à l’alcool. Elle ne nécessite un traitement antiépileptique au long cours que s’il y a un risque de crises avéré en dehors de toute alcoolisation – avec toutefois trois écueils : la mauvaise compliance (qui fera préférer des drogues à demi-vie longue comme le phénobarbital), le risque de dépendance, une modification du métabolisme des antiépileptiques par l’alcool (prudence vis-à-vis des antiépileptiques hépatotoxiques en cas d’hépatopathies liées à l’alcool).
+
+D. Atrophie cérébelleuse
+L’atrophie cérébelleuse comporte principalement une ataxie statique et locomotrice d’évolution subaiguë ou chronique et s’améliore parfois après traitement vitaminique, mais reste le plus souvent stable. Le scanner ou l’IRM montrent une atrophie vermienne.
+
+E. Neuropathies
+1. Neuropathie optique alcoolo-tabagique
+Elle se manifeste par une baisse bilatérale de l’acuité visuelle avec dyschromatopsie, scotome central, pâleur papillaire tardive. Elle est favorisée par l’association à une consommation tabagique. Le traitement repose principalement sur la vitaminothérapie B et l’arrêt de l’alcoolo-tabagisme.
+
+2. Polyneuropathie longueur-dépendante
+a. Forme chronique
+Due à la toxicité directe de l’alcool, elle peut s’associer aux conséquences de la carence en vitamine B1 et folates. La neuropathie toxique alcoolique touche surtout les petites fibres sensitives (véhiculant la sensibilité thermoalgique). La neuropathie carentielle en vitamine B1 a préférentiellement des conséquences motrices, parfois aiguës (cf. infra). Les signes de début comportent des crampes nocturnes, une fatigue à la marche avec, à l’examen, une douleur à la pression des mollets, une hypoesthésie douloureuse et une aréflexie achilléenne. Le traitement repose sur l’arrêt de l’intoxication éthylique. La recharge vitaminique n’est utile qu’en cas de carence associée (attention au risque d’hématomes en cas d’injection IM). Il convient de chercher une ou d’autres causes intriquées éventuelles (diabète, médicaments neurotoxiques, gammapathie monoclonale, insuffisance rénale).
+
+À un stade évolué, il existe des douleurs (brûlure, étau, hyperesthésie au contact), une anesthésie distale symétrique « en chaussettes », un steppage et des signes trophiques en rapport avec une neuropathie autonome distale (dépilation, troubles de la sudation, impuissance, parfois maux perforants plantaires) et cardiaque source d’une augmentation de la mortalité.
+
+Le traitement associe, outre le sevrage alcoolique, vitaminothérapie et renutrition en cas de carence, antalgiques (antiépileptiques et/ou tricycliques), soins locaux, rééducation, orthèses. La récupération est lente et souvent incomplète.
+
+b. Forme aiguë
+Rare, essentiellement en rapport avec une carence en vitamine B1 favorisée par une dénutrition, elle évoque parfois un Guillain-Barré. Elle s’associe souvent à une encéphalopathie de Gayet-Wernicke. Le tableau le plus classique est celui d’une paraparésie douloureuse amyotrophiante, flasque et aréflexique, s’installant en 24 heures. La prise en charge impose la recharge en vitamine B1 parentérale et les mesures d’accompagnement (cf. supra).
+
+3. Neuropathies focales
+Des neuropathies focales sont favorisées par l’amaigrissement source de compressions nerveuses.
+
+F. Myopathies
+1. Myopathie aiguë
+Rare, lors d’une ingestion massive : myalgies, œdème, déficit proximal, rhabdomyolyse, myoglobinurie, CK élevées, risque d’insuffisance rénale (nécrose tubulaire).
+
+2. Myopathie chronique
+Fréquente, asymptomatique ou réduite à une faiblesse proximale : modification du calibre des fibres de type II ; l’EMG montre des tracés myogènes (avec tracés neurogènes souvent associés).
+
+IV. Complications neurologiques indirectes de l’alcoolisme
+A. Myélinolyse centropontine
+Rare, de physiopathologie complexe, associée à la dénutrition, la myélinolyse centropontine est favorisée par l’hyponatrémie et sa correction trop rapide. Elle comporte un trouble de la vigilance avec une tétraplégie et des signes pseudo-bulbaires traduisant la démyélinisation des fibres du centre de la protubérance, bien visible à l’IRM cérébrale (hypersignal T2 et FLAIR), parfois étendue à la substance blanche hémisphérique. Le pronostic est péjoratif. Le traitement est préventif : correction progressive des hyponatrémies profondes.
+
+B. Accidents vasculaires cérébraux
+L’intoxication aiguë peut entraîner un AVC ischémique par thromboembolie d’origine cardiaque (par troubles du rythme liés à une cardiomyopathie alcoolique).
+
+L’intoxication alcoolique chronique est un facteur de risque d’hémorragie cérébrale et/ou méningée. Différents mécanismes sont évoqués : troubles de la coagulation (taux de prothrombine abaissé par insuffisance hépatique, thrombopénie alcoolique, thrombopathie modifiant le temps saignement), HTA.
+
+C. Traumatismes crâniens
+Du fait de chutes (lors d’ivresse aiguë, de crises d’épilepsie), l’alcoolique chronique est particulièrement exposé aux traumatismes crâniens itératifs, responsables de contusions cérébrales hémorragiques, d’hématomes sous-duraux aigus ou chroniques, parfois d’hématome extradural.
+
+D. Neuro-infections
+La dénutrition et la précarité immunitaire exposent le patient alcoolique à des pathologies infectieuses comme la méningite tuberculeuse.
+
+E. Neuropathie au disulfirame
+Le disulfirame est donné pour son effet antabuse (effet de flush, céphalées, nausées, vomissement) lors de la consommation d’alcool dans une démarche de prévention.
+
+Il a une toxicité neurologique, hépatique et dermatologique à dose élevée.
+
+Il peut induire une neuropathie axonale distale sensitive, douloureuse qui ne doit pas être prise pour une récidive d’une neuropathie alcoolique. La neuropathie peut s’associer à une toxicité centrale (somnolence, céphalées).
+
+F. Syndrome alcoolique fœtal
+Les mères alcooliques et dénutries risquent d’accoucher de nourrissons souffrant d’une dysmorphie et d’un retard mental.
+
+Prévention – Désintoxication
+La prévention de ces complications fréquentes, graves et souvent associées entre elles est essentielle. Elle fait appel à la vitaminothérapie systématique de tout patient alcoolique chronique vu en consultation ou en hospitalisation, surtout s’il existe une dénutrition, un amaigrissement.
+
+La désintoxication suppose d’envisager avec le patient sa situation personnelle sociale et professionnelle, de lui donner des informations sur les différentes modalités possibles de prise en charge, d’aide sociale et psychologique, sur les possibilités d’aide pour un sevrage en ambulatoire ou lors d’une hospitalisation.
+
+ 
+POINTS CLÉS :
+
+Les complications neurologiques de l’alcoolisme résultent des effets toxiques directs de l’alcool, des carences vitaminiques, de l’atteinte d’autres fonctions (hépatique, par exemple) et des accidents induits (traumatismes) ().
+Les complications peuvent être en rapport avec l’intoxication aiguë (coma) ainsi que le sevrage (delirium tremens, épilepsie).
+Les complications chroniques sont les encéphalopathies, en particulier carentielles et métaboliques. Elles peuvent avoir pour conséquences des troubles cognitifs sévères (syndrome de Korsakoff).
+Les complications du système nerveux périphérique sont aussi bien carentielles que toxiques sous la forme d’une polyneuropathie sensitivomotrice axonale (forme la plus fréquente).
+Les complications indirectes peuvent être la conséquence de troubles métaboliques (myélinolyse centropontine).
+Leur prévention systématique par supplémentation vitaminique est essentielle.
+Il est nécessaire d’informer le patient quant aux modalités de prise en charge pour un sevrage ambulatoire ou hospitalier.
+
+
+
+
+
+---------> Tableau 1.1 : Complications neurologiques aiguës et chroniques de l’alcoolisation.

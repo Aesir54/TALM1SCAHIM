@@ -1,0 +1,277 @@
+Troubles de la marche et de l’équilibre (sujet âgé)
+
+Objectif pédagogique
+Particularités chez le sujet âgé et argumenter le caractère de gravité des chutes et décrire la prise en charge.
+Chaque année en France, 20 à 30 % des plus de 65 ans et 50 % des plus de 85 ans sont victimes d’une chute au moins.
+
+En institution, une personne âgée sur deux tombe chaque année.
+
+Quinze pour cent des chutes sont responsables de traumatismes osseux notamment de fractures du col fémoral dans un tiers des cas.
+
+Facteurs de risque : grand âge, sexe féminin, origine caucasienne.
+
+Les traumatismes sont responsables d’une mortalité à court terme qui augmente avec l’âge.
+
+L’incapacité pour la personne âgée de se relever est de mauvais pronostic. Un séjour par terre de plus d’une heure est un facteur de gravité avec risque de décès de 50 % dans les 12 mois suivants.
+
+On peut envisager un triplement du nombre des fractures de hanche d’ici 2030.
+
+I. Connaissances requises
+A. Principaux troubles de marche et de l’équilibre
+Ils sont fréquents chez les personnes âgées.
+
+Le lecteur pourra également se reporter au chapitre 19 (Item 107 – Troubles de la marche et de l’équilibre).
+
+1. Troubles de la marche et de l’équilibre d’origine neurologique
+a. Démarche déficitaire
+En lien avec un déficit moteur consécutif à une atteinte du système pyramidal, du nerf périphérique ou du muscle.
+
+b. Démarche ataxique
+Elle peut correspondre à une ataxie sensitive, vestibulaire ou cérébelleuse.
+
+c. Marche du parkinsonien
+C’est la classique marche à petits pas qui fait place à un état plus sévère : l’enrayage cinétique de la marche ou freezing et l’instabilité posturale vont être responsables de chutes aux conséquences graves.
+
+d. Astasie-abasie
+Elle se définit comme l’instabilité à la station debout avec rétropulsion spontanée (astasie) et l’incapacité de marcher en dehors de la présence de tout syndrome pyramidal ou parkinsonien (abasie). Ce trouble de la marche est fréquemment observé chez le sujet âgé et peut être rattaché à l’imagerie cérébrale à une lésion frontale ou à une hydrocéphalie ou à un état lacunaire ou, au contraire, être sans cause apparente (astasie-abasie pure).
+
+2. Troubles de la marche et de l’équilibre d’origine douloureuse
+La marche et l’équilibre peuvent être compromis par des douleurs lombaires ou des membres inférieurs. Les causes principales chez la personne âgée sont les suivantes : lombosciatique, canal lombaire étroit arthrosique, arthrose de hanche ou de genou, artériopathie des membres inférieurs, problèmes podologiques, troubles de la statique plantaire.
+
+B. Facteurs favorisants et causes des chutes chez le sujet âgé
+Les facteurs intrinsèques sont liés au vieillissement normal, à la prise de médicaments et à des processus pathologiques divers, notamment cardiovasculaires et neurologiques. Les chutes résultent souvent de l’association de plusieurs de ces facteurs, mais la plupart d’entre elles n’ont pas de cause facilement identifiable.
+Les facteurs extrinsèques sont liés à l’environnement, essentiellement l’habitat. Le cumul de plusieurs causes conduit à franchir le seuil de défaillance provoquant la chute.
+La notion d’un malaise, voire d’une perte de connaissance brève au cours d’une chute, doit être recherchée très soigneusement à l’interrogatoire.
+1. Prise de médicaments
+Les médicaments sont un des facteurs de risque des chutes constamment retrouvé chez les personnes âgées, agissant par divers mécanismes :
+
+effet sédatif : barbituriques, benzodiazépines hypnotiques ou non et anticonvulsivants ;
+syndrome extrapyramidal : neuroleptiques ;
+hypotension orthostatique : antihypertenseurs, dont les bêtabloquants et les diurétiques, L-dopa et agonistes dopaminergiques, antidépresseurs ;
+troubles de conduction et du rythme cardiaque : tous les antiarythmiques, diurétiques hypokaliémiants (torsades de pointes).
+2. Causes cardiovasculaires
+Troubles de conduction auriculoventriculaire, troubles du rythme cardiaque (tachycardies, bradycardies), infarctus du myocarde et syndromes coronariens.
+Modifications tensionnelles : l’hypotension orthostatique peut se manifester chez les personnes âgées au lever après le repas, ou après un alitement prolongé, ou du fait de prises médicamenteuses, d’anémie, de déshydratation.
+Embolie pulmonaire.
+Syncopes d’effort du rétrécissement aortique serré.
+Chute au cours d’une syncope vagale, de cause instrumentale, mictionnelle, surtout la nuit, parfois syncope à glotte fermée (ex. : ictus laryngé après un effort de toux).
+3. Causes neurologiques
+La plupart des affections neurologiques entraînant des troubles de la marche et de l’équilibre, des déficits peuvent être responsables de chutes :
+
+troubles proprioceptifs avec ataxie : il faut souligner la fréquence des neuropathies périphériques chez le sujet âgé ;
+syndrome cérébelleux ;
+troubles de l’équilibre d’origine vestibulaire : syndrome vestibulaire périphérique ou syndrome vestibulaire central ;
+troubles de l’adaptation posturale : tous les syndromes parkinsoniens ; hydrocéphalie à pression normale ; astasie-abasie ;
+accidents vasculaires cérébraux ;
+crises convulsives.
+4. Causes mécaniques
+Chutes au cours d’affection ou séquelle orthopédique ou rhumatologique (notamment l’arthrose et le port de prothèses de hanche et de genou).
+
+5. Autres pathologies
+Hypoglycémies, surtout iatrogènes.
+Troubles ioniques : dyskaliémie, hypercalcémie, hypocalcémie, hyponatrémie.
+Anémie
+Chutes par perte ou par diminution de l’acuité visuelle (rarement isolée, mais facteur précipitant).
+6. Facteurs extrinsèques
+Ce sont les facteurs liés à l’habitat et à l’environnement, responsables de chutes accidentelles :
+
+parquet trop ciré, descente de lit glissante, baignoire ou douche glissante ;
+chaise ou fauteuil trop bas ;
+escalier ou logement mal éclairé ;
+animaux domestiques ;
+problèmes vestimentaires (habillage trop long) et de chaussures ;
+changement d’environnement (hospitalisation, déménagement)….
+C. Syndrome post-chute
+1. Définition
+C’est une urgence gériatrique.
+Il se définit par l’apparition dans les jours suivants une chute chez une personne âgée d’une diminution des activités et de l’autonomie physique, alors que l’examen clinique et le bilan radiologique ne décèlent pas de cause neurologique ou mécanique ou de complication traumatique.
+Il correspond à une véritable sidération des automatismes de l’équilibre et de la marche.
+2. Sémiologie clinique
+Le syndrome post-chute associe :
+
+une composante motrice. Au fauteuil le patient a une tendance à la rétropulsion avec impossibilité de passage en antépulsion. Debout, la marche est talonnante avec élargissement du polygone de sustentation et flexion des genoux ;
+une composante psychologique. Elle se traduit par une anxiété majeure, le patient a peur du vide antérieur. Au maximum il existe une astaso-basophobie ;
+un syndrome de régression psychomotrice peut compliquer le syndrome post-chute avec l’apparition d’une recherche de dépendance (clinophilie, incontinence, demande de couches, aide aux repas) ;
+un syndrome dépressif est à rechercher systématiquement.
+3. Pronostic
+Évolution réversible si le syndrome post-chute est pris en charge précocement.
+En l’absence de prise en charge rapide, spécifique et multidisciplinaire de cette véritable urgence gériatrique, l’évolution se fera vers l’état grabataire irréversible.
+Facteurs pronostiques défavorables (facteurs prédisposants de la chute)
+
+Nombre de chutes antérieures (notamment dans les 3 mois).
+Impossibilité de se relever après la chute.
+Appui unipodal (impossibilité de tenir 5 secondes sur un pied).
+Intérêt du Get-up and go test : mesurer le temps nécessaire pour se lever, marcher 3 mètres, faire demi-tour et s’asseoir de nouveau. Un temps de moins de 10 secondes caractérise les individus indépendants, un temps de plus de 16 secondes multiplie le risque de chutes par 2,7 dans les 5 ans.
+D. Conséquences médicales et psychosociales des chutes du sujet âgé
+1. Conséquences médicales
+Elles sont essentiellement de nature traumatique, avec une mortalité importante. Toutes les études indiquent que le risque fracturaire à la suite d’une chute est très corrélé au déficit de minéralisation osseuse. L’ostéoporose et l’ostéomalacie étant plus fréquentes chez les femmes, le risque de fracture est de ce fait plus élevé chez les femmes que chez les hommes.
+
+Les différentes complications sont les suivantes.
+
+a. Fractures
+Elles compliquent 5 % des chutes :
+
+fracture du col du fémur (20-30 % des fractures) ;
+autres fractures : avant-bras (dont le poignet avec fracture de Pouteau-Colles), bras (extrémité supérieure de l’humérus), cheville, rachis (tassement vertébral), bassin, côtes, crâne.
+b. Traumatismes sans fracture
+Plaies, érosions cutanées, hématomes multiples, rhabdomyolyse. Ils surviennent dans 10 % des chutes et sont lourds de conséquences sur la restriction d’autonomie.
+
+c. Complications liées à l’immobilisation
+Escarres, déshydratation, bronchopneumopathie, confusion.
+
+2. Conséquences psychosociales
+Un sujet âgé qui chute est souvent conduit en urgence en milieu hospitalier pour bilan. L’admission en urgence est source de stress et risque de précipiter le malade vers la perte d’autonomie et le placement.
+À moyen terme, la perte d’autonomie est observée chez près d’un tiers des malades qui n’ont pas eu de fracture. Elle est l’aboutissement des répercussions psychomotrices de la chute, c’est-à-dire le syndrome post-chute, du fait de la peur de chuter, de la perte de mobilité ou de troubles de la marche.
+La chute engendre une diminution du champ d’action, de l’espace social, familial, voire corporel. La crainte d’une récidive conduit souvent à « institutionnaliser » le malade.
+Les conséquences psychologiques peuvent s’installer plus sournoisement chez un vieillard perdant brutalement confiance en lui, se sentant dévalorisé aux yeux de son entourage, qui, croyant bien faire, réagit parfois par un excès de surprotection, installant encore plus la personne âgée dans la dépendance et la restriction d’activité.
+E. Facteurs de risque de récidive des chutes chez le sujet âgé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------> Tableau 22.1  Principales causes de chutes chez le sujet âgé.
+
+
+
+
+
+
+
+
+
+
+
+F. Principales mesures préventives des chutes chez la personne âgée
+Chez toute personne âgée, l’instabilité posturale peut être combattue par les mesures suivantes.
+
+1. Hygiène de vie
+Nutrition équilibrée.
+Supplémentation vitaminocalcique en cas d’ostéoporose.
+Activité physique suffisante et notamment entretien de la force musculaire des membres inférieurs (marche, vélo d’appartement).
+Activité intellectuelle régulière.
+Rompre l’isolement pour une personne vivant seule.
+2. Douleurs
+Traitement des douleurs rhumatismales, opération (prothèse) en cas d’arthrose (hanche ou genou).
+
+3. Vue et audition
+Correction des troubles de la vue (prescription de lunettes adaptées, opération d’une cataracte, détection précoce et traitement d’un glaucome chronique) et de l’audition (appareillage).
+
+4. Troubles de la marche et de l’équilibre
+Identification et traitement de leur cause lorsque cela est possible.
+Évaluation de l’intérêt d’une kinésithérapie d’entretien ou d’une rééducation de la marche et de la posture, de l’utilité d’une canne, d’un déambulateur, voire d’un fauteuil roulant.
+Vérification du port de chaussures confortables assurant une bonne stabilité (semelles épaisses ni trop adhérentes ni trop glissantes et de surface au sol importante, tenue de la cheville).
+Les données de la littérature ne permettent pas de conclure à un intérêt des protecteurs de hanche dans la prévention des fractures du col du fémur, en raison d’une mauvaise acceptabilité du dispositif et d’une mauvaise observance sur le long terme.
+5. Prescriptions médicamenteuses
+Réévaluation régulière des indications des médicaments prescrits, notamment ceux pouvant favoriser les chutes.
+
+6. Habitat
+Suppression de tous les facteurs de chutes (cf. supra, § I.B.6. ), et installation d’une rampe ou d’une barre d’appui dans les toilettes.
+Pour les personnes vivant en institution, lorsque le risque de chute devient très élevé, mettre en balance l’intérêt des méthodes de contention, mais aussi leur effet négatif de réduction d’autonomie.
+II. Objectifs pratiques : conduite à tenir devant une chute chez une personne âgée
+La conduite à tenir comporte plusieurs temps.
+
+A. Interrogatoire
+L’interrogatoire de la personne âgée est difficile du fait du déni fréquent ou, surtout, des troubles de mémoire, d’où l’importance de l’entourage familial et soignant :
+
+recherche des antécédents cardiovasculaires, neurologiques, rhumatologiques et orthopédiques, ophtalmologiques et ORL et de chutes antérieures ;
+inspection des ordonnances de médicaments en cours de prescription (ceux pouvant induire une hypotension orthostatique, un trouble du rythme cardiaque, une hypoglycémie, une anémie, un trouble de vigilance, un syndrome extrapyramidal iatrogène) ;
+description précise de la chute par le malade et par une personne ayant assisté à la chute :
+lieu (le plus souvent la chambre ou la salle de bains ou les toilettes),
+date et heure (jour ou nuit, au lever du lit ou de la chaise, juste après un repas, un effort, une miction),
+notion de malaise lipothymique, de sueurs, de véritable perte de connaissance, voire de crise comitiale (si l’entourage a assisté à la chute : le malade a-t-il convulsé ? y a-t-il eu un épisode confusionnel post-critique ? une perte d’urine ?…),
+s’agit-il au contraire d’une chute sans trouble de conscience transitoire ; dans ce cas, rechercher un facteur déclenchant (accrochage sur la moquette, déséquilibre, dérobement des membres inférieurs…) ;
+évaluation rapide de la gravité de la chute :
+le malade a-t-il pu se relever seul ? (le risque de traumatisme et de fracture est plus grand dans le cas contraire) ;
+combien de temps est-il resté à terre ? (le maintien prolongé à terre expose à la déshydratation, la dénutrition et aux complications) ;
+a-t-il présenté des chutes à répétition ?
+a-t-il des points douloureux ? (bassin, membres inférieurs, région lombaire pouvant faire craindre un traumatisme avec ou sans fracture).
+B. Examen clinique
+1. Examen cardiovasculaire
+Auscultation cardiaque et cervicale et prise du pouls (recherche d’un souffle, d’une arythmie).
+Mesure de la pression artérielle en position couchée et debout (recherche d’une hypotension orthostatique).
+Pouls périphériques.
+2. Recherche d’un traumatisme
+Conséquences traumatiques d’une chute : fracture (notamment du col du fémur), hématome, plaie, traumatisme crânien.
+
+3. Examen neurologique, étude de la marche et de l’équilibre
+Se reporter au chapitre 19 (Item 107 – Troubles de la marche et de l’équilibre).
+
+Examen de la marche : si possible pieds nus sur une dizaine de mètres, avec étude du lever de la chaise et du demi-tour, évaluation de l’autonomie (nécessité ou non d’une canne, d’une aide par une tierce personne…).
+Échelles appropriées : Get-up and go test…
+Examen de l’équilibre : rechercher un élargissement du polygone de sustentation, des oscillations à la station debout les pieds joints les yeux ouverts puis fermés, et à la station monopodale, une déviation des index.
+Étude des réflexes de posture : test de la rétropulsion.
+Reste de l’examen neurologique : amyotrophie des membres inférieurs, aréflexie, troubles trophiques, syndrome extrapyramidal, syndrome cérébelleux.
+4. Examen ostéoarticulaire
+Rechercher plus particulièrement :
+
+une atteinte articulaire de la hanche, des genoux, des chevilles ;
+une claudication douloureuse (médullaire : canal lombaire étroit) ;
+un conflit discoradiculaire ;
+une ostéoporose compliquée de tassements vertébraux ;
+des troubles de la statique vertébrale ou du bassin (camptocormie, scoliose…).
+C. Examens complémentaires
+Ils sont demandés selon l’orientation donnée par l’interrogatoire et l’examen clinique. Leur réalisation n’est pas évidente pour une personne âgée qui n’est pas hospitalisée. Faut-il hospitaliser pour des examens qui risquent de ne pas modifier la conduite à tenir vis-à-vis des chutes des personnes âgées très dépendantes ? Si des examens sont envisagés, leur hiérarchie est la suivante :
+
+examens les plus « rentables » : ECG, examens biologiques de routine (glycémie, ionogramme sanguin, calcémie, numération-formule sanguine, dosage sérique de vitamine D ; dosage des CPK si l’immobilisation au sol a duré plus d’une heure) ;
+imagerie cérébrale (IRM encéphalique) ;
+autres examens possibles selon le contexte : électro-encéphalogramme, électromyogramme, radiographies du rachis, du bassin, des hanches, voire des genoux, IRM rachidienne.
+Au terme de ce bilan clinique et paraclinique, les conséquences traumatiques des chutes seront identifiées et leur cause très souvent élucidée.
+
+Les chutes pourront être classées en :
+
+chute isolée sans cause retrouvée ;
+chutes répétitives pathologiques ;
+chutes associées à une cause directement responsable, avec ou sans perte de connaissance.
+D. Attitude thérapeutique
+Identifier les risques graves
+
+Ostéoporose avérée.
+Prise de médicament anticoagulant.
+Isolement social et familial.
+1. Traitement des conséquences de la chute
+Traitement des fractures, des plaies, prévention antitétanique.
+Lutte contre la douleur, si possible avec des antalgiques non sédatifs.
+Lutte contre l’anxiété et l’agitation en rassurant le patient et dans certains cas avec des anxiolytiques mineurs.
+Correction ou prévention de la déshydratation et de la dénutrition.
+Prévention du syndrome post-chute : reprise de la marche le jour même (en l’absence de fracture ou de cause contre-indiquant celle-ci).
+2. Traitement des causes de la chute lorsqu’elles sont identifiées
+Modification des prescriptions avec si possible suppression (ou diminution de posologie) des médicaments pouvant favoriser les chutes.
+Traitement de la cause de la chute : cardiaque, vasculaire, neurologique, rhumatologique ou autre.
+E. Mesures de maintien d’autonomie et de prévention des récidives des chutes
+Celles-ci sont essentielles :
+
+reprise immédiate des activités d’autonomie élémentaires : prise des repas, habillage, toilette, lever du lit, continence des sphincters ;
+pour les personnes hospitalisées à la suite de la chute : préparer le retour à domicile, lutter contre l’isolement et la dépression souvent associés ;
+soins infirmiers dans les cas nécessaires, voire de pédicure ;
+soins kinésithérapiques précoces et les plus actifs possibles :
+rééducation de l’équilibre et de la posture, si possible pieds nus pour rééduquer la sensibilité profonde, avec travail de la rétropulsion, exercices de lever de chaise, de transferts, de repositionnement du centre de gravité,
+rééducation de la marche avec apprentissage des réactions posturales et réflexes de protection ; si nécessaire, utiliser un déambulateur, une canne tripode, canne canadienne, canne simple,
+automatisation de certains mouvements comme le retournement dans le lit, le relevé du sol (se retourner sur le ventre, se mettre à quatre pattes, puis sur les genoux, et se hisser en se tenant à un meuble fixe en s’aidant avec les membres supérieurs, chaise surtout, ou fauteuil, lit, autre meuble),
+musculation des membres inférieurs,
+plus généralement, réapprendre au patient la prise de conscience de son corps et du mouvement et la confiance dans ses capacités de marche (psychomotricité),
+certains soins kinésithérapiques sont mis en œuvre en cas d’étiologie particulière (ex. : syndrome parkinsonien).
+En cas de récidive de chute : limiter les conséquences traumatiques pour les membres inférieurs par l’utilisation de protections rembourrées dispersant l’énergie du choc (coquilles au niveau des grands trochanters, genouillères).
+
+ 
+
+POINTS CLÉS :
+
+Les chutes chez les personnes âgées sont un problème de santé publique.
+Les causes sont multiples : troubles du rythme et de la conduction cardiaque, hypotension orthostatique, causes iatrogènes, causes rhumatismales, pathologies neurologiques cérébrales (accidents vasculaires, syndromes parkinsoniens, hydrocéphalie, astasie-abasie), médullaires ou périphériques. Les associations ne sont pas rares.
+Certaines chutes sont sans cause évidente autre que le vieillissement normal ou en lien avec l’habitat.
+La conduite à tenir consiste à :
+rechercher une cause identifiable et les possibles complications traumatiques. Les examens les plus rentables sont l’ECG, le ionogramme sanguin, la calcémie et la numération-formule sanguine, le dosage de vitamine D ;
+traiter les causes et les conséquences de la chute (fracture, plaie, déshydratation) ;
+prévenir le syndrome post-chute, la perte d’autonomie et la récidive des chutes en corrigeant les facteurs de risque modifiables, comme l’adaptation du chaussage, l’utilisation d’aides techniques, un programme d’activité physique ou de kinésithérapie, une augmentation des apports de calcium, l’apport de vitamine D, et un traitement anti-ostéoporotique.

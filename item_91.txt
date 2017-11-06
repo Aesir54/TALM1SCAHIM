@@ -1,0 +1,284 @@
+Compression médullaire non traumatique et syndrome de la queue de cheval
+
+Objectifs pédagogiques
+Diagnostiquer une compression médullaire non traumatique et un syndrome de la queue de cheval.
+Identifier les situations d’urgence et planifier leur prise en charge.
+Décrire les principes de prise en charge des déficiences, incapacités et du handicap secondaires à une compression médullaire non traumatique et un syndrome de la queue de cheval.
+Compression médullaire non traumatique
+I. Pour comprendre
+La moelle spinale chemine du trou occipital au bord supérieur de L2 dans un canal ostéoligamentaire inextensible. Elle est plus courte que le canal rachidien, ce qui explique un décalage entre le niveau vertébral et celui du métamère médullaire (ex. : le métamère D12 est en regard de la vertèbre D9).
+
+De la moelle spinale émergent les nerfs spinaux, qui sortent par les trous de conjugaison.
+
+La moelle spinale se termine par le cône terminal au niveau des dernières vertèbres dorsales et de L1 ; les dernières racines spinales (L2 à L5 et les racines sacrées) forment la queue de cheval.
+
+La moelle spinale est entourée d’une pie-mère épaisse, résistante, puis par l’arachnoïde où circulent le LCS et la dure-mère qui réalise un fourreau cylindrique épais. L’espace extradural est graisseux, rempli de vaisseaux, surtout veineux.
+
+La moelle spinale est organisée transversalement en métamère et longitudinalement en fibres longues (fig. 6.1A et B). Elles comportent des fibres sensitives et des fibres motrices :
+
+le faisceau pyramidal moteur, après avoir croisé dans la moelle allongée, descend dans le cordon latéral de la moelle.
+les fibres sensitives se répartissent :
+en voie spinothalamique (ou extralemniscale), qui véhicule la sensibilité thermoalgique : elles croisent à chaque niveau métamérique ; elles cheminent dans le cordon latéral de la moelle du côté opposé ;
+en voie lemniscale, qui véhicule le tact épicritique et la sensibilité profonde située dans le cordon postérieur de la moelle, homolatéral ; elles croiseront plus haut à la partie inférieure de la moelle allongée (bulbe) ;
+De cette organisation anatomo-fonctionnelle, certains éléments cliniques orientent vers une compression médullaire :
+
+un syndrome lésionnel en regard de la compression (douleur radiculaire, déficit radiculaire) ;
+l’existence d’un niveau sensitif correspondant à la limite supérieure de l’atteinte sensitive ;
+un syndrome sous-lésionnel : dysfonctionnement de la moelle sous-jacente privée du contrôle central (déficit sensitif, déficit moteur, signes d’irritation pyramidale, hypertonie pyramidale, troubles sphinctériens) ;
+un syndrome douloureux rachidien.
+Fig. 6.1
+
+A. Coupe longitudinale de la moelle. B. Coupe transversale de la moelle.
+
+II. Conditions générales du diagnostic
+La compression médullaire non traumatique doit être diagnostiquée dès les premiers signes cliniques car elle nécessite une prise en charge urgente.
+
+A. Compression médullaire constituée
+Le diagnostic de compression médullaire non traumatique est posé sur l’existence d’un syndrome lésionnel, d’un syndrome sous-lésionnel associé le plus souvent à des signes rachidiens.
+
+1. Syndrome radiculaire lésionnel
+Il comprend :
+
+des douleurs radiculaires souvent isolées au début ; de topographie constante, signalant le dermatome lésionnel (névralgies cervicobrachiales, algies thoraciques en ceinture), surviennent en éclairs, par salves, impulsives à la toux. Elles peuvent s’estomper dans la journée avec l’activité physique et ne se manifester qu’au repos, surtout la nuit, à heures fixes, pouvant s’atténuer à la déambulation nocturne ;
+un possible déficit radiculaire objectif avec hypoesthésie en bandes dans le territoire douloureux avec abolition, diminution ou inversion d’un réflexe, pouvant aboutir à un déficit moteur dans le même territoire radiculaire avec amyotrophie.Ces symptômes sont au début plus discrets à l’étage thoracique ou abdominal qu’au niveau cervical, où la névralgie cervicobrachiale est plus typique.
+Il permet donc de déterminer le niveau lésionnel et d’orienter les explorations neuroradiologiques.
+
+2. Syndrome sous-lésionnel
+Le syndrome sous-lésionnel associe des troubles moteurs, sensitifs et sphinctériens.
+
+a. Troubles moteurs
+Syndrome pyramidal d’intensité variable :
+
+simple fatigabilité à la marche, difficulté à la course, maladresse en terrain accidenté, cédant à l’arrêt ;
+gêne non douloureuse correspondant à la claudication intermittente de la moelle ;
+progressivement, réduction du périmètre de marche pouvant aboutir à un confinement au fauteuil en raison d’une paraplégie ou d’une tétraplégie spastique.
+b. Troubles sensitifs
+Retardés : picotements, fourmillements, sensations de striction, d’étau, de ruissellement d’eau glacée, de brûlures parfois exacerbées au contact. Signe de Lhermitte possible (décharge électrique le long du rachis et des membres à la flexion du cou).
+
+Impression de marcher sur du coton ou du caoutchouc avec une gêne plus marquée lors de la fermeture des yeux (souffrance cordonale postérieure).
+
+Déficit sensitif pas toujours complet, initialement cordonal postérieur (atteinte de la sensibilité discriminative, de la proprioception) ou spinothalamique (déficit thermoalgique).
+
+Le syndrome de Brown-Séquard, correspondant à une souffrance d’une hémi-moelle, dissociation de sensibilité avec un syndrome cordonal postérieur (atteinte de la sensibilité épicritique et proprioceptive) et un syndrome pyramidal homolatéraux à la lésion, et déficit spinothalamique du côté opposé (atteinte de la sensibilité thermoalgique) (fig. 6.2).
+
+Fig. 6.2
+
+Syndrome de Brown-Séquard (hémisection médullaire).
+
+c. Troubles sphinctériens
+Troubles urinaires (miction impérieuse, dysurie), sexuels ou anorectaux (constipation), très tardifs dans les compressions médullaires sauf si la lésion est située dans le cône terminal.
+Dans les compressions médullaires évoluées, ils sont quasi constants.
+3. Syndrome rachidien
+Douleurs permanentes et fixes, localisées ou plus diffuses à type de tiraillement, de pesanteur ou d’enraidissement rachidien ; elles augmentent à l’effort renforce, mais elles existent aussi au repos et la nuit.
+Peu ou pas sensibles aux antalgiques usuels.
+Raideur segmentaire du rachis très précoce, à rechercher systématiquement.
+Déformation segmentaire (cyphose, scoliose, torticolis) possible avec douleurs spontanées localisées accrues lors de la percussion des épineuses ou à la palpation appuyée de la musculature paravertébrale en regard de la zone lésionnelle.
+B. Formes cliniques particulières
+1. Compression médullaire chez l’enfant
+La sémiologie diffère peu de celle de l’adulte, mais il est plus difficile de mettre en évidence les douleurs rachidiennes ou radiculaires chez les petits enfants.
+
+Classiquement : déformation rachidienne précoce, scoliose, cyphose, port de tête guindé.
+La boiterie ou les troubles sphinctériens évoquent le diagnostic.
+Les compressions médullaires tumorales peuvent s’exprimer par un tableau d’hypertension intracrânienne avec œdème papillaire, hémorragie méningée ou hydrocéphalie.
+2. Compression médullaire selon le niveau
+Compression cervicale haute entre C1 et C4 : syndrome sous-lésionnel avec quadriplégie spastique, syndrome lésionnel : paralysie diaphragmatique, paralysie du sternocléidomastoïdien, du trapèze ou hoquet signant la souffrance phrénique.
+Compression cervicale basse entre C5 et D1 : paraplégie spastique et névralgie cervicobrachiale ; compression entre C8 et D1 : signe de Claude Bernard-Horner homolatéral.
+Compression de la moelle dorsale : paraplégie, douleurs en ceinture thoracique associées à une anesthésie en bande.
+Compression de la moelle lombosacrée : paralysie des quadriceps avec disparition des réflexes ostéotendineux rotuliens, mais réflexes achilléens vifs et signe de Babinski bilatéral + troubles sphinctériens.
+Compression au niveau du cône terminal : troubles moteurs à type de déficit de la flexion de la cuisse sur le bassin, abolition des réflexes cutanés abdominaux inférieurs, abolition du réflexe crémastérien, signe de Babinski ; atteinte sphinctérienne constante et sévère et troubles sensitifs de niveau D12-L1.
+3. Compression médullaire selon l’évolution
+L’évolution est imprévisible, le plus souvent lentement progressive. Une décompensation rapide, en quelques heures, peut survenir lorsque la compression est suffisante pour entraîner une décompensation vasculaire, responsable d’une ischémie médullaire (pronostic fonctionnel sombre).
+
+Il existe un niveau sensitif correspondant au métamère inférieur de la compression.
+
+III. Examens complémentaires
+Une ponction lombaire peut aussi être à l’origine d’une décompensation brutale et doit être proscrite devant un tableau de compression médullaire en l’absence d’IRM.
+
+A. IRM
+L’IRM avec injection de gadolinium est l’examen urgent de première intention (séquences T1, T2, et avec injection de gadolinium).
+
+Étude du cordon médullaire dans les trois plans et observation des structures avoisinantes.
+Détermation du niveau médullaire concerné et de la topographie lésionnelle, épidurale, intradurale extra- ou intramédullaire. En cas de processus compressif épidural, les anomalies squelettiques avoisinantes devront être recherchées.
+Tumeurs intradurales extramédullaires : masses arrondies ovoïdes jouxtant la moelle.
+Lésions intramédullaires : élargissement du cordon médullaire (lésion médullaire dont l’aspect dépendant de l’étiologie).
+L’IRM précise la cartographie du processus tumoral : hauteur, dimension, rapports avec les structures avoisinantes. La nature pleine ou kystique oriente l’étiologie. Si rehaussement par injection de gadolinium, une origine inflammatoire est évoquée.
+
+Elle permet également de juger du degré de rétrécissement pour évaluer le risque potentiel de souffrance médullaire suraiguë redoutée dans des compressions médullaires lentes.
+
+B. Autres examens (seulement en complément de l’IRM)
+1. Radiographies rachidiennes simples
+Elles révèlent des modifications osseuses : érosion d’un pédicule, élargissement d’un trou de conjugaison, élargissement du diamètre transversal ou antéropostérieur du canal rachidien, aspect lytique ou condensant vertébral aboutissant à une vertèbre ivoire ou à un tassement.
+Ces signes osseux sont souvent tardifs.
+2. Myéloscanner
+Coupes de scanner rachidien après injection intradurale de produit de contraste permettant de visualiser les rapports de la moelle avec les structures adjacentes dont le rachis.
+Réalisé en cas de contre-indication à l’IRM.
+3. Potentiels évoqués somesthésiques et moteurs
+Ils apprécient l’état fonctionnel des voies lemniscales et pyramidales, mais ne constituent pas un instrument diagnostique de première intention.
+
+IV. Étiologie
+A. Causes extradurales
+Elles sont dominées par les métastases néoplasiques vertébrales compliquées d’une épidurite métastatique (fig. 6.3).
+
+Cancers primitifs les plus fréquents retrouvés : poumon, sein, prostate, rein.
+Envahissement néoplasique vertébroépidural fréquemment rencontré au cours d’hémopathies malignes : lymphomes non hodgkiniens, leucémies aiguës, myélomes.
+Les tumeurs vertébrales bénignes (hémangiome, chondrome) ou primitivement malignes (sarcome) sont rares.
+Myélopathie cervicarthrosique : compression médullaire lente cervicale.
+Patients de plus de 40 ans aux antécédents de névralgies cervicobrachiales, de torticolis, de traumatismes rachidiens cervicaux.
+
+Syndrome sous-lésionnel : syndrome pyramidal spastique progressif avec troubles sensitifs subjectifs (signe de Lhermitte).
+
+Syndrome lésionnel : signes sensitifs et moteurs avec aréflexie, amyotrophie sur un ou sur les deux membres supérieurs. L’IRM confirme la cervicarthrose avec étroitesse du canal cervical et arthrose préférentiellement sur la partie inférieure du rachis cervical (fig. 6.4), hypersignal T2 intramédullaire fréquemment observé.
+
+Hernie discale, préférentiellement au niveau dorsal ; elle peut être une étiologie de compression médullaire extradurale (fig. 6.5).
+
+Spondylodiscites et épidurites infectieuses, à l’origine d’une compression médullaire extradurale (si bacille de Koch = mal de Pott) (fig. 6.6).
+
+Hématome épidural lors d’un traitement avec anticoagulants ou après une ponction lombaire pouvant entraîner une compression médullaire.
+
+Fig. 6.3
+
+Métastase vertébrale avec épidurite.
+Lésion osseuse développée au niveau du corps de T4, massivement étendue aux pédicules et à l’arc postérieur à gauche (coupe axiale), en hyposignal T1, en hypersignal T2, fortement rehaussée après injection de gadolinium. Extension intracanalaire épidurale avec compression et engainement médullaires. Les espaces liquidiens périmédullaires sont totalement effacés en regard de la compression. À noter, le respect des disques intervertébraux sus- et sous-jacents.
+A. T1 sagittal. B. T2 sagittal. C. T1 sagittal après injection. D. T1 axial après injection.
+
+Fig. 6.4
+
+Myélopathie cervicarthrosique. Sténose du canal cervical en C4-C4 et en C4-C5, d’origine dégénérative avec éperons osseux antérieur et postérieur en C3-C4 en hyposignal (grande flèche).
+Les espaces liquidiens périmédullaires sont effacés sur deux étages et la moelle est laminée. Il existe un hypersignal intramédullaire en regard de l’interligne C3-C4 témoignant d’une souffrance ischémique liée à la compression chronique de la moelle (petite flèche).
+A. T2 sagittal. B. T2 axial.
+
+Fig. 6.5
+
+Compression médullaire due à une hernie discale exclue en C5-C6.
+Les espaces liquidiens périmédullaires sont laminés. Compression médullaire avec hypersignal intramédullaire en regard témoignant d’une souffrance, en absence d’anomalie osseuse associée.
+A. Sagittal T1. B. Sagittal T2.
+
+Fig. 6.6
+Compression de la queue de cheval liée à une spondylodiscite infectieuse (ici à staphylocoques).
+Hyposignal T1-hypersignal T2 des plateaux vertébraux en L4 et L5, en miroir, prenant le contraste après injection, avec spondylodiscite du disque et collection centimétrique intradiscale, atteignant l’espace épidural antérieur (épidurite comprimant la queue de cheval en regard). Intégrité des autres corps vertébraux (angiome vertébral bénin en L2).
+A. Sagittal T2. B. et C. Sagittal T1 sans puis avec injection de gadolinium FAT-SAT.
+
+B. Causes intradurales extramédullaires
+Elles sont dominées par les tumeurs bénignes.
+
+Méningiomes : femmes de plus de 50 ans avec compression médullaire lente typique s’exprimant par des troubles de la marche progressifs associés à un modeste syndrome lésionnel radiculaire.
+Localisation tumorale thoracique dans les deux tiers des cas.
+L’IRM confirme la localisation intradurale extramédullaire habituellement postérieure avec une lésion à limite nette, de taille ovoïde, allongée selon le grand axe rachidien. L’implantation tumorale se fait sur la dure-mère.
+Neurinomes : concernent autant les hommes que les femmes de tout âge, localisation cervicale (1 cas sur 2), thoracique (1 cas sur 4) et lombaire (1 cas sur 4).
+Compression médullaire lente, mais avec un syndrome radiculaire marqué et des douleurs.
+
+Radiographies rachidiennes : élargissement du trou de conjugaison.
+
+IRM : tumeur située sur une racine spinale, le plus souvent dorsale. Le neurinome apparaît en hypersignal en T2 (aspect d’un sablier) (fig. 6.7).
+
+Ils peuvent survenir dans le cadre d’une neurofibromatose de Recklinghausen, surtout s’il existe plusieurs neurinomes, des signes cutanés (taches café-au-lait), des antécédents familiaux.
+
+Arachnoïdites : réaction inflammatoire des leptoméninges engainant la moelle spinale (suites de méningite ou maladies inflammatoires : sarcoïdose).
+Fig. 6.7
+
+Neurinome en sablier thoracique T5-T6 gauche.
+Lésion extramédullaire extradurale, bien limitée, en forme de « sablier », développée dans le foramen intervertébral T5-T6 gauche et étendue en dehors dans les espaces paravertébraux et en dedans dans le canal rachidien avec léger effet de masse sur la moelle. Le foramen est très élargi, témoignant du développement lent de la lésion. La lésion est en hyposignal T1, en hypersignal T2 et est rehaussée de manière homogène après injection.
+A. T1 axial. B. T1 axial après injection. C. T1 frontal après injection. D. T1 sagittal après injection.
+
+C. Causes intramédullaires
+Elles sont dominées par les tumeurs qui, dans les 2/3 des cas, sont soit des épendymomes, soit des astrocytomes (fig. 6.8). IRM : élargissement de la moelle avec effacement des espaces liquidiens périmédullaires, tumeur qui peut comporter une note charnue en hypersignal en T2 plus ou moins associée à des formations kystiques.
+
+Malformations vasculaires (cavernome, angiome, fistule artérioveineuse durale périmédullaire) : compression médullaire lente, ou hyperpression veineuse (fistule) (fig. 6.9), avec un risque hémorragique et ischémique potentiel. L’IRM, et parfois l’artériographie médullaire (fistule, angiome), visualisent la malformation vasculaire, en établissent le type précis et orientent ainsi la stratégie thérapeutique.
+
+Syringomyélie = cavité intramédullaire (fig. 6.10).
+
+Douleurs (névralgie cervicobrachiale, épaule, bras à type d’étau ou de brûlures), syndrome suspendu au niveau des membres supérieurs le plus souvent avec déficit moteur, amyotrophie, aréflexie, hypoesthésie dissociée (purement thermoalgique) suspendue, scoliose dans un tiers des cas (fig. 6.11).
+
+L’IRM met en évidence la cavité centromédullaire pouvant remonter jusqu’à la moelle allongée (bulbe).
+
+Il peut s’y associer une malformation d’Arnold-Chiari (les amygdales cérébelleuses s’engagent dans le trou occipital) ou un aspect d’arachnoïdite séquellaire d’infection ou d’hémorragie méningée. Les cavités syringomyéliques peuvent survenir également dans les suites d’un traumatisme.
+
+Fig. 6.8
+
+Astrocytome de la moelle.
+Volumineux processus expansif du cône terminal étendu de T8 à L1, en hyposignal T1 et T2, avec quelques prises de contraste nodulaires au sein de la lésion après injection. Pas de prise de contraste radiculaire et intégrité des corps vertébraux.
+A. Sagittal T2. B. et C. Sagittal T1 sans puis après injection de gadolinium.
+
+Fig. 6.9
+
+Fistule durale médullaire.
+Patient présentant un déficit des membres inférieurs avec des troubles sphinctériens d’apparition progressive.
+Coupe sagittale T2. Aspect de fistule durale avec un hypersignal T2 suspendu intramédullaire objectivant la souffrance médullaire chronique et le lacis vasculaire périlésionnel évoquant le drainage veineux périmédullaire.
+
+Fig. 6.11
+
+Syringomyélie.
+
+Fig. 6.10
+
+Syringomyélie.
+Hypoesthésie « en cape » révélée par des blessures indolores à répétition.
+Cavitation filiforme intramédullaire, étendue de C6 à L1 dont le volume apparaît plus important en dorsal bas (avec quelques haustrations au niveau dorsal). La formation kystique apparaît centrée sur le canal épendymaire. Le cône médullaire est en place. Pas d’anomalie discovertébrale notable.
+A. Sagittal T2. B. Axial T2.
+
+V. Diagnostic différentiel
+Tout tableau clinique compatible avec une souffrance médullaire nécessite une IRM pour détecter une compression médullaire lente curable dans un délai rapide car le patient reste en permanence exposé à un risque d’accident médullaire aigu même sur un processus d’évolution lente. Des diagnostics trompeurs peuvent simuler la compression médullaire.
+Devant l’installation subaiguë d’une paraparésie ou une paralysie flasque avec aréflexie ostéotendineuse des membres associée à des troubles sensitifs mais sans trouble sphinctérien, une polyradiculonévrite aiguë peut être évoquée.
+L’apparition d’une paraparésie spastique progressive avec d’autres signes de souffrance médullaire associés peut être le premier signe d’une sclérose en plaques, surtout de forme chronique progressive d’emblée, qui nécessitera la réalisation, en plus de l’IRM médullaire, d’une IRM encéphalique et d’une ponction lombaire.
+La sclérose latérale amyotrophique peut simuler une compression médullaire, mais les signes sensitifs et sphinctériens sont absents. Il existe de plus des fasciculations et une amyotrophie.
+La sclérose combinée de la moelle s’observe au cours de la maladie de Biermer. Le diagnostic est biologique : macrocytose et déficit en vitamine B12.
+VI. Principes du traitement
+La compression médullaire constitue toujours une urgence diagnostique (IRM) et thérapeutique car le tableau peut s’aggraver en quelques heures, aboutissant à une paraplégie/tétraplégie complète et définitive. Il peut s’agir d’une urgence neurochirurgicale.
+
+ 
+
+POINTS CLÉS
+
+Urgence diagnostique (IRM) et thérapeutique.
+Reconnaissance rapide des formes débutantes :
+douleurs rachidiennes ;
+et gêne motrice aux membres inférieurs.
+Compression médullaire constituée :
+syndrome lésionnel radiculaire ;
+syndrome sous-lésionnel (moteur, sensitif, sphinctérien) ;
+syndrome rachidien (douleur, raideur).
+Diagnostic positif : IRM.
+Étiologie : extradurale (métastases vertébrales, myélopathie cervicarthrosique, hernie discale), intradurale et extramédullaire (méningiome, neurinome), médullaire (tumeur, malformations vasculaires).
+Diagnostic différentiel : polyradiculonévrite, sclérose en plaques, sclérose latérale amyotrophique, sclérose combinée de la moelle.
+ 
+
+Syndrome de la queue de cheval
+I. Pour comprendre
+Le syndrome de la queue de cheval correspond à la souffrance des racines de la queue de cheval en dessous du cône terminal de la moelle spinale, entre les corps vertébraux de L2 et le sacrum. Il constitue un syndrome neurogène périphérique pluriradiculaire s’exprimant par des signes au niveau des membres inférieurs et du périnée, dominé par l’importance des troubles sphinctériens.
+Il s’agit d’une urgence neurochirurgicale et sa reconnaissance impose une IRM en urgence et une prise en charge neurochirurgicale immédiate. Le pronostic fonctionnel et, surtout, celui des troubles sphinctériens dépend étroitement de la durée et de l’intensité de la compression des racines lombosacrées.
+Le traitement est chirurgical : son objectif est de décomprimer les racines lombosacrées par une laminectomie lombaire avec exérèse de la lésion compressive.
+II. Conditions générales du diagnostic
+Le diagnostic est clinique, correspondant à une atteinte pluriradiculaire lombosacrée.
+
+Troubles sensitifs : douleurs fréquentes à type de radiculalgie (cruralgie, sciatalgie) ou de douleurs pluriradiculaires d’un ou des deux membres inférieurs. Des douleurs sacrées périnéales et génitales sont souvent associées, favorisées par les efforts à glotte fermée (toux, défécation). Des paresthésies ou anesthésies dans les membres inférieurs sont fréquentes, de topographie radiculaire. Une hypoesthésie périnéale, des organes génitaux externes et de l’anus est retrouvée, constituant une anesthésie en selle.
+Troubles moteurs : de topographie monoradiculaire ou pluriradiculaire uni- ou bilatérale, le plus souvent asymétriques. Le déficit moteur peut se résumer à une impossibilité de marcher sur les pointes (atteinte de la racine S1) ou sur les talons (L5) ou à une impossibilité d’étendre la jambe sur la cuisse (L3, L4) ou de fléchir la cuisse sur le bassin (L1, L2). À l’extrême, l’atteinte motrice peut aboutir à une paraplégie flasque avec amyotrophie.
+: l’abolition d’un ou plusieurs réflexes ostéotendineux aux membres inférieurs est habituellement constatée ; les réflexes périnéaux, anaux, bulbocaverneux, clitorido-anaux sont abolis.
+Troubles génitosphinctériens : ils apparaissent précocement : retard à la miction ou nécessité de pousser pour uriner. Les mictions impérieuses sont fréquentes (incontinence possible). Habituellement, ces troubles sphinctériens sont accompagnés d’une insensibilité du passage urinaire. Sur le plan anal, la constipation est plus fréquente que l’incontinence fécale. Sur le plan génital, il existe une impuissance ou une anesthésie vaginale.
+III. Diagnostic positif, étiologie
+Les hernies discales et les épendymomes représentent les causes les plus fréquentes d’un syndrome de la queue de cheval.
+Les hernies discales s’expriment habituellement par un début brutal douloureux, déclenché par un effort faisant suite à des épisodes lombosciatalgiques. L’IRM révèle une hernie exclue, latérale ou médiane, pouvant être associée à des lésions arthrosiques.
+Les épendymomes du filum terminal sont d’évolution plus lente, mais peuvent s’accompagner d’hémorragies méningées brutales s’exprimant par une violente douleur lombaire.
+Les neurinomes, les méningiomes, les métastases, les processus infectieux sont plus rares.
+Le syndrome du canal lombaire étroit peut être congénital ou acquis avec des hernies discales étagées ou arthrose visualisée à l’IRM. Il s’exprime par une claudication radiculaire intermittente douloureuse, progressive à l’effort, cédant à l’arrêt de celui-ci. Il s’y associe des paresthésies et des troubles sphinctériens pouvant aboutir à un syndrome de la queue de cheval. L’électromyogramme mettra en évidence des signes neurogènes dans le territoire de la queue de cheval.
+Dans tous les cas, le syndrome de la queue de cheval constitue une urgence diagnostique et thérapeutique pour éviter un déficit moteur ou des troubles sphinctériens définitifs.
+
+IV. Formes cliniques
+Selon la localisation de la compression, la sémiologie peut être variable.
+Les signes pluriradiculaires peuvent être unilatéraux ou, le plus souvent, bilatéraux mais asymétriques.
+Dans les syndromes de la queue de cheval lombosacrée, il existe une souffrance des racines L5 (sciatique) et des racines sacrées (anesthésie en selle et troubles génitosphinctériens).
+Dans la forme basse, sacrée, il est constaté des douleurs sacrées, une anesthésie en selle et des troubles génitosphinctériens importants sans signe moteur.
+Dans les formes médianes, les racines qui descendent latéralement sont en général préservées. Ainsi, une compression médiane haute au niveau L2-L3 ne peut provoquer qu’une souffrance des racines sacrées.
+V. Diagnostic différentiel
+Il est constitué par l’atteinte du cône terminal de la moelle qui aboutit à une sémiologie assez proche, mais complétée d’un signe de Babinski, d’une abolition des réflexes abdominaux inférieurs et de troubles sensitifs remontant jusqu’à un niveau D12-L1. Les réflexes ostéotendineux ne sont pas abolis.
+Les polyradiculonévrites aiguës ne présentent habituellement pas de troubles sphinctériens.
+Les syndromes plexiques lombaires par envahissement néoplasique sont visualisés par l’imagerie pelvienne.
+ 
+
+POINTS CLÉS :
+
+Le syndrome de la queue de cheval correspond à une souffrance des dernières racines rachidiennes L2-L5 et des racines sacrées formant la queue de cheval en dessous du cône terminal de la moelle. Il constitue donc un syndrome neurogène pluriradiculaire du périnée et des membres inférieurs.
+Urgence diagnostique (IRM) et neurochirurgicale.
+Clinique : troubles sensitifs (membres inférieurs, anesthésie en selle), moteurs (radiculaires, membres inférieurs), ROT abolis, troubles génitosphinctériens (dysurie, incontinence).
+Diagnostic positif : IRM.
+Étiologie : hernie discale, épendymome, canal lombaire étroit.
+Diagnostic différentiel : syndrome cône terminal, polyradiculonévrite.

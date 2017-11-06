@@ -1,0 +1,621 @@
+Évaluation clinique et fonctionnelle d’un handicap cognitif
+
+Ce chapitre s’intègre dans l’item 115 – La personne handicapée : bases de l’évaluation fonctionnelle et thérapeutique.
+
+Objectifs pédagogiques
+Connaître les principes de la législation française vis-à-vis de la compensation du handicap et de l’accessibilité (loi du 11 février 2005), et leurs conséquences sur les pratiques médicales (voir item 54).
+Évaluer au plan clinique et fonctionnel une incapacité ou un handicap d’origine motrice, cognitive, sensorielle, viscérale ou génitosphinctérienne (déficit, limitation d’activité et de participation).
+Analyser les principales situations de handicap par l’examen clinique, les questionnaires, les échelles génériques ou spécifiques, et les principales techniques instrumentales utilisées en pratique courante.
+Acquérir les bases d’évaluation du pronostic et du traitement d’une affection incapacitante sur la base des notions générales de plasticité sous-tendant la récupération fonctionnelle.
+Savoir organiser le retour ou le maintien à domicile d’une personne handicapée. Connaître les principales aides humaines professionnelles pouvant intervenir au domicile de la personne handicapée.
+Analyser les implications du handicap en matière d’orientation professionnelle et son retentissement social.
+Favoriser le maintien au travail : connaître les bases de l’organisation de la formation professionnelle et de maintien à l’emploi des personnes handicapées (Maison départementale des personnes handicapées [MDPH], l’Association de gestion du fonds pour l’insertion professionnelle des personnes handicapées [AGEFIPH], le fonds pour l’insertion professionnelle des personnes handicapées dans la fonction publique [FIPHFP], Pôle emploi).
+Appliqué aux fonctions cognitives, un processus pathologique entraîne une déficience2 (déficit) qui correspond aux symptômes (une aphasie, une apraxie, par exemple). L’évaluation cognitive explore schématiquement des domaines cognitifs distincts (attention, fonctions exécutives, mémoire, langage, praxies, capacités visuospatiales). Elle repose sur l’utilisation d’images, de dessins, de listes de mots et de phrases, de questionnaires globaux ou spécifiques (cf. annexes 21.1 à 21.6). Son interprétation doit tenir compte de divers facteurs, notamment socio-éducatifs, culturels et motivationnels. Elle peut être limitée par la présence de troubles de l’attention, du langage ou du comportement.
+
+Une incapacité traduit la conséquence fonctionnelle dans une situation spécifique (par exemple, lire, conduire, téléphoner, s’habiller).
+
+Le handicap exprime le retentissement dans la vie sociale (perte du statut professionnel, modification des relations familiales, dépendance pour la conduite automobile, etc.).
+
+I. Anamnèse
+Lors de l’évaluation, un temps important est dévolu à l’interrogatoire3 du patient et de son entourage. L’évaluation est menée avec tact, adaptée :
+
+à la situation médicale : épisode aigu, diagnostic initial ou évolution d’une pathologie chronique ;
+à la plainte : une évaluation trop difficile met inutilement le patient en échec ; trop facile, elle sous-estime une difficulté débutante ;
+au contexte social et culturel.
+La première étape est la reconstitution de l’histoire clinique, afin de préciser :
+
+la nature des premiers symptômes ; les modalités d’installation des troubles (brutale ou insidieuse) et leur évolution (rapide ou lente ; progressive, par paliers, ou fluctuante) ;
+l’existence de signes d’accompagnement somatiques, neurologiques et extraneurologiques ;
+l’existence de modifications comportementales ;
+le traitement suivi, les modifications thérapeutiques récentes ;
+les antécédents personnels et familiaux ;
+les limitations fonctionnelles (incapacités/limitations d’activité), sociales et professionnelles (handicap/restriction de participation).
+II. Attention
+A. Définition
+C’est la fonction qui permet la sélection et le maintien d’une information (provenant du milieu externe ou interne) dans le champ de la conscience. Elle peut être altérée par des fluctuations de la vigilance, un ralentissement, une distractibilité, voire une confusion.
+
+Ce terme est générique, regroupant des composantes plus spécifiques étudiées en neuropsychologie comme l’attention soutenue et divisée (flexibilité mentale), la vitesse de traitement.
+
+B. Évaluation
+L’attention s’évalue par des épreuves simples, telles que l’énumération dans l’ordre des mois de l’année, l’épellation orale de mots, le comptage à rebours de 20 à 0, la soustraction de 7 en 7 à partir de 100.
+
+III. Mémoire
+A. Définitions
+1. Mémoire à court terme
+La mémoire à court terme est une mémoire de stockage bref des informations et de capacité limitée (par exemple, retenir un numéro de téléphone avant de le noter).
+La mémoire de travail correspond à la capacité à manipuler les informations maintenues en mémoire à court terme.
+2. Mémoire à long terme
+La mémoire à long terme se divise en deux composantes :
+
+la mémoire procédurale, qui engage des processus inconscients (implicites) ; c’est la mémoire du « savoir-faire » : un exemple est la mémoire des habiletés motrices (faire du vélo, jouer d’un instrument de musique) ; en pratique clinique courante, la mémoire procédurale n’est pas évaluée ;
+la mémoire déclarative, qui engage des processus d’accès conscient (explicites) à l’information et qui comprend :
+la mémoire épisodique se référant à des expériences s’intégrant dans un contexte spatial, temporel et affectif particulier (mémoire du « où ? quand ? comment ? » ; par exemple, un repas d’anniversaire qui a eu lieu avec tels protagonistes, à telle date et à tel endroit) ;
+la mémoire sémantique se référant à des faits, des savoirs (mémoire du « quoi », par exemple, la Manche est un nom de mer, le kangourou est un animal vivant en Australie, etc.) connus de la majorité ou partagés par un groupe culturel (profession, loisirs, religion, etc.). Il s’agit d’une connaissance qui, pour être évoquée, ne nécessite pas de se référer au contexte de son acquisition (« où » et « quand » a été appris le concept « kangourou »).
+3. Amnésie rétrograde et antérograde
+Une amnésie est rétrograde quand elle concerne des informations acquises avant l’événement causal (par exemple, un traumatisme crânien, un AVC) et antérograde quand elle concerne l’acquisition et la restitution d’informations acquises depuis cet événement.
+
+B. Évaluation
+1. Interrogatoire
+L’interrogatoire évalue les plaintes et le retentissement des troubles, ainsi que différents domaines de la mémoire rétrograde, par l’évocation d’informations personnelles datées et localisées (mémoire épisodique) et de connaissances (mémoire sémantique) :
+
+mémoire biographique : chronologie des lieux d’habitation, emplois successifs, histoire familiale (prénoms et noms des apparentés), dates et lieux d’événements importants (mariage, naissances, voyages) ;
+mémoire des événements personnels : visites, déplacements, événements marquants de la semaine ou des mois précédents ;
+mémoire didactique : connaissances générales selon le contexte culturel du sujet (par exemple : quelle est la capitale de l’Italie ? quel est le sens du mot igloo ?) ; connaissances acquises en fonction du métier, des intérêts (par exemple, les noms des outils utilisés par un mécanicien, les ingrédients d’une recette utilisés par une cuisinière) ;
+mémoire chronologique publique : par exemple, la succession des présidents de la République, des maires de la ville, des événements sportifs ou culturels (lieux des Jeux Olympiques, vainqueurs) ;
+mémoire de l’actualité récente (événements relatés dans les médias).
+2. Évaluation de la mémoire antérograde4
+a. Principes généraux
+Schématiquement, la mémorisation à long terme d’une information perçue engage successivement l’encodage, puis le stockage en mémoire, pour pouvoir être ultérieurement évoquée par le rappel ou la reconnaissance.
+Le rappel immédiat permet de s’assurer que l’information a été correctement encodée (par exemple, trois mots « pomme », « bus », « tabouret »).
+Le rappel différé (après quelques minutes) évalue les capacités de stockage et de récupération de l’information.
+Les rappels peuvent être facilités par un indice (par exemple, « un moyen de transport ? ») ou par la reconnaissance, qui consiste à repérer l’information apprise au sein d’une liste à choix multiples (par exemple, « voiture, train, vélo, bus »).
+Un trouble du rappel différé libre qui ne se normalise pas par l’indiçage et/ou la reconnaissance indique que les informations n’ont pas été correctement stockées, ce qui s’observe dans les lésions temporales internes (comprenant l’hippocampe). En revanche, si l’indiçage ou la reconnaissance normalisent les performances, ce sont alors les stratégies de récupération qui sont en cause, ce qui s’observe lors des déficits des processus exécutifs impliquant les structures préfrontales.
+
+b. Évaluation de la mémoire antérograde auditivo-verbale
+Énoncer une liste de mots à voix haute, les faire rappeler immédiatement (encodage) puis après une tâche interférente (par exemple, test des trois mots du Mini Mental State, cf. annexe 21.2).
+
+c. Évaluation de la mémoire antérograde visuelle
+Faire dénommer des images, puis tester le rappel et la reconnaissance.
+Copier trois dessins sans signification, puis tester le rappel et la reconnaissance.
+Présenter une liste de mots sur une entrée visuelle, puis tester les rappels libre et indicé (par exemple, test des cinq mots, cf. annexe 21.3).5
+C. Anatomie
+Les noyaux gris centraux et le cervelet sous-tendent la mémoire procédurale.
+Le cortex préfrontal dorsolatéral sous-tend la mémoire de travail ainsi que les stratégies d’apprentissage et de récupération de la mémoire déclarative (? en situation de test, sa lésion se traduit par un déficit en rappel libre avec amélioration des performances par l’indiçage et/ou la reconnaissance).
+Le circuit de Papez est le principal réseau neural cortico-diencéphalique sous-tendant la mémoire déclarative. Il comprend l’hippocampe qui se projette, via le fornix, sur les corps mamillaires, puis les noyaux antérieurs du thalamus et le cingulum. Les lésions bilatérales du circuit de Papez entraînent une amnésie antérograde par déficit de stockage (? en situation de test, déficit en rappel libre peu/pas amélioré par l’indiçage et/ou la reconnaissance) associée à une amnésie rétrograde variable. Cette amnésie est pure dans les lésions temporales internes (bihippocampiques) et s’accompagne parfois de fabulations et de fausses reconnaissances (syndrome de Korsakoff) dans les localisations diencéphaliques. Une lésion unilatérale de ce circuit cause un déficit mnésique prédominant en modalité verbale ou visuelle, selon sa localisation gauche ou droite.
+D. Causes des amnésies et déficits mnésiques
+1. Causes principales selon la topographie des lésions
+Temporales internes (bihippocampiques) : infectieuses (par exemple, encéphalite herpétique), vasculaires (artères cérébrales postérieures), post-anoxiques, post-intoxication au CO, paranéoplasiques et dysimmunitaires (encéphalite limbique), dégénératives (maladie d’Alzheimer débutante).
+Fornix : tumeurs du troisième ventricule.
+Corps mamillaires et thalamus : lésions cellulaires par carence en vitamine B1 (Korsakoff), vasculaires (uni- ou bithalamiques).
+Cingulaires : tumeurs frontales internes, lésions vasculaires (rupture d’anévrisme de la communicante antérieure).
+Préfrontales dorsolatérales : tumeurs frontales externes, vasculaires (artères cérébrales moyennes), dégénératives (dégénérescence frontotemporale).
+2. Démences
+Les déficits mnésiques sont habituels dans les démences. On distingue :
+
+les démences dégénératives : à tropisme cortical (par exemple, maladie d’Alzheimer, dégénérescence frontotemporale), sous-cortical (par exemple, maladie de Huntington) ou cortico-sous-cortical (par exemple, maladie à corps de Lewy diffus) ;
+les démences non dégénératives : vasculaires, carentielles, métaboliques, endocriniennes, inflammatoires, infectieuses, toxiques.
+3. Amnésies aiguës de brève durée
+a. Ictus amnésique
+Il survient typiquement chez le sujet de plus de 50 ans et se caractérise par une amnésie antérograde (durée de 4 à 8 heures), qui laisse une amnésie lacunaire de l’épisode et une amnésie rétrograde limitée (quelques heures). Les signes sont les suivants : perplexité, questions répétitives, désorientation uniquement temporelle. L’examen somatique est normal, le bilan étiologique négatif, la cause inconnue. L’existence d’un autre signe exclut le diagnostic d’ictus amnésique et fait rechercher d’autres causes.
+
+Pendant l’ictus, des études en TEP-scan au 18-FDG ont montré des hypométabolismes temporaux internes. Des circonstances favorisantes sont souvent retrouvées (émotion, exposition au froid, rapport sexuel, manœuvre de Valsalva, etc.).
+
+b. Autres causes d’amnésies aiguës
+Il peut s’agir d’un traumatisme crânien avec perte de connaissance, d’une crise épileptique, d’une prise de psychotropes (par exemple, benzodiazépines), d’une intoxication aiguë (par exemple, éthylique).
+
+4. Causes iatrogènes
+Les traitements, psychotropes ou non, qui retentissent sur l’attention directement ou indirectement (par exemple, effet métabolique, hyponatrémie), altèrent l’efficience mnésique : rôle des coprescriptions, nécessité d’un ajustement individuel et à l’âge, références médicales opposables (RMO) sur prescriptions des anxiolytiques et des hypnotiques.
+
+5. Troubles du sommeil
+Une diminution de sa durée et de sa qualité oriente vers des causes psychologiques ou organiques (par exemple, syndrome d’apnées du sommeil).
+
+6. Amnésies psychogènes
+Une plainte mnésique associée à des tests normaux (ou faiblement perturbés) est fréquemment observée en cas d’anxiété et de dépression – toutefois, dépression et anxiété coexistent parfois avec une démence débutante et les difficultés mnésiques peuvent résulter de leur association.
+
+Un événement source de traumatisme psychique et/ou physique (par exemple, agression) peut être associé à une amnésie rétrograde spécifique, lacunaire, parfois massive avec amnésie d’identité.
+
+IV. Langage
+A. Définitions
+Les aphasies sont des troubles acquis du langage secondaires à des lésions cérébrales :
+
+en prenant comme exemple « tabouret » [tabure], les erreurs ou paraphasies du langage oral sont qualifiées de phonémiques quand le phonème attendu est substitué, omis, déplacé ou répété ([tature] [rature]), de sémantiques quand existe un lien de sens (par exemple, « chaise » ou « fauteuil »). En l’absence de proximité phonémique ou sémantique identifiable, la production sera qualifiée de paraphasie verbale s’il s’agit d’un mot de la langue [tarte] ou de néologisme dans le cas contraire [puirte] ;
+dans la modalité écrite, les erreurs sont qualifiées de paragraphies ;
+circonlocutions ou périphrases sont parfois utilisées par le patient pour pallier le manque du mot ;
+le trouble de la syntaxe peut être un agrammatisme, avec une omission des mots grammaticaux et une simplification des phrases (« une mère, un enfant, de l’eau, inondation »), ou une dysyntaxie, avec un usage incorrect des mots grammaticaux : accord, genre, nombre (« il y aurait de l’eau, mais l’enfant vont tomber dans la cuisine »).
+Les autres éléments sémiologiques d’un trouble de la communication verbale sont :
+
+la perte de cohérence ou trouble de la conduite du discours (par exemple, en cas de confusion mentale ou de certains propos psychotiques), qui ne concerne pas le code linguistique mais l’organisation de la pensée ;
+les dysarthries, qui sont des troubles de la parole par atteinte des organes buccophonatoires ou de leur contrôle (atteinte pyramidale, extrapyramidale, cérébelleuse, des nerfs périphériques ou des muscles) ;
+le trouble de la prosodie (par exemple, timbre de voix monocorde), qui concerne l’intonation dans ses fonctions linguistiques (par exemple, pour marquer une phrase interrogative) ou émotionnelles (tristesse, colère, etc.).
+B. Évaluation
+1. Examen
+L’entretien évalue le débit de l’expression spontanée, indépendamment du contenu. Ce débit est qualifié de non fluent (diminué) ou de fluent (normal, augmenté, voire logorrhéique). La dénomination d’images sert à quantifier le manque du mot6. Les troubles de la syntaxe peuvent être précisés par la description d’une image mettant en scène des personnages ou la construction d’une phrase à partir de deux ou trois mots (par exemple, « enfant »/« boulangère »/« croissant »). La compréhension des mots est explorée par la désignation d’une image parmi plusieurs appartenant ou non à une même catégorie (par exemple, « Montrez le fauteuil parmi des images de meubles »). La compréhension de phrases élémentaires peut s’évaluer par l’exécution d’ordres (par exemple, « Avec la main gauche, touchez l’épaule droite, puis le nez »), et de phrases complexes par la désignation d’une image d’action parmi plusieurs (par exemple, « Montrez l’image où le garçon est tiré par le chien »). La répétition utilise des mots puis des phrases de longueur croissante (« lit », « autobus », « déménagement », « l’argument de l’avocat l’a convaincu ») pour révéler des troubles de la boucle audio-phonatoire et des paraphasies phonémiques. L’exploration du langage écrit consiste à faire lire, écrire et épeler des mots réguliers (par exemple, café, table), irréguliers (par exemple, baptême, examen, oignon) et des non-mots (ou logatomes, qui ne peuvent être lus/écrits que par une application des règles de transcription graphème/phonème : churin, sorpichon, par exemple).
+
+2. Syndromes
+Ce sont principalement les aphasies de Broca, de Wernicke, de conduction, globale, transcorticale motrice, transcorticale sensorielle (tableau 21.1, annexe 21.4).
+
+
+
+
+
+
+
+------------------------------> Tableau 21.1  Aphasies : classification des principaux syndromes.
+
+
+
+
+
+
+
+
+Classification établie à la suite de l’étude de patients ayant essentiellement présenté des AVC gauches. Certains déficits sont parfois difficiles à caractériser selon cette classification, notamment quand la cause est de nature dégénérative ou tumorale.ACA : artère cérébrale antérieure ; ACM : artère cérébrale moyenne ; ACP : artère cérébrale postérieure ; F3 : 3e circonvolution frontale ; T1 : gyrus temporal supérieur.
+
+Les autres syndromes concernés sont : l’alexie sans agraphie (en général après un AVC du territoire de l’artère cérébrale postérieure gauche) ; l’anarthrie pure7, qui résulte d’un trouble de la programmation et de la réalisation des mouvements articulatoires (sa cause est l’atteinte isolée de l’aire de Broca ou de la substance blanche sous-jacente) ; les aphasies sous-corticales (les aires corticales sont associées aux noyaux gris centraux et au thalamus par différentes boucles cortico-sous-corticales ; des lésions profondes touchant le thalamus, le putamen, le striatum ou la substance blanche sont susceptibles d’entraîner des aphasies qui, en fonction du siège lésionnel, empruntent une sémiologie proche, associée parfois à une hypophonie et un trouble du discours).
+
+Le syndrome de Gerstmann est défini par l’association d’une agraphie (en lien avec un trouble de l’épellation), d’une acalculie, d’une indistinction entre la droite et la gauche et d’une agnosie digitale (incapacité du patient à dénommer et/ou désigner ses doigts et/ou ceux de l’examinateur). La mise en évidence de ces symptômes oriente vers une lésion pariétale inférieure gauche.
+
+3. Évaluation des déficiences et du handicap
+Elle porte sur l’intelligibilité, le contenu du langage, la compréhension. Les déficits permettent-ils de téléphoner, faire des courses, remplir les documents administratifs ? L’évaluation considère les différences entre consultation et situations réelles (bruits, interlocuteurs multiples, etc.), les conséquences psychologiques (dépression), familiales (par exemple, éducation des enfants), sur les activités de loisirs (lecture) et le statut professionnel. Les objectifs de la rééducation orthophoniques peuvent ainsi être définis.
+
+C. Anatomie fonctionnelle
+Concernant les aires et circuits du langage (tableau 21.1, annexe 21.4), une conception schématique fait débuter le circuit du langage par l’aire de Wernicke qui a pour fonction un décodage phonologique du message acoustique traité par le gyrus de Heschl. Le traitement sémantique de l’information est assuré par les régions temporales antérieures. Lors de la production, le transfert des informations acoustiques est pris en charge par un faisceau de fibres associatives longitudinales (le faisceau arqué). La programmation phonologique est assurée par l’aire de Broca, qui adresse ensuite des informations au cortex moteur primaire (pied de la frontale ascendante) codant les programmes moteurs nécessaires à la réalisation des mouvements buccophonatoires (réalisation phonétique). Le thalamus et les noyaux gris centraux participent à ces différentes étapes de contrôle et de programmation par des boucles les reliant aux aires corticales du langage. L’initiation du langage et son adaptation au contexte nécessitent l’intégrité du cortex préfrontal, notamment du cortex cingulaire et de l’aire motrice supplémentaire.
+
+D. Causes
+On peut citer les lésions vasculaires, tumorales, traumatiques, infectieuses ou dégénératives des aires du langage.
+
+Un trouble du langage progressif peut être la manifestation initiale d’une pathologie neurodégénérative (aphasie progressive primaire). Trois formes principales s’individualisent : les formes non fluentes/agrammatiques et fluentes (ou démence sémantique) sont révélatrices d’une dégénérescence frontotemporale, et les formes « logopéniques » correspondent le plus souvent à une maladie d’Alzheimer.
+
+V. Praxies
+A. Définition
+Les apraxies sont les perturbations des gestes non expliquées par une atteinte motrice, sensitive ou intellectuelle.
+
+B. Évaluation
+L’interrogatoire peut être évocateur : lenteur, erreurs dans l’utilisation d’ustensiles nouveaux (ménagers, outils de bricolage) ou requérant des séquences complexes (par exemple, machine à laver, préparation d’un plat) ; difficultés pour se vêtir, se chausser, se laver, se raser. Dans les pathologies chroniques, ces difficultés praxiques entraînant une diminution, voire un abandon des activités, sont parfois méconnues de l’entourage qui les interprète comme un moindre intérêt, voire des signes de dépression.
+L’examen consiste en l’imitation de gestes sans signification uni- ou bimanuels (mains croisées par les pouces, les auriculaires, anneaux), la réalisation de séquences motrices digitales ou palmaires (paume/poing/tranche), la réalisation de pantomimes unimanuelles (par exemple, se brosser les dents, se peigner) ou bimanuelles (tordre une serviette humide, enfoncer un clou), de gestes symboliques (par exemple, signifier que ça sent mauvais, que quelque chose vaut cher, que quelqu’un est ennuyeux), l’utilisation réelle d’objets (couverts, mettre une lettre dans une enveloppe, une ampoule dans une douille), la production de gestes engageant la musculature buccofaciale élémentaires (siffler, claquer la langue sur le palais) puis séquentiels (siffler puis envoyer un baiser) (apraxie buccofaciale), ou tels que mettre et boutonner une veste (apraxie de l’habillage).
+C. Anatomie
+L’apraxie idéomotrice concerne les gestes sans objet (pantomimes, symboliques) et signe une lésion pariétale gauche.
+L’apraxie idéatoire concerne la manipulation des objets et témoigne d’une lésion du carrefour temporopariétal gauche.
+L’apraxie dynamique (ou motrice efférente), trouble de la programmation de séquences gestuelles, traduit une lésion préfrontale.
+L’apraxie de l’habillage oriente vers une lésion pariétale, uni- ou bilatérale.
+D. Causes
+Elles peuvent être vasculaires, traumatiques, tumorales, infectieuses ou dégénératives.
+
+VI. Fonctions visuospatiales et visuomotrices
+A. Apraxie constructive
+L’apraxie constructive ne relève pas à proprement parler d’un trouble du geste mais d’un trouble de la relation du geste à l’espace. Elle est évaluée par la copie d’une figure géométrique (pentagones, cube8, horloge, figure de Rey, cf. annexe 21.6) et témoigne d’une lésion préfrontale (programmation) ou pariétale.
+
+B. Perte de l’orientation topographique
+Elle définit l’incapacité à reconnaître l’environnement et à s’y orienter. Plusieurs stratégies cognitives sont utilisées pour naviguer dans l’environnement. Les troubles de l’orientation topographique peuvent ainsi résulter de mécanismes divers, comme d’un trouble de l’analyse visuelle de l’espace, de la reconnaissance des repères saillants de l’environnement (agnosie topographique : par exemple, places, monuments) ou de la perte de la mémoire des trajets.
+
+1. Évaluation
+a. Interrogatoire
+Il recherche une désorientation dans les lieux nouveaux et dans les lieux familiers (ville, quartier, propre logement).
+
+b. Examen
+Il demande de décrire verbalement ou de réaliser le plan du logement ou d’un lieu connu, d’effectuer un trajet avec l’examinateur et de le reproduire, de reconnaître des images de monuments célèbres.
+
+2. Anatomie
+L’orientation spatiale repose sur un réseau anatomique complexe latéralisé à droite, qui inclut les régions pariétales, temporobasales (gyrus parahippocampique) et hippocampiques. Un trouble de l’analyse visuelle de l’espace indique une dysfonction pariétale, de la reconnaissance des lieux une dysfonction du gyrus parahippocampique, alors qu’une perte de la mémoire des trajets est liée à une dysfonction hippocampique.
+
+C. Négligence unilatérale
+Synonymes : hémi-inattention, héminégligence, agnosie spatiale unilatérale.
+
+C’est l’incapacité de rendre compte de, de répondre à ou de s’orienter vers les stimuli controlatéraux à une lésion non expliquée par un déficit sensoriel ou moteur. Il concerne le plus souvent l’hémi-espace gauche (corporel et/ou extracorporel), en relation avec une lésion hémisphérique droite.
+
+Le syndrome d’Anton-Babinski est caractérisé par la présence d’une héminégligence gauche, d’une hémi-asomatognosie (impression de non-appartenance de l’hémicorps gauche) et d’une anosognosie de l’hémiplégie.
+
+1. Évaluation
+Savoir qu’une dissociation est possible entre les tests et la vie quotidienne.
+
+a. Interrogatoire
+Il recherche les défauts d’exploration du côté gauche du corps (par exemple, toilette, rasage, habillage) et de l’espace extracorporel gauche (aliments, objets, interlocuteurs, heurts lors des déplacements).
+
+b. Examen
+Il comporte : dessin spontané et sur copie (par exemple, horloge, marguerite), bissection de lignes, repérage de symboles distribués sur une page (épreuves de barrage), dénomination d’images (omission de la partie gauche de l’item), lecture et dictée de phrases et de mots (omission de la partie gauche de la feuille et/ou de la partie gauche des mots), évocation de lieux connus (omission de la partie gauche de l’espace), recherche d’une extinction visuelle ou tactile (le patient lors de la stimulation bilatérale ne perçoit pas le stimulus du côté gauche, alors qu’il est perçu correctement lors de la stimulation unilatérale).
+
+2. Anatomie
+Les régions anatomiques concernées par l’héminégligence sont le lobule pariétal inférieur et le cortex temporal supéro-externe (gyrus temporal supérieur) de l’hémisphère droit ; plus rarement, le cortex préfrontal dorsolatéral, le thalamus et le noyau caudé.
+
+La mise en évidence d’un syndrome d’Anton-Babinski signe généralement une lésion massive frontopariétale droite.
+
+D. Syndrome de Balint
+1. Définition
+Le syndrome de Balint constitue la manifestation la plus complète et sévère des troubles visuospatiaux et visuomoteurs. Il est caractérisé par l’association :
+
+d’une ataxie optique, qui désigne l’incapacité à atteindre une cible sous contrôle visuel (par exemple, préhension d’un objet), en l’absence de tout autre déficit du contrôle moteur ;
+d’une apraxie oculaire, ou « paralysie psychique du regard », qui désigne l’incapacité à orienter volontairement son regard vers un stimulus situé dans son champ visuel périphérique ;
+d’une simultagnosie, qui désigne l’incapacité visuoperceptive à interpréter une scène dans sa globalité. Des tests simples de débrouillage utilisent fréquemment des épreuves de dénombrement d’items, de description de scènes complexes.
+2. Anatomie
+Le syndrome de Balint fait généralement suite à des lésions bilatérales occipitopariétales postérieures (ces lésions surviennent notamment au cours d’infarctus jonctionnels postérieurs).
+
+E. Causes
+Elles peuvent être vasculaires, traumatiques, tumorales, infectieuses et dégénératives.
+
+VII. Gnosies
+A. Définition
+L’agnosie est un trouble de la reconnaissance dans une modalité sensorielle (par exemple, visuelle, tactile) en l’absence de trouble perceptif élémentaire, d’aphasie et non expliquée par un déficit intellectuel. La prosopagnosie est l’incapacité à identifier visuellement le visage des personnages connus ou familiers. L’agnosie topographique est un trouble de la reconnaissance des lieux (cf. supra).
+
+B. Examen
+Il consiste à s’assurer de l’absence de trouble perceptif élémentaire, puis à dénommer et identifier des stimuli présentés dans différentes modalités (tactile, visuelle).
+
+C. Anatomie
+La prosopagnosie témoigne d’une atteinte temporobasale bilatérale ou unilatérale droite (gyrus fusiforme). L’agnosie topographique témoigne également d’une atteinte temporobasale bilatérale ou unilatérale droite (gyrus parahippocampique). Les agnosies visuelles d’objet sont généralement en lien avec une atteinte temporo-occipitale bilatérale.
+
+VIII. Fonctions exécutives cognitives et comportementales
+A. Définition
+Le terme de fonction exécutive recouvre l’ensemble des processus de contrôle qui permettent l’adéquation à son environnement et l’adaptation à des situations nouvelles : formulation d’un but, d’une hypothèse, anticipation, planification et sélection des séquences permettant d’atteindre ce but, inhibition d’autres solutions possibles, surveillance du déroulement de ce plan et flexibilité en fonction des réponses obtenues (adaptation, correction des erreurs). Elles dépendent du cortex préfrontal.
+
+Les lobes frontaux représentent un tiers de l’ensemble du cortex. Les trois composantes anatomo-fonctionnelles en sont le cortex moteur primaire, le cortex prémoteur et le cortex préfrontal.
+
+B. Anatomie du cortex préfrontal
+Le cortex préfrontal a un rôle d’intégration à la fois des comportements et des fonctions cognitives (par exemple, dans la communication verbale ou la mémoire). Les connexions afférentes et efférentes du cortex préfrontal concernent l’ensemble des cortex associatifs rétrorolandiques, le cortex limbique, les noyaux gris centraux et les thalamus. Les dysfonctions observées peuvent résulter de l’atteinte du cortex préfrontal lui-même ou des boucles le reliant aux autres structures. Trois circuits impliquant des régions distinctes du cortex préfrontal sont identifiés, leur lésion entraînant des altérations comportementales ou cognitives évocatrices :
+
+le cortex frontal interne et cingulaire antérieur, dont l’atteinte entraîne une réduction des activités auto-initiées et indifférence affective (tableau « pseudo-dépressif ») ;
+le cortex orbitofrontal, dont l’atteinte entraîne désinhibition, irritabilité, labilité de l’humeur, modifications des conduites alimentaires, comportements d’utilisation et d’imitation (tableau « pseudo-psychopathique ») ;
+le cortex dorsolatéral, dont l’atteinte entraîne des troubles des fonctions exécutives cognitives (et aussi de la mémoire de travail et de la mémoire à long terme).
+Le « syndrome frontal » ne recouvre donc pas une sémiologie univoque, mais des éléments distincts en fonction des structures impliquées. Toutefois, les patients associent fréquemment des symptômes et handicaps résultant d’une combinaison de l’atteinte de ces différents circuits.
+
+C. Évaluation
+1. Interrogatoire
+Les lésions préfrontales ont de nombreuses conséquences sur l’adaptation familiale, sociale et professionnelle du sujet. L’interrogatoire et l’observation lors de l’entretien recherchent9 :
+
+désinhibition, perte des convenances/règles sociales : familiarité excessive (propos/gestes), modification du comportement lors des repas (gloutonnerie), impulsivité, irritabilité, grossièretés ; il y a parfois une discordance entre une connaissance « théorique » préservée des règles sociales (par exemple, exprimer un jugement sur le caractère inapproprié d’un comportement) et le caractère sociopathique du comportement réel ;
+absence d’initiative, adynamie (à ne pas confondre avec un syndrome dépressif, car manquent ici la douleur morale, la tristesse), aspontanéité de la mimique, des gestes et du langage, réalisant au maximum un mutisme akinétique ;
+trouble du comportement alimentaire : modification quantitative (boulimie) ou qualitative (sélectivité alimentaire), ingestion d’entités non comestibles (végétaux, objets) ;
+émoussement des affects, voire indifférence affective, réaction inadéquate (par exemple, lors d’un événement familial heureux ou triste, maladie d’un proche, etc.) ;
+comportement sexuel : indifférence ou désinhibition ;
+comportement d’urination : mictions effectuées dans un lieu inapproprié ;
+réduction de l’hygiène corporelle, de la propreté du logement ;
+vestimentation négligée ou inadaptée : absence d’harmonie, inadéquation avec le contexte social, la température ;
+stéréotypies idéiques et comportementales : instauration de routines, rituels, achats stéréotypés, collectionnisme (par exemple, flacons, prospectus) ;
+perte de l’autocritique, de l’évaluation des conséquences de ses actes ou propos ;
+troubles du jugement, erreurs de gestion, inadéquation des décisions au contexte (par exemple, achat, changement d’orientation professionnelle, d’habitation).
+2. Examen
+Les difficultés aux épreuves suivantes sont évocatrices si le déficit n’est pas explicable par une perturbation cognitive plus élémentaire (par exemple, un trouble du langage) et si la consigne est bien comprise et maintenue en mémoire. Certaines des épreuves contenues dans cette section font partie de la batterie rapide d’efficience frontale (BREF [cf. annexe 21.5]).
+
+a. Langage
+Le langage spontané peut être réduit (réponses laconiques) ou logorrhéique (et difficile à canaliser). Les épreuves de fluence verbale évaluent les stratégies de recherche active d’information ; elles peuvent être réduites (nommer le plus possible de mots appartenant à une même catégorie : par exemple, noms d’animaux ou mots commençant par une lettre donnée).
+
+b. Mémoire
+Les épreuves de mémoire de travail et de mémoire à long terme sont déficitaires (cf. supra).
+
+Les fonctions exécutives sont nécessaires à la mise en place de stratégies d’encodage et de récupération de l’information. Les performances s’améliorent par la présentation d’indices et/ou la reconnaissance.
+
+c. Conceptualisation
+Par exemple, épreuve des similitudes : « Qu’y a-t-il de commun ? » « En quoi se ressemblent ? » (banane-poire, poème-statue).
+
+d. Stratégies
+Par exemple : « Que faites-vous pour contacter quelqu’un dont vous avez oublié l’adresse et le numéro de téléphone ? » « Que faites-vous si vous trouvez dans la rue une lettre timbrée ? »
+
+e. Jugement
+Par exemple : « À votre avis, pourquoi paie-t-on des impôts ? » (ou autre demande d’opinion sur un événement connu du patient).
+
+f. Résolution de problèmes
+Par exemple : « Un piéton va à la gare en 45 minutes. Un cycliste va trois fois plus vite. Combien de temps met-il ? »
+
+g. Consignes conflictuelles
+Par exemple : demander au patient de taper deux fois quand on tape une fois et une fois quand on tape deux fois (en tapant avec l’index ou le stylo sur la surface du bureau).
+
+h. Go/No go
+Demander au patient de taper une fois quand on tape une fois et de ne pas taper quand on tape deux fois.
+
+i. Flexibilité mentale
+Évalue la capacité d’un sujet à passer d’une tâche cognitive à une autre. Par exemple, demander au patient d’alterner oralement chiffre et alphabet (1, A, 2, B, 3, C,…), alternance de figures géométriques (ronds et carrés, frises alternant des créneaux et des pointes).
+
+j. Dépendance à l’environnement
+Par exemple, comportement d’imitation : l’examinateur se positionne en face du sujet, croise les bras, puis porte la main au menton ; comportement d’utilisation : le patient se saisit d’objets disposés sur le bureau appartenant à l’examinateur et les utilise spontanément.
+
+D. Causes
+Ce sont les pathologies du cortex préfrontal ou des circuits sous-cortico-préfrontaux : tumeurs, AVC hémorragiques ou ischémiques (branches antérieures de l’artère cérébrale moyenne), lacunes touchant les noyaux gris centraux, sclérose en plaques, traumatismes crâniens, pathologies dégénératives touchant les cortex préfrontaux (notamment la dégénérescence frontotemporale) et/ou les circuits sous-cortico-préfrontaux (par exemple, paralysie supranucléaire progressive, maladie de Huntington).
+
+IX. Nature psychogène d’un déficit cognitif
+A. Évaluation
+Sont évocateurs : le contexte (par exemple, réactionnel), les antécédents, la sémiologie psychiatrique associée, la variabilité des performances, la discordance entre performances et difficultés des tests.
+
+B. Dépression
+Une plainte mnésique en relation avec un ralentissement cognitif, des troubles attentionnels et du maintien de l’effort intellectuel, peut évoquer une dépression. Sont également évocateurs : la rapidité d’installation, le retentissement quotidien plus sévère que ne le laisse supposer l’évaluation, une prédominance de réponses du type « je ne sais pas » (traduisant le ralentissement et les troubles de la recherche active d’information), une fluctuation des performances.
+
+C. Anxiété
+Des difficultés attentionnelles peuvent également être l’expression d’une anxiété qui associe des troubles émotionnels à des manifestations somatiques et végétatives. L’anxiété est un trait majeur de différentes pathologies psychiatriques (par exemple, stress post-traumatique, troubles obsessionnels compulsifs, phobies).
+
+D. Troubles psychiques et pathologies neurologiques
+Ne pas oublier que dépression, anxiété, troubles obsessionnels compulsifs, troubles comportementaux sont parfois l’expression initiale et/ou prévalente de pathologies neurodégénératives (par exemple, maladie d’Alzheimer, maladie de Huntington, dégénérescence frontotemporale) ou secondaires à des lésions non évolutives (par exemple, post-AVC, post-traumatiques).
+
+X. Évaluation du handicap
+À l’issue de l’évaluation, il est possible de déterminer la nature des incapacités et des handicaps qui retentissent sur l’autonomie du patient. Différentes mesures d’aides seront ainsi adaptées aux problèmes spécifiques : allocation aux adultes handicapés (AAH10), prestation de compensation du handicap (PCH11), allocation personnalisée d’autonomie (APA12). Des prescriptions de rééducation fonctionnelle (orthophonique, ergothérapie, kinésithérapie) auront pour objectif de pallier des incapacités déterminées (par exemple, un trouble de la communication verbale). Des conseils d’aménagement du domicile (alarme, éclairage, toilettes, sanitaires, cuisinière à gaz) seront formulés et, dans les pathologies évolutives, réévalués en fonction de l’évolution de la perte d’autonomie. Un avis sur l’aptitude à la conduite automobile sera clairement explicité au patient et soigneusement consigné dans le dossier médica13. Les décisions d’hospitalisation (en centre de rééducation fonctionnelle ou en hôpital de jour), ou d’accueil institutionnel (accueil de jour, séjour temporaire ou définitif en EHPAD) seront adaptées au contexte socio-familial et à la nature et l’origine du déficit. Enfin, des mesures de protection s’avéreront parfois nécessaires (sauvegarde de justice, curatelle, tutelle).
+
+ 
+
+POINTS CLÉS :
+
+Les troubles cognitifs représentent une cause majeure d’incapacité (limitation d’activité) et de handicap (restriction de participation).
+L’interrogatoire du patient et de son entourage occupe un rôle déterminant dans l’appréciation de ces limitations fonctionnelles et sociales.
+Les fonctions cognitives regroupent de façon schématique les capacités mnésiques, exécutives, linguistiques, praxiques, gnosiques, visuospatiales et visuomotrices. Leur évaluation repose sur l’utilisation d’échelles globales (par exemple, le Mini Mental State) et sur des épreuves spécifiques.
+Selon le contexte, le médecin pourra solliciter la réalisation d’un bilan neuropsychologique complémentaire, au cours duquel les fonctions cognitives seront évaluées de façon approfondie avec des instruments spécifiques (tests psychométriques) dont l’utilisation relève de la compétence de psychologues spécialisés (neuropsychologues).
+À l’issue de l’évaluation, le médecin déterminera la nature des limitations fonctionnelles et sociales du patient, et l’orientera vers les mesures d’aides et de prise en charge rééducative adaptées.
+
+Annexes
+
+
+
+
+
+---------------------------> Annexe 21.1 – Activités instrumentales de la vie quotidienne
+
+
+
+
+
+
+
+
+Annexe 21.2 – Mini Mental State, ou MMS14
+Matériel nécessaire : un crayon et une montre, une feuille comportant écrit en gros caractères « FERMEZ VOS YEUX » et une feuille comportant deux pentagones entrecoupés.
+
+Orientation
+
+« Je vais vous poser quelques questions pour apprécier comment fonctionne votre mémoire. Les unes sont très simples, les autres un peu moins. Vous devez répondre du mieux que vous pouvez. »
+« Quelle est la date complète d’aujourd’hui ? »
+Si la réponse est incorrecte ou incomplète, posez les questions dans l’ordre suivant :
+
+« En quelle année sommes-nous ? »
+« En quelle saison ? »
+« En quel mois ? »
+« Quel jour du mois ? »
+« Quel jour de la semaine ? »
+Pour ces items, seules les réponses exactes sont prises en compte. Cependant, lors de changement de saison ou de mois, permettre au sujet de corriger une réponse erronée en lui demandant : « Êtes-vous sûr ? ». Si le sujet donne deux réponses, lui demander de choisir et ne tenir compte que de la réponse définitive.
+
+Cotation : Chaque réponse juste vaut un point.
+
+« Je vais vous poser maintenant quelques questions sur l’endroit où nous nous trouvons. »
+« Quel est le nom de l’hôpital où nous sommes ? »
+« Dans quelle ville se trouve-t-il ? »
+« Quel est le nom du département dans lequel est située cette ville ? »
+« Dans quelle province ou région est situé ce département ? »
+« À quel étage sommes-nous ici ? »
+Pour ces items, n’accepter que la réponse exacte.
+
+Question 6 : Lorsque le sujet vient d’une autre ville, on peut se contenter de l’hôpital de la ville lorsqu’il n’existe qu’un seul hôpital dont le nom peut n’être pas connu du patient. Si l’examen est réalisé au cabinet, demander le nom du cabinet médical ou de la rue où il se trouve.
+
+Question 8 : Lorsque le nom de la ville et celui du département sont identiques (Paris), ou ceux du département et de la région (Nord), il faut s’assurer que le sujet comprend l’emboîtement des structures administratives. Le numéro du département n’est pas admis. Si le sujet le donne, il faut lui demander de préciser le nom correspondant.
+
+Cotation : Chaque réponse juste vaut 1 point ; accorder un délai maximum de 10 secondes.
+
+Sous-score : __ /10
+
+Apprentissage
+
+« Je vais vous dire trois mots ; je voudrais que vous me les répétiez et que vous essayiez de les retenir, car je vous les redemanderai tout à l’heure. »
+
+« Citron » (« Cigare »).
+« Clé » (« Fleur »).
+« Ballon » (« Porte »).
+« Répétez les 3 mots. »
+
+Donner les trois mots groupés, un par seconde, face au malade en articulant bien. Accorder 20 secondes pour la réponse.
+
+Cotation : Compter 1 point par mot répété correctement au premier essai.
+
+Si le sujet ne répète pas les trois mots au premier essai, les redonner jusqu’à ce qu’ils soient répétés correctement dans la limite de six essais. En effet, l’épreuve de rappel ne peut être analysée que si les trois mots ont été enregistrés.
+
+Sous-score : _ /3
+
+Attention et calcul
+
+« Maintenant, je vais vous demander de compter à partir de 100 en retirant 7 à chaque fois jusqu’à ce que je vous arrête. »
+Il est permis d’aider le patient en lui présentant la première soustraction. « 100 – 7, combien cela fait-il ? » Et ensuite « Continuez » .
+
+Cotation : On arrête après cinq soustractions et on compte 1 point par soustraction exacte, c’est-à-dire quand le pas de 7 est respecté, quelle que soit la réponse précédente (par exemple, « 100, 92, 85 » : le point n’est pas accordé pour la première soustraction, mais il l’est pour la seconde).
+
+100 – 7.
+93 – 7.
+86 – 7.
+79 – 7.
+72 – 7.
+Si le sujet demande au cours de la tâche, « Combien faut-il retirer ? », il n’est pas admis de répéter la consigne (dire « Continuez comme avant »). S’il paraît, néanmoins, indispensable de redonner la consigne, il faut repartir de la consigne initiale (« Comptez à partir de 100 en retirant 7 à chaque fois »). Lorsque le sujet ne peut effectuer les cinq soustractions, il est nécessaire (tâche interférente) de lui demander d’épeler le mot MONDE à l’envers (cf. infra).
+
+Sous-score : _ /5
+
+Pour tous les sujets, même pour ceux qui ont obtenu le maximum de points, demander : « Pouvez-vous épeler le mot MONDE à l’envers en commençant par la dernière lettre ? »
+Toutefois, lorsque le patient a des difficultés manifestes dans le compte à rebours, il est préférable de lui demander d’épeler le mot MONDE à l’endroit avant de lui demander de l’épeler à l’envers pour le remettre en confiance. Dans tous les cas, le résultat à cette épreuve n’est pas pris en compte.
+
+Rappel
+
+« Quels étaient les trois mots que je vous ai demandé de répéter et de retenir tout à l’heure ? »
+
+Citron (Cigare)
+Clé (Fleur)
+Ballon (Porte)
+Accorder 10 secondes pour répondre.
+
+Cotation : Compter 1 point par mot correctement restitué.
+
+Sous-score : _ /3
+
+Langage
+
+Montrer un crayon.
+« Quel est le nom de cet objet ? »
+Montrer une montre.
+« Quel est le nom de cet objet ? »
+Sous-score : _ /2
+
+Aucune autre réponse que « crayon » n’est admise. Le sujet ne doit pas prendre les objets en main.
+
+« Écoutez bien et répétez après moi. »
+« PAS DE MAIS, DE SI, NI DE ET »
+La phrase doit être prononcée lentement à haute voix, face au malade. Si le patient dit ne pas avoir entendu, ne pas répéter la phrase. Si l’examinateur a un doute, il peut être admis de vérifier en répétant la phrase à la fin du test.
+
+Sous-score : _ /1
+
+Poser une feuille de papier blanc sur le bureau et la montrer au sujet en lui disant : « Écoutez bien et faites ce que je vais vous dire. »
+« Prenez mon papier dans la main droite. »
+« Pliez-le en deux. »
+« Jetez-le par terre. »
+Sous-score : _ /3
+
+Cotation : Compter 1 point par item correctement exécuté. Si le sujet arrête et demande ce qu’il doit faire, ne pas répéter la consigne, mais dire « Faites ce que je vous ai dit de faire ».
+
+Montrer la feuille de papier sur laquelle est écrit en gros caractères « FERMEZ LES YEUX » et dire :
+« Faites ce qui est marqué. »
+Sous-score : _ /1
+
+Cotation : Compter 1 point si l’ordre est exécuté. Le point n’est accordé que si le sujet ferme les yeux. Il n’est pas accordé s’il se contente de lire la phrase.
+
+Montrer une feuille de papier et un stylo, en disant :
+« Voulez-vous m’écrire une phrase, ce que vous voulez, mais une phrase entière. »
+Sous-score : _ /1
+
+Cotation : Donner 1 point si la phrase contient au minimum un sujet et un verbe, sans tenir compte des erreurs d’orthographe ou de syntaxe.
+
+Praxies constructives
+
+Montrer la feuille de papier (ci-dessous) et lui demander :
+« Voulez-vous recopier ce dessin. »
+Sous-score : _ /1
+
+Cotation : Compter 1 point si tous les angles sont présents et si les figures se coupent sur les deux côtés différents. On peut autoriser plusieurs essais et accorder un temps d’une minute.
+
+Score total : __ /30
+
+Seuils pathologiques selon le niveau socioculturel pour la classe d’âge 50–79 ans
+Pas de CEP : 22 ;
+CEP : 23.
+Brevet : 25.
+Bac et plus : 26.
+Annexe 21.3 – Test des cinq mots15
+L’épreuve consiste à faire apprendre au patient une liste de cinq mots et à en étudier la restitution. L’épreuve comporte deux temps :
+
+le premier temps consiste en l’apprentissage de la liste. Il permet de s’assurer que l’information a bien été mémorisée par le patient (encodage) ;
+le second temps, après 5 minutes, est constitué par le rappel différé. Il permet d’évaluer la mémoire à long terme. Une amélioration du score par l’indiçage évoque une dysfonction sous-cortico-frontale, alors qu’une non-amélioration par l’indiçage évoque une dysfonction temporale interne.
+Montrer la liste
+Faire lire la liste au patient : « Lisez cette liste de mots à voix haute et essayez de la retenir, je vous la redemanderai tout à l’heure. »
+
+Musée
+Limonade
+Sauterelle
+Passoire
+Camion
+Interroger le patient
+« Pouvez-vous me dire en regardant la liste, quel est le nom de la boisson, l’ustensile de cuisine, le véhicule, le bâtiment, l’insecte ? »
+
+Retourner la liste et interroger à nouveau le patient
+« Pouvez-vous me redonner les mots que vous venez de lire ? »
+
+Pour les mots non rappelés et seulement ceux-ci demander
+« Quel était le nom de :…… » en fournissant l’indice correspondant.
+
+Compter le nombre de bonnes réponses : score d’apprentissage
+Si score = 5, l’enregistrement a été effectif, passer à l’étape suivante.
+Si score < 5, remontrer la liste et indiquer du doigt les mots non rappelés, puis retourner la liste et demander au patient les mots non rappelés en réponse à leurs indices. Le but est de s’assurer que le patient a bien enregistré tous les mots.
+Poursuivre la consultation médicale et faire d’autres tests
+Le but est de détourner l’attention du patient pendant 3 à 5 minutes. Par exemple, en explorant ses capacités visuoconstructives ou son orientation temporospatiale.
+
+Interroger à nouveau le patient
+« Pouvez-vous me donner les cinq mots que vous avez lus tout à l’heure ? »
+
+Pour les mots non rappelés et seulement ceux-ci demander :
+
+« Quel était le nom de :…… » en fournissant l’indice correspondant.
+
+Compter le nombre de bonnes réponses : score de mémoire
+Le score obtenu doit être égal à 5 (rappel libre + rappel indicé), aussi bien sur les phases d’encodage que de rappel différé.
+
+Le score de mémoire doit donc être égal à 10, tout score se situant en dessous étant considéré comme pathologique.
+
+Annexe 21.4 – Représentation schématique des principales aires du langage chez le sujet droitier
+Fig. 21.1.
+
+Hémisphère gauche, vue latérale.
+
+Annexe 21.5 – Batterie rapide d’efficience frontale (BREF)16
+Similitudes
+
+« En quoi se ressemblent :
+
+une banane et une orange ? » [aider le patient en cas d’échec total (« Elles ne se ressemblent pas ») ou partiel (« Elles ont toutes les deux une peau »), en disant : « Une orange et une banane sont toutes les deux des… » ; ne pas aider le patient pour les deux items suivants] ;
+une table et une chaise ? »
+une tulipe, une rose et une marguerite ? »
+Sous-score : _ /3
+
+Cotation : seules les réponses catégorielles (fruits, meubles, fleurs) sont considérées comme correctes. Trois réponses correctes = 3 ; deux réponses correctes = 2 ; une réponse correcte = 1 ; aucune réponse = 0.
+
+Évocation lexicale
+
+« Nommez le plus possible de mots différents, par exemple des animaux, des plantes, des objets, mais ni prénoms, ni noms propres, commençant par la lettre S. »
+
+Si le patient ne donne aucune réponse pendant les cinq premières secondes, lui dire : « par exemple : serpent ». Si le patient fait des pauses de plus de 10 secondes, le stimuler après chaque pause en lui disant « n’importe quel mot commençant par la lettre S ».
+
+Sous-score : _ /3
+
+Cotation : le temps de passation est de 60 secondes ; les répétitions de mots, les variations sur un même mot (sifflet, sifflement), les noms et les prénoms ne sont pas comptés comme des réponses correctes. Plus de 10 mots = 3 ; de 6 à 10 mots = 2 ; de 3 à 5 mots = 1 ; moins de 3 mots = 0.
+
+Comportement de préhension
+
+L’examinateur est assis en face du patient dont les mains reposent sur les genoux, paumes ouvertes vers le haut. L’examinateur approche doucement les mains et touche celles du patient, pour voir s’il va les saisir spontanément. Si le patient les prend, lui demander : « Maintenant, ne prenez plus les mains. »
+
+Sous-score : _ /3
+
+Cotation : le patient ne prend pas les mains de l’examinateur = 3 ; le patient hésite ou demande ce qu’il doit faire = 2 ; le patient prend les mains sans hésitation = 1 ; le patient prend les mains de l’examinateur, après que celui-ci lui a demandé de ne pas le faire = 0.
+
+Séquences motrices
+
+« Regardez attentivement ce que je fais. »
+
+L’examinateur assis en face du patient exécute trois fois avec sa main gauche la séquence de Luria tranche-poing-paume. « Maintenant, vous allez exécuter avec votre main droite cette séquence, d’abord en même temps que moi, puis seul. » L’examinateur effectue alors trois fois la séquence avec sa main gauche en même temps que le patient, puis lui dit : « Continuez. »
+
+Sous-score : _ /3
+
+Cotation : le patient exécute seul 6 séquences consécutives correctes = 3 ; le patient exécute seul au moins 3 séquences consécutives correctes = 2 ; le patient échoue seul, mais exécute 3 séquences consécutives correctes en même temps que l’examinateur = 1 ; le patient ne peut exécuter 3 séquences consécutives correctes, même avec l’examinateur = 0.
+
+Consignes conflictuelles
+
+« Lorsque je tape une fois, vous devez taper deux fois. » Pour s’assurer que le patient a bien compris la consigne, l’examinateur lui fait réaliser une séquence de trois essais : 1-1-1.
+
+« Lorsque je tape deux fois, vous devez taper une fois. » Pour s’assurer que le patient a bien compris la consigne, l’examinateur lui fait réaliser une séquence de trois essais : 2-2-2.
+
+La séquence proposée est la suivante : 1-1-2-1-2-2-2-1-1-2.
+
+Sous-score : _ /3
+
+Cotation : aucune erreur = 3 ; une ou deux erreurs = 2 ; plus de deux erreurs = 1 ; le patient tape le même nombre de coups que l’examinateur au moins 4 fois consécutives = 0.
+
+Go/No go
+
+« Lorsque je tape une fois, vous devez taper une fois. » Pour s’assurer que le patient a bien compris la consigne, l’examinateur lui fait réaliser une séquence de trois essais : 1-1-1.
+
+« Lorsque je tape deux fois, vous ne devez pas taper. » Pour s’assurer que le patient a bien compris la consigne, l’examinateur lui fait réaliser une séquence de trois essais : 2-2-2.
+
+La séquence est la suivante : 1-1-2-1-2-2-2-1-1-2.
+
+Sous-score : _ /3
+
+Cotation : aucune erreur = 3 ; une ou deux erreurs = 2 ; plus de deux erreurs = 1 ; le patient tape le même nombre de coups que l’examinateur au moins 4 fois consécutives = 0.
+
+Score total : __ /18
+
+Seuils pathologiques selon le niveau socioculturel
+Sujets scolarisés jusqu’au niveau du collège, un score inférieur à 16 est considéré comme pathologique.
+Sujets de niveau inférieur : le seuil pathologique est à 15.
+Annexe 21.6 – Copie de la figure de Rey
+Fig. 21.2
+
+Figure de Rey.
+A. Modèle. B. Exemple de copie réussie. C. Exemple de copie altérée, témoignant d’un trouble visuoconstructif.
+
+2 La distinction des trois niveaux (déficience, incapacité, handicap) correspond ici à celle établie par l’OMS (1988). Dans la nouvelle classification (2001), la notion d’incapacité fait place à la celle de limitation d’activité, et celle de handicap à celle de restriction de participation.
+3Dans la suite du texte, le terme « interrogatoire » regroupe celui de l’entourage et du patient.
+4 En pratique, l’évaluation porte essentiellement sur la mémoire à long terme, l’examen de la mémoire à court terme et de la mémoire de travail relevant de l’évaluation neuropsychologique. La mémoire à court terme peut être évaluée par l’empan à l’endroit, verbal (répétition d’une série de chiffres énoncés au rythme de un par seconde par l’examinateur) et visuel (l’examinateur touche successivement une série de cubes disposés devant lui selon une séquence prédéfinie et le patient a pour consigne de reproduire cette séquence spatiale). La mémoire de travail peut être évaluée par l’empan à l’envers, verbal (répétition d’une série de chiffres énoncés par l’examinateur dans l’ordre inverse) et visuel (l’examinateur touche successivement une série de cubes disposés devant lui selon une séquence prédéfinie et le patient a pour consigne de reproduire cette séquence dans l’ordre inverse).
+5 En cas de difficultés à l’interrogatoire et aux tests élémentaires, et/ou de retentissement dans la vie quotidienne, la réalisation d’une évaluation neuropsychologique par un(e) neuropsychologue permet de préciser la nature et l’importance des troubles mnésiques et de juger si d’autres fonctions cognitives sont altérées.
+6 En utilisant des images représentant des items fréquents comme un pain, un lit, etc. (items utiles pour l’épreuve de mémoire), et des items moins fréquents (par exemple, un zèbre, un chou-fleur) ou des composants d’un ensemble (par exemple, parties de : montre, vélo, voiture, parties du corps) pour révéler des troubles plus discrets ou spécifiques.
+7 Décrite aussi sous les termes de désintégration phonétique, d’aphémie, d’apraxie de la parole.
+8 Elle n’est pas interprétable chez les sujets de faible niveau culturel.
+9 La plupart des symptômes qui suivent sont présents dans l’inventaire neuropsychiatrique (NPI).
+10 L’AAH est attribuée par la CDAPH (Commission des droits et de l’autonomie des personnes handicapées) des maisons départementales des personnes handicapées (MDPH) jusqu’à l’âge minimum légal de départ à la retraite (moins de 60 ans).
+11 La PCH est une aide destinée à financer les besoins liés à la perte d’autonomie des personnes handicapées. Cette prestation couvre les aides humaines, matérielles (aménagement du logement et du véhicule), voire animalières.
+12 L’APA est attribuée par le Conseil général pour financer un projet d’accompagnement médico-social des sujets âgés (plus de 60 ans) ayant perdu leur autonomie (groupes iso-ressources [GIR 1 à 4]).
+13 En qualité de médecin, le secret professionnel s’oppose à toute déclaration ou signalement auprès des autorités administratives. L’existence d’un risque, même élevé, ne constitue pas une dérogation au secret professionnel. La Commission médicale primaire départementale est chargée de statuer sur l’aptitude médicale à conduire. Seul le patient lui-même (ou sa famille) peut saisir cette autorité compétente, au moyen d’un certificat médical remis en main propre à cette fin.
+14 Version GRECO.
+15 Version GRECO, Dubois et al., 2002.
+16 Version GRECO, Dubois et Pillon.

@@ -1,0 +1,312 @@
+Malaise, perte de connaissance, crise comitiale chez l’adulte
+
+
+Objectifs pédagogiques
+Diagnostiquer un malaise, une perte de connaissance, une crise comitiale chez l’adulte.
+Identifier les situations d’urgence et planifier leur prise en charge préhospitalière et hospitalière (posologies).
+I. Pour comprendre
+La perte de connaissance transitoire est une perte de conscience spontanée avec récupération complète touchant entre un quart et la moitié de la population à un moment de sa vie. Cette perte de connaissance a plusieurs causes dont les plus fréquentes sont les désordres cardiovasculaires (de l’arythmie cardiaque aux syncopes vasovagales), l’épilepsie et les attaques psychogéniques.
+Les syncopes sont des pertes de connaissance brèves, de quelques minutes, avec une perte du tonus postural, spontanément résolutives, et un retour rapide à l’état de conscience normal, sur place et souvent avant l’arrivée des secours. Elles sont dues à une hypoperfusion cérébrale globale et passagère, de début soudain ou rapidement progressif et de durée brève (en moyenne 12 secondes). Le mécanisme des lipothymies est le même, mais la durée de l’hypoperfusion cérébrale est trop brève pour entraîner une perte de connaissance complète. Leur prévalence est d’environ 40 % considérant une vie de 70 ans et une incidence annuelle d’environ 6 %. L’incidence des syncopes augmente après 70 ans. Parmi les causes des syncopes : les syncopes vasovagales aussi connues comme neurocardiogéniques à médiation neurale sont les plus fréquentes représentant environ un tiers de l’ensemble des causes et atteignant deux tiers des cas aux urgences. Le diagnostic de syncope peut être fait grâce à l’interrogatoire, l’examen clinique et un éléctrocardiogramme dans 50 % des cas. L’histoire de la maladie, les antécédents personnels et familiaux sont d’une grande aide diagnostique. L’examen clinique doit comporter la mesure de la pression artérielle en position couchée puis debout (3 minutes après le lever).
+Les crises d’épilepsie sont dues à une décharge hypersynchrone de neurones. Si la décharge a lieu dans les deux hémisphères simultanément, il peut s’agir d’une absence (perte de contact de quelques dizaines de secondes), ou d’une crise généralisée tonicoclonique (CGTC), avec perte de connaissance prolongée une dizaine ou quelques dizaines de minutes (cette durée incluant la crise elle-même [environ 3 minutes] et la confusion post-critique, de sorte que les malades reprennent conscience dans le camion du SAMU ou aux urgences).
+Les événements non épileptiques (ou pseudo-crises épileptiques) ne comportent pas de véritable perte de connaissance. Elles sont habituellement des caricatures de crise d’épilepsie, durent plusieurs dizaines de minutes (ou plus) et sont d’origine psychique.
+II. Conditions générales du diagnostic d’une perte de connaissance
+Le diagnostic est essentiellement clinique (parfois en assistant à la perte de connaissance mais, le plus souvent, après) et repose donc quasi exclusivement sur l’interrogatoire très précis du patient et/ou d’un témoin (y compris en joignant un témoin par téléphone).
+Il faut proscrire les bilans « Caddy » (ECG, EEG, Doppler, Holter, scanner, etc.), le plus souvent inutiles autant que coûteux et, parfois, sources d’erreurs.
+En pratique courante, le problème diagnostique est de distinguer syncope et crise d’épilepsie généralisée. Le critère diagnostique majeur est la durée de l’épisode ; celle-ci est souvent mal évaluée par les témoins et impossible à évaluer par le patient.
+En pratique, c’est donc le lieu de reprise d’une conscience claire (du premier souvenir précis) qui va définir au mieux la durée de la perte de connaissance et orienter le diagnostic :
+
+syncope : reprise de conscience claire sur les lieux de la perte de connaissance avant l’arrivée des secours (médecins, pompiers) ;
+crise d’épilepsie généralisée : reprise de conscience progressive dans le camion des secours ou aux urgences.
+III. Syncopes et lipothymies
+La distinction entre syncope et lipothymie repose sur l’existence ou non d’une réelle perte de connaissance. En cas de simple lipothymie, le malade garde le souvenir de ce qu’il a entendu autour de lui pendant son malaise. Mais le fait que la perte de connaissance soit complète (syncope), partielle ou inexistante (lipothymie) ne doit pas modifier l’orientation diagnostique : une même affection peut se traduire soit par une syncope soit par une lipothymie, selon l’importance et la durée de la baisse du débit sanguin cérébral.
+
+A. Diagnostic
+Arguments majeurs du diagnostic de syncope :
+
+brièveté de la perte de connaissance (quelques secondes à 3 minutes) ;
+état de mort apparente durant la perte de connaissance : pâleur extrême, hypotonie globale, pouls imprenable ;
+reprise immédiate, sur place, d’une conscience claire.
+Éléments parfois présents mais n’invalidant pas le diagnostic de syncope :
+
+chute traumatisante (par chute du tonus postural) ;
+perte d’urines (relâchement du tonus sphinctérien si vessie pleine) ;
+morsure du bout de la langue (et non du bord latéral) secondaire à la chute ;
+survenue de quelques secousses cloniques limitées aux membres supérieurs, par hypoxie neuronale très transitoire : syncope convulsivante, possible source d’erreur diagnostique avec une crise d’épilepsie généralisée. Mais les clonies sont ici peu nombreuses et la perte de connaissance reste brève, sans confusion post-critique.
+Encadré 31.1
+Arguments cliniques justifiant un avis cardiologique dans les moins de 24 heures (drapeau rouge)
+
+Perte de connaissance au cours d’un effort physique.
+Dyspnée récente ou inexpliquée.
+Insuffisance cardiaque.
+Histoire familiale de mort soudaine cardiaque chez des personnes de moins de 40 ans ou maladie cardiaque familiale connue.
+Souffle cardiaque.
+Toute anomalie significative à l’ECG (cf. encadré 31.2).
+NB : Un drapeau rouge signifie qu’il s’agit d’un point particulièrement important pouvant avoir des conséquences vitales en cas d’omission.
+B. Étiologie des syncopes
+
+
+
+
+
+
+
+
+
+----------------------------------------> Tableau 31.1  Causes fréquentes de syncope.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Syncopes réflexes
+a. Syncopes vasovagales
+De loin les plus fréquentes et les plus bénignes des syncopes.
+
+Encore appelées syncopes « neurocardiogéniques » ou « à médiation neurale », leur physiopathologie est complexe et encore mal connue : très schématiquement, une diminution du retour veineux ou une émotion vive activent une boucle réflexe neurocardiogénique faisant relais dans le tronc cérébral, entraînant une inhibition sympathique (responsable d’une chute tensionnelle) et une hyperactivité vagale (à l’origine d’une bradycardie). Chute tensionnelle et bradycardie entraînent une baisse du débit sanguin cérébral (d’où l’ischémie cérébrale diffuse et la syncope).
+
+Arguments généraux du diagnostic
+
+(En dehors de ceux de toute syncope : cf. supra.)
+
+Circonstances de survenue : atmosphère confinée, chaleur, fin de repas (syncopes post-prandiales), émotions vives, « vue du sang », douleur aiguë, station debout prolongée.
+(lipothymie) : pendant quelques secondes à quelques minutes, apparition de sensation de tête vide, sueurs, nausées, palpitations, vue brouillée (« voile noir »), éloignement des sons et acouphènes, jambes flageolantes – ce sont des symptômes d’ischémie vertébrobasilaire diffuse (noyaux vestibulaires, formation réticulée, lobe occipital) ; cette phase prodromale peut (rarement) être absente.
+Asthénie intense pouvant durer une ou plusieurs heures après la syncope, inconstante mais très évocatrice (de physiopathologie non connue).
+Investigations
+
+Les investigations sont inutiles dans la majorité des cas, sauf :
+
+en cas de doute diagnostique avec une syncope cardiaque (cf. infra), notamment en l’absence de prodromes ;
+dans les formes atypiques et/ou invalidantes par leur répétition ; un tilt-test (cf. infra) peut alors être indiqué.
+Mesures thérapeutiques
+
+Des explications et des conseils simples (s’allonger au moindre malaise, jambes surélevées, où que le sujet se trouve, et surtout ne pas se lever) suffisent le plus souvent.
+
+b. Autres syncopes réflexes (beaucoup plus rares)
+Syncopes sinocarotidiennes, dues à une hypersensibilité du sinus carotidien, qui surviennent le plus souvent chez un homme de plus de 60 ans, en position debout, parfois lorsque le sujet se rase ou tourne la tête. Mais ces circonstances de survenue sont très inconstantes. Si les épisodes se répètent, proposer un massage carotidien en milieu cardiologique. Un stimulateur cardiaque sentinelle peut être mis en place.
+Syncopes tussives (ou ictus laryngé), survenant à l’acmé d’une quinte de toux chez le bronchiteux chronique.
+Syncopes mictionnelles, principalement nocturnes, chez l’homme âgé, le plus souvent liées à l’hypotension orthostatique (cf. infra).
+2. Syncopes par hypotension orthostatique
+a. Arguments généraux du diagnostic
+Sujet âgé.
+Même sémiologie que la syncope vasovagale avec phase prodromale, chute possible, état de mort apparente, reprise immédiate d’une conscience claire, ou parfois simple lipothymie si le sujet se rassoit.
+Survenue à l’orthostatisme, dès les premières secondes ou minutes du lever (par exemple, syncope mictionnelle nocturne), station debout prolongée, période post-prandiale (cumul de la séquestration splanchnique et de l’orthostatisme).
+Démonstration d’une hypotension orthostatique par la mesure de la PA en position couchée puis debout : baisse tensionnelle d’au moins 20 mmHg pour la systolique et d’au moins 10 mmHg pour la diastolique, après 1 et 3 minutes (et jusqu’à 10 minutes en cas de doute).
+b. Recherche d’une ou de plusieurs causes
+Médicaments, cause de loin la plus fréquente et à évoquer systématiquement, surtout chez le sujet âgé : antihypertenseurs (notamment en cas de bi- ou trithérapie), antiparkinsoniens, tricycliques, neuroleptiques, etc.
+Déshydratation, anémie.
+Beaucoup plus rarement dysautonomie liée à une affection neurologique : neuropathie diabétique, atrophie multisystématisée (cf. chapitre 16). Dans les cas de dysautonomie (atteinte du système nerveux végétatif), le pouls ne s’accélère pas alors que la PA chute : c’est une hypotension orthostatique asympathicotonique.
+Hypotension post-prandiale : cause fréquente de syncope chez le sujet âgé. Elle est définie comme une chute d’au moins 20 mmHg de la pression artérielle systolique ou par une valeur absolue de pression artérielle systolique de moins de 90 mmHg dans les 2 heures suivant un repas. Les facteurs favorisants sont les vasodilatateurs, des aliments très chauds, une atmosphère très chaude et un régime riche en hydrates de carbone.
+c. Traitement
+Traitement de la ou des causes (suppression des médicaments hypotenseurs +++).
+Conseils posturaux : éviter les stations debout prolongées, levers en plusieurs temps.
+Bas de contention.
+Minodrine (Gutron®) en cas d’échec des mesures précédentes.
+Droxidopa en cas d’hypotension orthostatique neurogénique (ATU).
+Fludrocortisone (pas d’AMM).
+3. Syncopes cardiaques
+Plus rares que les deux précédentes, elles sont aussi beaucoup plus graves, en raison de leur risque vital.
+
+L’hypoperfusion cérébrale globale est due à une réduction de l’éjection ventriculaire gauche, soit par un trouble de la conduction ou par un trouble du rythme ventriculaire, soit par obstacle à l’éjection ou au remplissage ventriculaire.
+
+a. Arguments généraux du diagnostic
+Syncopes à l’emporte-pièce, de début et de fin extrêmement soudains, typiquement sans aucun prodrome (mais des palpitations ou un bref malaise peuvent exister).
+Sujet de plus de 60 ans le plus souvent.
+Antécédents cardiologiques : cardiopathie ischémique, traitement antiarythmique, etc.
+Survenue à l’effort.
+b. Étiologies
+Par troubles de la conduction et du rythme
+
+Blocs auriculoventriculaires (BAV)
+
+C’est le type même de la syncope cardiaque, à l’emporte-pièce.
+La perte de connaissance peut être tellement brève que le sujet se retrouve à terre et peut se relever aussitôt. Il faut donc l’évoquer lors des chutes inexpliquées du sujet âgé.
+Investigations :
+lorsque le BAV est permanent, le diagnostic se fait sur l’ECG standard ;
+si le BAV est paroxystique, l’enregistrement ECG sur 24 heures (Holter) peut le détecter ; sinon, la démonstration en revient à l’exploration électrophysiologique endocavitaire du faisceau de His.
+Traitement :
+en urgence, en présence d’une importante bradycardie permanente, le sulfate d’atropine IV, l’isoprénaline et, en cas de troubles de conscience prolongés, un massage cardiaque externe sont indiqués ; le transfert rapide en unité de soins intensifs cardiologiques s’impose ;
+la mise en place d’un stimulateur cardiaque constitue le seul traitement de fond efficace.
+Blocs sino-auriculaires paroxystiques
+
+Habituellement plus lipothymiques que syncopaux.
+Survenant préférentiellement après 70 ans.
+ECG de surface le plus souvent normal.
+Diagnostic sur le Holter-ECG de 24 heures, l’enregistrement endocavitaire, voire sur le Holter implantable.
+Traitement : stimulateur cardiaque.
+Tachycardies supraventriculaires et ventriculaires
+
+La fibrillation et le flutter auriculaires sont très rarement syncopaux.
+La tachycardie ventriculaire est grave (risque de fibrillation ventriculaire).
+Diagnostic sur l’ECG : rythme rapide, QRS larges et dissociation auriculoventriculaire.
+Traitement en urgence : choc électrique externe par un défibrillateur externe en cas de mauvaise tolérance hémodynamique (hypotension sévère, troubles de vigilance) ou antiarythmiques.
+Torsades de pointes
+
+Graves (risque de fibrillation ventriculaire) et reconnues sur l’ECG, elles peuvent compliquer une bradycardie, un traitement antiarythmique ou révéler une hypokaliémie, une hypercalcémie. Le syndrome du QT long congénital est exceptionnel.
+Traitement : injection IV de magnésium et correction d’un trouble métabolique (recharge potassique, etc.) ou traitement de la bradycardie.
+Par obstacle à l’éjection ou au remplissage ventriculaire
+
+Rétrécissement aortique serré et cardiomyopathie obstructive.
+Syncopes d’effort, avec dyspnée et souffle éjectionnel.
+Tamponnade, myxome de l’oreillette (syncopes aux changements de position).
+Diagnostic : échographie cardiaque.
+Encadré 31.2 Drapeau rouge en cas d’identification à l’ECG 12-dérivations des anomalies suivantes chez un patient ayant une perte de connaissance transitoire
+
+Arythmie atriale (soutenue).
+Bradycardie persistante non appropriée.
+Anomalie de conduction. Par exemple :
+bloc de branche droit complet ;
+bloc de branche gauche ;
+BAV de tout degré.
+Hypertrophie ventriculaire droite ou gauche.
+Intervalle QT long (corrigé > 450 ms).
+Intervalle QT court (corrigé < 350 ms).
+Onde Q pathologique.
+Préexcitation ventriculaire.
+Toute arythmie ventriculaire (y compris les extrasystoles ventriculaires).
+Syndrome de Brugada1.
+Rythme cardiaque entraîné (pacemaker).
+Toute anomalie du segment ST ou de l’onde T (en particulier les inversions de l’onde T).
+1 Le syndrome de Brugada est une maladie génétique rare caractérisée par un sus-décalage du segment ST au niveau des dérivations précordiales droites V1, V2 et V3, et un aspect de bloc de branche droit à l’électrocardiogramme, associés à un risque élevé d’arythmie ventriculaire pouvant entraîner syncope et mort subite, sur un cœur structurellement sain. La transmission se fait sur un mode autosomique dominant et la pénétrance est variable.
+
+4. Syncopes inexpliquées
+En cas de diagnostic hésitant entre les différents types de syncope ou entre syncope et autres types de malaise ou pertes de connaissance ou quand les épisodes se reproduisent, il peut être utile de recourir à un tilt-test : après une période de repos de 10 minutes en décubitus, le patient est verticalisé sur une table basculante, à un angle de 70° pendant 30 minutes. La pression artérielle (PA) et la fréquence cardiaque (FC) sont régulièrement enregistrées. Le test est considéré comme étant positif s’il permet de reproduire la symptomatologie, synchrone de modifications de la PA et de la FC. Il est ainsi possible de faire la preuve d’un mécanisme neurocardiogénique (vasovagal) quand la PA et/ou la FC chutent de manière significative.
+
+En cas de syncopes récurrentes inexpliquées, y compris après test d’inclinaison, massage carotidien et exploration endocavitaire, on peut être amené à proposer l’implantation d’un enregistreur ECG (Holter implantable) permettant de suivre la fréquence cardiaque jusqu’à 18 mois si besoin.
+
+IV. Crises d’épilepsie généralisées et événements non épileptiques (pseudo-crises)
+A. Crises d’épilepsie généralisées tonicocloniques (CGTC)
+1. Arguments généraux du diagnostic
+Début soudain sans prodromes.
+Perte de connaissance prolongée : plusieurs dizaines de minutes, incluant la crise elle-même (environ 3 minutes) et le coma puis la confusion post-critique ; d’où une reprise de conscience progressive dans le camion du SAMU ou aux urgences.
+Séquence en trois phases :
+tonique (hypertonie en extension des quatre membres, avec cyanose) ;
+clonique (secousses régulières puis espacées) ;
+résolutive (hypotonie et respiration bruyante).
+2. Éléments inconstants
+Morsure du bord latéral de la langue (pathognomonique), lors de la phase tonicoclonique.
+Aura épileptique : prodromes correspondant à une crise partielle secondairement généralisée.
+Chute traumatisante et perte d’urines (relâchement du tonus sphinctérien si vessie pleine) n’ont pas de valeur diagnostique particulière.
+Encadré 31.3 Arguments cliniques justifiant un avis neurologique dans les moins de 2 semaines
+
+Morsure de langue.
+Déviation de la tête lors de la perte de connaissance.
+Pas de souvenir d’un comportement anormal alors qu’un comportement anormal a été observé avant, pendant ou après la perte de connaissance.
+Posture inhabituelle.
+Mouvements des membres.
+Confusion après la perte de connaissance brève.
+Prodromes à type d’impression de « déjà-vu » ou de « jamais-vu » (impression que quelque chose arrive pour la première fois alors que l’on sait qu’un épisode similaire est déjà arrivé).
+3. Investigation et traitement
+L’EEG n’est pas nécessaire lorsque le malade est épileptique connu (ce qui constitue en soi un argument) ou lorsque le diagnostic ne fait pas de doute. L’apport diagnostique de l’EEG (ondes lentes résiduelles) est d’autant plus grand qu’il est réalisé dans les heures ou 24 heures suivant la crise. Un EEG normal n’exclut en rien le diagnostic.
+Pendant la crise généralisée tonicoclonique : position latérale de sécurité et oxygénothérapie si possible.
+Au décours de la crise : aucun traitement urgent ne s’impose ; si une deuxième crise survient, injection de 1 mg IV de clonazépam (Rivotril®).
+Si le malade est épileptique connu : chercher un facteur déclenchant (manque de sommeil, alcoolisation, fièvre), une mauvaise observance thérapeutique et, si besoin, réévaluer le traitement.
+Si première crise généralisée tonicoclonique, isolée ou non : réaliser un bilan biologique usuel, un EEG et un scanner cérébral (ou une IRM si l’examen est accessible) ; l’imagerie cérébrale doit être réalisée en urgence si des symptômes (céphalées, déficits) sont associés, même en cas de crise « circonstancielle », notamment une alcoolisation. Pour plus de précisions sur le traitement : cf. chapitre 15.
+B. Événements non épileptiques (ou pseudo-crises épileptiques)
+1. Arguments généraux du diagnostic
+Absence de véritable perte de connaissance (difficile à affirmer, le plus souvent).
+Perte de connaissance très prolongée :
+durée beaucoup plus importante qu’une crise d’épilepsie généralisée tonicoclonique ;
+plusieurs dizaines de minutes de mouvements anormaux.
+Mouvements des membres anarchiques, corps arc-bouté (opisthotonos), mouvements du bassin, cris (parfois caricature théâtrale de l’acte sexuel). Il y a presque toujours un « public » (conjoint, parents). Absence de séquence tonicoclonique.
+Contexte biographique et antécédents psychiatriques : abus sexuels dans l’enfance, conflit familial ou conjugal, personnalité histrionique, bénéfices secondaires.
+Résistance à l’ouverture des yeux ; absence, habituellement, de blessure ou de perte d’urines.
+Il faut noter que les événements non épileptiques représentent une part importante des états de mal épileptiques supposés.
+2. Investigations et traitement
+Éviter les actes invasifs (intubation, etc.) et les examens complémentaires itératifs.
+Benzodiazépines à la phase aiguë.
+Psychothérapie (si envisageable) à distance.
+Le diagnostic parfois difficile lorsque ces pseudo-crises alternent avec d’authentiques crises d’épilepsie généralisées tonicocloniques, habituellement dans le cadre d’une épilepsie pharmaco-résistante. Le recours à la vidéo-EEG (avec épreuves de suggestion : hyperpnée, stimulation lumineuse intermittente) peut s’avérer très utile.
+
+V. Autres malaises et pertes de connaissance
+Situations fréquentes aux urgences.
+
+A. Malaises sans véritable perte de connaissance
+1. Attaques de panique
+Épisodes de plusieurs dizaines de minutes, sans perte de connaissance vraie.
+Vive anxiété, sensation de mort imminente.
+Symptômes somatiques : oppression thoracique, « tête vide », palpitations, striction laryngée, sueurs, tremblements, vue brouillée, etc. L’hyperventilation, des paresthésies des extrémités et péribuccales (parfois latéralisées), et un spasme carpopédal (« main d’accoucheur ») réalisent la classique « crise de tétanie ». Une injection de benzodiazépine apaise rapidement la symptomatologie.
+2. Éthylisme aigu
+Agitation et agressivité, somnolence ou coma.
+Diagnostic facile (haleine, habitus, contexte, alcoolémie).
+Systématiquement évoquer une hypoglycémie, une intoxication médicamenteuse, un traumatisme crânien associés.
+Une crise d’épilepsie généralisée peut survenir lors d’une alcoolisation aiguë ou lors d’un sevrage.
+3. Hypoglycémie
+Elle n’est jamais syncopale.
+« Malaise hypoglycémique » : sensation de faim, sueurs, céphalées, troubles visuels, pouvant régresser spontanément ou évoluer vers une confusion mentale, un trouble de la vigilance (somnolence, obnubilation, coma) et des convulsions épileptiques.
+Il s’agit le plus souvent d’un diabétique connu et traité. Le dosage de la glycémie est systématique devant tout malaise atypique ou inexpliqué.
+4. Accident ischémique transitoire vertébrobasilaire
+Il peut comporter des sensations de malaise au contenu variable (vertiges ou déséquilibre, céphalées postérieures, nausées, troubles visuels) mais pas de perte de connaissance isolée.
+
+B. Malaises avec perte de connaissance
+1. Traumatisme crânien
+Une syncope simple ou convulsivante, une crise d’épilepsie généralisée tonicoclonique peuvent survenir au décours immédiat d’un traumatisme crânien. En l’absence de circonstances accidentelles, la question d’un traumatisme crânien secondaire à une syncope ou à une crise d’épilepsie généralisée tonicoclonique peut se poser, mais n’est généralement pas soluble et ne modifie pas la prise en charge pratique : surveillance pendant 24 heures et scanner cérébral ou autres explorations au moindre doute d’une étiologie non traumatique.
+
+2. Perte de connaissance et douleur thoracique
+Formes syncopales d’angor, d’embolie pulmonaire.
+
+C. Autres situations plus rares
+1. Crises d’épilepsie partielles complexes
+Parmi les crises partielles complexes, c’est-à-dire celles comportant un trouble de conscience, l’une des mieux connues est la crise d’épilepsie temporale : d’une durée de 2 à 3 minutes, elle est stéréotypée pour un même malade et comporte une sensation épigastrique ascendante, un arrêt d’activité avec rupture de contact, fixité du regard, mouvements de mâchonnement ou de déglutition, activité gestuelle simple (frottement, etc.).
+
+2. Ictus amnésique
+Ce n’est pas une perte de connaissance stricto sensu mais un oubli à mesure de plusieurs heures, pendant lesquelles le sujet pose les mêmes questions de façon itérative, tout en gardant un comportement par ailleurs adapté.
+
+3. Narcolepsie-cataplexie
+Elle est très rare, mais doit être identifiée : il s’agit de brusques accès de sommeil irrépressibles, pluriquotidiens, associés ou non à des chutes par hypotonie (cataplexie) (cf. chapitre 20).
+
+POINTS CLÉS
+
+Diagnostic essentiellement d’interrogatoire (du malade ou/et d’un témoin).
+
+Reprise de conscience sur les lieux (perte de connaissance brève = syncope) :
+
+syncope vasovagale (la plus fréquente des syncopes réflexes) :
+prodromes,
+circonstances de survenue (atmosphère confinée, stress, etc.),
+sujet souvent jeune ;
+syncope par hypotension orthostatique :
+circonstances de survenue (orthostatisme), médicaments hypotenseurs,
+sujet âgé ;
+syncope cardiaque :
+à l’emporte-pièce (++) ou à l’effort,
+sujet âgé,
+antécédents cardiologiques,
+diagnostic à l’ECG (BAV permanent, troubles du rythme ventriculaire) ou Holter-ECG, enregistrement hisien (+++) si BAV ou troubles du rythme paroxystiques, et échographie cardiaque ;
+syncope inexpliquée :
+test d’inclinaison (tilt-test),
+implantation d’un enregistreur ECG (Holter implantable) si syncopes récidivantes.
+Reprise de conscience aux urgences ou dans le camion du SAMU (perte de connaissance prolongée) :
+
+crise d’épilepsie généralisée :
+début soudain, sans prodromes (sauf si aura),
+durée prolongée (crise elle-même + coma et confusion post-critique),
+séquence tonicoclonique-résolution,
+morsure de la langue latérale ;
+événement non épileptique (pseudo-crises) :
+absence de véritable perte de connaissance,
+perte de connaissance très prolongée,
+mouvements des membres anarchiques,
+contexte biographique et antécédents psychiatriques.
+Malaises :
+
+malaises sans véritable perte de connaissance (ou perte de connaissance non isolée) :
+attaques de panique (crises d’angoisse),
+éthylisme aigu,
+hypoglycémie,
+accident ischémique transitoire vertébrobasilaire ;
+malaises avec perte de connaissance :
+traumatisme crânien avec perte de connaissance brève : surveillance de 24 heures,
+angor ou embolie pulmonaire syncopale ;
+autres malaises plus rares :
+ictus amnésique,
+crises d’épilepsie partielles,
+narcolepsie-cataplexie.

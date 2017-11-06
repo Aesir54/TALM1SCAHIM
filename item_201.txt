@@ -1,0 +1,362 @@
+Orientation diagnostique et conduite à tenir devant un traumatisme craniofacial
+
+Les traumatismes craniofaciaux sont la première cause de mortalité et de handicap fonctionnel sévère du sujet jeune. La circonstance la plus fréquente est l’accident de la voie publique, suivi de l’accident domestique et sportif puis de l’agression. En France, l’incidence des traumatismes crâniens mineurs est estimée à 40/100 000 habitants/an, et la prévalence des traumatismes crâniens sévères de 10 000/an.
+
+La prise en charge de ces patients est gouvernée par le dépistage d’une éventuelle détérioration secondaire à la constitution d’un hématome intracrânien et par le risque infectieux (+++) lié à la constitution de lésions de continuité entre l’espace intracrânien et les cavités aériennes de la face.
+
+I. Rappel
+La tête est composée de deux espaces contiguës que sont la face et la boîte crânienne séparée l’un de l’autre par une frontière qu’est la base du crâne.
+
+La face est caractérisée par la coexistence d’espaces aériens que sont les sinus de la face (frontale, ethmoïdal, sphénoïdal et mandibulaire supérieur) avec des structures fonctionnelles que sont les globes oculaires et nerfs optiques dans leurs loges osseuses, les voies aériennes supérieures et les voies digestives supérieures. Cet ensemble occupe, schématiquement, les deux tiers inférieurs de la face antérieure de la boîte crânienne.
+La boîte crânienne est l’espace clos dans lequel est situé l’encéphale. Elle est composée d’os plats (frontal, pariétal, occipital) déterminant une voûte au-dessus d’une base à trois étages (antérieur, moyen et postérieur) résultant de l’association entre ethmoïde, sphénoïde et rochers. Cet espace est tapissé sur toute sa surface par la méninge la plus externe qu’est la dure-mère.
+La survenue d’un traumatisme crânien peut déterminer des lésions des enveloppes (plaie craniocérébrale, fracture, fistule ostéodurale), la constitution d’hématomes extracérébraux (extradural, sous-dural), ou des lésions de l’encéphale lui-même.
+
+II. Orientation diagnostique devant un traumatisme cranio-encéphalique
+Tout traumatisme craniofacial doit être considéré comme un traumatisme vertébromédullaire cervical potentiel et peut être intégré dans le cadre d’un polytraumatisme.
+
+A. Interrogatoire
+Il est centré sur le traumatisme crânien et l’analyse de la comorbidité du patient. Ainsi, il précise :
+
+pour le traumatisme crânien :
+les circonstances du traumatisme afin d’évaluer son mécanisme (++), l’énergie cinétique l’ayant déterminé, et d’identifier les forces de décélération (accident de circulation en véhicule léger ou deux roues, chute d’une hauteur, tentative d’autolyse) ;
+la notion de malaise responsable du traumatisme ;
+les plaintes fonctionnelles immédiates et leur évolution dans le temps ;
+l’existence d’une perte de connaissance témoignant de la commotion cérébrale et la notion d’un intervalle libre avant l’installation d’un trouble de conscience ;
+pour les comorbidités :
+un comportement d’addiction ou une prise médicamenteuse ;
+l’état physiologique du patient (antécédents personnels, traitement d’entretien, en particulier un traitement anticoagulant, obésité, insuffisance fonctionnelle cardiaque, respiratoire, vasculaire).
+B. Examen clinique
+Dès l’admission, en salle de déchoquage, cet examen exhaustif et précis guide la stratégie à court et moyen terme. Comme tout traumatisme crânien expose à un traumatisme du rachis cervical, des précautions de mobilisation (+++) doivent être prises (bloc soulevé tracté d’un patient porteur d’une minerve rigide). Cet examen doit procéder systématiquement appareil par appareil en débutant par l’évaluation des grandes fonctions vitales. Nous précisons les grandes étapes de l’examen du traumatisme craniofacial.
+
+1. Fonctions vitales
+Sont concernées les fonctions :
+
+hémodynamiques : un choc hypovolémique n’est jamais secondaire à un traumatisme crânien isolé. Une épistaxis grave peut être incriminée mais la recherche de lésions viscérales thoraciques, abdominales ou périphériques s’impose ;
+respiratoires : le maintien d’une hématose normale garantit une oxygénation cérébrale de qualité. La lésion faciale peut induire une obstruction des voies aériennes supérieures qui peut nécessiter l’usage d’une canule de Guédel.
+2. Examen neurologique
+Cet examen, suivant le niveau de conscience des patients, permettra de guider les stratégies initiales.
+
+L’analyse de la conscience, basée sur le Glasgow Coma Scale (GCS) détaillé dans le tableau 27.1, utilise la réponse oculaire (ouverture spontanée, à la demande verbale, à la stimulation douloureuse, irréalisable), la réponse verbale (orale appropriée, confuse cohérente, incohérente avec mots inappropriés, incompréhensible, absente), et la réponse motrice (ordre moteur à la demande, orientée lors de la stimulation douloureuse, retrait en flexion, flexion stéréotypée, extension stéréotypée et absente).
+
+Tableau 27.1  Échelle du Glasgow Coma Score.
+
+Réponse oculaire
+Ouverture spontanée des yeux
+E4
+Ouverture à la demande verbale
+E3
+Ouverture à la stimulation douloureuse
+E2
+Ouverture irréalisable
+E1
+Réponse verbale
+Orale appropriée, orientée
+V5
+Confuse, cohérente
+V4
+Incohérente
+V3
+Incompréhensible
+V2
+Absence ou clignement à la menace
+V1
+Réponse motrice
+Ordre moteur
+M6
+Orientée à la stimulation douloureuse
+M5
+Retrait en flexion
+M4
+Flexion stéréotypée
+M3
+Extension stéréotypée
+M2
+Absente
+M1
+Par le GCS, la cotation suivante peut être utilisée : GCS = 13 : confusion mentale ; GCS = 9–10 : obnubilation, stupeur ; GCS = 8 : hypovigilance, obscurcissement ; GCS = 7 : coma ; GCS < 5 : coma grave, souffrance axiale.
+
+Par ailleurs, l’examen neurologique s’attachera à :
+
+la recherche de signes de localisation hémisphérique par l’étude bilatérale et symétrique (hypotonie, déficit moteur, asymétrie des réflexes, déficit de la sensibilité chez les patients conscients), de lésions des nerfs crâniens dues à des lésions directes lors de fracture de la base du crâne (nerfs oculomoteurs, nerf facial) ;
+la recherche d’un syndrome méningé consécutif à la survenue d’une hémorragie méningée, de crises convulsives ;
+l’étude des réflexes du tronc (+++) : frontopalpébral, cornéen, photomoteur, oculovestibulaires ;
+la recherche d’une altération des fonctions neurovégétatives sur le plan ventilatoire (rythme de Cheynes-Stokes), sur le plan cardiovasculaire (bradycardie, hypertension artérielle), sur le plan de la régulation thermique ;
+la recherche de lésions du tronc cérébral scindées en :
+diencéphaliques (décortication [flexion des membres supérieurs et extension des membres inférieurs], myosis, photomoteurs présents, oculovestibulaires normaux),
+mésencéphalo-protubérantielles hautes (décérébration [extension, abduction et pronation des membres supérieurs – « enroulement » – et extension des membres inférieurs], pupilles intermédiaires, photomoteurs abolis, oculovestibulaires perturbés),
+et protubérantielles bas-bulbaires (décérébration ou aréactivité, pupilles aréactives, oculovestibulaire abolis, dysarythmie ventilatoire).
+3. Examen du crâne et de la face
+Il comporte :
+
+l’inspection et la palpation du crâne à la recherche d’une plaie du scalp, d’une déformation de la voûte par un fragment embarré, d’une issue de matière cérébrale lors de plaie craniocérébrale ;
+l’inspection des plaies de la face dont la topographie doit être notée sur un schéma. Les plaies jugales sont classées en moitié antérieure (complications : lésions mandibulaires) et en moitié postérieure (complications : lésions du canal de Sténon et/ou du nerf facial). Les plaies des lèvres et de la bouche peuvent se compliquer d’obstruction des voies aériennes supérieures (lambeau de muqueuse, dents, épistaxis). Les plaies de paupières sont scindées en lésion du canthus interne avec son risque de plaie du canal lacrymal qui impose une réparation chirurgicale, lésions du bord libre et celles de la paupière supérieure avec atteinte du muscle releveur de la paupière ;
+la recherche d’un traumatisme du globe oculaire : contusion, plaie perforante du globe. Un hématome périorbitaire bilatéral fait suspecter une fracture de la base du crâne ;
+la recherche d’une paralysie faciale périphérique immédiate ou précoce par une manœuvre de Pierre Marie et Foix chez les patients inconscients, témoignant de la section du nerf facial dans le canal de Fallope par une fracture transversale du rocher ;
+la recherche d’une plaie du pavillon de l’oreille.
+4. Recherche d’un écoulement de liquide cérébrospinal ou d’une hémorragie de la face
+L’issue de liquide cérébrospinal (LCS) (+++) par le conduit auditif externe (otorrhée) témoigne d’un traumatisme de l’étage moyen, du rocher. Par le nez (rhinorrhée antérieure), l’extériorisation de LCS signe l’existence d’une fistule ostéodurale de l’étage antérieur de la base du crâne. Mais cette rhinorrhée peut être postérieure vers l’oropharynx lors de fistule constituée aux dépens du sinus sphénoïdal.
+
+Une otorragie, émission de sang rouge par le conduit auditif externe, est la conséquence d’une fracture du rocher et/ou de l’os tympanal avec déchirure du tympan ou de la peau du conduit. Une épistaxis, hémorragie provenant d’une fosse nasale, bénigne dans la majorité des cas peut constituer l’urgence médicochirurgicale responsable d’un choc hypovolémique.
+
+5. Examen somatique systématique
+Cet examen somatique est centré sur l’appareil locomoteur par une palpation rapide des os longs et des articulations à la recherche de déformations, d’hématomes sous-cutanés, de plaies superficielles ou profondes des parties molles. L’axe rachidien est palpé tout le long sans mobilisation intempestive du patient à la recherche d’une déformation rachidienne. La cage thoracique et l’abdomen sont examinés à la recherche de douleurs localisées, de déformation, de défense abdominale, de déformation abdominale.
+
+6. En résumé
+Au terme de cet examen, le patient appartient à l’un des trois groupes de Masters (tableau 27.2) qui permettra de définir un risque de lésions sous-jacentes.
+
+
+
+
+
+
+------------------------------------------------>Tableau 27.2  Groupes selon les critères de Masters.
+
+
+
+
+
+
+
+
+
+
+Les mesures suivantes doivent être retenues.
+
+Hospitalisation courte de 24 heures lors d’une perte de connaissance même courte,
+Une analyse précise du mécanisme du traumatisme crânien et des conséquences lésionnelles sur la voûte et base osseuse. Un trait de fracture de la base au contact des vaisseaux méningés doit faire redouter une dissection secondaire de l’artère méningée moyenne faisant renouveler la TDM cranio-encéphalique avant la sortie.
+La commotion cérébrale est le terme signifiant un ébranlement cérébral lors d’un traumatisme crânien responsable d’une sidération physiologique voire de lésions microscopiques non visibles en imagerie conventionnelle.
+Un traumatisme crânien nécessite un arrêt de travail d’au minimum 2 semaines. Le risque de troubles cognitifs même dans un traumatisme crânien bénin existe chez 45 % des patients, le syndrome subjectif post-traumatique doit être dépisté à 4-6 mois. En cas de doute, une évaluation neuropsychologique doit être proposée.
+C. Explorations complémentaires
+Leurs prescriptions seront guidées par le type de lésions observées et selon le niveau de conscience.
+
+1. Tomodensitométrie cranio-encéphalique
+La tomodensitométrie (TDM) cranio-encéphalique constitue l’examen clé du traumatisme cranio-encéphalique. Le développement des TDM multibarrettes (16, 32 ou 64) permet de réaliser des acquisitions rapides (quelques minutes pour un « corps entier ») avec possibilité d’analyse dans les trois plans de l’espace. Les coupes axiales orbitoméatales diagnostiquent les lésions figurées d’enveloppes et de l’encéphale (hématomes, contusions cérébrales hémorragiques ou œdémateuses, lésions axonales diffuses).
+
+La TDM de la face explore, sur les reconstructions coronales et sagittales en fenêtre osseuse, les fractures ethmoïdofrontales, sphénoïdales et du rocher. En outre, seront précisés l’existence d’hémosinus, le trajet du trait de fracture par rapport à l’oreille interne, les fractures mandibulaires. L’importance des déplacements osseux argumente une éventuelle fistule ostéodurale.
+La TDM du rachis, en fenêtre osseuse, permet par une analyse dans les trois plans de l’espace des trois segments vertébraux et de leurs charnières.
+La TDM thoraco-abdominale est indiquée selon les données de l’examen clinique.
+2. Biologie
+La recherche de troubles métaboliques et de prises de toxiques est impérative. Un ionogramme sanguin, une alcoolémie et l’analyse de la coagulation (TP, TCA) sont pratiqués de manière systématique.
+
+3. Imagerie en résonance magnétique nucléaire
+Cet examen n’a pas sa place dans le diagnostic de lésions craniofaciales en urgence. L’unique indication à sa pratique en urgence est la dissociation radioclinique (tétra- ou paraplégie malgré l’absence de lésions osseuses) chez un traumatisé vertébromédullaire à la recherche d’une lésion discoligamentaire compressive.
+
+4. Au total
+Le faisceau d’argument permet d’établir une analyse des lésions traumatiques de la face, des enveloppes ostéodurales crâniennes, du parenchyme cérébral. Sans oublier la possibilité de lésions axiales rachidiennes et de lésions associées thoraco-abdominales ou de l’appareil locomoteur.
+
+III. Conduite à tenir devant un traumatisme cranio-encéphalique
+A. Prise en charge préhospitalière
+Elle repose sur :
+
+la coordination des intervenants assurée par la régulation du SAMU (adaptation de l’équipe, disponibilité d’hospitalisation, organisation du transport terrestre ou héliporté, veille à une stratégie d’exploration et de traitement adaptée aux observations durant le transport, orientation vers une structure disposant d’un service de réanimation, d’une TDM, d’un service de neurochirurgie) ;
+la prévention des agressions cérébrales secondaires systémiques par le maintien d’une fonction ventilatoire et cardiocirculatoire correcte (intubation en tenant compte du risque de lésion cervicale associée, ventilation artificielle de façon à maintenir une saturation oxyhémoglobinée = 90% avec une normocapnie, le maintien d’une pression artérielle systolique > 90 mmHg) ;
+l'immobilisation du patient par usage d’une minerve rigide et d’un matelas coquille ;
+l’intégration de ce traumatisme crânien grave dans le cadre d’un polytraumatisme.
+Les solutés à utiliser sont :
+
+soluté vecteur : sérum salé isotonique à 0,9 % ;
+soluté de remplissage vasculaire : sérum salé isotonique à 0,9 % ;
+exclusion de tout soluté hypotonique ;
+lors de signes en faveur d’un engagement cérébral (cf. chapitre 28 ) : mannitol à 20 % à dose de 0,25 à 1 g/kg en 20 minutes.
+B. Surveillance clinique rapprochée dès l’admission
+Cette surveillance clinique doit être horaire (+++). Elle concerne :
+
+les fonctions ventilatoires et hémodynamiques (pouls, tension) ;
+l’état neurologique par l’intermédiaire du score de Glasgow et le réflexe photomoteur.
+Toute détérioration nouvelle doit faire pratiquer une nouvelle TDM cranio-encéphalique.
+
+IV. Traumatismes maxillofaciaux
+Il est possible de décrire trois niveaux de lésions osseuses (tiers supérieur ou frontal : orbite et naso-ethmoïdal ; tiers moyen ou plancher de l’orbite : pyramide nasale ou maxillomalaire ; tiers inférieur ou mandibule), cette classification, éloignée de la pratique quotidienne, est supplantée par une distinction entre fractures simples, isolées, et complexes, multilésionnelles, volontiers associées à des lésions extrafaciales.
+
+A. Formes simples, isolées
+De diagnostic clinique et radiologique simple, elles ne constituent jamais une urgence. Elles sont classées par ordre de fréquence décroissante.
+
+1. Fracture des os propres du nez
+Les lésions de l’auvent nasal ou de la cloison ostéocartilagineuse sont diagnostiquées sur des radiographies simples de profil. Les complications en sont : la fracture ouverte, l’épistaxis et l’hématome de cloison.
+
+2. Fractures de mandibule
+Fréquentes, les topographies concernent les zones de fragilité de l’os que sont la région para-symphysaire, l’angle de la mandibule et la région condylienne (+++). L’examen clinique relève : trouble de l’articulé dentaire, limite de l’ouverture buccale (< 35 mm) et douleur prétragienne à la pression douce de la région condylienne. La radiographie simple face basse et la TDM font le diagnostic.
+Deux types de fractures sont distingués : celles de la portion dentée (symphyse et branche horizontale) et celles du ramus (coroné, condyle et angle). L’obstruction des voies aériennes supérieures est possible par glossoptose lors de fractures parasymphysaires bilatérales. Quelques complications sont liées au site de la fracture : coroné (désinsertion du muscle temporal), condyle (otorragie par fracture de l’os tympanal) – et distinction dans ce cas des fractures condyliennes hautes articulaire des basses extra-articulaires.
+Le traitement en est la réduction puis la synthèse par plaques miniaturisées suivie d’un blocage bimandibulaire aux élastiques.
+3. Fractures de l’orbite
+Les fractures les plus fréquentes sont celles du malaire ou du plancher de l’orbite. La topographie au niveau du malaire est la jonction frontomalaire, l’arcade zygomatique et le rebord orbitaire en dedans. La présentation clinique comporte ecchymose, effacement de la pommette, limitation de l’ouverture buccale, diplopie. Le diagnostic radiographique repose sur l’incidence de Worms.
+
+La fracture du plancher se présente cliniquement comme une contusion du globe oculaire et une diplopie dans le regard vers le haut. Il existe deux formes anatomiques : le blow out où le contenu sinusien se répand dans les tissus périorbitaires, et le trap door où le tissu périorbitaire est encastré dans le déplacement osseux.
+
+La fracture isolée de l’arcade zygomatique se manifeste par une limitation douloureuse de l’ouverture buccale. Le diagnostic radiologique repose sur l’incidence latéralisée de Hirtz.
+
+B. Formes complexes
+Multilésionnelles, elles sont secondaires à des traumatismes à haute énergie cinétique et nécessitent une exploration soigneuse tomodensitométrique en coupes axiales et coronales. Les lésions encéphaliques, de l’appareil oculaire et auditif sont fréquemment associées et à rechercher systématiquement.
+
+1. Disjonctions craniofaciales (DCF)
+L’impact frontal disjoint le massif facial selon la base du crâne. L’élément pathognomonique de la DCF est la fracture de l’apophyse ptérygoïde (+++). Cliniquement, on observe un œdème facial important et une motilité de l’arcade dentaire supérieure. Plusieurs formes cliniques sont décrites :
+
+Lefort I séparant le maxillaire au niveau du plancher des fosses nasales ;
+Lefort II détachant la pyramide nasale et le maxillaire en passant par les trous sous-orbitaires pour se poursuivre jusqu’aux apophyses ptérygoïdes ;
+Lefort III passant par les jonctions nasofrontales et frontomalaires. La DCF complète dans ce cas est compliquée dans 25 % des cas de fistule de LCS.
+Le traitement en est un blocage intermandibulaire après réduction et usage de plaques miniaturisées.
+
+2. Fractures de l’étage antérieur de la base du crâne
+L’étage antérieur de la base du crâne constitue l’interface entre, latéralement, les orbites et, médialement, les structures aériennes des sinus ethmoïdosphénoïdaux et le contenu de la boîte crânienne. Ces fractures neurotoxiques exposent à la fistule ostéodurale (+++) (fig. 27.1). Elles sont classées selon le siège de l’impact en chocs médian et latéral.
+
+Cliniquement, l’anosmie est la règle, l’hématome périorbitaire bilatéral (+++) impose l’exploration radiographique par scanner avec reconstructions coronale et sagittale. Les conséquences de cette fracture sont de plusieurs types :
+
+la brèche méningée survenant dans 80 % au niveau de l’ethmoïde. Cliniquement, elle est révélée par la rhinorrhée cérébrospinale et une pneumatocèle (air endocrânien). Si la majorité des fistules se tarissent à 8–10 jours, l’incidence de la méningite (à pneumocoque) est de 8 à 16 % ;
+les lésions neuro-ophtalmologiques caractérisées par une baisse de l’acuité visuelle, une mydriase, une ophtalmoplégie. Rencontrées dans 3 à 10 % des traumatismes crâniens, ces lésions sont dues à des lésions oculaires directes ou du nerf optique dans son canal par des fragments osseux déplacés ;
+une anosmie dans 40 % des cas ;
+une altération de l’appareil palpébral avec ptosis ;
+le traumatisme du sinus frontal plus fréquent que l’ethmoïdal ou sphénoïdal, pouvant se compliquer d’une mucocèle.
+La prise en charge multidisciplinaire implique les équipes neurochirurgicale et maxillofaciale pour la réparation avec plastie durale de ces lésions complexes.
+
+Fig. 27.1
+
+Reconstruction sagittale de coupes tomodensitométriques en fenêtre osseuse montrant les fracas osseux de la base du crâne. Illustration indirecte de fistule ostéodurale.
+
+V. Lésions cranio-encéphaliques
+A. Lésions des enveloppes
+1. Embarrure osseuse
+C’est un enfoncement de la voûte crânienne en regard de l’impact qui peut se compliquer de lésions cutanées, d’une compression ou contusion du cortex, d’une brèche méningée. Le scanner en fenêtre osseuse, indispensable, analyse les caractéristiques (topographie, taille, lésions sous-jacentes). Si l’embarrure fermée n’est pas une urgence, l’embarrure ouverte est considérée comme une plaie craniocérébrale (cf. infra).
+
+2. Plaies craniocérébrales
+Définies par l’existence d’une issue de matière cérébrale à travers un orifice osseux traumatique, elles constituent une urgence neurochirurgicale (+++). L’étiologie classique est la plaie par projectiles (arme à feu) ou par objets contendants dans les accidents de la voie publique. Le scanner, indispensable, diagnostique l’importance des délabrements cérébraux. Le traitement est un parage chirurgical en urgence des plans cutanés, sous-cutanés, osseux, avec excision des parties nécrotiques, ablation des corps étrangers, puis réparation étanche associée à la mise en place d’une triple antibiothérapie (pénicilline 3e génération, aminosides, métronidazole).
+
+3. Fistule de liquide cérébrospinal (LCS)
+La fistule ostéodurale expose aux complications infectieuses. Cet écoulement de LCS, évident s’il est nasal antérieur (rhinorrhée cérébrospinale), apparaît sous forme de liquide clair venant goutte à goutte spontanément, lors de manœuvre de flexion antérieure en position assise ou de manœuvre d’hyperpression abdominale (Queeken-Stookey). La fistule de LCS doit être recherchée par un test au glucose ou une tâche humide limitée par une auréole rosée sur l’oreiller.
+La rhinorrhée témoigne d’une fistule au niveau de l’étage antérieur (anosmie), l’otorrhée d’une fracture du rocher.
+Les recommandations sont une vaccination antipneumococcique, l’absence d’indication à une antibioprophylaxie, et la réparation chirurgicale en cas de fistule active ou de lésions osseuses importantes.
+B. Complications infectieuses
+1. Méningite post-traumatique
+La TDM réalisée en coupes coronales montre sur les clichés en fenêtre osseuse la solution de continuité. La brèche ostéodurale est suspectée lorsque les dégâts osseux laissent présager une plaie durale.
+Le germe le plus fréquent est le pneumocoque. Le traitement en est une antibiothérapie adaptée suivie d’une plastie chirurgicale de la base.
+2. Abcès cérébral
+Rare, il est dû à un corps étranger ou à l’existence de fragments osseux embarrés en regard d’une plaie non parée. Son tableau clinique est constitué par l’association d’une hypertension intracrânienne et de signes focaux. La TDM avec injection de contraste montre l’aspect en « cocarde ». Le traitement en est la ponction-lavage chirurgicale après prélèvements bactériologiques combinée à la mise en place d’une antibiothérapie adaptée ciblant les germes anaérobies.
+
+VI. Hématomes extracérébraux
+A. Hématome extradural
+1. Définition, épidémiologie
+L’hématome extradural (HED) est une collection de sang entre la dure-mère et la voûte du crâne. Le degré d’adhérences entre ces deux structures est déterminant : le siège électif est temporopariétal (67 %), le plus souvent observé avant 40 ans.
+
+2. Physiopathologie
+L’origine de l’HED est :
+
+artérielle, consécutive à une déchirure d’une branche de l’artère méningée moyenne ;
+veineuse, provenant du diploé osseux fracturé ou d’un décollement d’un sinus dural.
+3. Signes cliniques
+Aucun signe n’est spécifique de l’HED. Le traumatisme crânien est le plus souvent modéré (++), responsable de lésion de la voûte, de décollement dural (chute de sa hauteur, chute de vélo, etc.). La notion d’intervalle libre caractéristique de l’HED traduit le délai nécessaire à la constitution d’un hématome suffisant pour induire une hypertension intracrânienne. Les éventuelles lésions associées (contusion cérébrale, hématome sous-dural aigu, lésion axonale diffuse) peuvent masquer ce classique rythme d’installation du tableau clinique.
+
+La gravité de la lésion sous-jacente déterminera le pronostic.
+
+4. Signes radiologiques
+La TDM, réalisée sans injection, montre :
+
+une hyperdensité spontanée en forme de « lentille » biconvexe responsable d’un effet de masse, parfois en regard d’une fracture de voûte visible sur les coupes réalisées en fenêtres osseuses (fig. 27.2) ;
+d’éventuelles lésions associées.
+Fig. 27.2
+
+Scanner cérébral, coupe axiale. Hématome extradural temporal droit et contusion temporale gauche.
+
+B. Hématome sous-dural aigu
+1. Définition, épidémiologie
+L’hématome sous-dural (HSD) aigu est défini par la présence de sang entre la dure-mère et l’arachnoïde. Cet espace, normalement virtuel, est occupé par l’expansion de l’espace sous-arachnoïdien. L’HSD peut se collecter en n’importe quelle topographie de la voûte ou de la base du crâne. Il peut survenir à tout âge, mais est observé le plus souvent au-delà de 40 ans en raison de l’adhérence de la dure-mère à la voûte.
+
+2. Physiopathologie
+L’origine de l’HSD est :
+
+la rupture de veines corticales « en pont » destinées aux sinus collecteurs duraux. L’ébranlement du cerveau au moment de l’impact induit des phénomènes de déchirure et de section de ces veines ;
+la collection secondaire de contusions cérébrales (60 à 90 % des cas). L’HSD s’intègre dans un tableau de lésions cérébrales multiples (++).
+Des facteurs de risque sont à rechercher : prise d’anticoagulants et coagulopathies.
+
+3. Signes cliniques
+La cause majeure est un traumatisme crânien avec force de décélération importante (+) : accident de voie publique, chute violente. Le diagnostic est suspecté devant :
+
+des signes d’hypertension intracrânienne : troubles de conscience, fréquents, survenant après un intervalle libre très bref, tableau d’engagement cérébral temporal : coma, paralysie homolatérale du III et réaction motrice stéréotypée controlatérale ;
+des signes de souffrance focale : hémiparésie, crise d’épilepsie partielle ;
+des signes de souffrance du tronc cérébral : signe de Babinski bilatéral, déséquilibre neurovégétatif ventilatoire, hémodynamique.
+4. Signes radiologiques
+La TDM, réalisée sans injection, permet le diagnostic :
+
+une hyperdensité spontanée biconcave se moulant sur la surface corticale, souvent d’épaisseur réduite mais très étendue en hauteur sur de multiples coupes (fig. 27.3) ;
+les lésions associées : contusion cérébrale, lésion axonale diffuse, autres hématomes ;
+l’effet de masse consécutif à sa présence sous forme d’un déplacement des structures parenchymateuses (ventricules, ligne médiane).
+Fig. 27.3
+
+Scanner cérébral, coupe axiale. Hématome sous-dural temporal droit responsable d’un effet de masse sur la ligne médiane.
+
+VII. Contusion cérébrale
+Ce terme définit l’ensemble des lésions encéphaliques liées à la transmission de l’onde de choc. Il peut s’agir de véritables collections sanguines (cf. fig. 27.1) ou œdémateuses focales mais aussi de lésions axonales diffuses. Ces dernières sont des microsections produites par la décélération à l’interface de la substance grise et blanche. Si la lésion axonale diffuse impose des techniques de réanimation et neuroprotection, le premier type de contusion impose un monitoring de la pression intracrânienne (PIC) et éventuellement des techniques de décompression chirurgicale.
+
+Les moyens de lutte contre l’hypertension intracrânienne sont les suivants :
+
+tête surélevée de 30° pour obtenir un bon drainage veineux cérébral ;
+maintien d’une pression systolique normale et d’une normothermie ;
+neurosédation ;
+hyperventilation assistée avec maintien d’une capnie autour de 25–30 mmHg ;
+restriction hydrosodée ;
+traitement antiœdémateux, mannitol 10 % 60 cm3 toutes les 4 heures ;
+prévention des crises d’épilepsie.
+VIII. Complications vasculaires
+Les fistules carotidocaverneuses, exceptionnelles, surviennent après un arrachement des branches collatérales de l’artère carotide interne intracaverneuse. Le diagnostic est suspecté sur l’installation rapidement progressive d’une exophtalmie pulsatile (++), un syndrome du sinus caverneux évoluant jusqu’à l’ophtalmoplégie, voire une altération de l’acuité visuelle, et confirmé par l’auscultation cardiaque d’un souffle systolodiastolique intracrânien.
+La dissection des artères cervicales est plus commune. La circonstance diagnostique après un traumatisme du rachis cervical est la survenue d’un accident ischémique au décours d’un traumatisme crânien. Le diagnostic repose sur l’angiographie en résonance magnétique qui montre, sur les séquences axiales T1 avec saturation de graisse, une artère de calibre externe augmenté avec un hypersignal en croissant de la paroi artérielle et une lumière résiduelle rétrécie.
+IX. Complications tardives
+A. Hydrocéphalie
+Elle est secondaire à un trouble de résorption de LCS. Elle induit la triade classique :
+
+troubles des fonctions supérieures ;
+trouble de la marche ;
+troubles sphinctériens.
+Le scanner montre la dilatation ventriculaire associée à une hypodensité en regard des cornes frontales et occipitales des ventricules latéraux illustrant la résorption trans-épendymaire. La soustraction de LCS par ponctions lombaires itératives doit permettre une régression partielle et temporaire du tableau clinique. Le traitement se fait par implantation d’un système de dérivation interne. L’IRM confirme le trouble de résorption sur les séquences T2/FLAIR (fig. 27.4).
+
+Fig. 27.4
+
+IRM, séquence T2/FLAIR en coupe axiale, montrant une dilatation ventriculaire associée à un hypersignal bordant l’épendyme.
+
+La dilatation ventriculaire ne correspond pas toujours à une hydrocéphalie et peut être observée dans le cadre de lésions axonales diffuses, secondaires à une atrophie corticale.
+
+B. Hématome sous-dural chronique
+1. Définition, épidémiologie
+L’hématome sous-dural chronique est une collection liquidienne limitée par une membrane (caillots en voie de liquéfaction) située entre la dure-mère et l’arachnoïde, résultant de l’hémolyse d’un hématome passé inaperçu. Son incidence est de 1 à 2 pour 100 000 personnes par an. Il survient au-delà de 50 ans dans plus 90 % des cas et 50 % des patients n’ont aucune histoire de traumatisme crânien. Les facteurs de risque sont : coagulopathie, traitement anticoagulant, intoxication éthylique chronique.
+
+2. Physiopathologie
+La constitution d’un hématome sous-dural (HSD) se fait en plusieurs étapes :
+
+hémorragie initiale dans l’espace sous-dural, à partir de veines « en pont » déchirées lors d’un traumatisme crânien passant inaperçu. Le facteur favorisant est l’atrophie corticale qui « met en tension » les veines en pont ;
+constitution d’une membrane par le jeu de la fibrinolyse de l’hématome et le développement de réactions inflammatoires ;
+élargissement de l’hématome sous-dural, à partir de saignements itératifs provenant de la membrane externe, siège d’une néovascularisation à cause de la pression oncotique liée à la dégradation des globules rouges qui induit un afflux de liquide transmembranaire.
+3. Signes cliniques
+Peu spécifique, le tableau peut être celui d’une « démence curable » :
+
+céphalées ;
+troubles des fonctions cognitives (> 70 % chez le sujet âgé) : lenteur d’idéation, troubles de mémoire, confusion ;
+signes focaux : hémiparésie, épilepsie ;
+signes d’hypertension intracrânienne : troubles de conscience.
+4. Signes radiologiques
+Seul le scanner, sans injection de contraste, permet le diagnostic, qui montre :
+
+l’hématome sous-dural chronique constitué d’une collection hypo- ou isodense au parenchyme (fig. 27.5). Son aspect est parfois hétérogène, fait d’un niveau liquidien témoin d’un saignement récent ;
+l’effet de masse qui s’exerce sur les structures corticales apparaissant comme un effacement des sillons (par comparaison avec l’hémisphère controlatéral), sur les structures de la ligne médiane.
+Fig. 27.5
+
+Scanner cérébral, coupes axiales.
+A. Hématome sous-dural isodense bilatéral. B. Hématome sous-dural hypodense hémisphérique gauche.
+
+C. Épilepsie post-traumatique
+La prévention systématique des crises convulsives n’est pas recommandée. L’administration d’anticonvulsivant peut être utile chez des patients à haut risque : Glasgow < 10 ; contusion corticale, embarrure, plaie craniocérébrale, survenue de convulsions au cours des 24 premières heures. Le choix de l’antiépileptique est guidé par le type de manifestation comitiale (généralisée ou partielle).
+
+D. Séquelles
+Elles correspondent à un état pathologique résiduel qu’aucun traitement ne peut faire régresser. Elles peuvent être :
+
+un syndrome post-commotionnel subjectif constitué de céphalées, de vertiges, de troubles neuropsychiques variés, de troubles du sommeil. L’évolution de ce syndrome, pris en charge dans le cadre d’une relation médecin-malade, se fait le plus souvent de manière favorable ;
+des déficits neurologiques secondaires à des lésions localisées. Ils peuvent induire des états de dépendance physique ou psychique ;
+des états neurovégétatifs caractérisés par la perte de la vie de relation.
+ 
+
+POINTS CLÉS :
+
+La prise en charge des fonctions vitales lors de la survenue d’un traumatisme craniofacial est immédiate et se répète de manière rapprochée, avec l’aide de l’échelle de Glasgow.
+L’examen du crâne et de la face est systématique, pour dépister les complications justifiant une intervention chirurgicale urgente.
+Les indications urgentes du scanner cérébral sont : altération de la conscience, crise comitiale, signes de localisation, toute apparition secondaire de signes, plaie craniocérébrale, embarrure.
+Doivent être particulièrement connus : les signes d’engagement temporal, la notion d’intervalle libre dans l’hématome extradural, les lésions associées dans l’hématome sous-dural aigu, et la fréquence de l’hématome sous-dural chronique chez le sujet âgé.
+ 
+
+Pour en savoir plus
+ANAES. Recommandations pour la pratique clinique : prise en charge des traumatisés crâniens graves à la phase précoce ; Janvier 1998.

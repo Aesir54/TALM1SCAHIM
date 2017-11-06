@@ -1,0 +1,357 @@
+Tumeurs intracrâniennes
+
+
+Objectifs pédagogiques
+Diagnostiquer une tumeur intracrânienne.
+Identifier les situations d’urgence et planifier leur prise en charge.
+Tous types confondus, les tumeurs intracrâniennes, y compris les métastases cérébrales, représentent une pathologie fréquente en neurologie, dont l’incidence suit celle des accidents vasculaires cérébraux et des démences. Leur prise en charge implique un partenariat multidisciplinaire où neuro-oncologue, neuroradiologue, anatomo-pathologiste, neurochirurgien, radiothérapeute, médecin généraliste, médecin de soins palliatifs ont leur place.
+
+I. Épidémiologie
+A. Tumeurs intracrâniennes de l’enfant
+Les tumeurs du système nerveux central sont les plus fréquentes des tumeurs solides de l’enfant.
+Il s’agit du deuxième cancer (20 %) derrière les leucémies (30 %).
+Les tumeurs les plus fréquentes sont :
+à l’étage sous-tentoriel les gliomes diffus du tronc cérébral, les astrocytomes pilocytiques et les médulloblastomes cérébelleux ;
+à l’étage sus-tentoriel les gliomes et les craniopharyngiomes.
+B. Tumeurs intracrâniennes de l’adulte
+1. Tumeurs primitives
+L’incidence des tumeurs intracrâniennes primitives de l’adulte est de 10/100 000 habitants par an (6 000 nouveaux cas/an en France).
+Par ordre décroissant, il s’agit de méningiomes (40 %), de gliomes tous grades confondus (30 %) et d’adénomes hypophysaires (10 %).
+Les tumeurs cérébrales malignes représentent un tiers d’entre elles, soit 1 % de l’ensemble des cancers.
+2. Métastases
+Les métastases cérébrales sont beaucoup plus fréquentes que les tumeurs primitives intracrâniennes.
+Leur incidence est sous-évaluée car elles restent souvent asymptomatiques du vivant des patients.
+Les études autopsiques suggèrent qu’elles compliquent l’évolution de 20 % des cancers.
+En dehors des cancers du poumon où les métastases cérébrales peuvent être révélatrices du cancer dans 20 % des cas, celles-ci surviennent tardivement dans l’histoire naturelle du cancer et trois quarts des patients ont déjà des métastases dans d’autres localisations.
+II. Neuropathologie
+A. Tumeurs primitives
+Le diagnostic de certitude repose sur l’analyse histologique d’un fragment tumoral obtenu par biopsie chirurgicale stéréotaxique ou lors d’un geste d’exérèse.
+
+La classification utilisée est celle de l’OMS qui distingue les tumeurs en fonction de leur cellule d’origine et de leur grade de malignité (tableau 26.1).
+
+
+
+
+
+
+
+----------------------------------> Tableau 26.1  Classification histopronostique de l’OMS des tumeurs cérébrales primitives.
+
+
+
+
+
+
+
+
+
+
+
+
+
+B. Métastases
+En pratique le diagnostic de métastases cérébrales peut être retenu sur les caractéristiques de l’IRM cérébrale et ne nécessite pas obligatoirement de confirmation histologique si le cancer systémique est connu, en particulier s’il est évolutif et s’il existe d’autres localisations métastatiques. Dans le cas contraire, un examen histologique est nécessaire.
+
+Les cancers du poumon et du sein sont à l’origine de plus de la moitié des métastases cérébrales, loin devant les cancers du rein, de l’appareil digestif et des mélanomes.
+
+III. Présentation clinique
+A. Syndrome d’hypertension intracrânienne (HIC)
+Lié à la croissance du processus expansif intracrânien ou consécutif à un blocage des voies d’écoulement du LCS responsable d’une hydrocéphalie, il est caractérisé par l’association de :
+
+céphalées typiquement matinales ;
+vomissements ;
+œdème papillaire au fond d’œil ;
+une diplopie par atteinte du nerf abducens peut parfois survenir, sans valeur localisatrice.
+Chez le nourrisson, le syndrome d’HIC comporte plusieurs signes spécifiques :
+
+une macrocrânie : toujours présente dans les hydrocéphalies chroniques se révélant avant l’âge de 2 ans, elle est caractérisée par un périmètre crânien > 2 DS (déviations standard) au-dessus de la normale ; souvent révélatrice, elle peut être remarquée à l’occasion d’une rupture de la courbe de croissance du périmètre crânien ;
+la tension marquée de la fontanelle antérieure et la disjonction des sutures, perceptibles à l’examen ;
+le regard « en coucher de soleil » correspondant à une déviation permanente vers le bas des globes oculaires ; la paupière supérieure est rétractée. Une baisse d’acuité visuelle pouvant conduire à la cécité par atrophie optique peut être une conséquence dramatique de l’hydrocéphalie méconnue.
+B. Crises d’épilepsie
+Une crise épileptique partielle ou généralisée est révélatrice de 20 à 40 % des tumeurs cérébrales.
+
+L’épilepsie est plus fréquente pour les tumeurs corticales et d’évolution lente (gliome de bas grade, méningiome).
+
+C. Déficits focaux
+Liés à la compression ou à l’infiltration du parenchyme cérébral par la tumeur.
+Le déficit est aggravé en cas d’œdème vasogénique tumoral associé.
+Son mode d’apparition est généralement rapidement progressif, s’étendant « en tache d’huile ». Son type dépend de la topographie tumorale.
+D. Troubles cognitifs
+Syndrome confusionnel ou démentiel en cas de lésions multiples (métastases) ou étendues (gliome infiltrant ou lymphome cérébral).
+Syndrome frontal (tumeur frontale), troubles de la mémoire (tumeur du corps calleux).
+E. Troubles de l’équilibre et atteinte des nerfs crâniens
+Ataxie cérébelleuse : tumeur du cervelet.
+Atteinte multiple des nerfs crâniens : tumeur du tronc cérébral.
+IRM et tumeur cérébrale
+
+La réalisation d’une IRM cérébrale, sans et avec injection de gadolinium, est systématique en cas de suspicion de tumeur cérébrale et a supplanté le scanner cérébral. Elle permettra :
+de localiser le processus expansif (sus-tentoriel, sous-tentoriel, intra- ou extraparenchymateux, uni- ou multifocal) ;
+de préciser ses caractéristiques (existe-t-il une prise de contraste ? est-elle homogène ou hétérogène ? existe-t-il un œdème périlésionnel ? des calcifications ? une nécrose ? une hémorragie intratumorale ?) ;
+de diagnostiquer certaines complications évolutives de la tumeur (hémorragie, hydrocéphalie, engagement, méningite tumorale) ;
+de définir la suite de la stratégie diagnostique (biopsie, exérèse).
+La spectro-IRM en appréciant le degré de prolifération cellulaire (rapport choline/N-acétyl-aspartate) et l’IRM de perfusion en détectant l’existence d’une néoangiogenèse (volume sanguin cérébral relatif) au sein d’une lésion, peuvent argumenter en faveur de la nature tumorale d’une lésion cérébrale et estimer son agressivité.
+Diagnostics différentiels
+
+Un abcès cérébral (prise de contraste annulaire et contexte infectieux).
+Un tuberculome.
+Une toxoplasmose (immunosuppression, VIH).
+Une forme pseudo-tumorale d’une pathologie inflammatoire du système nerveux central (sarcoïdose, sclérose en plaques, maladie de Behçet,…).
+IV. Complications évolutives
+A. Hémorragie intratumorale
+Elle est plus fréquente avec certains types de tumeurs (métastases de mélanome ou de cancer du rein) et peut être prise pour un hématome cérébral quand la tumeur sous-jacente n’est pas connue. Il faut donc demander une IRM cérébrale à 6 semaines devant une hémorragie parenchymateuse spontanée pour rechercher une tumeur sous-jacente masquée par les signes aigus de l’hémorragie.
+
+B. Hydrocéphalie
+Elle peut résulter :
+
+de l’obstruction des voies d’écoulement du LCS par le processus tumoral ; l’hydrocéphalie est alors non communicante et toute ponction lombaire est contre-indiquée à cause du risque d’engagement occipital ;
+ou d’une dissémination tumorale leptoméningée entravant la résorption du LCS ; l’hydrocéphalie est alors communicante et autorise une éventuelle ponction lombaire.
+Elle peut affecter une partie du système ventriculaire (par exemple, hydrocéphalie triventriculaire par obstruction de l’aqueduc de Sylvius) ou l’ensemble de celui-ci (hydrocéphalie tétraventriculaire secondaire par exemple à une obstruction des trous de Magendie et Luschka ou à un obstacle à la résorption du LCS lié à une méningite tumorale).
+
+C. Engagement
+L’engagement cérébral correspond au passage d’une partie du parenchyme cérébral à travers une structure rigide de l’encéphale (tente du cervelet, trou occipital, etc.).
+
+1. Engagement temporal
+Il correspond au passage de l’uncus et de l’hippocampe dans la fente de Bichat, entre le bord libre de la tente du cervelet et le tronc cérébral. Il doit être suspecté devant l’apparition d’une paralysie (souvent partielle) du nerf moteur oculaire commun (III) homolatéral avec ptosis, mydriase aréactive, s’accompagnant d’une hémiparésie controlatérale à la tumeur.
+
+2. Engagement des amygdales cérébelleuses dans le trou occipital
+C’est une complication gravissime des processus sous-tentoriels. Un port guindé de la tête, un torticolis doivent faire craindre sa survenue. Son risque est la compression du bulbe qui entraîne une déficience respiratoire majeure ou une mort subite.
+
+D. Méningite tumorale
+Elle résulte de l’extension aux espaces sous-arachnoïdiens d’une tumeur cérébrale primitive ou correspond à une métastase méningée d’un cancer systémique. Cliniquement, le diagnostic est suspecté devant une paralysie d’un ou plusieurs nerfs crâniens, des douleurs rachidiennes souvent associées à des radiculopathies et/ou une aréflexie, des troubles de l’équilibre, des céphalées, une atteinte des fonctions cognitives souvent fluctuantes. C’est surtout la combinaison de ces signes qui est évocatrice, témoignant d’un processus multifocal. En revanche, la raideur méningée est plus rare. Le diagnostic repose sur la ponction lombaire (en l’absence de contre-indication) à la recherche de cellules tumorales et l’IRM cérébrale et spinale, qui peuvent mettre en évidence des prises de contraste méningées ou périventriculaires anormales très évocatrices, mais aussi dans la région dorsolombaire.
+
+V. Facteurs pronostiques
+L’âge et l’état fonctionnel des patients au moment du diagnostic constituent les facteurs pronostiques cliniques principaux dans les tumeurs cérébrales malignes.
+Trois biomarqueurs tumoraux associés à un pronostic favorable ont été identifiés dans les gliomes et contribuent à définir la prise en charge des patients :
+la codélétion des chromosomes 1p et 19q (résultat d’une translocation chromosomique déséquilibrée) ;
+la méthylation du gène MGMT (méthyl-guanine-méthyl transférase, qui code une enzyme de réparation de l’ADN) ;
+la mutation activatrice du gène IDH (qui code l’enzyme isocitrate déshydrogénase intervenant dans le métabolisme énergétique de la cellule).
+VI. Principes généraux des traitements
+A. Chirurgie
+La chirurgie des tumeurs cérébrales a fait des progrès considérables et la mortalité et morbidité post-opératoires sont devenues très faibles grâce au développement des techniques opératoires (neuronavigation) et au repérage des régions fonctionnelles à préserver (IRM fonctionnelle préopératoire, chirurgie en condition éveillée, stimulation peropératoire). L’exérèse chirurgicale quand elle est possible outre son intérêt diagnostique permet de soulager immédiatement les symptômes d’hypertension intracrânienne, d’améliorer les déficits liés à une compression tumorale, la tolérance des traitements post-opératoires éventuels comme la radiothérapie et la chimiothérapie. Elle est curative lorsqu’elle conduit à une exérèse complète des tumeurs bénignes (méningiomes de bas grade, gliomes de grade I chez l’enfant) et améliore la durée de vie des patients souffrant de tumeurs primitives malignes quand l’exérèse peut être subtotale. En revanche dans certaines tumeurs très infiltrantes et radiochimiosensibles comme les lymphomes primitifs du système nerveux central, l’exérèse chirurgicale n’apporte pas de bénéfice supplémentaire au traitement médical.
+
+B. Radiothérapie
+La radiothérapie est le traitement médical de choix des tumeurs cérébrales malignes. Ses modalités varient selon la tumeur, son extension et le siège de rechute potentielle au sein du système nerveux. Elle doit prendre en compte le risque de neurotoxicité post-radique qui dépend de la dose totale, du fractionnement (dose par fraction optimale < 1,8-2 Gy), du volume à irradier et des facteurs de risque liés au patient (âge, facteurs de risque cardiovasculaire) et de la durée de survie après le traitement. On distingue :
+
+l’irradiation encéphalique totale : indiquée dans les lymphomes cérébraux et les métastases cérébrales multiples ;
+la radiothérapie externe focale conventionnelle : indiquée dans les gliomes diffus ;
+la radiothérapie conformationnelle qui permet une collimation optimale de la lésion dans l’optique de limiter la dose de radiations délivrées aux structures cérébrales les plus fragiles (par exemple, le tronc cérébral ou les voies optiques) ;
+la radiothérapie en condition stéréotaxique (radiochirurgie), reposant sur l’administration en une séance d’une irradiation par de multiples faisceaux convergents (gamma knife ou cyberknife) et s’adressant à de petites lésions circonscrites (diamètre < 3 cm) comme les métastases cérébrales ;
+la radiothérapie craniospinale pour les tumeurs à haut risque de dissémination au sein du névraxe et dans les méninges comme les médulloblastomes.
+C. Chimiothérapie
+Le rôle de la chimiothérapie dans les tumeurs cérébrales est limité par la barrière hémato-encéphalique (BHE) qui réduit son accès au parenchyme cérébral et par la chimiorésistance intrinsèque de la majorité des tumeurs cérébrales primitives en particulier les gliomes malins. Les agents les plus efficaces sont des molécules de petites tailles et liposolubles. Outre son action cytotoxique propre, elle peut contribuer dans certaines tumeurs comme le glioblastome à accroître la sensibilité des cellules tumorales à la radiothérapie quand ces deux traitements sont administrés de façon concomitante. Les tumeurs primitives malignes les plus chimiosensibles sont les lymphomes, les germinomes, les oligodendrogliomes anaplasiques.
+
+D. Corticothérapie
+Les corticoïdes oraux (méthylprednisolone [Médrol®], prednisolone [Solupred®], prednisone [Cortancyl®]) ou parentéraux (méthylprednisolone hémisuccinate [Solumédrol®]) sont fréquemment utilisés en neuro-oncologie. Outre une action antitumorale propre (lymphome cérébral primitif), les corticoïdes agissent essentiellement sur l’œdème péritumoral. Ils permettent ainsi une réduction de l’hypertension intracrânienne et une amélioration fonctionnelle rapide (réduction des déficits et des crises comitiales).
+
+Le problème essentiel des corticoïdes réside dans leurs effets indésirables (aspect cushingoïde, myopathie, complications psychiatriques, diabète cortico-induit, ostéoporose, ostéonécrose aseptique des têtes fémorales ou parfois humérales, hémorragies et perforations digestives, syndrome de sevrage, etc.). La prescription de corticoïdes doit donc toujours être revue de manière à ce qu’un patient donné reçoive seulement la dose minimale efficace adaptée à sa situation.
+
+E. Traitement antiépileptique
+Un traitement antiépileptique est nécessaire à titre prophylactique pendant la période périopératoire (15 jours après la chirurgie en l’absence de crise préthérapeutique) et chez les patients ayant présenté une crise inaugurale ou continuant à souffrir de crises itératives. Sauf rares exceptions (métastases de mélanome), il n’est pas indiqué au long cours chez les patients dont l’histoire ne comporte aucune crise. Le choix du traitement utilisé ne présente pas de spécificité ; les médicaments les plus fréquemment utilisés en première intention sont le lévétiracétam (Keppra®), l’acide valproïque (Dépakine®), la lamotrigine (Lamictal®) et la carbamazépine (Tégrétol®) en monothérapie. En cas de chimiothérapie envisagée on privilégiera les agents non inducteurs enzymatiques. Ils nécessitent une surveillance des effets indésirables.
+
+F. Autres traitements symptomatiques
+Divers traitements peuvent être nécessaires au cours de l’évolution d’une tumeur cérébrale maligne : antidépresseurs, anxiolytiques, anticoagulants, antalgiques, antiémétiques, protecteurs gastriques…
+
+G. Soins palliatifs
+Après plusieurs lignes de chimiothérapie, la tumeur peut récidiver ou poursuivre son évolution, on est alors amené à décider collégialement l’arrêt des traitements oncologiques pour poursuivre un traitement de confort.
+
+VII. Particularités clinicoradiologiques et traitements spécifiques
+A. Gliomes
+1. Astrocytome pilocytique (astrocytome de grade I)
+a. Particularités cliniques
+Il s’agit d’une tumeur de l’enfant ou plus rarement de l’adulte jeune. Ils peuvent survenir isolément ou dans un contexte de maladie de Von Recklinghausen ou neurofibromatose de type 1 (NF1). Ils sont localisés préférentiellement le long de la ligne médiane (voies optiques, noyaux gris, cervelet).
+
+b. Aspects radiologiques
+Il s’agit de tumeurs bien circonscrites, hypodenses en TDM, hyperintenses en IRM T2, prenant le contraste dans 95 % des cas et comportant souvent une composante kystique.
+
+c. Traitement
+La guérison est la règle dès lors que les tumeurs sont résécables chirurgicalement. Dans les formes inopérables évolutives une radiothérapie ou une chimiothérapie peuvent être proposées.
+
+2. Gliome diffus de bas grade (astrocytome ou oligodendrogliome ou oligoastrocytome de grade II)
+a. Particularités cliniques
+Ils surviennent classiquement chez l’adulte jeune (30-40 ans), se révélant le plus souvent par une crise d’épilepsie. L’évolution naturelle est l’extension progressive de l’infiltrat tumoral de proche en proche, associée à une transformation anaplasique en un grade III ou IV dont ils prennent alors le pronostic. Si la médiane de survie est de 5-10 ans, il existe une grande hétérogénéité évolutive, certains patients progressant rapidement dans la malignité et décédant en 2 ou 3 ans et d’autres relativement stables pendant de nombreuses années et compatibles avec une vie longtemps normale.
+
+b. Aspects radiologiques
+Les gliomes de grade II (cf. fig. 26.2) sont des tumeurs infiltrantes apparaissant en hyposignal T1 ne prenant classiquement pas le contraste, et en hypersignal T2 ou FLAIR. Au scanner, les tumeurs apparaissent hypodenses ; des calcifications intratumorales sont parfois visibles préférentiellement dans les tumeurs oligodendrogliales.
+
+c. Traitement
+Une exérèse chirurgicale la plus complète possible est recommandée en cas de tumeur opérable. Si la tumeur est inopérable, une biopsie pourra être discutée. Une radiothérapie complémentaire ne sera proposée qu’en cas d’inopérabilité et de signes d’évolutivité clinique ou radiologique de la tumeur. La chimiothérapie en option alternative à la radiothérapie est en cours d’évaluation
+
+3. Gliome diffus malin (gliome anaplasique de grade III et glioblastome de grade IV)
+a. Particularités cliniques et radiologiques
+Les gliomes dits de « haut grade » (III et IV) surviennent chez l’adulte plus âgé (âge moyen 50–60 ans). Ils peuvent survenir apparemment de novo ou provenir de la transformation maligne d’une tumeur de plus bas grade préexistante (gliomes malins secondaires ou « dégénérés »). À l’imagerie, les gliomes de haut grade sont d’aspect plus hétérogène volontiers accompagnés d’un œdème et d’une prise de contraste
+
+b. Traitement
+Gliomes anaplasiques (astrocytomes et oligodendrogliomes de grade III)
+
+Le traitement des gliomes de grade III repose sur la chirurgie et une radiothérapie focale sur le lit tumoral. Les tumeurs présentant une délétion chromosomique 1p et 19q sont chimiosensibles et justifient l’adjonction d’une chimiothérapie à base d’alkylants (nitrosourées ou témozolomide) qui peut être délivrée juste avant (condition néoadjuvante) ou juste après (condition adjuvante) la radiothérapie. La médiane de survie se situe autour de 3–4 ans. Les tumeurs présentant une perte combinée des chromosomes 1p et 19q ont un bien meilleur pronostic avec une médiane de survie de 8–10 ans.
+
+Glioblastomes (astrocytome de grade IV)
+
+Les glioblastomes sont les tumeurs gliales les plus agressives. Le traitement standard repose sur la chirurgie suivie d’une radiothérapie focale réalisée de façon concomitante à une chimiothérapie par témozolomide, qui sera ensuite poursuivie en condition adjuvante par plusieurs cycles supplémentaires. La récidive locale est malheureusement la règle et la médiane de survie est de 12 à 18 mois.
+
+B. Méningiome
+a. Particularités cliniques
+Les méningiomes se développent dans l’espace sous-dural aux dépens des cellules arachnoïdiennes. Le pic d’incidence se situe autour de la sixième décennie. Il existe une prédominance féminine avec un sex-ratio de 2:1. La plupart des méningiomes sont sporadiques mais ils peuvent se développer dans le cadre d’une neurofibromatose de type 2 (méningiomes multiples, association à des neurinomes). Leur découverte est souvent fortuite car ils sont souvent asymptomatiques. S’ils sont cliniquement parlants, le tableau est variable selon la localisation de la tumeur ; on retiendra principalement :
+
+les méningiomes de la convexité qui peuvent entraîner une hémiparésie ou des troubles sensitifs hémicorporels, dépendant de la localisation tumorale ; des crises d’épilepsie peuvent également survenir ;
+les méningiomes du sinus caverneux, associant généralement des atteintes des nerfs crâniennes (atteinte du V et des nerfs oculomoteurs).
+b. Aspects radiologiques
+Le scanner sans et avec injection de produit de contraste a une excellente sensibilité pour détecter un méningiome. Le méningiome est fréquemment calcifié. L’IRM est plus performante dans l’évaluation des rapports anatomiques notamment vasculaires. L’aspect radiologique est typique : lésion homogène durale très bien circonscrite, parfois polylobée, prenant le contraste de façon massive et homogène. Il existe classiquement un épaississement dural en continuité avec le méningiome caractéristique (« signe de la queue »).
+
+c. Traitement
+Le traitement repose sur la chirurgie. Les indications opératoires dépendent des caractéristiques du méningiome (taille, localisation) et de son retentissement clinique. Il peut être tout à fait licite de proposer une surveillance simple devant une lésion asymptomatique. Une radiothérapie focalisée est discutée dans les méningiomes inopérables et évolutifs, en cas de malignité à l’analyse neuropathologique ou de récidive non réopérable. Le méningiome étant une tumeur potentiellement hormonosensible, les traitements œstroprogestatifs sont par précaution à éviter. Le risque encouru doit néanmoins toujours être confronté au bénéfice du patient.
+
+C. Métastases cérébrales
+a. Aspects radiologiques
+Au scanner et à l’IRM, les métastases cérébrales apparaissent classiquement comme des lésions nodulaires prenant le contraste, de façon homogène ou annulaire ; elles sont le plus souvent accompagnées d’un œdème et d’un effet de masse important au regard de la taille des lésions. Elles sont volontiers hémorragiques dans les mélanomes et, dans une moindre mesure, dans les cancers du rein. Elles siègent préférentiellement dans les zones de jonctions cortico-sous-corticales. L’IRM a une meilleure sensibilité que la TDM et permet de détecter des localisations passées inaperçues à la TDM. Les métastases cérébrales sont le plus souvent multiples mais peuvent être uniques dans 30 % des cas.
+
+b. Traitement
+Le traitement des métastases cérébrales repose sur la chirurgie pour les lésions uniques, la radiothérapie stéréotaxique (radiochirurgie) pour les lésions uniques ou multiples de taille < 3 cm, la radiothérapie de l’encéphale in toto dans les lésions multiples, et dans une moindre mesure la chimiothérapie (qui s’adresse aux métastases cérébrales de cancers chimiosensibles en particulier les cancers du poumon à petites cellules et les cancers du sein). Ces derniers traitements peuvent se combiner. Le choix du traitement optimal se fait en réunion multidisciplinaire. Le pronostic est sombre avec une médiane de survie de 3-4 mois ; cependant la majorité des patients traités décèdent des complications de leur maladie systémique souvent avancée au moment où les métastases cérébrales sont découvertes. Le traitement des métastases cérébrales doit être ainsi considéré comme un traitement palliatif visant à améliorer ou prévenir les symptômes neurologiques. Pour certains cancers cependant, tels que le cancer du sein, certains cancers du poumon et le cancer du rein, des survies longues après traitement des métastases cérébrales sont observées.
+
+D. Lymphomes cérébraux primitifs
+a. Particularités cliniques
+Le lymphome cérébral primitif est favorisé par l’existence d’une immunodépression (sida, transplantation d’organe nécessitant un traitement immunosuppresseur) mais survient néanmoins, dans la grande majorité des cas, chez l’adulte immunocompétent avec un pic de fréquence autour de 60 ans. Dans 90 % des cas, le lymphome est de type B à grandes cellules.
+
+b. Aspects radiologiques
+Scanner et IRM montrent typiquement une ou des lésions volontiers périventriculaires se rehaussant de manière intense et homogène après injection de produit de contraste, prenant un aspect « cotonneux ». Chez le patient immunodéprimé, les lésions sont plus souvent multiples et prennent volontiers le contraste de façon annulaire soulevant dans ce contexte le diagnostic différentiel d’une toxoplasmose cérébrale.
+
+c. Traitement
+Les lymphomes cérébraux primitifs sont souvent corticosensibles. Pour cette raison, la prescription de corticoïdes doit être évitée si possible avant la biopsie. Il s’agit d’une tumeur chimio- et radiosensible et l’exérèse chirurgicale n’a pas de place dans le traitement. Celui-ci repose sur une chimiothérapie à base de méthotrexate intraveineux à hautes doses qui permet à l’agent de passer la barrière hématocérébrale. Le traitement peut être éventuellement consolidé chez les sujets jeunes par une radiothérapie de l’encéphale in toto. Chez les patients âgés, la radiothérapie n’est pas recommandée en raison du risque important dans cette population de développer une démence iatrogénique (leucoencéphalopathie post-radique). Le taux de rémission est élevé (80 %) mais les rechutes sont fréquentes et on estime que 20-30 % de guérisons peuvent être obtenues.
+
+E. Médulloblastome
+a. Aspect clinique et radiologique
+Il s’agit d’une tumeur de l’enfant et près de 70 % des cas surviennent avant 20 ans. Typiquement ces tumeurs intéressent le cervelet et se manifestent par une ataxie cérébelleuse et une hypertension intracrânienne. L’IRM montre typiquement une masse homogène en hypersignal T2 et isosignal T1 prenant le contraste de façon relativement homogène. Le médulloblastome peut disséminer très précocement dans les méninges et beaucoup plus rarement hors du système nerveux central (métastases osseuses principalement). Le bilan d’extension doit ainsi comporter en post-opératoire une IRM craniospinale et une étude du LCS.
+
+b. Traitement
+Le traitement standard repose sur l’association chirurgie-radiothérapie. L’irradiation doit être craniospinale en raison du risque de dissémination méningée. La place de la chimiothérapie est discutée en cas d’exérèse incomplète et/ou d’une dissémination méningée ou systémique.
+
+F. Tumeurs hypophysaires (cf. items d’endocrinologie)
+1. Adénomes hypophysaires
+On classe les adénomes hypophysaires en adénomes non sécrétants (un quart des cas) et en adénomes sécrétants. Ils sont également divisés selon l’hormone synthétisée : prolactine, hormone de croissance (adénome somatotrope), LH et FSH (gonadotrope), ACTH (corticotrope), TSH (thyréotrope).
+
+a. Particularités cliniques
+Les signes cliniques suivants, parfois associés, doivent faire rechercher une lésion hypophysaire :
+
+le syndrome endocrinien d’hypersécrétion hormonale, par exemple aménorrhée-galactorrhée, ou d’hyposécrétion hormonale ; dans quelques rares cas, celle-ci peut être aiguë et menacer le pronostic vital, par la décompensation d’une insuffisance surrénalienne ;
+le syndrome endocrânien avec signes neurologiques (hypertension intracrânienne, hémianopsie bitemporale, atteinte des paires crâniennes par envahissement du sinus caverneux, etc.).
+b. Diagnostic
+Bilan hormonal (cf. items d’endocrinologie)
+
+Le bilan hormonal recherchera, en fonction du tableau clinique et de la taille de l’adénome, une hypersécrétion hormonale et/ou une insuffisance antéhypophysaire.
+
+Imagerie
+
+Le diagnostic repose sur une IRM comportant des coupes millimétriques centrées sur la selle turcique dans les différents plans de l’espace (sagittal, coronal) avec injection de gadolinium. L’examen permet de visualiser la tumeur (généralement en isosignal T1, hypersignal T2 se rehaussant après injection) et surtout ses rapports avec les structures de voisinage, en particulier chiasma optique, sinus caverneux et artères carotides. Ces indications sont capitales en vue d’un geste chirurgical. Un examen ophtalmologique avec champ visuel sera systématiquement demandé.
+
+c. Traitement
+Le traitement dépend du type de l’adénome. Globalement, il est chirurgical en première intention sauf pour l’adénome à prolactine pour lequel un traitement médical par agoniste dopaminergique (bromocriptine‚ cabergoline) est d’abord proposé.
+
+Les déficits endocriniens associés sont traités par hormonothérapie substitutive adaptée à chaque cas.
+
+2. Craniopharyngiome
+Dérivant de l’épithélium pharyngé de la poche de Rathke (vestige du tractus pharyngo-hypophysaire primitif), cette tumeur est essentiellement représentée chez l’enfant. À l’imagerie, elle est suspectée devant une lésion suprasellaire généralement calcifiée.
+
+ 
+
+POINTS CLÉS
+
+Les tumeurs intracrâniennes les plus fréquentes sont par ordre décroissant de fréquence : les métastases cérébrales, les méningiomes, les gliomes, et les adénomes hypophysaires.
+Leurs circonstances de découverte les plus fréquentes sont les suivantes : hypertension intracrânienne, crise d’épilepsie, déficit neurologique ou examen d’imagerie systématique.
+L’évolution naturelle d’une tumeur cérébrale peut se compliquer d’un engagement cérébral, d’une hydrocéphalie, d’une hémorragie intratumorale, d’une dissémination leptoméningée.
+Le diagnostic est suspecté à l’imagerie par un scanner ou une IRM sans et avec injection de produit de contraste éventuellement complétée par une spectro-IRM et une IRM de perfusion.
+Le diagnostic de certitude repose sur un examen histologique obtenu par biopsie ou exérèse de la tumeur.
+Un traitement antiépileptique préventif n’est recommandé qu’en cas d’antécédent de crise d’épilepsie.
+Les corticoïdes sont indiqués en cas d’œdème tumoral symptomatique.
+Le traitement étiologique est discuté de façon pluridisciplinaire et comprend la chirurgie, la radiothérapie, la chimiothérapie ou une combinaison des trois modalités en fonction du type histologique de la tumeur ().
+ 
+
+
+
+
+
+
+
+
+
+
+-----------------------------> Tableau 26.2  Principales tumeurs cérébrales, traitement et pronostic.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTX : méthotrexate ; RT : radiothérapie ; SNC : système nerveux central ; TCP : tumeur cérébrale primitive ; TMZ : témozolomide.
+
+Annexe
+Données d’imagerie
+Astrocytome pilocytique (grade I)
+Fig. 26.1
+
+IRM, coupe sagittale, séquence T1 avec injection de gadolinium. Lésion du tronc cérébral constituée d’une lésion nodulaire prenant le contraste et d’une portion kystique (hyposignal). Hydrocéphalie (dilatation ventriculaire).
+
+Astrocytome diffus de bas grade frontal gauche (grade II)
+Fig. 26.2
+
+TDM sans et après injection iodée. Lésion intracérébrale frontocingulaire gauche, expansive et infiltrante, assez mal limitée, spontanément hypodense et non rehaussée après injection iodée. Effet de masse modéré sur les structures médianes antérieures (déviation controlatérale de la faux).
+A. TDM sans injection. B. TDM après injection.
+
+Fig. 26.3
+
+IRM en séquences sagittale T1, axiale FLAIR, axiales T1 sans et après injection de gadolinium.
+A. Sagittal T1. B. Axial FLAIR. C. Axial T1 sans injection. D. Axial T1 après injection.
+
+Glioblastome temporo-occipital droit (grade IV)
+Fig. 26.4
+
+TDM sans et après injection iodée. Lésion intracérébrale infiltrante temporo-occipitale droite, mal limitée, spontanément hypodense. Après injection, rehaussement annulaire irrégulier et épais. Nécrose centrale, œdème périlésionnel et effet de masse important sur le carrefour ventriculaire droit dévié en avant (déplacement de la calcification du plexus choroïde) et partiellement effacé.
+A. TDM sans injection. B. TDM après injection.
+
+Fig. 26.5
+
+IRM en séquences axiale T2 et T1 axiale, sagittale et coronale après injection de gadolinium. Lésion infiltrante hypersignal en T2 entourée d’œdème, nécrosée en son centre (nécrose : hypersignal T2 et hyposignal T1). Après injection, rehaussement annulaire, épais et régulier.
+A. Axial T2. B. Axial T1 après injection. C. Sagittal T1 après injection. D. Frontal T1 après injection.
+
+Méningiome frontotemporal droit
+Fig. 26.6
+
+IRM, séquence axiale T1 après injection de gadolinium. Lésion extracérébrale, refoulant l’hémisphère, bien limitée, à base d’implantation large sur la convexité, prenant le contraste de manière intense et homogène (flèche en gras). Prise de contraste de la dure-mère adjacente (petite flèche) correspondant à la languette d’insertion dure-mérienne du méningiome (image en « queue de comète »).
+
+Micro-adénome (< 1 cm) hypophysaire
+Fig. 26.7
+
+IRM, séquence T1 dans le plan frontal, avant et après injection de gadolinium.
+Signes directs : lésion intrasellaire focale arrondie, infracentimétrique développée dans l’aileron hypophysaire gauche, hyposignal avant injection et restant en hyposignal après injection (rehaussement beaucoup moins rapide que l’hypophyse normale).
+Signes indirects : surélévation modérée du diaphragme sellaire à gauche et déviation controlatérale de la tige pituitaire.
+A. T1 frontal sans injection. B. T1 frontal après injection.
+
+Macro-adénome (> 1 cm) hypophysaire
+Exemple 1
+Fig. 26.8
+
+IRM, séquence frontale T1 après injection. Lésion à développement intrasellaire et à extension suprasellaire, en forme de « bonhomme de neige » ou de « 8 » (forme liée à la constriction du diaphragme sellaire), prenant le contraste de manière homogène. La tige pituitaire n’est plus visible. Important refoulement du chiasma optique (flèche). Pas d’envahissement des loges caverneuses.
+
+Exemple 2
+Fig. 26.9
+
+IRM, séquence frontale T1 après injection. Macro-adénome invasif, à développement intra-, supra- et infrasellaire. Envahissement de la loge caverneuse droite et du sinus sphénoïdal. Prise de contraste hétérogène, avec remaniements nécrotiques centraux (zones en hyposignal).
+
+Métastases cérébrales
+Fig. 26.10
+
+Présence de deux lésions intracérébrales hémisphériques droites, bien limitées et arrondies, développées respectivement dans la région frontale antérieure et au niveau du lobule paracentral (région centrale interne), en hyposignal T1 et en hypersignal T2, entourées d’un œdème important. Effet de masse sur le ventricule latéral droit avec effacement partiel des cornes frontale et occipitale. Après injection, important rehaussement des deux lésions permettant de les distinguer de l’œdème.
+A. T1 sagittal. B. T1 axial. C. T1 axial après injection. D. T1 axial après injection. E. T1 sagittal après injection.
+
+Lymphome cérébral primitif
+Fig. 26.11
+
+Lésions intracérébrales généralement paraventriculaires ou près des espaces sous-arachnoïdiens, prenant fortement le contraste de manière homogène. Les lymphomes sont très sensibles à la corticothérapie et les images peuvent « disparaître » en délai bref (1 ou 2 semaines), rendant difficile le repérage stéréotaxique, mais aussi l’interprétation anatomo-pathologique.
+A. Exemple 1. IRM, séquence axiale T1 après injection. B. Exemple 2. IRM, séquence axiale T1 après injection.

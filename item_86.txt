@@ -1,0 +1,217 @@
+Trouble aigu de la parole. Dysphonie
+ 
+Objectifs pédagogiques
+Devant l’apparition d’un trouble aigu de la parole ou d’une dysphonie, argumenter les principales hypothèses diagnostiques et justifier les examens complémentaires pertinents.
+La dysphonie (ou enrouement) est une altération objective ou subjective du support sonore de la parole se traduisant par l’atteinte isolée ou combinée des trois paramètres acoustiques de la voix qui sont la hauteur, l’intensité et le timbre.
+La dysarthrie (du grec dys-, préfixe qui exprime l’idée de mal ou de manque + grec-arthron, jointure) est un trouble de l’articulation de la parole, d’origine centrale (c’est le système nerveux qui est lésé).
+La voix est un son produit par les cordes vocales sous l’influence de l’air expiré. Lors de la phonation, les muscles qui composent les cordes vocales se rapprochent l’un de l’autre sous contrôle moteur du nerf laryngé inférieur (nerf récurrent), branche du nerf vague (X), puis l’air contenu dans les poumons est expulsé par la contraction des muscles abdominaux. Cet air fait vibrer de façon passive la muqueuse de recouvrement des cordes. Les dysarthries (trouble de l’articulation de la parole) des coordinations pneumophoniques et de la musculature intrinsèque du larynx provoquent des dégradations de la voix appelées dysphonie. Ces dysfonctionnements vocaux peuvent également être la conséquence de changements morphologiques de l’anatomie du larynx, essentiellement au niveau de la glotte, provoqués par des modifications de sa structure ; la génération d’un excès de tissus biologiques, ou à l’inverse, des manques anatomiques provoqués par des gestes chirurgicaux.
+
+I. Rappel anatomique et physiologique
+A. Rappel anatomique
+Le larynx est le premier élément des voies aériennes supérieures, et est constitué de plusieurs pièces cartilagineuses (thyroïde, cricoïde, aryténoïde, épiglotte). Vers le haut, une lame ligamento-musculaire le relie à l’os hyoïde et à la base de langue, et, vers le bas, le cricoïde donne suite aux anneaux trachéaux.
+
+De nombreux muscles et ligaments intrinsèques constituent un ensemble complexe dont le but est de permettre la mise en tension des cordes vocales, leur abduction lors de la respiration et leur adduction lors de la phonation. La corde vocale est constituée du muscle thyro-aryténoïdien, recouvert du ligament vocal, lui-même doublé d’une muqueuse, dont la vibration produit le son laryngé au cours de la phonation. Entre le ligament et cette muqueuse, il existe un espace de glissement, ou espace de Reinke.
+
+L’innervation du larynx est assurée par le nerf laryngé inférieur (nerf récurrent), qui a un rôle moteur, et le nerf laryngé supérieur, qui a un rôle sensitif (fig. 3.1).
+
+Tout élément intervenant au niveau du muscle, de l’innervation, de la muqueuse ou du ligament vocal est susceptible d’entraîner une dysphonie.
+
+Fig. 3.1
+
+
+Innervation du larynx.
+
+ 
+
+B. Rappel physiologique
+La phonation est un phénomène complexe qui nécessite de façon schématique l’adduction des cordes vocales et le maintien d’une pression sous-glottique suffisante pour permettre à l’air de franchir cet obstacle et de provoquer une vibration de la muqueuse. Cette émission d’un son fondamental laryngé sera ensuite modulée au niveau des cavités sus-glottiques, buccales et sinusiennes, et le son ainsi enrichi donne la voix.
+
+II. Démarche diagnostique
+A. Éliminer ce qui n’est pas une dysphonie
+Il s’agit le plus souvent :
+
+d’une altération de la voix en rapport avec un défaut de capacité respiratoire, par exemple hypophonie au cours des insuffisances respiratoires aiguës ou chroniques ;
+d’une atteinte des cavités de résonance, en général situées au niveau de l’oropharynx. Les rhinolalies ouvertes (hypernasalité correspondant à une fuite d’air par le nez) ou fermées (hyponasalité) sont classiquement un motif de confusion ;
+d’un obstacle au niveau de la cavité buccale, tel que les tumeurs de la base de langue, de la partie haute de l’épiglotte ou de la région amygdalienne, et du voile du palais.
+Elles sont facilement reconnues par l’examen clinique.
+
+B. Interrogatoire
+Il est capital et permet souvent d’orienter le diagnostic. Il recherche :
+
+les antécédents laryngés, neurologiques, de chirurgie cervicale ou thoracique, d’une intubation, quelles que soient sa durée et son ancienneté ;
+les circonstances d’apparition de cette dysphonie : brutale ou au contraire progressive, voire intermittente. L’interrogatoire permet également de rattacher le mode d’apparition aux antécédents ;
+la profession et les conditions de travail, le mode d’utilisation de la voix au cours de l’exercice professionnel ; l’enseignant, l’avocat et le chanteur amateur ou professionnel sont exposés aux troubles fonctionnels de la voix ;
+le tabagisme, son ancienneté et son importance ;
+la présence de signes associés, tels que la dysphagie, la dyspnée, la toux ou l’otalgie ; ils indiquent une lésion étendue au-delà des cordes vocales.
+C. Examen clinique
+Il comporte l’examen de la région cervicale à la recherche d’une cicatrice ou d’une tuméfaction complété par la palpation du cou, des reliefs laryngés, du corps thyroïde et par la recherche d’un goitre ; il est complété par la recherche d’adénopathies cervicales.
+L’examen de la cavité buccale et du pharynx montre l’aspect inflammatoire ou non de la muqueuse, et élimine toute anomalie morphologique des structures oropharyngées.
+L’examen laryngoscopique est l’examen de base à réaliser devant une dysphonie dont l’évolution n’est pas rapidement favorable. Il permet de visualiser le larynx et les cordes vocales à la recherche d’anomalies morphologiques et/ou de troubles de la mobilité.
+La laryngoscopie indirecte :
+est réalisée chez un patient assis, bouche ouverte, la main de l’examinateur tenant l’extrémité de la langue alors que l’autre main utilise un miroir laryngé ou un système d’optique avec caméra vidéo ;
+permet d’obtenir une vue précise du larynx dans des conditions pratiquement normales, puisqu’il est demandé au patient de produire une phonation (« é », « i »). Seul cet examen chez un patient conscient permet d’obtenir des renseignements précis sur la mobilité du larynx et des cordes vocales.
+Lorsque cet examen est de réalisation difficile (réflexes nauséeux), l’utilisation d’un nasofibroscope visualise le larynx, mais avec une image moins précise, en particulier pour déceler les éventuelles anomalies de la muqueuse.
+La laryngoscopie directe :
+est réalisée sous anesthésie générale ;
+correspond à une véritable endoscopie ORL utilisant des optiques et des spatules laryngées qui sont introduites dans le larynx et éventuellement maintenues immobiles à l’aide d’un appui thoracique ;
+est réalisée lorsque l’on a noté, en laryngoscopie indirecte, la présence d’anomalies dont la nature impose un complément diagnostique (biopsie) ;
+permet d’accéder au larynx par voie endoscopique pour effectuer des gestes thérapeutiques dont les indications dépendent de l’étiologie.
+L’examen neurologique complète l’examen morphologique en particulier lorsqu’il s’agit d’une dysphonie avec cordes vocales normales.
+Il explore :
+les nerfs mixtes :
+le nerf hypoglosse (XII) : paralysie d’une hémilangue (incapable d’être poussée en avant : perte de la protraction) ;
+ 
+et recherche des signes associés :
+syndrome cérébelleux,
+syndrome neurogène périphérique,
+atteinte sympathique,
+syndrome pyramidal,
+syndrome extrapyramidal.
+paralysie du nerf glossopharyngien (IX) : dysphagie, signe du rideau (déplacement latéral vers le côté sain de la paroi postérieure du pharynx), hypo- ou anesthésie du tiers postérieur de l’hémilangue, des parois latérale et postérieure du pharynx, abolition de la sensibilité gustative du tiers postérieur de l’hémilangue,
+paralysie du nerf pneumogastrique (X) : la dysphonie par monoplégie laryngée est le signe dominant. La paralysie vélopharyngée doit être recherchée : régurgitation nasale, rhinolalie ouverte, déplacement du voile et de la luette vers le côté sain. Les signes sensitifs sont peu marqués : hypoesthésie ou hémianesthésie du pharynx et du voile sur une zone limitée. Les signes végétatifs respiratoires ou cardiaques sont difficiles à mettre en évidence dans une paralysie unilatérale,
+paralysie du nerf accessoire (XI) : paralysie du sternocléidomastoïdien et du trapèze. L’atteinte du spinal interne se traduit par une par une paralysie vélopalatine ;
+D. Examens complémentaires
+Ils sont réalisés lorsque, après laryngoscopie indirecte classique, la pathologie suspectée nécessite un complément d’investigation ou une évaluation précise des troubles liés à cette dysphonie.
+
+1. Stroboscopie
+Elle permet, par la décomposition du mouvement vibratoire des cordes vocales, de visualiser une anomalie localisée au niveau de la muqueuse de la corde vocale (synéchie, cicatrice fibreuse, tumeur débutante).
+
+2. Électromyographie laryngée
+Elle permet de confirmer les syndromes neurogènes périphériques (paralysie de corde vocale), de la jonction neuromusculaire (syndromes myasthéniques) et dystoniques (dysphonie spasmodique).
+
+3. Examen phoniatrique
+Il consiste, en plus de l’examen laryngoscopique, en la réalisation d’un enregistrement vocal et d’une étude des paramètres objectifs de la voix.
+
+4. Imagerie
+Le scanner ou l’imagerie par résonance magnétique sont les deux examens utiles pour le diagnostic étiologique. Ils permettent une exploration régionale et un éventuel bilan d’extension en cas de suspicion de tumeur laryngée. L’indication d’une imagerie du système nerveux central, scanner ou mieux IRM, dépendra des conclusions de l’examen neurologique.
+
+III. Dysphonie à cordes vocales normales
+On désigne sous ce terme le groupe des dysphonies pour lequel l’examen laryngoscopique ne révèle aucune lésion des cordes vocales ou de la région avoisinante. Il s’agit principalement des dysphonies d’origine neurologique.
+
+A. Dysphonie par atteinte du nerf pneumogastrique
+Le diagnostic est porté sur les circonstances cliniques, sur l’examen et au moindre doute sur la laryngoscopie. Dans certains cas, l’EMG du larynx peut être utile.
+
+1. Dysphonie par paralysie laryngée
+La position de la corde paralysée est variable :
+elle peut être fixée en position médiane, c’est-à-dire en adduction,
+le plus souvent, la corde paralysée est immobilisée en position intermédiaire, c’est-à-dire en semi-abduction,
+exceptionnellement, elle est en position latérale, c’est-à-dire en abduction complète.
+Dans les paralysies unilatérales la voix est typiquement soufflée ou bitonale ; la sémiologie associe une dysphonie importante et des fausses routes aux liquides en cas de paralysie en position latérale ; la sémiologie est plus discrète sans fausse route en cas de paralysie en position médiane.
+À l’examen laryngoscopique, la corde vocale du côté de l’atteinte est en adduction, ou en position intermédiaire, mais surtout elle est immobile, en particulier au cours de la phonation et de la respiration.
+Dans les paralysies bilatérales le tableau initial est marqué par une aphonie totale et des fausses routes. Rapidement la voix se normalise alors que s’installe une dyspnée inspiratoire ; l’examen laryngoscopique confirme l’immobilité des deux cordes vocales.
+Les examens paracliniques : en l’absence de circonstances évocatrices, proposer un scanner ou mieux une IRM explorant les régions depuis la base du crâne jusqu’au thorax. Une échographie cervicale explore la thyroïde si nécessaire. La laryngoscopie n’est pas systématique.
+Les principales étiologies sont :
+les néoplasies thyroïdienne, œsophagienne ou médiastinale ;
+les séquelles d’une chirurgie sur le trajet du nerf vague (neurochirurgie du tronc cérébral ou de l’angle pontocérébelleux ou du trou déchiré postérieur ; chirurgie cervicale, carotidienne, du rachis) ou de ses branches récurentielles (chirurgie thyroïdienne, trachéale, œsophagienne, chirurgie pulmonaire ou médiastinale, chirurgie cardiaque, chirurgie du canal artériel chez l’enfant) ;
+les causes neurologiques (moins de 5 % des cas) : bulbaires par atteinte nucléaire ou radiculaire : accident vasculaire cérébral (syndrome de Wallenberg), sclérose latérale amyotrophique, syringobulbie, tumorale, sclérose en plaques (rare) ; par atteinte périphérique : polyradiculoneuropathie de Guillain-Barré, sclérose latérale amyotrophique, neurinome, polyneuropathies (rare) métaboliques, toxiques ou inflammatoires ;
+les causes cardiaques par atteinte du nerf récurrent gauche (très rares) : maladie mitrale, coarctation de l’aorte, syndrome d’Ortner : paralysie du récurrent gauche avec dysphonie par dilatation de la branche gauche de l’artère pulmonaire ;
+idiopathique (20 % des cas) : le plus souvent unilatérale ; diagnostic d’élimination.
+2. Dysphonie par paralysie vélopalatine
+Dans les paralysies unilatérales, les signes fonctionnels sont réduits au minimum : voix nasonnée, discrets troubles de la déglutition, les liquides ayant tendance à refluer par le nez. À l’examen, en revanche, les signes sont nets : voile asymétrique, avec élargissement et surélévation de l’arc palatin du côté paralysé, alors que la luette est attirée du côté sain. Si le sujet émet les sons « a » ou « é », le voile ne se contracte que du côté sain, la luette étant attirée du même côté, ce qui accentue l’asymétrie. Le réflexe vélopalatin est aboli du côté de la paralysie.
+Dans les paralysies bilatérales, les troubles fonctionnels sont plus importants : la voix sourde, nasonnée, le sujet éprouve des difficultés à prononcer les labiales ; la régurgitation nasale avec reflux des liquides par le nez est importante.
+B. Dysphonie spasmodique (ou dystonie laryngée)
+C’est une affection rare qui touche plus fréquemment les femmes que les hommes, dont le début se situe vers l’âge de 40 ans. Le mode d’installation est généralement progressif, rarement brutal (contrairement à l’aphonie psychogène). Il s’agit d’une dysphonie d’origine neurologique appartenant au groupe des dystonies focales. Quelle que soit la forme clinique, l’aspect acoustique est variable d’un patient à l’autre. La voix chantée est possible mais souvent imparfaite, la lecture aggrave la symptomatologie et aboutit souvent à un blocage complet. La fatigue, le stress, les émotions aggravent les troubles de la voix. Sur le plan phonatoire, le temps maximum de phonation sur une voyelle tenue est abaissé. À l’examen au miroir, au repos, le larynx est normal.
+
+On distingue les deux formes cliniques suivantes.
+
+1. Dysphonie spasmodique par atteinte des muscles adducteurs
+Il s’agit de la forme la plus fréquente, représentant 80 % des cas.
+La voix est classiquement hachée, ponctuée d’arrêts vocaux.
+Le comportement de forçage massif, la coordination pneumophonatoire mauvaise et les désonorisations intermittentes.
+Au cours de la phonation, on note une participation excessive des bandes ventriculaires qui se rapprochent vers la ligne médiane, et une mobilisation saccadée et heurtée des cordes vocales.
+2. Dysphonie spasmodique par atteinte des muscles abducteurs
+Cette forme clinique est beaucoup plus rare.
+La voix est de faible intensité, soufflée, consistant en un voisement qui fait penser au chuchotement, et ce malgré les efforts musculaires importants réalisés par le patient.
+Le comportement de forçage est là aussi massif.
+Au cours de la phonation, on note un défaut d’accolement important des cordes vocales quelle que soit la note émise.
+3. Électromyographie laryngée
+Il s’agit de l’examen clé pour le diagnostic des dysphonies spasmodiques. Il fait la preuve de l’atteinte dystonique des muscles laryngés par l’enregistrement de l’activité électrique musculaire. Il existe une hyperactivité de repos au niveau des muscles phonatoires ; en phonation, on enregistre un renforcement de l’activité de repos.
+
+4. Traitement
+Le traitement clé de cette pathologie consiste en l’injection intracordale de toxine botulique. Ce traitement aboutit à la paralysie partielle du muscle et donc à la diminution de son hyperactivité. La symptomatologie phonatoire régresse alors instantanément en réduisant l’hypertonie musculaire. Les effets de ce traitement sont réversibles au bout de quelques mois justifiant des injections répétées deux à trois fois par an.
+
+C. Dysphonie et syndromes parkinsoniens
+Les troubles de la parole dans la maladie de Parkinson associent une dysphonie (altération des qualités acoustiques de la voix) et une dysarthrie (trouble de l’articulation de la parole). Cette dysphonie-dysarthrie touche les différents effecteurs de la chaîne parlée : la respiration, la phonation, les résonances (nasalisation), l’articulation labio-linguo-vélo-pharyngée et la prosodie (mélodie, intensité, durée, débit [bégaiement]).
+Les systèmes qui concourent à la production de la parole sont atteints à des degrés divers : au début ce sont les principaux dysfonctionnements concernant les étages respiratoire et laryngé, puis progressivement apparaissent les troubles de l’articulation.
+Tous les signes parkinsoniens s’expriment au niveau de la sphère ORL et contribuent aux troubles de la voix et de la parole : principalement l’akinésie (de la langue, du larynx, des masséters) et l’hypertonie (du voile du palais, du larynx), mais aussi le tremblement (des lèvres, de la cavité buccale, de la langue, du pharynx et du larynx). Cliniquement, la hauteur de la voix est plus aiguë que la normale avec une diminution de la modulation de la fréquence fondamentale. Son intensité devient plus faible, notamment en fin de phrase, pouvant aller jusqu’au chuchotement à un stade évolué rendant la parole inaudible. Le timbre de la voix est sourd et voilé (hypophonie), la raideur du voile du palais entraînant un nasonnement et un assourdissement de la voix.
+L’évolution de ces troubles de la parole est variable au cours de la journée, de même que la sensibilité aux traitements dopaminergiques.
+Dans les atrophies multisystématisées, la dysarthrie précoce et fréquente, est mixte combinant l’hypophonie monotone et bégayante du syndrome parkinsonien au caractère scandé et irrégulier du syndrome cérébelleux. La dysphonie est retrouvée dans 96 % des cas.
+D. Dysphonie et syndromes myasthéniques
+Typiquement intermittente, la dysphonie associée au syndrome myasthénique se caractérise par une voix qui s’éteint progressivement, devient nasonnée puis inintelligible.
+Ces signes sont d’autant plus évocateurs qu’il existe un phénomène myasthénique dont le caractère essentiel est de s’accroître à l’occasion d’un effort. En pratique, la dysphonie apparaît ou s’aggrave avec la fatigue, disparaît ou s’atténue avec le repos. Son intensité peut être variable dans une même journée mais si elle est généralement plus marquée le soir.
+E. Atteinte du nerf grand hypoglosse
+La fonction essentielle du nerf grand hypoglosse est d’assurer l’innervation de la langue et, à ce titre, il participe à la mastication, la déglutition et la phonation.
+En cas de paralysie périphérique bilatérale, la motilité de la langue est complètement abolie ; la mastication et la déglutition sont gravement perturbées. La phonation est également perturbée, le sujet éprouvant de grandes difficultés à émettre les consonnes linguales : D, G, K, L, N, R, S, et T.
+F. Syndrome pseudo-bulbaire
+En cas d’atteinte centrale bilatérale, en particulier au cours des syndromes pseudo-bulbaires, la voix est monotone, sourde et sans timbre. Les voyelles sont moins affectées que les consonnes et l’atteinte des labiales, dentales ou palatines dépend du degré d’atteinte des lèvres, de la langue, du voile et du pharynx. Il en résulte une dysarthrie parétique et dystonique ; en raison de la paralysie, la parole est lente, traînante et nasonnée, mais du fait de la dystonie, la première syllabe est explosive. Il peut y avoir une palilalie, une parole rapide, stéréotypée, et le début fragmentaire, rapide, se termine par une aphonie.
+
+G. Troubles endocriniens
+Les plus classiques sont l’hypothyroïdie et l’hyperandrogénisme qui peuvent être associés à une dysphonie.
+
+H. Dysphonie psychogène
+Il s’agit le plus souvent de femmes présentant une aphonie totale dont le mode d’installation est typiquement brutal et l’évolution capricieuse. Ce diagnostic ne doit être évoqué qu’après la réalisation d’un bilan paraclinique complet.
+
+IV. Dysphonie par lésions laryngées
+On désigne sous ce terme les dysphonies consécutives aux changements anatomiques des structures impliquées dans la phonation, en particulier le larynx et les cordes vocales. Plusieurs situations cliniques peuvent être rencontrées.
+
+A. Laryngites aiguës
+Installation brutale lors d’une rhinopharyngite banale ou au décours d’un forçage vocal.
+La voix est plus grave, avec des difficultés dans les aigus, rauque et peu timbrée, elle peut disparaître totalement (aphonie). Elle est parfois associée à une dyspnée chez l’enfant.
+À l’examen les cordes vocales sont rouges, œdématiées, parfois recouvertes de sécrétions purulentes ou mucopurulentes.
+B. Laryngites chroniques
+Installation progressive d’une dysphonie (voix rauque, grave) souvent isolée. Le contexte évoque une irritation chronique du larynx (tabac, vapeurs toxiques, infections ORL répétées, reflux gastro-œsophagien, surmenage vocal).
+À l’examen, on retrouve une laryngite chronique hypertrophique rouge (érythroplasie) ou une laryngite chronique hypertrophique blanche (leucoplasie).
+Dans tous les cas, il s’agit de lésions suspectes nécessitant une laryngoscopie directe en suspension au microscope, sous anesthésie générale (AG) pour réaliser des biopsies et si possible une exérèse complète de la lésion.
+En cas de biopsie simple avec un résultat rassurant comme une dysplasie (lésion précancéreuse), la surveillance doit être très étroite car le reste des lésions peut être en réalité un carcinome.
+En cas d’exérèse, la surveillance doit également être étroite en raison du risque de récidive des lésions dysplasiques et du risque de transformation maligne.
+Parfois le diagnostic histologique évoque une laryngite « spécifique » comme une tuberculose, une syphilis, une mycose. Ces lésions n’ont en général aucune caractéristique sémiologique et le diagnostic évoqué est celui d’une lésion suspecte ou d’un cancer.
+C. Cancer du larynx
+La suspicion de cancer doit être constante devant toute dysphonie durant plus de 3 semaines chez un homme d’âge mûr alcoolo-tabagique. Une laryngoscopie directe en suspension au microscope, sous AG, pour réaliser des biopsies doit être proposée au moindre doute lors de l’examen clinique. Parmi les situations suspectes, il faut citer le cas de patients non examinables du fait de leur réflexe nauséeux même si le cas est plus rare depuis la généralisation des fibroscopies nasopharyngolaryngées.
+
+D. Lésions bénignes
+1. Nodules des cordes vocales
+Lésions blanchâtres symétriques, en regard l’une de l’autre, situées au niveau du tiers moyen des cordes. Surviennent surtout chez les jeunes garçons qui crient beaucoup et chez les femmes qui forcent leur voix (enseignantes). La voix est plus grave, rauque, soufflée. Son timbre est voilé, sourd et éraillé.
+
+2. Polypes et œdèmes de Reinke
+Lésions plus inflammatoires uni- ou bilatérales siégeant au niveau des deux tiers antérieurs des cordes vocales, liées à la conjonction du forçage vocal et souvent du tabac. Il s’agit, du fait du terrain, de lésions plus suspectes et une laryngoscopie directe est souvent proposée : elle permet à la fois le traitement microchirurgical et la certitude histologique.
+
+3. Granulomes
+Lésions inflammatoires siégeant au niveau du tiers postérieur des cordes vocales (apophyses vocales des arythénoïdes). Elles surviennent souvent après une intubation prolongée ou dans le cadre d’un RGO, et l’aspect fibroscopique rassurant explique que le traitement chirurgical est rarement proposé d’emblée sauf dans le cas de lésions particulièrement suspectes. La rééducation orthophonique joue là un grand rôle.
+
+4. Papillomatose laryngée
+Lésions virales muriformes papillomateuses caractéristiques étendues non seulement aux cordes vocales mais aussi parfois à la trachée, dues au papillomavirus. Le risque de dégénérescence maligne est rare mais les lésions peuvent finir par être dyspnéisantes et un traitement microchirurgical doit être proposé, surtout en cas de forme extensive. Le problème le plus fréquent est celui de la récidive des lésions.
+
+5. Traumatismes
+À part les traumatismes laryngés externes qui nécessitent une prise en charge spécifique, les plus importants changements anatomiques du larynx sont provoqués par des traumatismes chirurgicaux à la suite de l’ablation d’un cancer cordal. La voix est très dégradée, quoique fonction de la technique chirurgicale, avec parfois des désonorisations. Elle est grave, de faible intensité, mais intelligible sauf dans le bruit. Le timbre est très rauque, granuleux, soufflé en rapport avec la fuite glottique.
+
+ 
+
+POINTS CLÉS :
+
+L’examen clinique d’une dysphonie nécessite un examen de la cavité buccale, un examen laryngoscopique et un examen neurologique. Les explorations complémentaires recourent à la stroboscopie, l’électromyographie laryngée, l’examen phoniatrique et l’imagerie.
+
+Dysphonie à cordes vocales normales :
+
+dysphonie par paralysie laryngée unilatérale ou bilatérale. Les causes à rechercher sont :
+les néoplasies (thyroïdienne, œsophagienne ou médiastinale),
+les séquelles d’une chirurgie basicervicale et du tronc cérébral à proximité par atteinte du nerf vague ou de ses branches récurentielles,
+les causes cardiaques (coarctation de l’aorte),
+les causes neurologiques (accidents vasculaires cérébraux du tronc cérébral, sclérose latérale amyotrophique, malformation d’Arnold-Chiari) ;
+dysphonie spasmodique (ou dystonie laryngée) :
+par atteinte des muscles adducteurs la plus fréquente : voix hachée, arrêts vocaux, comportement de forçage massif,
+par atteinte des muscles abducteurs (voix de faible intensité).
+Dysphonie et syndromes parkinsoniens :
+
+associe dysphonie (altération des qualités acoustiques de la voix) et dysarthrie (trouble de l’articulation de la parole) résultant de l’akinésie, de l’hypertonie et du tremblement ;
+précoce dans les atrophies multisystématisées.
+Dysphonie et syndromes myasthéniques : typiquement intermittente s’accroît à l’occasion d’un effort.
+
+Autres dysphonies neurologiques :
+
+par atteinte du nerf grand hypoglosse ;
+au cours du syndrome pseudo-bulbaire.
+Causes non neurologiques :
+
+endocriniennes (hypothyroïdie) ;
+psychogène ;
+surtout par lésions laryngées (laryngites, cancer, lésions bénignes du larynx…).

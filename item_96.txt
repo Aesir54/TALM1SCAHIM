@@ -1,0 +1,492 @@
+Méningites, méningo-encéphalites chez l’adulte et l’enfant
+
+Objectifs pédagogiques
+Connaître l’épidémiologie des méningites et encéphalites chez l’adulte et l’enfant.
+Diagnostiquer un purpura fulminans (voir item 328), une méningite, une méningo-encéphalite.
+Connaître les principaux agents infectieux responsables de méningites, de méningo-encéphalites, d’abcès cérébraux.
+Connaître la conduite à tenir dont le traitement en urgence face à un purpura fulminans, une suspicion de méningite ou de méningo-encéphalite, au domicile, au cabinet médical et aux urgences hospitalières.
+Hiérarchiser les examens complémentaires en cas de suspicion de méningite, de méningo-encéphalite.
+Interpréter le résultat d’un examen du liquide cérébrospinal.
+Connaître le traitement de première intention d’une méningite communautaire présumée bactérienne.
+Connaître les recommandations de la prophylaxie des infections à méningocoque dans l’entourage d’un cas de méningite à méningocoque.
+I. Pour comprendre
+Les méninges sont constituées de trois membranes enveloppant l’encéphale et la moelle épinière, qui sont de dehors en dedans :
+la dure-mère : couche superficielle résistante accolée à l’os ;
+la dure-mère : couche superficielle résistante accolée à l’os ;
+la pie-mère : couche interne recouvrant directement le cerveau.
+La dure-mère constitue la pachyméninge ; l’arachnoïde et la pie-mère forment la leptoméninge.
+L’espace sous-arachnoïdien (situé entre l’arachnoïde et la pie-mère) contient le liquide cérébrospinal (LCS).
+Le terme de méningite désigne l’inflammation des enveloppes méningées. En cas d’atteinte associée du parenchyme cérébral, on parle de méningo-encéphalite.
+La majorité des méningites et méningo-encéphalites aiguës sont infectieuses par contamination du LCS par un agent infectieux (le plus souvent une bactérie ou un virus).
+L’étude du contenu du LCS par ponction lombaire permet le diagnostic.
+II. Symptomatologie clinique
+A. Syndrome méningé
+Un syndrome méningé est défini comme une symptomatologie en rapport avec une irritation des enveloppes méningées (arachnoïde et pie-mère), quelle qu’en soit l’origine. Il se caractérise par l’association inconstante de la triade céphalées, vomissements et raideur méningée.
+
+1. Céphalées
+Quasi constantes et précoces :
+
+intenses, diffuses, continues avec paroxysmes possibles, mal soulagées par les antalgiques habituels ;
+exagérées par différents stimuli : mouvements de la tête, examen physique du patient, exposition à la lumière (photophobie) ou au bruit (phonophobie).
+2. Vomissements
+Inconstants mais en général précoces :
+
+spontanés, en jet, survenant sans effort ;
+pouvant être favorisés par les changements de position.
+3. Raideur méningée
+Secondaire à une contracture des muscles paravertébraux en rapport avec la douleur provoquée par une irritation des méninges.
+Peut conduire à une attitude particulière du patient « en chien de fusil » : couché sur le côté, dos tourné à la lumière, tête en hyperextension vers l’arrière, membres semi-fléchis.
+Touche particulièrement la nuque :
+la flexion de la tête par l’examinateur entraîne une résistance invincible et douloureuse de la nuque ;
+les manœuvres de rotation et de latéralité de la tête sont conservées mais augmentent la céphalée.
+Peut être mise en évidence à l’examen du patient couché sur le dos par :
+signe de Brudzinski : flexion involontaire des membres inférieurs (cuisses sur le bassin et jambes sur les cuisses) à la flexion forcée antérieure de la nuque ;
+signe de Kernig : impossibilité de s’asseoir sans fléchir les genoux et résistance douloureuse à l’extension complète du membre inférieur lorsque la cuisse est fléchie.
+4 Autres signes accompagnateurs possibles
+Hyperesthésie cutanée diffuse.
+Réflexes ostéotendineux vifs.
+Raie méningitique de Trousseau : le dessin d’un trait sur la peau avec une pointe mousse fait apparaître une raie d’abord blanche, qui rougit ensuite puis tarde à disparaître.
+Diagnostics à évoquer devant un syndrome méningé
+Méningites et méningo-encéphalites.
+Hémorragie méningée.
+Méningisme.
+B. Syndrome encéphalitique
+Il correspond aux manifestations cliniques en lien avec l’inflammation de l’encéphale et peut être présent de manière isolée (encéphalite) ou le plus souvent associé au syndrome méningé (méningo-encéphalite). Il peut comporter :
+
+des troubles de la conscience de degré variable (de la simple somnolence au coma profond) ;
+un syndrome confusionnel et des troubles comportementaux ;
+des signes de focalisation : déficit moteur (mono- ou hémiplégie), paralysie d’un ou plusieurs nerfs crâniens, aphasie, mouvements anormaux (tremblement, myoclonies) ;
+des crises épileptiques partielles (simples ou complexes) et généralisées, pouvant aller jusqu’à l’état de mal ;
+des troubles neurovégétatifs : irrégularité du pouls, de la pression artérielle et de la température, en faveur d’une souffrance du tronc cérébral.
+La présence d’un syndrome encéphalitique impose la réalisation d’une imagerie cérébrale en urgence avant réalisation de la ponction lombaire.
+
+C. Syndrome infectieux
+Il associe de façon variable :
+
+une fièvre dont l’intensité varie en fonction du germe responsable, parfois associée à des frissons, sueurs, et myalgies ;
+des signes d’une infection associée : pneumopathie, foyer ORL (otite, sinusite, mastoïdite, rhinopharyngite, angine), infection urinaire, atteinte digestive (diarrhées), éruption cutanée, atteinte cardiaque (endocardite, myocardite) ;
+un purpura doit faire évoquer une méningite à méningocoque et représente une urgence vitale. Le tableau gravissime de purpura fulminans lié à une septicémie à méningocoque associe un purpura extensif ulcéronécrotique, des hémorragies viscérales (ex. : surrénalienne), un choc infectieux et une coagulation intravasculaire disséminée.
+D. Signes cliniques de gravité
+L’identification des critères cliniques de gravité est impérative car leur présence doit conduire à une hospitalisation du patient en soins intensifs ou réanimation.
+
+Critères cliniques de gravité
+Purpura extensif.
+Signes encéphalitiques.
+Critères de gravité hémodynamiques (sepsis grave, choc septique).
+E. Particularités sémiologiques chez le nourrisson et le sujet âgé
+Chez le nourrisson : tableau diagnostique clinique plus difficile. Il doit être évoqué devant un enfant geignard, présentant des cris à la mobilisation (hyperesthésie cutanée), des modifications du comportement, une somnolence inhabituelle entrecoupée de périodes d’agitation, un refus répété du biberon, des convulsions fébriles même brèves et apparemment isolées. Une hypotonie axiale remplace souvent la raideur de nuque. Une tension anormale de la fontanelle peut être retrouvée.
+Chez le sujet âgé, les signes cliniques peuvent être plus frustes avec un syndrome infectieux souvent au second plan. Les troubles du comportement et signes focaux peuvent dominer le tableau.
+Dans le cas des méningites bactériennes de l’adulte, 95 % des patients présentent au moins deux des signes suivants : céphalées, fièvre, raideur de nuque, altération de la vigilance. Le diagnostic est plus difficile aux âges extrêmes.
+
+III. Examens complémentaires
+A. Ponction lombaire (PL)
+C’est l’examen clé permettant d’affirmer le diagnostic de méningite.
+
+1. Conditions de réalisation
+La PL doit être réalisée en urgence avant instauration d’une antibiothérapie dans la très grande majorité des cas. Certaines situations imposent la réalisation préalable d’une imagerie cérébrale en urgence :
+
+signes de focalisation neurologique ou d’hypertension intracrânienne ;
+troubles de la conscience avec un score de Glasgow = 11 ;
+crises épileptiques focales ou généralisées après l’âge de 5 ans ;
+crises épileptiques hémicorporelles avant l’âge de 5 ans.
+La réalisation de la ponction lombaire doit être précédée d’un bilan biologique :
+
+bilan d’hémostase : contre-indication habituelle en cas de TP < 50 % ou TCA ratio > 1,5 ;
+numération plaquettaire : contre-indication habituelle en cas de plaquettes < 50 000/mm3.
+L’antibiothérapie probabiliste doit être débutée avant réalisation de la PL dans les cas suivants :
+
+purpura fulminans (le traitement doit être instauré au domicile du patient) ;
+prise en charge hospitalière ne pouvant pas être réalisée dans les 90 minutes ;
+contre-indication à la ponction lombaire :
+anomalie de l’hémostase (spontanée ou induite par les anticoagulants) ou thrombopénie,
+signes cliniques d’engagement cérébral (mydriase unilatérale, hoquet, mouvements d’enroulement, troubles ventilatoires) ou radiologiques, effet de masse à l’imagerie cérébrale,
+instabilité hémodynamique.
+2. Technique et analyses
+La PL est réalisée en conditions d’asepsie stricte à l’aide d’une aiguille à mandrin au niveau du cul-de-sac lombaire au niveau de l’espace intervertébral L4-L5 ou de l’espace immédiatement sus- ou sous-jacent, le malade étant en position assise courbé en avant ou couché sur le côté. L’examen du liquide cérébrospinal (LCS) doit comporter :
+
+une inspection de l’aspect macroscopique du LCS (l’aspect normal est « eau de roche ») ;
+une analyse cytologique (globules rouges et blancs avec identification des polynucléaires neutrophiles et des lymphocytes) ;
+une analyse biochimique (protéinorachie, glycorachie, chlorurorachie, éventuellement lactates) ;
+une analyse microbiologique (bactériologique) comportant un examen direct avec coloration de Gram, mise en culture, et antibiogramme systématique en cas de culture positive ;
+des tubes supplémentaires doivent être prélevés pour des analyses complémentaires guidées selon le contexte clinique : antigènes solubles pneumococciques, PCR dans le cadre d’une méningite ou méningo-encéphalite virale (entérovirus, herpès virus) ou bactérienne (méningocoque, pneumocoque, tuberculose), PCR universelle.
+3. Limites et complications de la ponction lombaire
+a. Limites
+Difficultés techniques pour réaliser la PL (scoliose, calcification du ligament interépineux, agitation du patient).
+PL blanche : absence d’écoulement du LCS liée à une déshydratation sévère ou une compression médullaire sus-jacente.
+PL traumatique avec LCS hémorragique.
+b. Complications
+Décharge électrique dans un membre par contact avec une racine nerveuse.
+Hématome épidural rachidien avec risque de compression.
+Syndrome post-PL : hypotension du LCS par écoulement lié à une brèche méningée. Se caractérise par une céphalée typiquement orthostatique parfois associée à d’autres signes (vision floue, acouphènes non pulsatiles à type de sifflements, baisse d’acuité auditive, distorsion sonore, nausées et vomissements). Il peut nécessiter la réalisation d’un blood patch épidural (injection de sang autologue dans l’espace épidural). Une hypotension du LCS prolongée non traitée peut se compliquer d’hématomes sous-duraux bilatéraux et de thrombose veineuse cérébrale.
+B. Autres examens complémentaires
+1. Examens biologiques
+Outre la PL, les examens biologiques suivants doivent être réalisés : NFS, plaquettes, CRP, TP, TCA, ionogramme sanguin, créatininémie, glycémie, bilan hépatique, hémocultures systématiques, ECBU.
+
+Les autres examens biologiques (en particulier les sérologies) sont réalisés en fonction du contexte clinique.
+
+2. Imagerie cérébrale
+Une imagerie cérébrale doit être réalisée :
+
+soit dans l’optique d’éliminer une contre-indication à la PL dans les situations décrites ci-dessus : dans ce cas un scanner cérébral sans injection est suffisant ;
+soit à visée étiologique en cas de signes encéphalitiques : dans ce cas, l’IRM cérébrale sans et avec injection de gadolinium doit être privilégiée du fait de sa meilleure sensibilité. Elle peut montrer des lésions en hypersignal T2 et T2-FLAIR, touchant volontiers les régions temporales et frontales, avec prise de contraste. D’autres lésions peuvent être retrouvées en fonction du micro-organisme en cause. Néanmoins, une IRM normale n’élimine pas le diagnostic d’encéphalite. À défaut d’IRM, un scanner cérébral sans et avec injection de produit de contraste iodé doit être pratiqué.
+3. Électro-encéphalogramme
+Il présente un intérêt en cas de suspicion d’encéphalite. Il peut mettre en évidence un tracé ralenti avec des ondes lentes, pointes, ou pointes-ondes pouvant prendre un aspect pseudo-périodique ou périodique (fig. 24.1). Sa normalité n’exclut pas le diagnostic d’encéphalite.
+
+Fig. 24.1
+
+Électro-encéphalogramme montrant un tracé lent avec des ondes lentes périodiques diffuses en faveur d’une encéphalite.
+
+IV. Diagnostic étiologique
+Le diagnostic étiologique est guidé par les résultats du LCS. L’aspect macroscopique et les données de l’analyse cytologique permettent la distinction entre méningites (ou méningo-encéphalites) purulentes (bactériennes) et à liquide clair (bactériennes, virales, parasitaires, ou fongiques) (tableau 24.1).
+
+
+
+
+-----------------------------------> Tableau 24.1  Principales causes de méningites ou méningo-encéphalites en fonction de l’aspect du LCS.
+
+
+
+
+
+
+IV. Diagnostic étiologique
+Le diagnostic étiologique est guidé par les résultats du LCS. L’aspect macroscopique et les données de l’analyse cytologique permettent la distinction entre méningites (ou méningo-encéphalites) purulentes (bactériennes) et à liquide clair (bactériennes, virales, parasitaires, ou fongiques) (tableau 24.1).
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------> Tableau 24.1  Principales causes de méningites ou méningo-encéphalites en fonction de l’aspect du LCS.
+
+
+
+
+
+
+
+
+
+
+
+
+1. Méningites à méningocoques
+Cause la plus fréquente des méningites bactériennes (90 % des cas entre 15 et 24 ans).
+Neisseria meningitidis est un diplocoque à Gram négatif, aérobie.
+Transmission par voie aérienne.
+Se rencontre à tout âge de façon sporadique ou épidémique, avec une recrudescence hivernale.
+Certains arguments cliniques peuvent orienter le diagnostic :
+rhinopharyngite inaugurale ;
+herpès nasolabial, arthralgies, injection conjonctivale ;
+purpura pétéchial (membres, tronc, muqueuses) ;
+purpura extensif nécrotique (purpura fulminans des septicémies à ménincocoque).
+LCS : le plus souvent méningite purulente.
+2. Méningites à pneumocoque
+Streptococcus pneumoniae est un diplocoque à Gram positif, encapsulé.
+Deuxième cause de méningite bactérienne et associée au pronostic le plus grave.
+Recrudescence hivernale.
+Peut survenir sur un terrain particulier :
+sujet âgé ;
+pathologie chronique sous-jacente : diabète, éthylisme chronique, myélome ;
+immunodépression ;
+splénectomie.
+Peut résulter de :
+brèche ostéoméningée post-traumatique (parfois ancienne) ;
+foyer infectieux de voisinage : pneumopathie, foyer ORL (sinusite, otite suppurée, mastoïdite).
+Une rhinorrhée ou des signes d’infection des voies aériennes peuvent accompagner le tableau clinique.
+LCS : le plus souvent méningite purulente.
+3. Méningites à Haemophilus influenzae
+Haemophilus influenzae est un bacille à Gram négatif intra- et extracellulaire.
+Première cause de méningite bactérienne chez le nourrisson et l’enfant de moins de 6 ans non vacciné.
+Peut s’accompagner d’une otite, épiglottite, arthrite ou pneumopathie.
+LCS : le plus souvent méningite purulente, mais parfois une formule panachée peut être retrouvée.
+4. Méningites et méningo-encéphalites à Listeria monocytogenes
+Listeria monocytogenes est un bacille à Gram positif intracellulaire facultatif.
+Transmission par voie digestive (notamment consommation de produits laitiers crus).
+Une listériose neuroméningée est possible à tout âge mais doit être particulièrement évoquée dans certaines situations :
+sujet âgé ;
+grossesse ;
+maladies chroniques : diabète, alcoolisme, cancer, cirrhose ;
+immunodépression : corticothérapie, chimiothérapie, greffe.
+Tableau clinique caractérisé par :
+un début progressif avec une phase prodromale sur quelques jours associant fatigue, douleurs abdominales, nausées, vomissements, céphalées ;
+un syndrome méningé parfois fruste, avec fièvre inconstante ;
+un tableau de rhombencéphalite par atteinte du tronc cérébral pouvant associer atteinte des nerfs crâniens (paralysie oculomotrice, paralysie faciale, troubles de la déglutition), syndrome cérébelleux, atteinte des voies longues, ataxie cérébelleuse, troubles de la vigilance, atteinte cardiorespiratoire.
+LCS : typiquement clair avec pléiocytose à prédominance lymphocytaire ou formule panachée, hyperprotéinorachie modérée, hypoglycorachie ou normoglycorachie ; plus rarement aspect purulent.
+5. Méningites et méningo-encéphalites tuberculeuses
+La tuberculose neuroméningée peut survenir lors de la dissémination faisant suite à une primo-infection tuberculeuse ou à distance de celle-ci à partir d’une autre localisation.
+Diagnostic difficile, souvent retardé.
+Doit être évoquée notamment si :
+sujet originaire d’une zone d’endémie ;
+absence de vaccination par le BCG ;
+immunodépression ;
+notion de contage ;
+tuberculose maladie autre associée (pulmonaire ou extrapulmonaire…).
+Tableau clinique :
+début progressif sur plusieurs jours ou semaines associant fièvre modérée, sueurs, altération de l’état général avec anorexie et amaigrissement, céphalées progressives, troubles psychiques (irritabilité, insomnie, troubles cognitifs) ;
+signes méningés souvent au second plan ;
+méningite basilaire (atteinte des méninges de la base du cerveau) souvent rencontrée et associant :
+signes de focalisation par atteinte d’autres structures du système nerveux central possibles : arachnoïdite, épidurite, infarctus localisé, hydrocéphalie :
+atteinte des nerfs crâniens : paralysie oculomotrice, paralysie faciale,
+troubles neurovégétatifs : anomalies du rythme respiratoire, irrégularité du pouls et de la pression artérielle,
+troubles de la vigilance ;
+LCS : typiquement clair (parfois trouble) avec pléiocytose à prédominance lymphocytaire, hyperprotéinorachie dépassant souvent 1 g/L, hypoglycorachie constante sauf au début de l’évolution. Diagnostic posé sur la positivité de la culture du LCS sur milieu solide de Löwenstein, ou sur milieu liquide (plus rapide), ou par PCR.
+L’imagerie cérébrale peut montrer une prise de contraste méningée à la base du cerveau, des tuberculomes, ou des infarctus cérébraux témoignant d’une angéite cérébrale.
+D’autres localisations tuberculeuses doivent être recherchées, pulmonaires et extrapulmonaires (notamment ophtalmique, péricardique, urogénitale, hépatique, par exemple).
+6. Causes plus rares de méningites et méningo-encéphalites de présentation subaiguë ou chronique
+a. Maladie de Lyme
+Secondaire à une infection par Borrelia burgdorferi, un spirochète transmis par piqûre de tique en zone d’endémie, et survient en phase secondaire de la maladie, plusieurs semaines ou mois après un contage.
+Un antécédent d’érythème chronique migrateur doit être recherché à l’interrogatoire du patient de même que d’autres manifestations de la phase secondaire : arthrites, atteinte cardiaque (bloc auriculoventriculaire, péricardite).
+Tableau clinique : comporte classiquement une atteinte pluriradiculaire très douloureuse associée à la méningite (méningo-encéphalite) avec possible paralysie des nerfs crâniens en particulier le nerf facial (la maladie de Lyme est une cause de paralysie faciale périphérique bilatérale).
+LCS : typiquement clair avec pléiocytose à prédominance lymphocytaire, hyperprotéinorachie, normoglycorachie.
+Une sérologie dans le sang et le LCS doit être réalisée.
+b. Syphilis
+Les méningites aiguës à Treponema pallidum se rencontrent au cours de la phase secondaire ou tertiaire de la maladie.
+Elles peuvent rentrer dans le cadre d’une neurosyphilis associant diverses atteintes neurologiques : méningite chronique, atteinte des nerfs crâniens (paralysie oculomotrice, atteinte du nerf optique ou auditif), signe d’Argyll-Robertson (abolition du réflexe photomoteur avec conservation de la contraction pupillaire à l’accommodation-convergence), tabès, infarctus cérébraux par angéite, démence frontale avec mégalomanie (appelée paralysie générale).
+LCS : typiquement clair avec pléiocytose à prédominance lymphocytaire, hyperprotéinorachie, normoglycorachie.
+Diagnostic : positivité de la sérologie (VDRL, TPHA, FTA) dans le sang et dans le LCS (même si inconstamment positive à ce niveau-là).
+7. Autres méningites et méningo-encéphalites bactériennes
+Le diagnostic sera évoqué en fonction du contexte et des atteintes extraneurologiques associées. Parmi les bactéries incriminées, on retient :
+
+leptospirose ;
+brucellose ;
+bactéries intracellulaires : mycoplasme, Chlamydia, Legionella, Coxiella burnetii, Rickettsia.
+B. Méningites et méningo-encéphalites virales
+1. Méningo-encéphalite herpétique
+Urgence diagnostique et thérapeutique car risque de séquelles graves.
+Due à une réplication du virus herpès simplex (HSV) de type 1 (95 % des cas) ou 2 (5 % des cas, avec habituellement un tableau de méningite sans note encéphalitique) quiescents dans les ganglions nerveux céphaliques.
+Survient à tout âge (âge moyen : 40 ans).
+Symptomatologie clinique associant à divers degrés :
+début rapide à type de syndrome grippal, asthénie, altération de l’état général ;
+syndrome infectieux avec fièvre quasi constante, souvent élevée ;
+syndrome méningé plus inconstant, parfois limité aux céphalées ;
+syndrome encéphalitique :
+syndrome confusionnel avec troubles du comportement (agitation, agressivité),
+troubles mnésiques antérogrades marqués (oubli à mesure),
+troubles de la vigilance fluctuants, pouvant aller jusqu’au coma,
+crises épileptiques partielles simples ou complexes (illusions, hallucinations olfactives, gustatives ou auditives, crises végétatives), avec ou sans généralisation secondaire, ou d’emblée généralisées,
+troubles du langage : aphasie de Wernicke,
+plus rarement atteinte du champ visuel (quadranospie supérieure) ou motrice (hémiparésie dans les formes graves nécrotiques ou œdémateuses).
+Une méningo-encéphalite herpétique doit être évoquée devant :
+
+toute céphalée fébrile ;
+toute confusion fébrile ;
+tout coma fébrile.
+L’étude du LCS permet le diagnostic positif :
+typiquement clair avec pléiocytose à prédominance lymphocytaire (souvent < 500/mm3), hyperprotéinorachie généralement modérée (< 1 g/L), normoglycorachie ;
+du fait de la nécrose associée, un aspect faiblement hémorragique peut être retrouvé (10 à 1 000 hématies/mm3) ;
+dans les formes encéphalitiques pures l’hypercytose peut être discrète et la protéinorachie légèrement augmentée ;
+dans les formes débutantes, le LCS peut être normal ;
+la recherche dans le LCS d’une réplication virale de HSV par technique PCR est systématique. Elle peut être négative au début de la maladie (jusqu’à 4 jours) et doit être renouvelée en cas de suspicion clinique.
+Un LCS normal, y compris l’examen par PCR, en début de maladie n’exclut pas le diagnostic de méningo-encéphalite herpétique.
+
+L’apport des autres examens biologiques est plus limité :
+
+la recherche d’antigènes herpétiques sanguins peut être positive très précocement mais la technique est peu sensible ;
+les anticorps (IgM) dans le sang et le LCS sont très spécifiques mais la positivité est tardive (environ 8 jours).
+D’autres examens complémentaires peuvent aider au diagnostic :
+
+imagerie cérébrale :
+électro-encéphalogramme : peut montrer des ondes lentes séparées par des intervalles réguliers prenant un aspect pseudo-périodique ou périodique, ainsi que des pointes ou pointes-ondes. Les anomalies prédominent dans les régions temporales et frontales.
+IRM cérébrale : peut montrer des hypersignaux sur les séquences T2 et FLAIR, principalement localisés au niveau des lobes temporaux (topographie antérieure évoluant vers la région moyenne et médiale) et des régions frontales orbitaires, le plus souvent bilatéraux mais asymétriques, avec prise de contraste sur la séquence T1 gadolinium (fig. 24.2). L’évolution vers une atrophie des noyaux amygdaliens et de l’hippocampe est souvent observée,
+
+Scanner cérébral : moins sensible que l’IRM, il peut mettre en évidence une hypodensité avec œdème et prise de contraste gyriforme de ces mêmes régions,
+
+L’imagerie cérébrale peut, dans les formes graves, révéler un effet de masse avec signes d’engagement cérébral ;
+
+Fig. 24.2
+
+IRM cérébrale en séquence FLAIR chez un patient présentant une méningo-encéphalite herpétique.
+Hypersignal franc des régions antérieure et médiale du lobe temporal droit, avec atteinte plus subtile de la région médiale du lobe temporale gauche.
+
+2. Autres méningites virales
+Elles représentent la première cause de méningites aiguës.
+L’origine virale peut être suspectée devant le contexte clinique :
+notion de contage ;
+syndrome pseudo-grippal : courbatures, myalgies ;
+signes précédant ou accompagnant le syndrome méningé, variables selon le virus en cause : respiratoires (rhinopharyngite, bronchite), digestifs (gastroentérite), éruption cutanée, conjonctivite.
+Principaux virus en cause connus :
+entérovirus : Coxsackies A et B, échovirus, poliovirus ;
+myxovirus et paramyxovirus : grippe, rougeole, oreillons ;
+virus du groupe Herpès (VZV, EBV, CMV, HHV-6) ;
+arbovirus : tick-borne encephalitis, fièvre de la vallée du Rift, West Nile, encéphalite japonaise ;
+primo-infection par le VIH.
+LCS : clair avec pléiocytose à prédominance lymphocytaire, hyperprotéinorachie modérée (< 1 g/L), normoglycorachie. L’identification du virus par PCR a peu d’intérêt du fait de l’absence de sanction thérapeutique, à l’exception du VIH.
+Évolution favorable en quelques jours.
+C. Méningites et méningo-encéphalites parasitaires
+1. Accès pernicieux palustre
+Urgence diagnostique et thérapeutique.
+Quasi exclusivement dû à Plasmodium falciparum.
+Doit être évoqué en cas de retour d’un séjour dans une zone d’endémie (< 2 mois).
+Associe :
+tableau neurologique fébrile : syndrome confusionnel, convulsions, coma, possibles signes focaux ;
+atteinte multiviscérale : splénomégalie, hépatomégalie, ictère, insuffisance rénale, défaillance cardiocirculatoire et respiratoire.
+LCS : clair avec pléiocytose à prédominance lymphocytaire et hyperprotéinorachie modérées, normoglycorachie.
+Diagnostic : frottis sanguin et goutte épaisse.
+2. Autres méningites et méningo-encéphalites parasitaires
+D’autres infections parasitaires peuvent donner des méningites et méningo-encéphalites, quasiment toujours associées à d’autres atteintes cérébrales. De ce fait, leur intégration dans ce chapitre est discutable.
+
+La toxoplasmose cérébrale se rencontre chez le patient porteur du sida. La présentation habituelle est plutôt celle d’un processus expansif intracrânien mais un tableau de méningo-encéphalite peut parfois être observé.
+La cysticercose cérébrale due à Taenia solium, se rencontre en Amérique latine, Afrique saharienne et dans la péninsule ibérique. Des crises d’épilepsie, une hydrocéphalie et une hypertension intracrânienne accompagnent souvent la méningite. Le scanner cérébral montre des calcifications qui sont également retrouvées au niveau des parties molles sur les radiographies des membres inférieurs. Il existe une hyperéosinophilie.
+Autres parasitoses : trypanosomiase, trichinose, bilharziose digestive…
+D. Méningites et méningo-encéphalites fongiques
+Elles surviennent de manière subaiguë ou chronique chez les patients immunodéprimés dans un contexte d’altération de l’état général associée à d’autres localisations viscérales, notamment cardiaque, pulmonaire ou cutanée.
+Causes les plus fréquentes : cryptococcose, candidose, aspergillose, nocardiose.
+E. Méningites puriformes aseptiques
+Méningites à liquide clair ou discrètement trouble avec un LCS associant hypercytose à polynucléaires neutrophiles et culture stérile.
+Les diagnostics évoqués sont :
+une méningite présumée bactérienne décapitée par une antibiothérapie ;
+une méningite virale au cours des 24 premières heures avec protéinorachie < 1 g/L et glycorachie normale ;
+un processus expansif intracrânien infectieux (abcès, empyème sous-dural) ou non infectieux (hématome intracérébral, tumeur cérébrale ou extracérébrale sus- ou sous-tentorielle) ;
+une méningite médicamenteuse : rare, elle implique soit une irritation méningée directe secondaire à l’administration intrathécale d’un traitement (méthotrexate, cytarabine, corticoïdes, produit de contraste), soit une réaction d’hypersensibilité secondaire à l’administration systémique de médicaments (anti-inflammatoires non stéroïdiens, cotrimoxazole, immunoglobulines intraveineuses) ;
+une méningite inflammatoire (cf. §. V. Diagnostique différentiel)
+V. Diagnostic différentiel
+En dehors des causes infectieuses, un tableau de méningite ou méningo-encéphalique avec LCS clair peut être rencontré dans d’autres situations cliniques.
+
+A. Méningites inflammatoires
+Tableau d’évolution subaigu ou chronique.
+Généralement dans le cadre d’angéite du système nerveux central.
+Principales causes : maladie de Behçet, lupus érythémateux disséminé, sarcoïdose, maladie de Gougerot-Sjögren.
+B. Méningites carcinomateuses
+Liées à l’infiltration des leptoméninges par des cellules métastatiques.
+Cancer primitif le plus souvent connu mais qui peut être, plus rarement, découvert à l’occasion de la méningite : poumon, sein, mélanome, lymphomes, leucémie.
+Syndrome méningé souvent en arrière-plan.
+Atteinte pluriradiculaire et des nerfs crâniens (en particulier nerf facial, nerfs oculomoteurs et nerf auditif) associée à des manifestations encéphalitiques fréquentes.
+LCS : classiquement hyperprotéinorachie élevée (> 1 g/L) avec hypoglycorachie. La recherche de cellules anormales métastatiques peut se révéler négative et nécessite de réitérer la ponction lombaire.
+L’IRM cérébrale peut montrer une prise de contraste anormale des leptoméninges ou des nerfs crâniens.
+Pronostic sombre.
+C. Encéphalites auto-immunes
+Également appelées encéphalites limbiques du fait de l’atteinte préférentielle des structures temporales internes.
+Caractérisées par un syndrome méningé le plus souvent absent, un début aigu ou subaigu associant une amnésie antérograde, des troubles psychiatriques et du comportement avec hallucinations, des crises épileptiques temporales.
+On distingue deux situations :
+encéphalites auto-immunes dans le cadre d’un syndrome paranéoplasique : cancer pulmonaire à petites cellules, cancer testiculaire, cancer de l’ovaire, lymphome, thymome ;
+encéphalites auto-immunes non paranéoplasiques.
+IRM cérébrale : hypersignal bilatéral des hippocampes et des régions temporales internes.
+Importance de rechercher des autoanticorps dans le sang et le LCS : anticorps anti-neuronaux, anti-canaux potassiques voltage dépendant (anti-VGKC), anti-NMDA.
+VI. Prise en charge thérapeutique
+A. Mesures générales
+En urgence en milieu hospitalier.
+Mesures d’isolement infectieux en attente du diagnostic bactériologique.
+Le traitement symptomatique comporte :
+antipyrétiques ;
+antalgiques ;
+correction des troubles hydroélectrolytiques ;
+traitement antiépileptique si crise épileptique.
+B. Traitement et évolution des méningites et méningo-encéphalites bactériennes
+1. Antibiothérapie
+Guidée par les résultats initiaux du LCS (). Outre les situations imposant de débuter le traitement avant la réalisation de la ponction lombaire (cf. supra), l’antibiothérapie doit être administrée avant d’obtenir les premiers résultats du LCS en cas d’aspect trouble de ce dernier.
+En cas d’examen direct négatif :
+en l’absence d’argument clinique pour une listériose, le traitement antibiotique doit comporter céfotaxime ou ceftriaxone par voie IV, en association avec la gentamicine chez les nourrissons de moins de 3 mois ;
+en présence d’arguments cliniques pour une listériose, le traitement antibiotique doit comporter céfotaxime ou ceftriaxone par voie IV, en association avec l’amoxicilline et la gentamicine.
+L’adaptation et la durée totale du traitement sont définies après documentation microbiologique (). Lorsqu’aucune documentation microbiologique n’a pu être obtenue et que le diagnostic de méningite bactérienne reste envisagé, l’antibiothérapie initiale est maintenue à l’identique pour une durée de 14 jours.
+Les autres causes bactériennes nécessitent un traitement spécifique :
+méningite tuberculeuse : quadrithérapie rifampicine, isoniazide, pyrazinamide et éthambutol pendant 2 mois puis bithérapie rifampicine et isoniazide pendant 7 à 10 mois ;
+maladie de Lyme : ceftriaxone par voie IV pendant 3 à 4 semaines ;
+syphilis : pénicilline G par voie IV pendant 2 à 3 semaines.
+
+
+
+
+
+-------------------------------------> Tableau 24.3  Choix de l’antibiothérapie de 1re intention en cas d’examen direct positif et après documentation microbiologique des méningites bactériennes aiguës en fonction des données du LCS.
+
+
+
+
+
+
+
+
+
+
+
+
+1 300 mg/kg/j en IV, soit en 4 perfusions, soit en administration continue avec dose de charge de 50 mg/kg sur 1 heure. 2 100 mg/kg/j en IV, en 1 ou 2 perfusions. 3 200 mg/kg/j en IV, soit en 4 perfusions, soit en administration continue avec dose de charge de 50 mg/kg sur 1 heure. 4 75 mg/kg/j en IV, en 1 ou 2 perfusions. 5 200 mg/kg/j en IV, soit en 4 perfusions, soit en administration continue. 6 3 à 5 mg/kg en IV, en 1 perfusion unique journalière. 7 200 mg/kg/j soit en 4 à 6 perfusions, soit en administration continue. 8 Diminuer la dose de céfotaxime à 200 mg/kg/j en IV et de ceftriaxone à 75 mg/kg/j en IV si CMI de la C3G < 0,5 mg/L. 9 300 mg/kg/j en IV (200 mg/kg/j si CMI < 0,5 mg/L), soit en 4 à 6 perfusions, soit en administration continue. 10 100 mg/kg/j en IV (75 mg/kg/j si CMI < 0,5 mg/L), en 1 ou 2 perfusions. 11 200 mg/kg/j en IV, soit en 4 à 6 perfusions, soit en administration continue.
+
+2. Corticothérapie
+La dexaméthasone a une action anti-inflammatoire bénéfique si elle est administrée avant l’antibiothérapie.
+Les indications sont :
+diagnostic microbiologique chez l’adulte de méningite à pneumocoque ou à méningocoque ;
+diagnostic microbiologique chez l’enfant ou le nourrisson de méningite à pneumocoque ou à H. influenzae ;
+diagnostic présumé de méningite bactérienne sans certitude microbiologique mais décision de traitement probabiliste par antibiotique chez l’adulte et chez le nourrisson de 3 à 12 mois. Il s’agit des cas suivants :
+indication d’une imagerie cérébrale, qui retarde de facto la réalisation de la ponction lombaire,
+LCS trouble,
+examen direct du LCS négatif, mais les données fournies par les autres examens biologiques du LCS et du sang permettent de retenir le diagnostic de méningite bactérienne.
+Concernant ces dernières situations, il faut noter que si le diagnostic finalement retenu ne correspond pas aux indications de la corticothérapie, celle-ci doit être arrêtée. Elle est contre-indiquée en cas d’immunodépression.
+Modalités d’administration : dose unitaire de 10 mg chez l’adulte et 0,15 mg/kg chez l’enfant, injection intraveineuse toutes les 6 heures pendant 4 jours, première injection immédiatement avant ou de façon concomitante à la première injection d’antibiotique. Elle n’est plus indiquée si le traitement antibiotique a déjà été débuté.
+3. Mesures associées
+Méningite à pneumocoque ou Haemophilus influenzae : recherche et prise en charge spécifique d’un foyer infectieux pulmonaire ou ORL.
+Méningite à pneumocoque : scanner à la recherche d’une brèche ostéoméningée en particulier en cas d’antécédent de traumatisme crânien, d’intervention neurochirurgicale ou ORL, d’otorrhée ou de rhinorrhée de LCS, ou de méningites bactériennes récidivantes.
+Méningite à méningocoque : déclaration obligatoire au médecin inspecteur de santé publique de l’Agence régionale de santé (ARS) afin d’organiser l’antibioprophylaxie et la vaccination éventuelle des contacts du patient.
+Méningite tuberculeuse : déclaration obligatoire.
+Méningite à pneumocoque chez l’enfant : suivi audiométrique.
+4. Évolution et complications
+Surveillance clinique : céphalées, fièvre, constantes hémodynamiques, examen neurologique.
+Contrôle de la PL non systématique.
+Indications de PL de contrôle à 48–72 h dans les méningites bactériennes
+
+Évolution clinique défavorable (fièvre, troubles neurologiques) : nécessite aussi la réalisation d’une imagerie cérébrale.
+À discuter en cas de méningite à bactéries inhabituelles (autres que pneumocoque, méningocoque, Haemophilus et Listeria).
+Principales complications précoces des méningites bactériennes :
+complications générales :
+complications neurologiques :
+séquelles possibles :
+choc septique,
+purpura fulminans,
+complications de décubitus,
+iatrogénie induite par l’antibiothérapie ;
+hydrocéphalie aiguë par cloisonnement méningé,
+thrombose veineuse cérébrale,
+œdème cérébral avec possible effet de masse et engagement,
+abcès cérébral,
+empyème sous-dural,
+ou encore encéphalite présuppurative,
+angéite cérébrale avec infarctus ;
+troubles cognitifs et épilepsie en cas d’encéphalite,
+surdité,
+séquelles motrices,
+hydrocéphalie à pression normale retardée.
+5. Mesures préventives
+Prévention autour d’un cas dans les méningites à méningocoque1 :
+antibioprophylaxie en urgence chez les sujets en contact proche ou répété (sécrétions rhinopharyngées) dans les 10 jours précédant l’hospitalisation :
+vaccination en complément de l’antibioprophylaxie aux contacts qui se retrouvent de manière régulière et répétée dans l’entourage proche du cas index, c’est-à-dire sa communauté de vie (sujets vivant sous le même toit, amis, voisins de classe).
+rifampicine (600 mg, 2 fois par jour, pendant 2 jours, voie orale),
+ou si allergie, ciprofloxacine (500 mg en dose unique, voie orale),
+ou ceftriaxone (250 mg en dose unique, voie injectable) ;
+Prévention des méningites à pneumocoque des sujets à risque : elle repose sur la vaccination des sujets à haut risque : asplénie fonctionnelle ou splénectomie, drépanocytose homozygote, infection à VIH, syndrome néphrotique, insuffisance respiratoire, insuffisance cardiaque, alcoolisme ou hépatopathie chronique, antécédents d’infection pulmonaire ou invasive à pneumocoque.
+C. Traitement et évolution des méningites et méningo-encéphalites virales
+Le traitement de la méningo-encéphalite herpétique est une urgence. Il doit être débuté avant d’obtenir les résultats de la recherche PCR. Il repose sur l’aciclovir IV (10–15 mg/kg toutes les 8 heures) pendant 21 jours.
+Le traitement de l’encéphalite zostérienne (VZV) est identique à celui de l’encéphalite herpétique.
+Les autres méningites virales requièrent un simple traitement symptomatique.
+Séquelles de la méningo-encéphalite herpétique
+Troubles mnésiques allant de troubles épisodiques simples au syndrome de Korsakoff.
+Troubles du langage.
+Troubles anxiodépressifs.
+Modifications du caractère : irritabilité, hyperémotivité, apathie.
+Syndrome de Klüver et Bucy : hyperoralité, hyperphagie, hypersexualité.
+ 
+
+POINTS CLÉS :
+
+Tout syndrome méningé fébrile doit faire évoquer une méningite.
+La présence de signes encéphalitiques oriente vers une méningo-encéphalite.
+La majorité des méningites et méningo-encéphalites aiguës sont infectieuses, le plus souvent virales ou bactériennes, plus rarement fongiques ou parasitaires.
+Le diagnostic repose sur l’analyse du LCS obtenu par ponction lombaire, précédée d’une imagerie cérébrale dans certaines situations. L’imagerie cérébrale n’est pas systématique et ne doit pas retarder la prise en charge thérapeutique.
+L’antibiothérapie doit être instaurée en urgence en cas de méningite bactérienne, guidée par les premiers résultats du LCS.
+Un purpura extensif oriente vers une méningococcémie et nécessite une antibiothérapie en urgence avant la réalisation de la ponction lombaire.
+Devant une suspicion de méningo-encéphalite herpétique, un traitement par aciclovir doit être instauré en urgence.
+Une chimioprophylaxie et le plus souvent une vaccination des sujets contacts doivent être effectuées en cas de méningite à méningocoque.
+ 
+
+ 
+
+Pour en savoir plus
+17e Conférence de consensus en thérapeutique anti-infectieuse du 19 novembre 2008 : « Prise en charge des méningites bactériennes aiguës communautaires (à l'exclusion du nouveau-né) ».
+http://www.infectiologie.com/site/medias/_documents/consensus/2008-Meningites-court.pdf
+

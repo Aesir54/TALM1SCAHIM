@@ -1,0 +1,116 @@
+Paralysie faciale
+
+I. Distinguer une paralysie faciale d’un déficit facial central
+A. Déficit facial central
+Il prédomine nettement sur la partie inférieure du visage (en raison de la projection bilatérale du premier neurone, operculaire, sur les noyaux du facial supérieur, dans la protubérance) : effacement du pli nasogénien, chute de la commissure labiale, impossibilité de siffler ou de gonfler les joues, attraction de la bouche du côté sain lors du sourire. Une très discrète atteinte de la partie supérieure du visage est possible.
+Il est le plus souvent associé à un déficit moteur de l’hémicorps homolatéral (participation à une hémiparésie/hémiplégie, qui peut être ou non à prédominance brachiofaciale).
+Il comporte en général une dissociation automatico-volontaire : l’asymétrie est plus marquée lors des mouvements volontaires exécutés sur consigne que lors des mouvements automatiques (mimiques spontanées, rires) ; parfois la dissociation est inverse.
+B. Paralysie faciale périphérique
+À la différence du déficit facial central :
+
+la paralysie faciale périphérique touche de façon équivalente les parties supérieure et inférieure du visage : aux signes décrits ci-dessus s’associent une fermeture incomplète de l’œil, découvrant la bascule du globe oculaire vers le haut (signe de Charles Bell) et un effacement des rides du front (vidéo 11.1) ;
+il n’y a pas de dissociation automatico-volontaire.
+D’autres symptômes et signes sont observés :
+
+élocution labiale gênée et mastication imparfaite ;
+dans les formes frustes, cils plus apparents du côté paralysé que du côté sain à l’occlusion forcée des yeux (signe des cils de Souques) ;
+réflexe cornéen aboli (atteinte du muscle orbiculaire innervé par le VII) bien que la sensibilité de la cornée soit préservée (nerf trijumeau intact) ;
+abolition des réflexes nasopalpébral, cochléopalpébral (au bruit imprévu) et du clignement à la menace ;
+hypoesthésie cutanée dans la zone de Ramsay-Hunt (conque de l’oreille, conduit auditif externe) ;
+hyperacousie douloureuse par atteinte du muscle stapédien ;
+agueusie des deux tiers antérieurs de l’hémilangue ;
+tarissement des sécrétions lacrymales (test de Schirmer).
+L’examen des muscles faciaux innervés par d’autres nerfs crâniens est normal :
+
+masticateurs (masséter, temporal, ptérygoïdien) innervés par le trijumeau (V) ;
+motricité du pharynx et du voile du palais, qui dépendent des nerfs glossopharyngien (IX) et vague (X) ;
+motricité linguale, qui dépendent du nerf grand hypoglosse (XII).
+En cas de paralysie faciale bilatérale (diplégie faciale) :
+
+le visage est atone, inexpressif ;
+le signe de Charles Bell est bilatéral ;
+les troubles de l’élocution et de la mastication sont importants.
+L’électroneuromyogramme peut être effectué en cas d’atteinte sévère et en l’absence de récupération rapide. Il permet d’apprécier l’intensité de la dénervation et de suivre la réinnervation.
+
+II. Principales étiologies d’une paralysie faciale
+A. En cas de déficit facial central
+L’orientation du diagnostic est superposable à celle d’un déficit neurologique focal central (cf. chapitre 4).
+
+B. En cas de paralysie faciale périphérique
+1. Paralysie faciale aiguë idiopathique, dite a frigore
+Il s’agit, de très loin, de la cause la plus fréquente des paralysies faciales.
+Elle s’installe, souvent le matin au réveil ou après une exposition au froid, d’emblée maximale ou progressant sur quelques heures.
+Elle est volontiers précédée de douleurs rétroauriculaires et peut s’accompagner d’une hyperacousie. Dans environ un tiers des cas, le malade signale une sensation d’engourdissement de la face.
+Elle est totalement isolée : l’examen clinique des autres nerfs crâniens, en particulier, est strictement normal.
+Elle serait liée à une neuropathie œdémateuse (nerf comprimé au niveau de sa troisième portion intrapétreuse) en lien avec un processus inflammatoire ou viral.
+Évolution :
+
+favorable dans la plus grande majorité des cas, surtout si la paralysie est incomplète. La récupération débute en 8 à 15 jours et la guérison survient en moins de 2 mois dans la plupart des cas ;
+dans 5 à 10 % des cas, la récupération est lente et incomplète, pouvant laisser des séquelles : persistance du déficit, hémispasme facial post-paralytique, mouvements syncinétiques (le gonflement des joues entraîne la fermeture de l’œil) ou, plus rarement, syndrome des « larmes de crocodile » secondaire à une réinnervation aberrante (larmoiements lors du repas).
+Traitement :
+
+prescription d’une corticothérapie orale (1 mg/kg par jour pendant 10 jours) : plus son instauration est précoce (72 premières heures), plus les chances de récupération complète augmentent ;
+prévention des complications oculaires : la kératite doit faire l’objet d’un dépistage et d’une prévention par la prescription de larmes artificielles et d’un pansement occlusif la nuit. Dans les formes de paralysie les plus sévères, une tarsorraphie transitoire est parfois proposée ;
+le traitement médical du spasme hémifacial repose sur un traitement local par injection de toxine botulique.
+2. Autres causes
+Elles sont nettement moins fréquentes. Certaines sont évidentes en raison des signes associés ou du contexte de survenue.
+
+a. Traumatisme crânien
+La paralysie faciale est immédiate (section-compression ou embrochage du nerf), ou différée (compression par œdème post-traumatique).
+
+Examens systématiques :
+
+scanner cérébral : recherche d’une fracture du rocher ;
+otoscopie : recherche d’une rupture du tympan ou du conduit, d’une fuite de LCS ou d’une otorragie ;
+audiométrie tonale et vocale : recherche d’une surdité totale ou de transmission associée.
+Traitement :
+
+le plus souvent chirurgical, en tenant compte de la valeur fonctionnelle de l’oreille interne (voie translabyrinthique si elle est détruite, voie transmastoïdienne et éventuellement sus-pétreuse si elle est conservée) ;
+les corticoïdes sont proposés pour les paralysies d’apparition secondaire.
+b. Origine vasculaire
+Évoquée devant l’association d’une paralysie faciale à une hémiplégie controlatérale respectant la face (syndrome alterne du tronc cérébral par atteinte de la protubérance).
+
+c. Sclérose en plaques
+La paralysie faciale est rarement inaugurale d’une sclérose en plaques (histoire clinique d’atteinte multifocale du système nerveux central évoquant des poussées).
+Une régression trop rapide d’une paralysie faciale a frigore et l’apparition de myokimies faciales doivent attirer l’attention.
+d. Polyradiculonévrite aiguë (syndrome de Guillain-Barré)
+La paralysie faciale est en général au second plan du tableau clinique (dominé par les troubles sensitivomoteurs des membres et l’aréflexie ostéotendineuse). La récupération complète est la règle.
+Elle peut s’inscrire dans un tableau de diplégie faciale, plus ou moins asymétrique.
+Elle peut s’accompagner d’une paralysie du carrefour vélo-pharyngo-laryngé, qui impose une surveillance rapprochée et des mesures de réanimation symptomatiques.
+e. Causes infectieuses
+Elles sont diverses et de contexte varié :
+
+éruption vésiculeuse dans la zone de Ramsay-Hunt : le diagnostic de zona du ganglion géniculé est évoqué, la paralysie faciale est en règle massive et très douloureuse, avec atteinte auditive. Un traitement par antiviral (Aciclovir®) est indiqué ;
+écoulement auriculaire ou hypertrophie de la parotide orientent vers une pathologie ORL (mastoïdite, parotidite, tumeur parotidienne) ;
+contexte fébrile et, a fortiori, syndrome méningé orientent vers une méningoradiculite, laquelle impose une étude du LCS à la recherche d’une origine bactérienne ou virale (Coxsackie, herpès, oreillons) ;
+placard érythémateux sur le corps et/ou notion de morsure de tique dans les jours ou semaines précédents : l’étude du LCS s’impose également car la paralysie faciale peut être révélatrice d’une méningoradiculite de Lyme, confirmée par les sérologies ;
+au cours de l’infection par le VIH, la paralysie faciale est fréquente, parfois bilatérale : elle peut apparaître à tous les stades, en particulier lors de la séroconversion ; le LCS est souvent anormal avec, en particulier, une augmentation des gammaglobulines.
+f. Diabète
+Il s’agit de la cause métabolique de paralysie faciale la plus fréquente, laquelle révèle parfois le diabète.
+L’atteinte du nerf facial est néanmoins plus rare que celle des nerfs oculomoteurs (VI, III).
+g. Maladies inflammatoires générales
+Dans la sarcoïdose, l’infiltration du nerf facial est la plus fréquente des localisations sur les nerfs crâniens. Elle peut inaugurer la maladie. L’association à une parotidite et à une iridocyclite constitue le syndrome d’Heerfordt.
+Dans le syndrome de Melkerson-Rosenthal, la paralysie faciale, d’allure essentielle, est récidivante et s’associe à une infiltration cutanéomuqueuse de la face (lèvres), une langue plicaturée dite « scrotale », et des antécédents familiaux identiques.
+h. Cause tumorale
+Suspectée devant une paralysie faciale d’installation progressive, surtout en cas d’atteinte d’un ou plusieurs nerfs crâniens ipsilatéraux (hypoesthésie cornéenne, hypoacousie) : tumeur de l’angle pontocérébelleux (neurinome de l’acoustique), gliome du tronc cérébral, métastase de la base du crâne, méningoradiculite carcinomateuse (cancer du sein).
+L’atteinte du nerf facial au cours de l’évolution d’une tumeur parotidienne doit faire craindre une nature cancéreuse.
+i. Causes de paralysie faciale bilatérale
+Elles ont été signalées précédemment : syndrome de Guillain-Barré, borréliose de Lyme, infection par le VIH, sarcoïdose, syndrome de Melkerson-Rosenthal.
+
+ 
+
+POINTS CLÉS :
+
+Le déficit facial central :
+
+prédomine sur le territoire facial inférieur ;
+s’associe volontiers à une hémiparésie ispilatérale.
+La paralysie faciale périphérique : touche autant le territoire du facial supérieur que celui du facial inférieur.
+
+Les causes des paralysies faciales périphériques :
+
+la plus fréquente est la paralysie faciale a frigore : installée en quelques heures ou jours, totalement isolée, de traitement codifié (protection de la cornée ++, corticothérapie orale d’instauration urgente), avec guérison en quelques semaines dans 90 % des cas ;
+autres causes variées : traumatique, tumorale, vasculaire, sclérose en plaques, polyradiculonévrite aiguë, infectieuses (zona du ganglion géniculé, pathologie ORL, méningoradiculite bactérienne ou virale), sarcoïdose, syndrome de Melkerson-Rosenthal.
+ 
+
+

@@ -1,0 +1,386 @@
+Céphalée aiguë et chronique chez l’adulte et l’enfant
+
+I. Pour comprendre
+La céphalée (douleur de l’extrémité céphalique) est un symptôme subjectif qui motive de fréquentes consultations en ville ou aux urgences. Les différentes causes sont divisées en deux groupes opposés : les céphalées primaires et les céphalées secondaires (tableau 10.1).
+
+Les céphalées primaires sont les plus fréquentes. Paroxystiques (crises) ou permanentes, elles évoluent sur le mode chronique et sont dues à l’activation des systèmes nociceptifs crâniens en l’absence de lésion sous-jacente. Leur prise en charge se fait en consultation. Le diagnostic étiologique est établi par l’interrogatoire selon des critères stricts, l’examen physique étant normal et les examens complémentaires inutiles ou normaux. Le traitement est spécifique du type de céphalée primaire.
+Les céphalées secondaires sont symptomatiques d’une cause sous-jacente locale (neurologique, ORL, ophtalmologique) ou générale. Les causes sont multiples et parfois très graves (méningite, tumeur), nécessitant une prise en charge urgente à visée diagnostique, avec des examens complémentaires systématiques.
+Tableau 10.1  Étiologies des céphalées (prévalence des causes fréquentes en population générale adulte).
+
+Céphalées primaires
+Céphalée dite de tension (épisodique : 80 %, chronique : 2 %)
+Migraine (15 %)
+Algie vasculaire de la face (1/1 000)
+ 
+Céphalées secondaires
+Une affection vasculaire crânienne ou cervicale
+Une pathologie intracrânienne non vasculaire
+La prise d’une substance ou son arrêt (abus médicamenteux : 3 %)
+Une infection (intracrânienne ou générale)
+Un traumatisme crânien ou cervical
+Une anomalie de l’homéostasie (par exemple hydrique)
+Une pathologie ophtalmologique, ORL, stomatologique, dentaire, cervicale
+Une affection psychiatrique
+L’interrogatoire sur le profil temporel est l’étape cruciale de la démarche diagnostique.
+
+II. Interrogatoire systématique initial
+Bref, il conditionne le raisonnement ultérieur. Les deux questions pour déterminer le degré d’urgence sont :
+
+Avez-vous déjà eu ce type de mal de tête ? (céphalée inhabituelle ou nouvelle crise chez un patient ayant une céphalée primaire).
+Depuis quand avez-vous ce mal de tête ? (heures, jours, semaines : céphalée récente/aiguë ; mois, années : céphalée habituelle/chronique).
+En pratique
+
+Les céphalées perçues par le patient comme récentes et inhabituelles (« aiguës ») sont des céphalées secondaires jusqu’à preuve du contraire et nécessitent des examens en urgence. Leur mode de début, brutal ou progressif, oriente vers diverses étiologies possibles.
+Les céphalées reconnues par le patient comme anciennes et habituelles (« chroniques ») sont des céphalées primaires, leur prise en charge s’effectue sans urgence. Elles peuvent être paroxystiques (crises) ou permanentes.
+Toute modification récente d’une céphalée ancienne et habituelle fait suspecter une céphalée secondaire.
+Les autres éléments de l’interrogatoire (facteurs favorisants ou aggravants, siège, type, intensité, signes associés ou généraux, historique des traitements…) orientent le diagnostic étiologique mais n’aident pas à déterminer le caractère urgent ou non de la prise en charge, ni le caractère primaire ou secondaire.
+
+III. Céphalées aiguës (récentes et inhabituelles)
+A. Poursuite de l’interrogatoire et examen clinique
+L’interrogatoire précise en premier lieu le mode de début et le profil évolutif.
+
+« Comment a débuté le mal de tête actuel ? » (céphalée brutale ou progressive).
+« En combien de temps la céphalée a atteint son intensité maximale ? »
+« Comment évolue la douleur depuis son installation ? » (aggravation, stabilité, amélioration spontanée suivie ou non de récurrence).
+L’interrogatoire précise ensuite les antécédents, les circonstances d’apparition (Encadré 10.1 Antécédents et circonstances d’apparition pouvant orienter le diagnostic d’une céphalée récente inhabituelle)
+
+Âge > 50 ans : artérite temporale (maladie de Horton).
+Facteurs de risque vasculaire : AVC (infarctus ou hémorragie).
+Facteurs de risque de thrombose veineuse (contraception orale, thrombose veineuse des membres inférieurs) : thrombose veineuse cérébrale.
+Fièvre : causes infectieuses (méningite ou infection générale).
+Infection par le VIH non contrôlée : toxoplasmose cérébrale, méningite à cryptocoque.
+Néoplasie : métastase, méningite carcinomateuse.
+Ponction durale récente : hypotension intracrânienne.
+Post-partum : syndrome de vasoconstriction réversible (SVCR), éclampsie, thrombose veineuse cérébrale, hypotension intracrânienne (si ponction péridurale).
+Prise de substances vasoactives (cannabis, cocaïne, ecstasy, amphétamines, lysergide ; inhibiteurs sélectifs de la recapture de la sérotonine, inhibiteurs mixtes de la recapture de la sérotonine et de la noradrénaline, IMAO ; a-sympathomimétiques-décongestionnants nasaux, (nor)épinéphrine ; triptans ; dérivés de l’ergot de seigles) : SVCR.
+Traumatisme crânien : hémorragie cérébrale, hématome sous-dural.
+Traumatisme rachidien mineur : dissection artérielle cervicale, hypotension intracrânienne.
+Survenue brutale à l’effort ou orgasmique : hémorragie sous-arachnoïdienne, SVCR.
+Survenue brutale lors des manœuvres de Valsalva (toux, défécation, éternuement) : SVCR, hypertension intracrânienne aiguë.
+Survenue brutale lors de mictions, du bain ou d’une douche : SVCR.
+Symptômes ORL : sinusite compliquée.
+) et les caractéristiques de la douleur : intensité maximale (EVA 0 à 10/10), type, siège, facteurs aggravants ou améliorants.
+
+L’examen clinique cherche des anomalies pouvant orienter les examens complémentaires (Encadré 10.2 Signes et symptômes pouvant orienter le diagnostic d’une céphalée récente inhabituelle).
+
+Altération de l’état général ± claudication de la mâchoire : artérite temporale (Horton).
+Crise comitiale ± déficit neurologique focal : HSA, AVC, thrombose veineuse cérébrale, SVCR, méningo-encéphalite, tumeur.
+Fièvre : causes infectieuses (méningite ou infection générale).
+Perte de connaissance lors d’une céphalée brutale : hémorragie sous-arachnoïdienne (environ 50 % des cas), tumeur intraventriculaire (kyste colloïde du 3e ventricule).
+Raideur méningée : HSA, méningite.
+Syndrome de Claude Bernard-Horner, acouphène pulsatile, paralysie linguale (XII) : dissection de l’artère carotide interne homolatérale.
+Mydriase unilatérale ± autres signes de paralysie du nerf III : anévrisme intracrânien comprimant le III.
+Diplopie, paralysie d’un ou des deux VI : hypertension intracrânienne, hypotension intracrânienne.
+Hémianopsie bitemporale : apoplexie pituitaire.
+Cécité monoculaire transitoire : dissection carotidienne (sujet jeune), artérite temporale (sujet âgé).
+Œdème papillaire : hypertension intracrânienne.
+Aggravation en position allongée : HSA, hypertension intracrânienne, sinusite bloquée.
+Aggravation en position debout : hypotension intracrânienne.
+Aggravation par les efforts à glotte fermée : hypertension intracrânienne, hypotension intracrânienne.
+Anomalies ECG : HSA, ischémie myocardique et douleur projetée.
+Asymétrie tensionnelle aux membres supérieurs : dissection de l’aorte ascendante.
+Hypertension artérielle : HSA, éclampsie, SVCR, encéphalopathie hypertensive.
+HSA : hémorragie sous-arachnoïdienne ; AVC : accident vasculaire cérébral ; SVCR : syndrome de vasoconstriction cérébrale réversible.
+
+Examen général :
+
+prise de la pression artérielle ;
+prise de température ;
+auscultation cardiaque (souffle ?) ;
+examen cutané (purpura ?).
+Examen neurologique :
+
+recherche d’une raideur méningée ;
+recherche de signes de focalisation ;
+examen des pupilles (myosis/mydriase ? Syndrome de Claude Bernard-Horner ?) ;
+acuité visuelle et champ visuel ;
+examen du fond d’œil (œdème papillaire par hypertension intracrânienne ?) ;
+recherche d’un caractère postural de la céphalée (intensité en position debout puis allongée).
+Examen locorégional :
+
+palpation des artères temporales après 50 ans (maladie de Horton ?) ;
+auscultation cervicale ;
+examen des sinus, examen oculaire ;
+palpation des muscles cervicaux (contractures ?).
+B. Identifier les situations d’urgence et orientation diagnostique
+Deux syndromes céphalalgiques sont des situations d’urgence vitale ; le syndrome méningé et le syndrome d’hypertension intracrânienne (tableau 10.2).
+
+Le syndrome méningé ou le syndrome d’hypertension intracrânienne se résument parfois à une céphalée isolée, surtout au début.
+Toute céphalée récente et inhabituelle doit donc être considérée comme secondaire et explorée. Le mode d’installation conditionne la liste des diagnostics étiologiques les plus probables.
+En pratique
+
+Toute céphalée brutale doit faire suspecter une cause vasculaire et en premier lieu une hémorragie sous-arachnoïdienne.
+Toute céphalée progressive doit être gérée comme une hypertension intracrânienne.
+Toute céphalée fébrile doit être gérée comme une méningite.
+
+
+
+
+-----> Tableau 10.2  Orientation diagnostique des syndromes céphalalgiques urgents.
+
+
+
+
+
+
+Lorsqu’une céphalée secondaire bénigne est manifeste (syndrome grippal), le patient peut être traité à domicile. Il faut lui conseiller de consulter en cas d’aggravation ou de nouveaux symptômes.
+Il est fréquent qu’un patient migraineux se présente aux urgences pour une crise sévère. Si l’interrogatoire est fiable et que le patient reconnaît « sa » crise de migraine habituelle, des explorations ne sont pas nécessaires et un traitement sera donné pour soulager la crise.
+C. Stratégie des examens complémentaires
+La règle d’or est que toute céphalée récente et inhabituelle doit être considérée comme secondaire et donc explorée.
+Les deux examens clés sont l’imagerie cérébrale et la ponction lombaire (PL). Un scanner cérébral sans injection est le premier examen. Une IRM cérébrale peut être faite d’emblée si elle est réalisable dans le même délai. Ces examens doivent souvent être complétés par une angiographie cervicale et cérébrale non invasive (angioscanner ou ARM).
+Les examens sanguins contribuent rarement au diagnostic étiologique, sauf une CRP augmentée orientant vers une maladie de Horton chez un sujet âgé ou vers une maladie infectieuse.
+Chez les patients ayant une céphalée primaire chronique, toute modification récente d’une céphalée ancienne et habituelle fait suspecter une céphalée secondaire.
+1. Imagerie cérébrale (parenchyme et vaisseaux)
+Le scanner cérébral sans injection est le premier examen à réaliser à la recherche d’une hyperdensité spontanée (présence de sang), d’une hydrocéphalie (fig. 10.1), d’un effet de masse ou d’un œdème localisé témoignant d’un processus expansif (tumeur/abcès). Des coupes sur les sinus recherchent une sinusite.
+
+Un scanner sans injection normal n’élimine pas une cause lésionnelle : 5 à 10 % des hémorragies sous-arachnoïdiennes, 30 % des thromboses veineuses cérébrales, la quasi-totalité des dissections des artères cervicales au stade de signes locaux, et la quasi-totalité des méningites ont un scanner normal.
+
+L'IRM cérébrale est l’examen de choix des céphalées aiguës (fig. 10.1). Elle est plus sensible que le scanner pour toutes les lésions parenchymateuses ou hypophysaires, et pour les diagnostics de thrombose veineuse cérébrale, d’hypotension intracrânienne et d’hémorragie sous-arachnoïdienne (T2-FLAIR et T2*). Des coupes d’IRM cervicales axiales (T1 FAT-SAT) sont nécessaires pour rechercher une dissection artérielle. Cependant, l’IRM reste souvent indisponible en urgence. Il ne faut donc pas retarder la PL si le scanner est normal.
+L'angiographie cérébrale et cervicale par angioscanner ou angio-IRM (ARM) doit être faite devant toute céphalée aiguë sans étiologie apportée par l’imagerie cérébrale et la PL, à la recherche d’une anomalie des artères intracrâniennes (anévrisme ou vasospasmes d’un syndrome de vasoconstriction cérébrale réversible) et/ou cervicales (dissection).
+L’angiographie cérébrale conventionnelle est très rarement indiquée aujourd’hui. Elle reste indiquée lors d’une hémorragie sous-arachnoïdienne (anévrisme ?) ou lors de la recherche d’affections vasculaires rares (comme une angéite) non visibles sur l’angioscanner ou l’angio-IRM.
+Fig. 10.1
+
+Exemples d’imagerie cérébrale de céphalées secondaires.
+A. Thrombose veineuse cérébrale du sinus longitudinal supérieur. IRM en séquence T1 avec gadolinium (A1 : thrombus responsable d’un signe du delta, flèche) et en FLAIR (A2 : infarctus veineux). B. Hydrocéphalie (scanner). C. Tumeur cérébrale (glioblastome) (IRM). D. Hémorragie sous-arachnoïdienne (scanner). E. Dissection carotide interne gauche (IRM montrant un hypersignal de la paroi artérielle en « croissant »).
+
+2. Ponction lombaire
+Elle est réalisée en première intention (avant toute imagerie cérébrale) devant un syndrome méningé fébrile, en l’absence de troubles de la conscience ou de signes neurologiques focaux.
+Elle est effectuée après un scanner normal, devant toute céphalée récente et inhabituelle brutale ou progressive, à la recherche d’une hémorragie sous-arachnoïdienne (liquide cérébrospinal hémorragique) ou d’une méningite (même sans fièvre).
+Un syndrome d’hypertension intracrânienne avec un scanner cérébral normal est une indication à la PL pour affirmer le diagnostic grâce à la mesure de pression, rechercher une cause méningée, et soulager la céphalée (soustraction de LCS).
+a. Contre-indications
+Ce sont les troubles de l’hémostase sévères et l’hypertension intracrânienne avec menace d’engagement par lésions expansives hémisphériques ou cérébelleuses avec effet de masse (d’où la nécessité d’une imagerie préalable lorsque la PL est réalisée pour des céphalées isolées).
+
+b. Mesure de pression du LCS
+Elle se fait chez un patient en décubitus latéral gauche, abdomen non contracté, en branchant sur l’aiguille un manomètre ou une tubulure tenue verticalement, avant toute soustraction de LCS. La pression normale est comprise entre 10 et 20 cm d’eau (jusqu’à 28 cm chez l’enfant et 25 cm chez l’adulte). Une pression du LCS > 25 cm d’eau en position allongée chez l’adulte et > 28 cm chez l’enfant signe une hypertension intracrânienne.
+
+3. Autres examens complémentaires
+Biologie : recherche d’un syndrome inflammatoire (maladie de Horton ? ou syndrome infectieux ?).
+Écho-Doppler cervical : en cas de suspicion de dissection des artères cervicales, mais l’IRM et l’ARM cervicale et l’angioscanner cervical sont plus performants pour mettre en évidence une dissection aiguë.
+Examen ophtalmologique : recherche d’un œdème papillaire (hypertension intracrânienne ?) ou d’une pathologie ophtalmologique.
+Scanner des sinus et examen ORL : en cas de suspicion de pathologie ORL.
+D. Principales causes de céphalées inhabituelles à début brutal
+La distinction entre céphalée inhabituelle brutale et progressive permet de classer les étiologies principales. Cependant, toutes les causes de céphalée brutale peuvent se révéler par une céphalée progressive. À l’inverse, de nombreuses causes de céphalée progressive peuvent parfois donner une céphalée en coup de tonnerre. Les explorations seront donc toujours poussées. Certaines céphalées vasculaires sont sources de pièges, car elles peuvent se manifester par des céphalées isolées avec un scanner simple et une ponction lombaire normaux ().
+Les céphalées brutales culminent en quelques secondes ou minutes. La céphalée en coup de tonnerre en est la forme extrême : elle atteint une intensité maximale sévère (EVA = 7) en moins d’une minute, comme « une explosion ». La durée est variable selon les causes. Il est difficile de dire à partir de quelle limite une céphalée a un début progressif et non plus brutal. En pratique, les causes de céphalées aiguës maximales en moins d’une heure sont les mêmes que celles des céphalées en coup de tonnerre.
+1. Hémorragie sous-arachnoïdienne (HSA)
+L’hémorragie sous-arachnoïdienne (ou hémorragie méningée) représente 10 à 30 % des céphalées brutales. La céphalée caractéristique est :
+
+d’apparition explosive, en coup de tonnerre, très intense ;
+associée aux autres signes d’un syndrome méningé.
+La céphalée peut cependant être isolée, d’apparition plus progressive, et/ou disparaître en quelques heures, notamment en cas d’HSA de faible abondance (céphalée dite « sentinelle » d’une rupture d’anévrisme, précédant une HSA massive).
+
+Le diagnostic repose sur le scanner cérébral en urgence, dont la sensibilité décroît de plus de 95 % dans les 24 premières heures à 50 % après la 1re semaine et presque 0 % après la 3e semaine. L’IRM cérébrale (FLAIR et T2*) est aussi sensible que le scanner dans les premières heures et devient supérieure après 24 heures.
+
+Dans tous les cas de céphalée « explosive » avec une imagerie cérébrale normale, il faut effectuer une PL. Le LCS doit être centrifugé rapidement. Une coloration jaune (xantochromie) du surnageant signe une HSA.
+
+La prise en charge doit se faire en urgence. L’imagerie vasculaire (angioscanner, ARM, et artériographie cérébrale des quatre axes) trouve un anévrisme rompu dans 80 % des cas.
+
+2. Syndrome de vasoconstriction cérébrale réversible (SVCR)
+C’est l’autre cause fréquente de céphalée en coup de tonnerre. Le SVCR, parfois nommé angiopathie cérébrale aiguë réversible, se manifeste par :
+
+des céphalées aiguës isolées (75 % des cas), le plus souvent en coup de tonnerre ;
+durant 5 minutes à plusieurs heures ;
+volontiers provoquées par l’effort, la manœuvre deValsalva ou le coït ;
+répétition sur 1 à 3 semaines.
+Elles peuvent s’associer à des crises comitiales et des déficits focaux. Le SVCR est défini sur le plan radiologique par une vasoconstriction des artères cérébrales, réversible en 3 mois. Il peut se compliquer d’hémorragie ou d’infarctus cérébraux.
+
+La moitié des SVCR survient durant le post-partum ou après exposition à des substances vasoactives (cf. encadré 10.1). L’imagerie du parenchyme cérébral (scanner ou IRM) est le plus souvent normale, mais peut montrer des complications ischémiques ou hémorragiques (tableau 10.3). L’angiographie cérébrale (angioscanner, ARM ou cathétérisme) montre des sténoses artérielles segmentaires et diffuses. Le traitement repose sur le repos, l’arrêt des substances vasoactives et un inhibiteur calcique (nimodipine).
+
+
+
+
+---------> Tableau 10.3  Causes vasculaires de céphalée récente inhabituelle.
+
+
+
+
+
+Lorsqu’une céphalée secondaire bénigne est manifeste (syndrome grippal), le patient peut être traité à domicile. Il faut lui conseiller de consulter en cas d’aggravation ou de nouveaux symptômes.
+Il est fréquent qu’un patient migraineux se présente aux urgences pour une crise sévère. Si l’interrogatoire est fiable et que le patient reconnaît « sa » crise de migraine habituelle, des explorations ne sont pas nécessaires et un traitement sera donné pour soulager la crise.
+C. Stratégie des examens complémentaires
+La règle d’or est que toute céphalée récente et inhabituelle doit être considérée comme secondaire et donc explorée.
+Les deux examens clés sont l’imagerie cérébrale et la ponction lombaire (PL). Un scanner cérébral sans injection est le premier examen. Une IRM cérébrale peut être faite d’emblée si elle est réalisable dans le même délai. Ces examens doivent souvent être complétés par une angiographie cervicale et cérébrale non invasive (angioscanner ou ARM).
+Les examens sanguins contribuent rarement au diagnostic étiologique, sauf une CRP augmentée orientant vers une maladie de Horton chez un sujet âgé ou vers une maladie infectieuse.
+Chez les patients ayant une céphalée primaire chronique, toute modification récente d’une céphalée ancienne et habituelle fait suspecter une céphalée secondaire.
+1. Imagerie cérébrale (parenchyme et vaisseaux)
+Le scanner cérébral sans injection est le premier examen à réaliser à la recherche d’une hyperdensité spontanée (présence de sang), d’une hydrocéphalie (fig. 10.1), d’un effet de masse ou d’un œdème localisé témoignant d’un processus expansif (tumeur/abcès). Des coupes sur les sinus recherchent une sinusite.
+
+Un scanner sans injection normal n’élimine pas une cause lésionnelle : 5 à 10 % des hémorragies sous-arachnoïdiennes, 30 % des thromboses veineuses cérébrales, la quasi-totalité des dissections des artères cervicales au stade de signes locaux, et la quasi-totalité des méningites ont un scanner normal.
+
+L'IRM cérébrale est l’examen de choix des céphalées aiguës (fig. 10.1). Elle est plus sensible que le scanner pour toutes les lésions parenchymateuses ou hypophysaires, et pour les diagnostics de thrombose veineuse cérébrale, d’hypotension intracrânienne et d’hémorragie sous-arachnoïdienne (T2-FLAIR et T2*). Des coupes d’IRM cervicales axiales (T1 FAT-SAT) sont nécessaires pour rechercher une dissection artérielle. Cependant, l’IRM reste souvent indisponible en urgence. Il ne faut donc pas retarder la PL si le scanner est normal.
+L'angiographie cérébrale et cervicale par angioscanner ou angio-IRM (ARM) doit être faite devant toute céphalée aiguë sans étiologie apportée par l’imagerie cérébrale et la PL, à la recherche d’une anomalie des artères intracrâniennes (anévrisme ou vasospasmes d’un syndrome de vasoconstriction cérébrale réversible) et/ou cervicales (dissection).
+L’angiographie cérébrale conventionnelle est très rarement indiquée aujourd’hui. Elle reste indiquée lors d’une hémorragie sous-arachnoïdienne (anévrisme ?) ou lors de la recherche d’affections vasculaires rares (comme une angéite) non visibles sur l’angioscanner ou l’angio-IRM.
+Fig. 10.1
+
+Exemples d’imagerie cérébrale de céphalées secondaires.
+A. Thrombose veineuse cérébrale du sinus longitudinal supérieur. IRM en séquence T1 avec gadolinium (A1 : thrombus responsable d’un signe du delta, flèche) et en FLAIR (A2 : infarctus veineux). B. Hydrocéphalie (scanner). C. Tumeur cérébrale (glioblastome) (IRM). D. Hémorragie sous-arachnoïdienne (scanner). E. Dissection carotide interne gauche (IRM montrant un hypersignal de la paroi artérielle en « croissant »).
+
+2. Ponction lombaire
+Elle est réalisée en première intention (avant toute imagerie cérébrale) devant un syndrome méningé fébrile, en l’absence de troubles de la conscience ou de signes neurologiques focaux.
+Elle est effectuée après un scanner normal, devant toute céphalée récente et inhabituelle brutale ou progressive, à la recherche d’une hémorragie sous-arachnoïdienne (liquide cérébrospinal hémorragique) ou d’une méningite (même sans fièvre).
+Un syndrome d’hypertension intracrânienne avec un scanner cérébral normal est une indication à la PL pour affirmer le diagnostic grâce à la mesure de pression, rechercher une cause méningée, et soulager la céphalée (soustraction de LCS).
+a. Contre-indications
+Ce sont les troubles de l’hémostase sévères et l’hypertension intracrânienne avec menace d’engagement par lésions expansives hémisphériques ou cérébelleuses avec effet de masse (d’où la nécessité d’une imagerie préalable lorsque la PL est réalisée pour des céphalées isolées).
+
+b. Mesure de pression du LCS
+Elle se fait chez un patient en décubitus latéral gauche, abdomen non contracté, en branchant sur l’aiguille un manomètre ou une tubulure tenue verticalement, avant toute soustraction de LCS. La pression normale est comprise entre 10 et 20 cm d’eau (jusqu’à 28 cm chez l’enfant et 25 cm chez l’adulte). Une pression du LCS > 25 cm d’eau en position allongée chez l’adulte et > 28 cm chez l’enfant signe une hypertension intracrânienne.
+
+3. Autres examens complémentaires
+Biologie : recherche d’un syndrome inflammatoire (maladie de Horton ? ou syndrome infectieux ?).
+Écho-Doppler cervical : en cas de suspicion de dissection des artères cervicales, mais l’IRM et l’ARM cervicale et l’angioscanner cervical sont plus performants pour mettre en évidence une dissection aiguë.
+Examen ophtalmologique : recherche d’un œdème papillaire (hypertension intracrânienne ?) ou d’une pathologie ophtalmologique.
+Scanner des sinus et examen ORL : en cas de suspicion de pathologie ORL.
+D. Principales causes de céphalées inhabituelles à début brutal
+La distinction entre céphalée inhabituelle brutale et progressive permet de classer les étiologies principales. Cependant, toutes les causes de céphalée brutale peuvent se révéler par une céphalée progressive. À l’inverse, de nombreuses causes de céphalée progressive peuvent parfois donner une céphalée en coup de tonnerre. Les explorations seront donc toujours poussées. Certaines céphalées vasculaires sont sources de pièges, car elles peuvent se manifester par des céphalées isolées avec un scanner simple et une ponction lombaire normaux ().
+Les céphalées brutales culminent en quelques secondes ou minutes. La céphalée en coup de tonnerre en est la forme extrême : elle atteint une intensité maximale sévère (EVA = 7) en moins d’une minute, comme « une explosion ». La durée est variable selon les causes. Il est difficile de dire à partir de quelle limite une céphalée a un début progressif et non plus brutal. En pratique, les causes de céphalées aiguës maximales en moins d’une heure sont les mêmes que celles des céphalées en coup de tonnerre.
+1. Hémorragie sous-arachnoïdienne (HSA)
+L’hémorragie sous-arachnoïdienne (ou hémorragie méningée) représente 10 à 30 % des céphalées brutales. La céphalée caractéristique est :
+
+d’apparition explosive, en coup de tonnerre, très intense ;
+associée aux autres signes d’un syndrome méningé.
+La céphalée peut cependant être isolée, d’apparition plus progressive, et/ou disparaître en quelques heures, notamment en cas d’HSA de faible abondance (céphalée dite « sentinelle » d’une rupture d’anévrisme, précédant une HSA massive).
+
+Le diagnostic repose sur le scanner cérébral en urgence, dont la sensibilité décroît de plus de 95 % dans les 24 premières heures à 50 % après la 1re semaine et presque 0 % après la 3e semaine. L’IRM cérébrale (FLAIR et T2*) est aussi sensible que le scanner dans les premières heures et devient supérieure après 24 heures.
+
+Dans tous les cas de céphalée « explosive » avec une imagerie cérébrale normale, il faut effectuer une PL. Le LCS doit être centrifugé rapidement. Une coloration jaune (xantochromie) du surnageant signe une HSA.
+
+La prise en charge doit se faire en urgence. L’imagerie vasculaire (angioscanner, ARM, et artériographie cérébrale des quatre axes) trouve un anévrisme rompu dans 80 % des cas.
+
+2. Syndrome de vasoconstriction cérébrale réversible (SVCR)
+C’est l’autre cause fréquente de céphalée en coup de tonnerre. Le SVCR, parfois nommé angiopathie cérébrale aiguë réversible, se manifeste par :
+
+des céphalées aiguës isolées (75 % des cas), le plus souvent en coup de tonnerre ;
+durant 5 minutes à plusieurs heures ;
+volontiers provoquées par l’effort, la manœuvre deValsalva ou le coït ;
+répétition sur 1 à 3 semaines.
+Elles peuvent s’associer à des crises comitiales et des déficits focaux. Le SVCR est défini sur le plan radiologique par une vasoconstriction des artères cérébrales, réversible en 3 mois. Il peut se compliquer d’hémorragie ou d’infarctus cérébraux.
+
+La moitié des SVCR survient durant le post-partum ou après exposition à des substances vasoactives (cf. encadré 10.1). L’imagerie du parenchyme cérébral (scanner ou IRM) est le plus souvent normale, mais peut montrer des complications ischémiques ou hémorragiques (tableau 10.3). L’angiographie cérébrale (angioscanner, ARM ou cathétérisme) montre des sténoses artérielles segmentaires et diffuses. Le traitement repose sur le repos, l’arrêt des substances vasoactives et un inhibiteur calcique (nimodipine).
+
+
+
+
+------------> Tableau 10.3  Causes vasculaires de céphalée récente inhabituelle.
+
+
+
+
+
+3. Causes plus rares de céphalée à début brutal
+Les causes détectées par scanner simple sont les hémorragies intracrâniennes (intracérébrale, intraventriculaire, sous-durale aiguë, extradurale), les infarctus (visibles après 3 heures), l’hydrocéphalie et les tumeurs cérébrales (possible céphalée brutale à la toux ou à la manœuvre de Valsalva). Dans les AVC ou les tumeurs cérébrales, la céphalée s’associe presque toujours à un déficit focal. Les céphalées brutales sont exceptionnelles dans les hématomes sous-duraux chroniques. Une sinusite aiguë notamment sphénoïdale peut causer une céphalée brutale, mais doit être considérée comme un diagnostic d’exclusion.
+
+Les causes possiblement détectées par la PL après un scanner normal sont outre l’HSA, les méningites (environ 2 % des patients se présentant pour une céphalée brutale isolée).
+
+Les causes pouvant donner un scanner simple et une PL normaux sont : les dissections cervicales (8 % se révèlent par une céphalée isolée), les thromboses veineuses cérébrales (céphalée brutale isolée dans 2 à 16 % des cas), le SVCR et l’encéphalopathie hypertensive, l’artérite temporale, les nécroses pituitaires, les AVC ischémiques (si scanner très précoce), les syndromes d’hypotension intracrânienne et exceptionnellement des causes cardiovasculaires (ischémie myocardique, dissection aortique) par douleur projetée.
+
+La dissection d’une artère cervicale (carotide interne ou vertébrale) se caractérise par une cervicalgie et/ou une céphalée récente, inhabituelle, à début volontiers brutal, mais parfois plus progressif. Une dissection carotidienne entraîne typiquement une cervicalgie unilatérale avec une céphalée ipsilatérale, frontale et temporale et un syndrome de Claude Bernard-Horner (ptosis, myosis, rétrécissement de la fente palpébrale) par compression du système sympathique péricarotidien. Des acouphènes pulsatiles et une paralysie des derniers nerfs crâniens (XII) sont évocateurs. Une dissection vertébrale donne des cervicalgies à type de torticolis et une céphalée postérieure. Le diagnostic repose sur l’angioscanner cervical et l’IRM (avec coupes axiales cervicales et ARM) qui montrent un rétrécissement artériel avec un hématome de la paroi (fig. 10.2). L’écho-Doppler cervical est également utile. Un diagnostic en urgence au stade de signes locaux (cervicalgie et céphalées) permet d’instaurer un traitement antithrombotique pour prévenir les complications ischémiques (AVC).
+
+__________________________________________________________________________________
+
+En cas de dissection intracrânienne vertébrale, il faut rechercher une hémorragie sous-arachnoïdienne associée par l’imagerie cérébrale et une PL (risque de rupture par dissection sous-adventitielle).
+
+Fig. 10.2  
+Céphalée aiguë et chronique : les points clés.
+
+E. Principales causes de céphalées récentes à début progressif
+Les causes sont encore plus diverses que celles à l’origine des céphalées brutales. En effet, toutes les causes de céphalées brutales peuvent aussi se révéler par des céphalées progressives.
+
+1. Méningites et méningo-encéphalites
+Une céphalée fébrile avec syndrome méningé oriente vers une méningite infectieuse. La fièvre peut toutefois manquer et la raideur méningée être absente (d’où la règle de faire une PL devant toute céphalée inhabituelle après un scanner normal). Au cours de certaines méningo-encéphalites lymphocytaires, la céphalée est au premier plan (avant l’apparition de signes focaux, troubles de la conscience ou crises comitiales) ; un traitement antiherpétique (aciclovir) doit être démarré au moindre doute sans attendre la confirmation virologique (recherche par PCR du virus HSV).
+
+Les méningites aseptiques sont retrouvées au cours de certains cancers et maladies inflammatoires.
+
+2. Syndromes d’hypertension intracrânienne
+La céphalée peut être le seul symptôme d’un syndrome d’hypertension intracrânienne, en particulier à la phase précoce. Elle a le plus souvent un début progressif, mais peut démarrer brutalement.
+L'hypertension intracrânienne symptomatique est une urgence, en raison du risque d’engagement. L’IRM ou le scanner (avec injection de produit de contraste) sont essentiels au diagnostic étiologique (fig. 10.2). Ils recherchent un processus expansif intracrânien ou une thrombose veineuse cérébrale.
+La suspicion d’un processus expansif intracrânien augmente lorsque la céphalée s’associe à des signes focaux progressifs (déficit sensitif et/ou moteur hémicorporel, aphasie, héminégligence, hémianopsie…). L’imagerie permet le diagnostic : hydrocéphalie, abcès, tumeur primitive ou secondaire, hématome sous-dural. Un avis neurochirugical doit alors être demandé en urgence.
+Dans la thrombose veineuse cérébrale (TVC), la céphalée est quasi constante, le plus souvent progressive mais parfois brutale (2 à 16 % des cas). Elle est associée aux autres signes d’hypertension intracrânienne ou isolée. Des signes focaux bilatéraux et à bascule sont évocateurs, de même que le contexte (femme jeune, post-partum…). La TVC peut se compliquer d’infarctus veineux avec lésions œdémateuses souvent hémorragiques. Le diagnostic repose sur l’imagerie cérébrale et du système veineux (fig. 10.2) par IRM (sagittal T1, coronal T2, axial T2* et 3D SPGR après gadolinium) ou angioscanner veineux. Un traitement anticoagulant doit être instauré en urgence même en cas de forme hémorragique. Une PL évacuatrice peut être effectuée avant la mise sous anticoagulant en cas d’hypertension intracrânienne (diminue la pression et soulage la céphalée).
+Si ces étiologies sont éliminées, la PL avec prise de pression en décubitus confirme l’hypertension intracrânienne (> 25 cm d’eau) et impose la recherche d’une cause vasculaire non vue sur l’imagerie cérébrale initiale (une fistule durale ou une tumeur médullaire).
+L’hypertension intracrânienne idiopathique touche avec prédilection les jeunes femmes obèses et plus rarement en cas de prise de certains médicaments (vitamine A) ou de maladies métaboliques (endocrinopathies surrénaliennes). Il s’agit d’un diagnostic d’élimination. La céphalée est celle d’une hypertension intracrânienne avec éclipses visuelles et œdèmes papillaires bilatéraux. La principale complication est l’atrophie optique avec cécité. Le diagnostic est basé sur la normalité de l’imagerie cérébrale (exclusion d’un processus expansif, d’une thrombose veineuse et d’une fistule durale par IRM, ARM et parfois artériographie conventionnelle), sur la mesure de pression du LCS par PL en décubitus (pression > 25 cm d’eau chez l’adulte et > 28 cm d’eau chez l’enfant) et sur la normalité de la composition du LCS. Le traitement repose sur la PL soustractive, l’acétazolamide et la perte de poids.
+3. Syndromes d’hypotension intracrânienne
+La céphalée post-ponction durale est provoquée par une baisse de pression du LCS après une brèche durale iatrogène : PL, anesthésie péridurale, rachianesthésie, infiltration épidurale, neurochirurgie. Elle apparaît quelques heures après le geste (syndrome post-PL). Elle est progressive ou soudaine. Le risque de céphalée post-PL dépend des caractéristiques de l’aiguille utilisée (diamètre, biseau). Le diagnostic est clinique, basé sur la mise en évidence d’une céphalée posturale orthostatique qui apparaît en position debout ou assise, et disparaît en moins de 15 minutes en décubitus (à plat sans coussin). L’IRM montre les mêmes anomalies que dans une hypotension intracrânienne idiopathique.
+L’hypotension intracrânienne idiopathique est due à une fuite de LCS par une brèche durale spontanée ou apparue après un traumatisme rachidien mineur. La céphalée débute souvent progressivement (85 % des cas) mais peut être brutale (15 %). Elle est typiquement posturale, avec cervicalgies, acouphènes, hypoacousie, nausées, et parfois diplopie horizontale par paralysie du VI. La suspicion clinique est confirmée par l’IRM cérébrale qui montre un rehaussement intense des méninges après injection de gadolinium, un déplacement craniocaudal des structures encéphaliques, et parfois un aspect collabé des ventricules. Elle peut se compliquer d’un hématome sous-dural ou d’une thrombose veineuse cérébrale aggravant les céphalées et leur faisant perdre leur caractère postural.
+Le traitement des syndromes d’hypotension intracrânienne, très efficace, repose, en cas de persistance au-delà de quelques jours, sur l’injection péridurale de sang autologue pour obstruer la brèche (blood-patch).
+4. Céphalée post-traumatique aiguë
+Une céphalée post-traumatique aiguë apparaît par définition moins de 7 jours après un traumatisme crânien. La possibilité d’une céphalée secondaire plus grave (dissection, hématome sous-dural ou hypotension intracrânienne) doit être systématiquement évoquée et exclue.
+
+5. Maladie de Horton ou artérite temporale
+Toute céphalée inhabituelle chez un sujet de plus de 50 ans doit faire évoquer une maladie de Horton, qu’elle soit typique (temporale, à recrudescence nocturne ou matinale avec hyperesthésie du cuir chevelu) ou sans caractéristique particulière, et qu’elle soit isolée ou associée à des signes locaux et généraux évocateurs : artère temporale indurée douloureuse et non pulsatile, altération de l’état général, pseudo-polyarthrite rhizomélique (50 % des cas), épisodes de cécité monoculaire transitoire (qui annoncent l’imminence d’une cécité par neuropathie optique ischémique antérieure aiguë [NOIAA]), infarctus cérébraux ou claudication de la mâchoire.
+
+Le diagnostic repose sur la mesure de la VS et de CRP à la recherche d’un syndrome inflammatoire majeur (exceptionnellement absent), l’exclusion des diagnostics différentiels (imagerie cérébrale si céphalée prépondérante), et la réalisation d’une biopsie de l’artère temporale (artérite gigantocellulaire).
+
+La corticothérapie (0,7 à 1 mg/kg/j selon l’absence ou la présence de complications) est débutée avant les résultats de la biopsie. Son efficacité est spectaculaire et la persistance des douleurs au-delà de 4 jours de traitement amène à reconsidérer le diagnostic.
+
+6. Affections ophtalmologiques et ORL
+Les sinusites aiguës provoquent des céphalées intenses, augmentées par le fait de pencher la tête, le décubitus et/ou la pression des régions sinusiennes. Les douleurs sont parfois isolées, sans décharge nasale (sinusite bloquée) ; la fièvre est inconstante. Le diagnostic repose sur l’examen ORL et le scanner des sinus.
+Un glaucome aigu à angle fermé est évoqué devant une douleur périorbitaire sévère, avec une rougeur oculaire, un trouble visuel unilatéral (baisse d’acuité, halos lumineux) et parfois une mydriase modérée aréactive. Le diagnostic repose sur la mesure de la pression intraoculaire.
+Une affection rhumatologique, telle une arthrose cervicale, est souvent incriminée à tort chez des patients ayant des céphalées primaires (migraine, céphalée de tension). Certaines affections rhumatologiques peuvent donner des céphalées secondaires d’origine cervicale : arthrose sévère et/ou conflit discoradiculaire, séquelles de fracture/luxation d’une vertèbre cervicale, polyarthrite rhumatoïde (luxation atloïdo-axoïdienne)… Les céphalées sont généralement postérieures avec des contractures musculaires paravertébrales associées.
+7. Intoxication au monoxyde de carbone (CO)
+Gaz inodore et incolore, le CO est émis par un système de chauffage à combustion défectueux. L’intoxication au CO se manifeste dans 90 % des cas par une céphalée inhabituelle progressive qui précède des signes d’intoxication plus grave (vertiges, troubles visuels, asthénie, sensation ébrieuse).
+
+Devant des céphalées inhabituelles depuis des semaines ou mois, il faut savoir penser à une intoxication au CO si la céphalée est nocturne (disparaissant en matinée) ou survient à l’intérieur d’une pièce spécifique.
+
+Le diagnostic est assuré par le dosage taux de carboxyhémoglobine (HbCO) qui détermine la gravité du tableau clinique (si > 30 % céphalée sévère avec confusion puis coma) et complété d’un bilan cardiaque (ECG, enzymes cardiaques) à la recherche d’une myocardiopathie. Le traitement repose sur l’oxygénothérapie hyperbare et l’éradication de la source de contamination.
+
+8. Névralgies faciales et crâniennes symptomatiques
+Les névralgies se manifestent par des douleurs intenses, brèves de quelques secondes, à type de décharges électriques ou de brûlures localisées au territoire sensitif d’un nerf innervant la face ou les muqueuses (V, VII bis, IX) ou le crâne (nerf d’Arnold ou grand nerf occipital). Une névralgie peut être secondaire ou idiopathique. Les névralgies secondaires entraînent généralement une hypoesthésie permanente et des accès douloureux. Elles peuvent révéler une lésion du nerf sur tout son trajet, du noyau dans le tronc cérébral jusqu’aux branches de division (SEP, méningoradiculite, zona, tumeur, traumatisme). Les explorations comportent une IRM avec et sans gadolinium avec coupes fines sur le trajet du nerf atteint et si besoin une PL.
+
+F. Céphalées inhabituelles récentes avec bilan étiologique négatif
+Les explorations à la recherche d’une cause secondaire s’avèrent normales ou négatives chez 30 à 70 % des patients explorés pour une céphalée récente inhabituelle.
+S’il s’agit du premier épisode, aucun diagnostic étiologique précis n’est possible. Il n’est pas possible de diagnostiquer une migraine, une céphalée de tension musculaire ou une algie vasculaire de la face sur les toutes premières crises. Un recul temporel est indispensable.
+Si l’interrogatoire met en évidence une histoire de céphalées chroniques et anciennes, la céphalée aiguë peut représenter une exacerbation ou une crise particulièrement violente d’une céphalée primaire, notamment une crise de migraine sévère, un état de mal migraineux ou une décompensation d’une céphalée de tension. Dans ces cas, un traitement spécifique pour les crises suivantes et une consultation spécialisée de suivi peuvent être proposés à l’issue de l’épisode aigu.
+IV. Céphalées chroniques (anciennes et habituelles)
+Cf. chapitre 9 (Item 97 Migraine, névralgie du trijumeau et algies de la face).
+
+A. Poursuite de l’interrogatoire et examen clinique
+Une céphalée ancienne oriente vers une céphalée primaire. L’interrogatoire doit ensuite préciser le profil évolutif de la céphalée : « Avez-vous une céphalée quotidienne et permanente ou avez-vous des crises ? »
+Si le patient a des crises de céphalées, leur description (âge de début, durée des crises sans traitement, localisation, intensité, signes associés, facteurs déclenchants, nombre de jours de céphalées par mois, traitements déjà utilisés et efficacité, etc.) permet le diagnostic du type de céphalées. L’élément crucial du diagnostic est la durée des crises sans traitement. Un sujet peut avoir plusieurs types de céphalées primaires (par exemple, migraine sans aura et céphalée de tension).
+Si le patient a une céphalée chronique quotidienne et permanente, la description des céphalées oriente le diagnostic. Il faut cependant se souvenir que toute modification récente d’une céphalée primaire doit faire suspecter et écarter une céphalée secondaire (par exemple un migraineux ayant des céphalées devenues quotidiennes et permanentes depuis quelques semaines peut avoir une tumeur cérébrale). Par ailleurs, il faut rechercher soigneusement un abus médicamenteux (cf. chapitre 9).
+Au cours des céphalées primaires, les explorations complémentaires sont inutiles lorsque les crises sont anciennes, reconnues comme habituelles par le patient, et satisfont tous les critères diagnostiques.
+Un diagnostic de céphalée primaire ne doit pas être envisagé devant une céphalée aiguë récente. De même, chez un patient céphalalgique connu, si le patient a une nouvelle céphalée et ne reconnaît pas sa céphalée comme étant « habituelle », la recherche d’une cause secondaire s’impose.
+L’examen clinique général et neurologique est normal dans les céphalées primaires.
+B. Principales étiologies des céphalées primaires
+Les céphalées primaires (migraine, AVF, céphalée de tension) sont fréquentes (tableau 10.4).
+
+
+
+
+
+
+
+-------------> Tableau 10.4  Critères diagnostiques des principales céphalées primaires épisodiques.
+
+
+
+
+
+
+Elles évoluent le plus souvent de manière paroxystique c’est-à-dire par crises entre lesquelles le sujet est asymptomatique. Le diagnostic est clinique, basé sur des critères stricts ICHD-3 établis par la Société internationale des céphalées (tableau 10.3 et chapitre 9).
+
+Plus rarement, leur évolution est continue (= 15 jours par mois depuis = 3 mois) évoquant une céphalée chronique avec abus médicamenteux, une migraine chronique ou une céphalée de tension chronique.
+
+V. Traitement des céphalées
+Le diagnostic étiologique d’une céphalée est indispensable pour guider le traitement.
+
+A. Traitement des céphalées aux urgences
+1. Traitement des céphalées récentes et inhabituelles
+Un traitement symptomatique par antalgique non spécifique peut être administré (paracétamol 1 g, néfopam [Acupan®] 20 mg) associé à un traitement antiémétique. Un traitement IV est à préférer en cas de nausées et/ou de vomissements associés.
+Il est préférable en l’absence de certitude diagnostique d’éviter l’aspirine et les AINS susceptibles d’aggraver une hémorragie et les sédatifs susceptibles de masquer l’émergence de troubles de la conscience.
+Le traitement étiologique dépend de la cause identifiée par les examens complémentaires : embolisation ou exérèse chirurgicale d’un anévrisme rompu, antibiothérapie d’une méningite bactérienne, corticothérapie dans les artérites temporales, héparinothérapie dans les thromboses veineuses cérébrales, dérivation ventriculaire lors d’une hydrocéphalie aiguë.
+2. Traitement des crises de céphalées primaires
+En cas de céphalée primaire intense vue aux urgences, il convient d’isoler le patient au calme, de le réhydrater si nécessaire et de lui administrer en IV un antalgique (paracétamol 1 g, néfopam [Acupan®] 20 mg) ou un AINS (kétoprofène 100 mg) associé à un antiémétique (métoclopramide 10 mg) et souvent un anxiolytique. Si malgré les traitements antalgiques, la céphalée persiste inchangée, il faut remettre en cause le diagnostic de crise de céphalée primaire, et rechercher une cause de céphalée secondaire.
+
+B. Traitement et prise en charge ultérieure des céphalées primaires
+Les céphalées primaires sont prises en charge en consultation.
+Le traitement de la migraine comporte deux volets. Le traitement de crise vise à soulager la crise et doit être pris dès le début de chaque crise. Deux classes thérapeutiques sont recommandées : les anti-inflammatoires non stéroïdiens et les triptans. Dans tous les cas, des conseils sont donnés pour éviter l’abus médicamenteux (ne pas dépasser 8 jours de prise par mois). Les antalgiques opiacés ne doivent pas être utilisés, en raison du risque de surconsommation entraînant après quelques mois une céphalée chronique par abus médicamenteux. Lorsque les crises sont fréquentes, un traitement de fond est proposé pour diminuer la fréquence des crises.
+Le traitement de l’algie vasculaire de la face comporte également deux volets. Seuls le sumatriptan en injection SC et l’oxygène au masque à 7–15 L/min pendant 15 minutes sont efficaces en traitement de crise. Le traitement de fond repose sur le vérapamil.
+Le traitement des céphalées de tension épisodique repose sur le paracétamol ou les AINS en cas de crise, en évitant la surconsommation. Un traitement de fond peut être utile en cas de céphalées de tension fréquentes ou devenant chroniques (> 15 jours par mois depuis > 3 mois).
+En cas de céphalée chronique quotidienne (> 15 jours par mois), un sevrage est recommandé en cas d’abus médicamenteux. En cas de migraine chronique et/ou de céphalée de tension chronique, un traitement préventif (médicamenteux et/ou non médicamenteux) doit être proposé.
+ 
+
+POINTS CLÉS :
+
+Devant une céphalée, l’objectif prioritaire est d’identifier une céphalée secondaire à une affection grave nécessitant des explorations et un traitement en urgence (hémorragie sous-arachnoïdienne, thrombose veineuse cérébrale, méningite, processus intracrânien…).
+Le diagnostic repose essentiellement sur un interrogatoire précis : les deux principaux paramètres à considérer sont l’ancienneté (récente ou ancienne) et le caractère habituel ou inhabituel de la céphalée
+Les céphalées récentes et inhabituelles, qu’elles soient d’apparition brutale (voire en coup de tonnerre) ou d’aggravation progressive, doivent conduire à une imagerie cérébrale en urgence suivie en l’absence de diagnostic par une ponction lombaire.
+Les céphalées chroniques, anciennes et habituelles (répétées, stéréotypées) correspondent généralement à des céphalées primaires (migraine, céphalée de tension…).
+Le traitement symptomatique en urgence repose sur les antalgiques non spécifiques. Un traitement étiologique urgent peut être indiqué selon la cause sous-jacente (antibiothérapie ou antiherpétique en cas de méningite, dérivation d’une hydrocéphalie, anticoagulation d’une thrombose veineuse…).

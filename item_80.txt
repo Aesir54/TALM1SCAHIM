@@ -1,0 +1,177 @@
+Anomalie de la vision d'apparition brutale
+ 
+I. Pour comprendre
+Un trouble brutal de la vision se manifeste généralement comme une cécité ou une vision floue, mais peut parfois se présenter sur un mode plus atypique : phosphènes, déformation des images, éblouissement.
+Dans la grande majorité des cas, il résulte d’une atteinte du système visuel, depuis le globe oculaire jusqu’au cortex occipital. Plus rarement, en cas de vision floue, il peut relever d’une atteinte des voies oculomotrices, de type parésie ou nystagmus.
+Un trouble visuel monoculaire relève d’une atteinte du globe oculaire ou du nerf optique. L’examen ophtalmologique constitue le premier temps fondamental pour en identifier l’étiologie. Un trouble visuel binoculaire relève le plus souvent d’une atteinte cérébrale. Si l’examen ophtalmologique est important, l’examen neurologique est ici déterminant.
+Les causes d’un trouble brutal de la vision sont nombreuses et de gravité variable. La démarche diagnostique repose sur l’interrogatoire et l’examen ophtalmologique, complétés selon les résultats de ce dernier par un examen neurologique.
+Le caractère soudain du trouble visuel, qu’il soit transitoire ou constitué, renvoie le plus souvent à un mécanisme vasculaire ischémique. Le modèle en est la cécité monoculaire transitoire. Une prise en charge urgente est nécessaire pour en identifier la cause et mettre en place un traitement de prévention secondaire.
+Les autres situations cliniques d’urgence en pathologie ophtalmologique sont le décollement de rétine et la crise de glaucome aigu.
+L’aura visuelle de la migraine est le plus fréquent des troubles visuels de cause cérébrale.
+
+II. Conditions générales du diagnostic
+A. Interrogatoire
+1. Type du trouble visuel
+Baisse de la vue, du simple flou à la cécité, intéressant tout ou partie du champ de vision.
+Autres manifestations : phosphènes (taches lumineuses, lignes brillantes, éclairs), photophobie (intolérance à la luminosité), déformations de la perception (métamorphopsies : lignes droites perçues comme ondulées ; chromatopsies), diplopie (vision double), hallucinations élaborées.
+2. Caractère mono- ou binoculaire
+Le caractère monoculaire ou binoculaire est une distinction fondamentale pour localiser le niveau de l’atteinte.
+
+Un trouble visuel monoculaire implique une atteinte de l’œil ou du nerf optique.
+Un trouble visuel binoculaire implique parfois une atteinte bilatérale de l’œil ou du nerf optique, mais plus souvent une atteinte du chiasma ou des voies visuelles rétrochiasmatiques.
+En cas de déficit durable, l’occlusion successive de chaque œil permet d’affirmer le caractère monoculaire ou binoculaire du trouble. Si la vision n’est altérée qu’en condition binoculaire, il s’agit d’une atteinte oculomotrice (forme fruste de diplopie). Ce diagnostic peut être difficile lorsque le trouble visuel a été transitoire.
+Tout trouble visuel transitoire rapporté à un seul œil n’est pas nécessairement monoculaire, certaines hémianopsies latérales homonymes étant perçues comme un déficit du seul hémichamp temporal. Si la vision est décrite comme ayant été amputée sur un côté, le trouble a correspondu à une hémianopsie latérale homonyme.
+
+III. Modalités d’évolution
+Installation brutale ou progressive, caractère permanent ou régressif du déficit, durée, existence d’épisodes antérieurs du même type.
+
+4. Contexte
+Circonstances de survenue (traumatisme, position de la tête, activité physique, chaleur ambiante), signes associés (douleur, diplopie), antécédents ophtalmologiques, âge, facteurs de risque vasculaire.
+
+B. Examen clinique
+1. Examen oculaire
+L’examen oculaire est du ressort de l’ophtalmologiste, même si la détection d’un œil rouge, d’une exophtalmie, d’une inégalité pupillaire, d’une amputation du champ de vision, d’une limitation des mouvements oculaires relève de tout examen médical. Il précise en particulier :
+
+la valeur de l’acuité visuelle, de loin et de près, sans puis avec la correction optique optimale. L’acuité (corrigée) peut être normale ou abaissée (chiffrée en dixièmes ou, en cas de déficit massif, évaluée par la distance pour compter les doigts ou par la persistance d’une perception lumineuse) ;
+le champ visuel de chaque œil, avec un appareil de périmétrie cinétique (appareil de Goldmann) ou de périmétrie statique, cette dernière reposant sur une analyse automatisée (recherche d’un scotome central, d’un déficit systématisé) et permettant une quantification du déficit ;
+l’examen du globe oculaire et de ses annexes au biomicroscope (lampe à fente) : paupières (corps étranger), conjonctive (hyperhémie), cornée (kératite, plaie), chambre antérieure (tyndall), iris (état et motilité des pupilles), cristallin (cataracte) ;
+l’examen du segment postérieur (fond d’œil), effectué après dilatation pupillaire sauf en cas de glaucome aigu par fermeture de l’angle : vitré (hémorragie), rétine (décollement), vaisseaux (occlusion), macula (œdème), papille (œdème) ;
+la mesure du tonus oculaire (glaucome).
+2. Examen neurologique
+Étude de l’oculomotricité (paralysies, nystagmus) ; recherche de signes associés de localisation hémisphérique (syndrome pyramidal, trouble de la reconnaissance visuelle, de la mémoire, de la lecture, du langage, etc.).
+
+3. Examen cardiovasculaire
+Tension artérielle, rythme cardiaque, palpation des pouls temporaux.
+
+C. Examens complémentaires
+Les examens à visée ophtalmologique (potentiels évoqués visuels, angiographie de la rétine à la fluorescéine, échographie orbitaire), neurologique (scanner, IRM, ponction lombaire), cardiovasculaire (ECG, Doppler cervical, échocardiographie) ou générale (VS) sont déterminés par l’orientation du diagnostic clinique.
+
+Trois situations cliniques
+Le trouble visuel disparaît lorsque la vision se fait œil par œil ? diagnostic d’une paralysie oculomotrice (cf. chapitre 12 [Item 100 – Diplopie]).
+Le trouble visuel est présent sur un seul œil ? diagnostic d’une affection de l’œil ou du nerf optique. La démarche repose avant tout sur l’examen du fond d’œil (œdème/hémorragies de la papille, pâleur ou occlusion vasculaire de la rétine), sur la recherche d’un déficit pupillaire afférent relatif qui atteste d’une atteinte localisée au nerf optique.
+Le trouble visuel est présent sur les deux yeux ? diagnostic d’une affection des deux nerfs optiques, du chiasma ou des voies optiques hémisphériques ; l’examen du fond d’œil et du champ visuel est fondamental pour localiser la lésion.
+Déficit pupillaire afférent relatif
+Si on éclaire alternativement les deux pupilles (réflexe photomoteur), dans une pièce sombre, le sujet fixant au loin, on observe normalement une petite réponse constrictive de chaque pupille qu’on éclaire, ce qui traduit une plus grande efficacité de la stimulation directe par rapport à la stimulation consensuelle. En cas de neuropathie optique unilatérale (mais pas en cas d’atteinte de la rétine ou des milieux transparents), la réponse photomotrice directe de l’œil malade est moins bonne que la réponse consensuelle, avec pour conséquence une dilatation paradoxale de la pupille qu’on illumine. En cas de baisse de vision unilatérale non expliquée, il s’agit d’un signe objectif, très sensible et pratiquement spécifique d’une neuropathie optique unilatérale.
+III. Trouble monoculaire de la vision
+A. Cécité monoculaire transitoire, ou amaurose fugace
+Déficit brutal de la vision, d’évolution habituellement régressive en moins de 10 minutes, qui a valeur d’accident ischémique transitoire rétinien.
+
+Type : cécité totale, simple flou visuel, amputation verticale ou horizontale du champ de vision. Le plus souvent isolée, elle peut s’associer à des signes neurologiques en cas d’ischémie hémisphérique concomitante (syndrome optico-pyramidal, par exemple).
+
+Urgence diagnostique en raison du risque de survenue d’un accident ischémique constitué de la rétine (occlusion de l’artère centrale), du nerf optique (neuropathie optique ischémique antérieure) ou même d’un hémisphère cérébral.
+
+Doit faire rechercher en priorité une pathologie carotidienne (sténose ou occlusion athéromateuse), surtout si elle est répétitive sur le même œil.
+
+Examen Doppler des vaisseaux du cou en urgence, complété le plus souvent par une angio-IRM ou un angioscanner.
+
+Après 60 ans, il faut systématiquement évoquer une maladie de Horton et faire pratiquer en urgence VS et CRP.
+
+La cécité monoculaire transitoire peut relever d’une origine cardioembolique, justifiant la réalisation d’un bilan complémentaire (ECG, échocardiographie).
+
+Le mécanisme de la cécité monoculaire transitoire est généralement embolique. La mise en évidence d’emboles de cholestérol au niveau des bifurcations artérielles à l’examen du fond d’œil est rare, mais pathognomonique (fig. 2.1A et B).
+
+Autres causes plus rares : dissection carotidienne, syndrome des anticorps anti-phospholipides.
+
+L’ensemble du bilan peut s’avérer négatif chez l’adulte jeune (vasospasme rétinien).
+
+Fig. 2.1
+
+A. Embole de cholestérol visible au fond d’œil.
+B. Sténose athéromateuse serrée de l’artère carotide interne au cou en angioscanner.
+
+B. Causes plus rares de trouble visuel transitoire
+1. Œdème papillaire de stase par hypertension intracrânienne
+Éclipses amaurotiques à type de flou visuel uni- ou bilatéral, durant quelques secondes, survenant lors des changements de position. Les autres signes d’hypertension intracrânienne sont habituellement associés. Les causes sont variées (tumeur cérébrale, hémorragie cérébrale ou méningée, méningite, thrombose veineuse cérébrale, formes idiopathiques chez la femme jeune et obèse) (fig. 2.2).
+
+Fig. 2.2
+
+Œdème papillaire de stase.
+
+2. Signe de Uhthoff
+Flou visuel durant quelques minutes, survenant lors de l’effort physique ou de l’exposition à la chaleur. Il traduit une séquelle de neuropathie optique, le plus souvent inflammatoire (sclérose en plaques).
+
+3. Glaucome aigu par fermeture de l’angle iridocornéen
+Cause trompeuse d’amaurose transitoire lorsqu’elle ne s’accompagne pas de douleurs. Un facteur déclenchant médicamenteux (atropinique) est à rechercher.
+
+C. Trouble visuel monoculaire constitué
+1. Affections de l’œil et de la rétine
+a. Baisse visuelle indolore (œil blanc)
+Déchirure de la rétine (phosphènes et flou d’apparition brutale ; le fond d’œil fait le diagnostic, permettant un traitement en urgence), décollement du vitré (explication habituelle des banales mouches volantes ou myodésopsies), hémorragie intrarétinienne ou intravitréenne (compliquant par exemple une rétinopathie diabétique proliférante), rétinite infectieuse, mydriase (flou visuel de près, en cas de paralysie du III ou de contact avec un agent atropinisant).
+
+b. Baisse visuelle douloureuse (œil rouge)
+Uvéite antérieure (présence d’un tyndall de l’humeur aqueuse), kératite aiguë, plaie cornéenne, crise de glaucome aigu par fermeture de l’angle iridocornéen.
+
+2. Affections vasculaires de la rétine et du nerf optique
+a. Occlusion de l’artère centrale de la rétine
+Elle entraîne un déficit visuel massif et indolore. Le fond d’œil est caractéristique (artères grêles, rétine diffusément pâle sauf dans la région maculaire, réalisant un aspect rouge cerise). Si un athérome carotidien ou une cardiopathie emboligène sont souvent en cause, il faut toujours évoquer une maladie de Horton.
+
+b. Occlusion de la veine centrale de la rétine
+Elle entraîne une baisse visuelle rapidement progressive, indolore. Le fond d’œil fait le diagnostic (hémorragies rétiniennes, veines dilatées et œdème papillaire). La maladie athéromateuse ou un syndrome d’hyperviscosité sont en cause.
+
+c. Neuropathie optique ischémique antérieure aiguë
+Elle se constate au réveil devant un déficit visuel, brutal et indolore. Une amputation altitudinale du champ visuel est caractéristique (fig. 2.3). Un déficit pupillaire afférent relatif est constant. Le fond d’œil montre un œdème et des hémorragies de la papille. Dans 90 % des cas, elle relève de la maladie athéromateuse (HTA, diabète, rôle favorisant d’une hypotension artérielle) et, dans 10 % des cas, d’une maladie de Horton (un traitement corticoïde précoce empêche alors la bilatéralisation du déficit visuel).
+
+Fig. 2.3
+Amputation altitudinale inférieure du champ visuel de l’œil gauche secondaire à une neuropathie optique ischémique antérieure aiguë (examen du champ visuel automatisé, appareil de Métrovision®).
+
+3. Névrites optiques inflammatoires
+Elles se présentent chez l’adulte jeune comme une baisse visuelle unilatérale et douloureuse, s’installant en quelques heures. Le champ visuel est amputé de manière variable, l’atteinte du champ central étant pratiquement constante. Un déficit pupillaire afférent relatif est constant (souvent seul signe d’examen objectif au stade initial). Le fond d’œil est normal dans deux tiers des cas (névrite optique rétrobulbaire aiguë) et montre un œdème papillaire modéré dans un tiers des cas (neuropapillite). Le trouble visuel récupère spontanément dans plus de 90 % des cas. Une névrite optique inflammatoire isolée évolue dans la moitié des cas vers une sclérose en plaques (cf. chapitre 14 [Item 102 – Sclérose en plaques]). Une névrite optique peut également relever d’une cause infectieuse (Lyme, VIH).
+
+4. Autres neuropathies optiques unilatérales
+D’origine traumatique, compressive (anévrisme de la carotide interne, méningiome) ou génétique (maladie de Leber, au stade initial), ces rares éventualités justifient une imagerie systématique (scanner, IRM) devant toute neuropathie optique aiguë, même régressive (fig. 2.4).
+
+Fig. 2.4
+
+Méningiome du nerf optique.
+
+IV. Trouble binoculaire de la vision
+A. Trouble visuel binoculaire transitoire
+1. Migraine avec aura visuelle
+Son diagnostic repose sur l’interrogatoire. Le trouble visuel se présente comme un flou avec scotome scintillant, qui s’étend en quelques minutes du centre vers la périphérie (ou inversement), en affectant l’un des deux hémichamps homonymes (hémianopsie latérale homonyme) ou l’ensemble du champ visuel (flou visuel global). L’évolution est régressive en 15 à 20 minutes, laissant la place à une céphalée pulsatile, volontiers hémicrânienne et controlatérale. Le caractère récidivant des épisodes depuis l’enfance ou l’adolescence, la normalité de l’examen neurologique et ophtalmologique après la crise, sont nécessaires au diagnostic. Dans quelques cas, le scotome scintillant est isolé, sans céphalée. Une imagerie cérébrale, recherchant une tumeur ou une malformation vasculaire, est indiquée en cas d’atypies (âge tardif de début, durée, fréquence et chronologie des crises).
+
+2. Ischémie dans le territoire vertébrobasilaire
+Elle se manifeste par une hémianopsie latérale homonyme ou par une amaurose bilatérale de brève durée, dont le mécanisme est habituellement hémodynamique (athérome des artères vertébrales ou du tronc basilaire, cardiopathie). Un facteur déclenchant positionnel (rotation cervicale, lever) et une hypotension artérielle orthostatique sont à rechercher. Le trouble visuel est l’un des symptômes habituels des lipothymies et syncopes.
+
+3. Crise épileptique partielle
+Elle se caractérise par un trouble visuel paroxystique durant quelques secondes. Les crises à point de départ occipital comportent une sémiologie hallucinatoire élémentaire latéralisée (phosphènes colorés, fixes ou mobiles, lignes), parfois suivie d’une cécité ou d’une hémianopsie latérale homonyme post-critique. Les crises à point de départ temporal ont une sémiologie plus élaborée (scènes complexes avec personnages). Une altération partielle ou totale de la conscience et d’autres manifestations cliniques peuvent faire suite au trouble de vision, selon que la crise demeure partielle ou se généralise. L’EEG et l’imagerie cérébrale sont les examens de choix.
+
+B. Trouble visuel binoculaire constitué
+1. Neuropathie optique bilatérale simultanée (rarement en cause)
+Le fond d’œil peut montrer un œdème papillaire, les pupilles sont peu réactives et le champ visuel est amputé sans systématisation neurologique. Si l’origine est ischémique, une défaillance circulatoire systémique ou une maladie de Horton sont à rechercher. Rarement, il s’agit d’une neuropathie optique inflammatoire, compressive (anévrisme, méningiome), toxique, génétique (maladie de Leber).
+
+2. Hémianopsie bitemporale
+Elle s’identifie sur l’examen du champ visuel et indique une lésion de la région chiasmatique, en premier lieu un adénome hypophysaire (qui peut se révéler sur un mode aigu et céphalalgique en cas d’apoplexie pituitaire).
+
+3. Hémianopsie latérale homonyme
+De constitution brutale, elle est généralement la conséquence d’une lésion vasculaire, ischémique ou hémorragique, intéressant les voies visuelles rétrochiasmatiques de l’hémisphère controlatéral (lésion occipitale). L’acuité visuelle est conservée dans tous les cas. L’examen du champ visuel établit le diagnostic. Des hallucinations visuelles sont fréquemment associées (fig. 2.5).
+
+Fig. 2.5
+Hémianopsie latérale homonyme droite (examen du champ visuel automatisé, appareil de Métrovision®).
+
+D’autres symptômes visuels, en rapport avec une lésion du cortex visuel associatif, peuvent être associés (alexie, agnosie visuelle des objets, agnosie des visages et troubles de la perception spatiale). Un syndrome d’héminégligence spatiale gauche est fréquemment présent au stade aigu d’une lésion vasculaire de la partie postérieure de l’hémisphère droit. Il ajoute ses conséquences à celles de l’hémianopsie latérale homonyme, conduisant à une absence de prise en compte des informations venant du côté gauche et à une méconnaissance de l’hémianopsie latérale homonyme. Une imagerie cérébrale en urgence est indiquée.
+
+4. Cécité corticale (rare)
+Conséquence d’une lésion occipitale bilatérale, presque toujours vasculaire, il peut s’agir d’un accident hémorragique (anticoagulants, angiopathie amyloïde) mais, le plus souvent, il s’agit d’un infarctus dans le territoire des artères cérébrales postérieures. Au stade aigu, le patient est aveugle. Il existe très souvent une méconnaissance du déficit (anosognosie), qui rend particulièrement difficile la reconnaissance de la cécité, chez un patient agité, peu coopérant et parfois confus. L’aspect normal du fond d’œil et la préservation des réflexes pupillaires contribuent à la difficulté du diagnostic.
+
+5. Trouble visuel d’origine psychogène (somatomorphe)
+Il peut se manifester sur le mode d’une cécité uni- ou bilatérale. L’absence de signes objectifs (fond d’œil normal, pas de déficit pupillaire afférent relatif), le rétrécissement concentrique du champ visuel en « canon de fusil » sont évocateurs. Il est important de connaître cette éventualité pour l’identifier, tout en restant vigilant à ne pas considérer trop vite comme somatomorphe un trouble visuel qu’on ne comprend pas.
+
+ 
+
+ 
+
+POINTS CLÉS :
+
+Trouble visuel monoculaire aigu, transitoire :
+quelques secondes : œdème papillaire ;
+quelques secondes à quelques minutes : cécité monoculaire transitoire (sténose de la carotide interne).
+Trouble visuel monoculaire aigu, fixé :
+occlusion de l’artère centrale de la rétine ;
+neuropathie optique ischémique antérieure (Horton) ;
+décollement de rétine ;
+hémorragie intraoculaire.
+Trouble visuel monoculaire subaigu, fixé : névrite optique inflammatoire (sujet jeune).
+Trouble visuel binoculaire transitoire et récidivant :
+aura migraineuse ;
+accident ischémique (surtout territoire vertébrobasilaire) ;
+épilepsie partielle.

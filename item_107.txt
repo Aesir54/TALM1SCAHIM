@@ -1,0 +1,187 @@
+Trouble de la marche et de l’équilibre
+
+Objectifs pédagogiques
+Devant un trouble de la marche ou de l’équilibre, argumenter les hypothèses diagnostiques et justifier les examens complémentaires pertinents.
+Savoir rechercher une hydrocéphalie chronique.
+I. Pour comprendre
+Les troubles de la marche et de l’équilibre sont une plainte fréquente en neurologie. Cette plainte peut même exister en dehors de toute maladie identifiable, en particulier dans le cadre du vieillissement physiologique (marche à petits pas, chutes), à l’origine d’un véritable problème de santé publique.
+L’examen clinique est capital pour bien typer ces troubles et ainsi conduire une démarche diagnostique.
+La classification des troubles de la marche est complexe ; nous proposons une classification simplifiée, adaptée à la pratique clinique.
+II. Rappels
+A. Définition
+La marche, production motrice très automatisée, échappe largement au contrôle conscient. Elle est constituée d’une activité alternée des membres inférieurs, succession de doubles appuis et d’appuis unilatéraux. Sur une activité rythmique et cyclique de fond viennent se greffer les modulations nécessaires à l’adaptation à l’environnement, aux caractéristiques de la personne et à sa volonté.
+
+B. Cycle locomoteur
+Le cycle de marche est constitué de deux phases (fig. 19.1) :
+
+une phase d’appui comprenant une période de double appui antérieur de réception, suivie d’un temps d’appui unilatéral, pied à plat ;
+une phase oscillante, elle-même débutant par un double appui postérieur d’élan suivi de la phase oscillante proprement dite.
+Fig. 19.1
+
+Cycle de la marche.
+
+C. Centres locomoteurs
+Il existe un générateur central au sein de la moelle spinale.
+À un niveau supérieur, la locomotion est déclenchée chez tous les vertébrés, des plus primitifs aux plus évolués, par une commande descendante provenant des « régions locomotrices » localisées au niveau du tronc cérébral.
+Les noyaux gris centraux interviennent au premier chef dans le contrôle de la locomotion (initiation, programmation), la quasi-constance des troubles de la marche dans les syndromes parkinsoniens en étant un argument majeur.
+Les afférences sensorielles intervenant dans le contrôle de la marche sont plurimodales : somatiques (proprioceptives, cutanées), céphaliques (vestibulaires, visuelles, auditives). Elles exercent une action modulatrice sur l’activité spinale afin d’adapter au mieux la locomotion aux conditions rencontrées.
+Au niveau supérieur cortical, les circuits cortico-sous-corticaux entre le striatum, le pallidum, le thalamus, le cortex moteur, le cortex prémoteur, dont l’aire motrice supplémentaire, et le cortex pariétal apportent une contribution essentielle à la programmation des diverses séquences de la marche, en particulier l’initiation, l’exécution et la coordination visuomotrice.
+III. Examen clinique
+A. Interrogatoire
+Il s’agit d’un temps essentiel.
+La date de début des troubles, leur mode d’installation, le type de la plainte principale : douleur et sa relation avec l’effort, faiblesse, instabilité (à bien différencier d’un vertige), petits pas, raideur, manifestations associées neurologiques et non neurologiques (psychologiques en particulier), sont à faire préciser. Le regard d’un tiers est parfois nécessaire, certains troubles étant mieux perçus par l’entourage que par le patient (ralentissement, perte du ballant d’un bras).
+La sévérité du trouble doit être évaluée dans la vie quotidienne : chutes ou « presque chutes », leurs conséquences en termes de morbidité (traumatismes, fractures, hospitalisations) ou en termes d’autonomie (sorties non accompagnées du domicile avec ou sans prise de transports en commun, sorties accompagnées, absence de sorties du domicile).
+Il faut évaluer la capacité des sujets à monter (force) ou descendre un escalier (équilibre), leur autonomie pour les activités (ménage, cuisine) et les gestes de la vie quotidienne (habillage et toilette en particulier), l’utilisation d’une canne, d’un fauteuil roulant ou d’un déambulateur.
+La liste complète des médicaments pris par le patient doit être également connue (premier facteur de risque de chutes du sujet âgé).
+B. Examen
+L’examen comporte l’examen neurologique général, un examen spécifique de l’équilibre, de la posture et de la marche. Cet examen se fait le malade ayant les pieds nus, dans un espace suffisant, bien éclairé.
+
+1. Posture dans sa composante d’équilibre
+a. Épreuve de Romberg
+Le patient est debout les talons joints et les pieds légèrement écartés à 45°. Les bras peuvent être ballants ou tendus à la recherche d’une déviation latéralisée. L’examen se fait yeux ouverts puis fermés afin d’évaluer la contribution visuelle toujours plus importante en cas de déficit d’une autre entrée sensorielle, en particulier proprioceptive.
+
+Une instabilité révélée à l’épreuve de Romberg évoque une ataxie qui peut être de trois origines : proprioceptive, vestibulaire ou cérébelleuse.
+
+b. Réflexes posturaux
+On teste ici essentiellement les capacités du sujet à maintenir l’équilibre après une rétropulsion brusque de l’examinateur placé derrière le patient prévenu de la poussée pour évaluer les réflexes d’anticipation.
+
+Ces réflexes sont altérés en cas de lésion des noyaux gris centraux ou des régions frontales.
+
+2. Posture dans sa composante d’orientation
+Un trouble de la position du tronc et/ou de l’axe cervicocéphalique doit être recherché :
+
+soit dans le plan sagittal : flexion (camptocormie) ou extension du tronc, de la nuque (antécolis, rétrocolis) ;
+soit dans le plan frontal (pisa syndrome, qui est une inclinaison latérale marquée du tronc).
+3. Marche
+Plusieurs temps doivent être examinés : l’initiation, la marche stabilisée et le demi-tour. La longueur du pas, sa largeur, la vitesse de marche doivent être évaluées de façon subjective ou quantifiées au cours d’une épreuve standardisée (durée et nombre de pas lors d’un lever de chaise suivie d’une marche sur 7 mètres par exemple).
+L’absence de ballant d’un membre supérieur doit être recherchée.
+Le demi-tour ou le passage d’une porte ou d’un obstacle permettent de mettre en évidence un freezing (piétinement sur place).
+On évalue le rôle d’indices visuels en demandant aux patients de prendre des repères au sol ou le rôle des facteurs attentionnels au moyen d’une double tâche (calcul mental).
+Dans certains cas où l’ataxie est peu importante, l’équilibre statique mesuré à l’épreuve de Romberg peut être normal alors que l’équilibre dynamique, plus sensible, évalué lors d’une marche funambulesque est très perturbé.
+4. Examen neurologique
+On recherchera en particulier un déficit moteur, un syndrome pyramidal, parkinsonien ou cérébelleux, des troubles de la sensibilité profonde, des troubles cognitifs.
+
+L’examen clinique général est également indispensable, en particulier pour procéder à une auscultation cardiaque et, surtout, à une mesure de la tension artérielle debout/couché (recherche d’une hypotension artérielle orthostatique présente dans de nombreuses affections cardiaques, neurologiques ou en lien avec une prise de médicament).
+De nombreux médicaments prescrits dans le champ de la neuropsychiatrie peuvent induire des baisses de tension artérielle et des chutes, en particulier les antidépresseurs tricycliques et les agonistes dopaminergiques.
+IV. Explorations complémentaires
+Elles seront demandées selon le contexte clinique : imagerie de la moelle spinale ou de l’encéphale, électromyogramme, examen audiovestibulaire. Une analyse quantifiée des troubles de la posture (posturographie) ou de la marche est réalisable dans certains centres et permet de définir au mieux et de quantifier les déficits.
+Quelquefois des tests thérapeutiques peuvent être utiles. Il s’agit surtout d’un test de soustraction de LCS dans les suspicions d’hydrocéphalie chronique de l’adulte (ou hydrocéphalie à pression normale) ou d’un test à la L-dopa devant une marche à petits pas faisant suspecter une maladie de Parkinson.
+V. Principaux troubles de la marche
+Nous abordons les troubles de la marche et de l’équilibre à partir du déficit fonctionnel principal (tableau 19.1) tel qu’il a pu être défini au terme de l’enquête clinique. Cela n’implique pas que ce trouble est isolé mais qu’il est le mécanisme central contre lequel lutter, en particulier au plan thérapeutique.
+
+
+
+
+
+
+------------> Tableau 19.1  Classification des troubles de la marche et de l’équilibre.
+
+
+
+
+A. Marche douloureuse
+La douleur est souvent le mécanisme mis en avant par les malades pour expliquer une gêne à la marche. Il s’agit d’une démarche non spécifique où le trouble observé relève d’un mécanisme d’évitement de la douleur (boiterie) ou d’une véritable limitation (claudication radiculaire intermittente d’un canal lombaire étroit).
+Certaines douleurs sont très spécifiques (myalgies d’effort et phénomène de second souffle d’une maladie de McArdle, glycogénose musculaire).
+B. Marche ataxique
+1. Cérébelleuse
+On distingue cliniquement :
+le syndrome cérébelleux statique en relation avec une lésion du vermis ;
+le syndrome cérébelleux cinétique secondaire à une lésion des hémisphères.
+L’ataxie est multidirectionnelle à l’épreuve de Romberg, sans anomalie des réflexes posturaux, non majorée à l’occlusion des yeux. La marche est classiquement ébrieuse, le polygone est élargi, la marche funambulesque précocement altérée. Les chutes sont relativement rares compte tenu de l’instabilité observée à l’examen.
+Les principales étiologies de ce groupe sont l’alcoolisme, la sclérose en plaques, un accident vasculaire cérébral, une ataxie cérébelleuse héréditaire autosomique récessive à début précoce le plus souvent (ataxie de Friedreich ++, déficit en vitamine E) ou autosomique dominante à début plus tardif après 30 ans (mutations SCA), une tumeur, un syndrome paranéoplasique (syndrome des anticorps anti-Yo chez la femme, le plus souvent lié à un cancer de l’ovaire), la maladie de Creutzfeldt-Jakob.
+2. Vestibulaire
+Généralement de survenue aiguë, le syndrome vestibulaire périphérique est bruyant, se manifestant sous la forme d’un vertige rotatoire accompagné de vomissements et de signes végétatifs.
+Les anomalies de la marche et de l’équilibre sont latéralisées du côté de la saccade lente du nystagmus vers le côté malade.
+Cette déviation est beaucoup moins systématique dans les vertiges centraux où le syndrome vestibulaire est dit dysharmonieux par opposition avec le syndrome vestibulaire périphérique.
+3. Proprioceptive
+L’atteinte des voies proprioceptives périphériques (fibres sensitives myélinisées de grand diamètre, ganglion rachidien postérieur) ou central (cordons postérieurs de la moelle et relais) provoque un déficit de la sensibilité profonde (vibrations, sens de position et de mouvement) responsable d’une ataxie et parfois d’un tremblement. L’épreuve de Romberg est très perturbée, aggravée nettement à la fermeture des yeux. Les réflexes de posture sont normaux, le polygone est élargi. La marche est talonnante, l’appui au sol est mal contrôlé et le contact parfois violent.
+La maladie de Biermer, les neuronopathies sensitives (dysimmunitaires ou paranéoplasiques en rapport avec un syndrome anti-Hu d’un cancer anaplasique à petites cellules du poumon), les neuropathies inflammatoires (IgM monoclonale, polyradiculonévrites) sont les principales causes.
+C. Marche déficitaire
+1. Origine centrale
+Le déficit s’associe le plus souvent à une spasticité après un certain temps d’évolution et il faut faire la part clinique entre ce qui revient à l’hypertonie et ce qui revient à la faiblesse.
+Les syndromes les plus fréquents sont les séquelles d’accident vasculaire cérébral : hémiparésie ou hémiplégie à l’origine d’un fauchage, le membre supérieur homolatéral étant fixé en adduction.
+Les paraparésies avec spasticité donnent des marches très enraidies (marche « en ciseaux »). Elles sont secondaires à des affections de la moelle spinale : sclérose en plaques, myélite, compression tumorale ou mécanique, paraparésie spastique héréditaire.
+Une claudication médullaire intermittente est plus déficitaire que douloureuse. Des troubles sensitifs et sphinctériens peuvent être présents dans certaines étiologies, une ataxie proprioceptive pouvant alors s’intriquer au déficit moteur.
+2. Origine périphérique
+Il s’agit soit de neuropathie périphérique, où le déficit prédomine souvent sur les extrémités (steppage), soit d’affections musculaires dont la topographie déficitaire est souvent symétrique et à prédominance proximale, donnant une démarche dandinante se combinant parfois à un déficit axial donnant une attitude dite en « roi de comédie ».
+Des chutes par dérobement sont possibles.
+D. Marche hyperkinétique (mouvements anormaux)
+1. Dystonie
+C’est le mouvement anormal donnant le plus de troubles de la marche et, dans un certain nombre de cas, le trouble moteur se révèle par un trouble de la marche isolé. Les dystonies des membres inférieurs peuvent être unilatérales ou bilatérales. Les aspects cliniques sont très variables selon les formes : pseudo-steppage, marche dite « en héron » avec élévation des genoux, marche pseudo-spastique, « marche de dromadaire » par flexion-extension alternative du tronc.
+Un test de dopa-sensibilité doit être systématiquement réalisé. Les principales causes sont les dystonies généralisées héréditaires (mutation DYT1), les dystonies dopa-sensibles, la maladie de Parkinson surtout à début précoce d’origine génétique (mutations de la parkine), les anoxies néonatales.
+2. Chorée
+Les mouvements anormaux s’observent dans la chorée de Huntington et des dyskinésies induites par la L-dopa chez les parkinsoniens.
+Dans la maladie de Huntington, les troubles de la marche et de l’équilibre sont complexes : atteinte sévère des réflexes posturaux, syndrome akinétique, mouvements choréodystoniques axiaux et des membres. La marche est souvent perdue en cours d’évolution et les chutes sont fréquentes, parfois très traumatisantes d’autant que le patient anosognosique et impulsif prend peu de précautions.
+3. Tremblement
+a. Tremblement essentiel
+Peu symptomatique, un discret trouble de l’équilibre peut se voir.
+
+b. Tremblement orthostatique
+Il s’agit d’un tremblement de fréquence élevée (14–18 Hz) touchant surtout les membres inférieurs et non perçu par le patient qui se plaint d’une sensation d’instabilité ou de dérobement en position debout immobile, la marche n’étant pas touchée. Il est révélé par un EMG des membres inférieurs qui doit être réalisé en position debout immobile.
+
+E. Marche hypokinétique (marche à petits pas)
+Trouble de la marche qui représente un tiers de l’ensemble des troubles de la marche. Il se définit par une diminution de la longueur du pas qui est le déficit primaire à l’origine de la perte de vitesse.
+Les syndromes parkinsoniens seront évoqués en première intention.
+1. Syndromes parkinsoniens
+a. Maladie de Parkinson
+On différencie deux grandes périodes :
+
+dans la forme de début, la marche est ralentie par réduction de la longueur d’enjambée ; il existe constamment une prédominance sur un hémicorps et une très bonne dopa-sensibilité. Le patient arrive à normaliser sa marche avec un effort de volonté. La cadence du pas est augmentée pour compenser la perte de longueur du pas. Il n’y a pas ou peu de troubles posturaux ;
+dans les formes plus tardives, la longueur du pas est plus basse et seulement partiellement corrigeable par la volonté ou par indiçage externe visuel (bandes au sol). Des signes peu sensibles à la L-dopa apparaissent, tels que l’enrayage cinétique (ou freezing) qui est un piétinement sur place apparaissant, au début, au démarrage ou à la traversée d’un passage étroit ou lors d’un demi-tour, puis pouvant survenir à tout moment lors de la locomotion et provoquer des chutes en avant. Une perte progressive des réflexes posturaux s’associe le plus souvent, entraînant des chutes dans ce cas plutôt vers l’arrière.
+b. Autres syndromes parkinsoniens
+L’atrophie multisystématisée dans sa forme parkinsonienne ou dans sa forme cérébelleuse et la paralysie supranucléaire progressive comportent des troubles posturaux et locomoteurs plus précoces et plus sévères que la maladie de Parkinson avec, en particulier, des chutes en début d’évolution – donnée clinique devant remettre en cause le diagnostic de maladie de Parkinson.
+
+2. Hydrocéphalie chronique de l’adulte ou hydrocéphalie à pression normale
+C’est une hydrocéphalie communicante (sans hypertension intracrânienne) liée à une obstruction des espaces méningés au niveau des citernes de la base. Elle touche le sujet âgé, peut être idiopathique ou secondaire à un traumatisme crânien, à une hémorragie méningée, une méningite, survenus plusieurs décennies plus tôt. L’évolution est lentement progressive et se caractérise cliniquement par la triade de Hakim et Adams :
+
+troubles de la marche et de l’équilibre : les réflexes posturaux sont très perturbés, la marche est lente, à petits pas, le ballant des bras est conservé. Il existe un élargissement du polygone de sustentation et un freezing dans un tiers des cas. On note également une aimantation à la marche : le patient avance en faisant glisser ses pieds qui restent collés au sol comme s’il patinait. Ce trouble est considéré parfois comme un trouble praxique de la marche à l’origine d’une perte de la capacité à générer un pas normal et peut aboutir à une perte complète de la marche, le patient restant debout immobile, incapable d’avancer ;
+troubles mictionnels (surtout urination) ;
+syndrome démentiel de type sous-cortico-frontal.
+Le diagnostic repose sur l’IRM cérébrale (fig. 19.2) qui montre : une dilatation tétraventriculaire, une atrophie corticale comparativement modérée, des plages d’hyposignal T2 autour des ventricules, traduction de la résorption trans-épendymaire du LCS.
+
+On recherchera des antécédents de méningite et d’hémorragie méningée.
+
+Le traitement consiste en une dérivation ventriculo-péritonéale qui entraîne une amélioration inconstante des troubles.
+
+Fig. 19.2
+
+Hydrocéphalie chronique (ou hydrocéphalie à pression normale).
+
+3. États lacunaires
+Les troubles de la marche et de l’équilibre sont complexes, associés à des troubles cognitifs frontaux, pyramidaux, à un syndrome pseudo-bulbaire. Le tableau associe une ataxie, des anomalies sévères des réflexes posturaux à l’origine d’une instabilité parfois majeure, une marche hypokinétique accompagnée ou non d’un freezing, d’une apraxie à la marche. Les facteurs attentionnels peuvent jouer un rôle important, en particulier dans la survenue des chutes.
+
+Ce syndrome multilacunaire évolue par poussées entrecoupées de rémissions partielles.
+
+Le terrain est une hypertension artérielle sévère.
+
+L’IRM cérébrale montre les images caractéristiques sous forme de multiples hypersignaux au sein des noyaux gris centraux (fig. 19.3).
+
+Fig. 19.3
+
+Multiples lacunes des noyaux gris centraux.
+
+F. Troubles de la marche psychogènes
+Les troubles du mouvement psychogènes sont relativement fréquents et les troubles de la marche peuvent représenter jusqu’à 10 % des patients entrant dans cette catégorie.
+On peut considérer trois grands types de troubles psychogènes de la marche.
+1. Marche précautionneuse
+Il s’agit d’une marche ralentie, prudente, sans déficit majeur, marquée par la recherche d’appuis et le besoin d’une réassurance ou d’une présence. Elle se voit chez les sujets âgés, plus fréquemment chez la femme. L’autonomie est respectée, seules certaines situations particulièrement anxiogènes sont évitées (foule, transports en commun). Ce trouble résulte de la sensation éprouvée par le sujet, justifiée ou non, d’une instabilité.
+
+2. Phobie de la chute
+Il s’agit de l’étape ultérieure, déclenchée le plus souvent par la survenue de chutes, surtout si le sujet est resté longtemps au sol. Le sujet souffre d’une affection neurologique responsable d’une instabilité ou est indemne de toute affection neurologique. Le tableau se présente comme une peur panique de marcher ; si le patient est poussé à faire quelques pas, il s’agrippe à l’examinateur ou à des meubles, aux murs, au prix de postures hasardeuses à haut risque de chute. Toute tentative de lâcher le sujet s’accompagne de réactions anxieuses majeures. Une rééducation intensive est le seul traitement parfois efficace, tandis que les psychotropes ont peu d’effet.
+
+3. Troubles somatomorphes et simulations
+Cette terminologie peu satisfaisante qualifie un ensemble de manifestations psychogènes où des prototypes de marches pathologiques sont reproduits parfois de façon caricaturale (marche hémiplégique, marche ataxique…). Un certain nombre d’incohérences à l’examen clinique permettent en général le diagnostic.
+
+ 
+
+POINTS CLÉS :
+
+L’approche diagnostique des troubles de la marche et de l’équilibre est essentiellement clinique, comportant l’analyse spécifique de ces troubles ainsi que les données de l’examen neurologique général qui doit être orienté selon le contexte et le trouble posturo-locomoteur observé.
+Les mécanismes sont parfois intriqués et il peut être difficile d’établir la responsabilité de chacun, mais un trouble prédominant doit être identifié pour la conduite diagnostique et la prise en charge thérapeutique du patient.
+Un trouble de la marche et de l’équilibre peut être le mode d’entrée dans une affection neurologique, dont l’expression symptomatique se complétera, ou rester isolé, en particulier chez les gens âgés où ce trouble est compliqué de chutes fréquentes, responsables de perte d’autonomie voire de décès. Il s’agit dans ce contexte le plus souvent d’une origine polyfactorielle où le rôle des entrées sensorielles (vue ++), des troubles attentionnels et des médicaments est majeur. Comme dans tous les troubles moteurs, la composante psychologique ne doit pas être sous-évaluée.
+
+
+
+
+
+

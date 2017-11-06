@@ -1,0 +1,373 @@
+Bases neurophysiologiques, mécanismes physiopathologiques d’une douleur aiguë et d’une douleur chronique – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses
+
+Objectifs pédagogiques
+Item 131
+
+Reconnaître et évaluer une douleur aiguë et une douleur chronique (douleurs nociceptives, neuropathiques et dysfonctionnelles), chez l’adulte et la personne âgée/peu communicante.
+Item 132
+
+Argumenter la stratégie de prise en charge globale d’une douleur aiguë ou chronique chez l’adulte.
+Connaître et prescrire les thérapeutiques antalgiques médicamenteuses et non médicamenteuses (voir item 326).
+S’assurer de l’efficacité d’un traitement antalgique et l’adapter en fonction de l’évaluation.
+Item 131 – Bases neurophysiologiques, mécanismes physiopathologiques d’une douleur aiguë et d’une douleur chronique
+Rappels physiopathologiques
+Douleurs aiguës et douleurs chroniques
+Différents types de douleur
+Interrogatoire et examen clinique d’un patient douloureux
+I. Rappels physiopathologiques
+« La douleur est une expérience sensorielle et émotionnelle désagréable, associée à un dommage tissulaire présent ou potentiel, ou décrite en termes d’un tel dommage. » (IASP 1979). Cette définition affirme une dimension sensorielle indissociable de dimensions affectives, émotionnelles, psychologiques. La douleur est donc toujours subjective. Il faut en conséquence éviter l’opposition entre douleurs somatiques et douleurs psychogènes, en préférant le terme de composante psychogène (plus ou moins importante selon le sujet). Comprendre et traiter les différents types de douleur justifie de connaître les bases neurophysiologiques et neurochimiques (cf. premier cycle des études médicales).
+
+A. Voies de la douleur
+Il existe deux grandes voies de transmission des informations somesthésiques : le système lemniscal et le système extralemniscal.
+
+1. Système lemniscal
+Il correspond aux sensibilités épicritiques et proprioceptives dont la transmission se fait depuis les récepteurs cutanés par des fibres sensitives de gros calibre myélinisées (Aß) vers les racines postérieures puis les cordons postérieurs de la moelle.
+Premier relais dans les noyaux graciles et cunéiformes avant de réaliser une décussation au niveau du bulbe, second relais dans le noyau ventro-postéro-latéral (VPL) du thalamus avant de se projeter dans le gyrus post-central.
+2. Système extralemniscal
+Il correspond aux sensibilités protopathiques, nociceptives et thermiques dont la transmission est assurée par des fibres myélinisées de petit calibre (Ad) et des fibres amyéliniques (C). Pour la sensibilité nociceptive, il n’existe pas de récepteurs mais deux types de terminaisons libres particulières jouant le rôle de nocicepteurs :
+les mécano-nocicepteurs activés par des stimuli mécaniques, se prolongeant par des fibres Ad (transmission rapide) ;
+les nocicepteurs polymodaux activés par des stimuli thermiques, chimiques ou mécaniques, se prolongeant par des fibres C (transmission lente).
+Ces deux types de fibres expliquent la sensation de double douleur : la première ressentie plutôt comme une piqûre, apparaissant rapidement et correspondant à l’activation des fibres Ad ; la seconde plus tardive, évocatrice d’une brûlure, correspondant à l’activation des fibres C.
+Ces fibres de petit calibre font relais au niveau de la corne postérieure de la moelle, essentiellement au niveau des couches I et V, pour donner naissance aux faisceaux néospinothalamiques et paléospinothalamiques qui décussent immédiatement et remontent dans le cordon antérolatéral de la moelle spinale. La projection sur les mêmes neurones de la couche V des afférences nociceptives viscérales et cutanées explique les douleurs « projetées ».
+Le faisceau néospinothalamique plutôt connecté aux fibres Ad rejoint le noyau ventro-postéro-latéral du thalamus avant d’atteindre le cortex somatosensoriel. Le faisceau paléospinothalamique plutôt connecté aux fibres C rejoint le thalamus médian avec un relais vers les structures limbiques et le cortex frontal.
+B. Contrôles de la nociception
+1. Contrôle inhibiteur de la corne postérieure de la moelle (gate control)
+Les fibres de gros calibre exercent une inhibition sur le faisceau spinothalamique par l’intermédiaire d’interneurones, fermant ainsi la « porte » à la transmission de la douleur. Cette théorie du gate control est utile notamment pour la compréhension de l’effet antalgique de la neurostimulation transcutanée (TENS).
+
+2. Contrôles inhibiteurs descendants
+Ils utilisent principalement des faisceaux passant par des structures du tronc cérébral (substance grise périaqueducale, locus coeruleus, raphé magnus…), mais leur origine est beaucoup plus diffuse, provenant de l’hypothalamus, des noyaux thalamiques ou du cortex (frontal et limbique). Ces voies se projettent dans la moelle avec un rôle inhibiteur sur les neurones convergents.
+
+3. Contrôle inhibiteur diffus induit par la nociception (CIDN)
+Le déclenchement d’une douleur en un point précis active les faisceaux du contrôle inhibiteur descendant et permet de réduire l’activité de fond des neurones nociceptifs situés en dehors de la zone douloureuse. Ce mécanisme permet de concentrer l’attention sur la nouvelle zone douloureuse. Il ne s’agit pas à proprement parler d’un mécanisme de contrôle de la douleur, mais ce système peut être détourné pour inhiber une douleur sourde et diffuse grâce à une stimulation nociceptive précise et plus supportable.
+
+C. Médiateurs chimiques de la nociception
+1. Au niveau périphérique
+Les lésions tissulaires entraînent la libération de nombreuses substances qui vont activer ou sensibiliser les nocicepteurs : potassium, ions H+, bradykinine, histamine, sérotonine, prostaglandines, leucotriènes. Les nocicepteurs peuvent libérer des neuromédiateurs ainsi que la substance P qui a une action vasodilatatrice et favorise la sécrétion d’histamine, de sérotonine sensibilisant les nocicepteurs voisins. C’est l’inflammation neurogène qui est à l’origine de l’hyperalgésie primaire. Les AINS agissent sur la synthèse des prostaglandines en inhibant l’action de la cyclo-oxygénase (COX). Les corticoïdes agissent sur la même voie mais plus en amont. La lésion tissulaire entraîne également la sécrétion de substances antalgiques comme des peptides opioïdes qui ont donc une action périphérique.
+
+2. Au niveau de la corne dorsale de la moelle
+Les principaux neurotransmetteurs intervenant entre les afférences nociceptives et les neurones spinaux sont les acides aminés excitateurs (glutamate, aspartate) et des neuropeptides (substance P, VIP…). Ces neuromédiateurs sont responsables de la transmission de l’influx mais aussi de phénomènes de sensibilisation centrale expliquant l’hyperalgésie secondaire.
+
+Simultanément interviennent au niveau médullaire des phénomènes de modulation du message nociceptif par l’intermédiaire d’acides aminés inhibiteurs (acide gamma-aminobutyrique [GABA]) ou de substances opioïdes endogènes.
+
+3. Au niveau supraspinal
+Les mécanismes chimiques de la douleur au niveau supramédullaire sont plus complexes. Signalons simplement l’existence de nombreux récepteurs opioïdes. La sérotonine(5-HT), la dopamine (DA) et la noradrénaline (NA) sont largement impliquées dans la régulation de la douleur via les contrôles inhibiteurs descendants.
+
+Ce qu’il faut retenir
+
+Les voies de transmission du message nociceptif sont extralemniscales.
+Elles sont composées de trois neurones : le premier périphérique (mécano-nocicepteurs + fibres Ad et récepteurs polymodaux + fibres C), le second médullaire (spinothalamique) et le troisième cérébral (thalamocortical ou thalamolimbique).
+Il existe deux niveaux de contrôle de la douleur : médullaire (gate control) et supramédullaire (contrôles inhibiteurs descendants).
+Les principaux neurotransmetteurs de la douleur sont : le glutamate, l’aspartate et la substance P (excitateurs), le GABA, NA, DA et 5-HT et les substances opioïdes endogènes (inhibiteurs).
+II. Douleurs aiguës et douleurs chroniques
+La distinction entre douleur aiguë et douleur chronique est capitale car les approches sont très différentes. De même, il importe de distinguer les douleurs chroniques non cancéreuses (pour lesquelles la iatrogénie reste fréquente, notamment en termes d’abus de prescriptions d’opioïdes forts et de benzodiazépines), et les douleurs chroniques cancéreuses, ou en soins palliatifs.
+
+A. Douleur aiguë
+La douleur aiguë est un signal d’alarme qui protège l’organisme. C’est un symptôme souvent utile dont il faudra rapidement déterminer l’origine et la nature afin de mettre en œuvre le traitement adapté à la suppression de la cause (si possible) et à la disparition complète de la douleur.
+
+Comme dans toute douleur, une composante affective intervient sous la forme de manifestations anxieuses. En cas de douleurs intenses, un traitement antalgique puissant, y compris par opioïde fort, est utile ou nécessaire.
+
+B. Douleur chronique
+La douleur est chronique si sa durée est supérieure à 3 ou 6 mois. Ce n’est plus un symptôme mais un syndrome, plurifactoriel et complexe, associant des manifestations physiques mais également psychiques, comportementales et sociales. La douleur a perdu sa valeur protectrice pour devenir destructrice.
+
+Cette évolution s’explique par des modifications structurelles du système nerveux central induites par une stimulation douloureuse prolongée. Le seuil de déclenchement des influx nociceptifs peut être abaissé, responsable d’une perception anormalement forte de la douleur (hyperalgésie), d’une perception douloureuse de stimuli non douloureux (allodynie, au tact, ou thermique), voire de douleurs spontanées. La douleur n’est pas contrôlée et d’ailleurs souvent pas contrôlable par les seuls médicaments, envahissant progressivement tout l’univers psychologique, affectif, social du patient, se traduisant par une altération souvent sévère de la qualité de vie du patient (HAS), avec une désinsertion socioprofessionnelle fréquente, souvent prolongée.
+
+C. Douleurs aiguë et chronique intriquées
+Il existe des tableaux douloureux associant des douleurs aiguës et de douleurs chroniques. Il s’agit essentiellement des douleurs cancéreuses dont l’intensité, les conditions de survenue se rapprochent plus de douleurs aiguës persistantes. Elles peuvent être associées à des séquelles de lésions anciennes responsables de douleurs plutôt chroniques. L’apparition, de par l’évolution de la maladie, de nouvelles douleurs est à prendre en compte comme des douleurs aiguës. Les maladies inflammatoires sévères et chroniques peuvent également être responsables de tableaux associant douleurs aiguës et chroniques comme les poussées d’arthrose des membres ou rachidienne.
+
+Le choix d’une stratégie thérapeutique devant une douleur chronique nécessite toujours une évaluation minutieuse de la situation, souvent un avis pluridisciplinaire et ne relève donc pas de l’urgence.
+
+Le traitement rapide et adapté de la douleur aiguë est la meilleure prévention d’une évolution vers un syndrome douloureux chronique. Il s’agit d’une urgence thérapeutique tant pour des raisons éthiques que pronostiques.
+
+III. Différents types de douleur (tableau 23.1)
+A. Douleurs par excès de nociception
+Les douleurs par excès de nociception sont provoquées par la stimulation excessive des récepteurs nociceptifs périphériques (dépassant les moyens de contrôle de la douleur) lors d’une lésion tissulaire, d’une inflammation, d’une stimulation mécanique, thermique ou chimique. Elles ont une topographie non systématisée correspondant au territoire stimulé ou à l’organe dont l’innervation se projette sur ce territoire (attention aux douleurs projetées).
+
+
+
+
+
+
+
+---------------------------------------> Tableau 23.1  Comparaison des douleurs par excès de nociception et neuropathiques.
+
+
+
+
+
+
+
+
+
+B. Douleurs neuropathiques
+Les douleurs neuropathiques sont par définition toujours associées à une lésion du système nerveux périphérique ou central (IASP 2008). La topographie de la douleur sera systématisée selon la localisation de cette lésion : elle peut concerner un plexus (brachial…), une racine nerveuse (L4, L5,…), un tronc nerveux (nerf cubital, sciatique poplité externe…), un hémicorps (AVC sylvien)…
+
+L’examen neurologique retrouvera fréquemment un déficit sensitif (hypoesthésie ou anesthésie) dans le territoire correspondant. Le patient décrit souvent des douleurs continues évocatrices de brûlures, de froid douloureux, de torsion, ou des paresthésies ou dysesthésies (picotements, fourmillements). Il peut également rapporter une composante plus paroxystique à type de « décharges électriques ». Une allodynie ou une hyperalgésie sont souvent présentes.
+
+C. Douleurs mixtes
+Elles associent les deux composantes précédentes et sont fréquentes, une même lésion provoquant à la fois une lésion tissulaire responsable d’un excès de nociception et une lésion neurologique responsable de douleurs neuropathiques.
+
+D. Syndromes douloureux régionaux complexes (SDRC)
+Certains tableaux douloureux d’origine nociceptive ou neuropathique sont entretenus, en cercle vicieux, notamment, mais pas seulement, par un dysfonctionnement du système sympathique. D’autres éléments entretiennent et majorent le handicap, comme les rétractations capsulo-ligamentaires et cutanées, qui peuvent conduire à une sous-utilisation et/ou à l’exclusion progressive du membre douloureux.
+
+Il peut s’agir d’un syndrome douloureux régional complexe de type 1 (ex-algodystrophie), ou type 2, lorsqu’il existe une lésion neurologique initiale (ex-causalgie).
+
+E. Douleurs fonctionnelles (IASP 2008)
+Ce sont des douleurs liées à un dysfonctionnement des systèmes de contrôle de la douleur, sans lésion identifiée.
+
+Les plus fréquentes sont la fibromyalgie, la céphalée de tension, la colopathie fonctionnelle (ou intestin irritable), la cystite interstitielle.
+
+En l’état actuel des connaissances, la douleur fonctionnelle répond peu au traitement pharmacologique, et sa prise en charge thérapeutique fait plus appel aux thérapeutiques non pharmacologiques (physiques et rééducatives, et psychocorporelles notamment ; stimulation magnétique transcrânienne…).
+
+NB : Le diagnostic de douleur psychogène, et/ou de composante psychogène importante des douleurs (comme celui de tous les troubles somatomorphes), est un diagnostic positif et non un diagnostic d’élimination. Une douleur sans aucun substratum organique faisant porter le diagnostic de conversion est possible mais, beaucoup plus fréquemment, on rencontre des patients qui présentent une majoration « fonctionnelle » importante. Une douleur organique sert de « point d’ancrage » aux souffrances psychiques. Il sera alors important de ne négliger aucune de ses composantes.
+
+IV. Interrogatoire et examen clinique d’un patient douloureux (HAS 2008)
+Dans un contexte de douleur aiguë, l’interrogatoire et l’examen clinique initiaux doivent être très rapides, centrés sur l’origine de la douleur et son intensité afin d’orienter et surtout ne pas retarder la mise en place d’un traitement antalgique adapté à l’intensité et la nature de la douleur. Une fois le patient soulagé, l’interrogatoire et l’examen clinique seront repris afin de mieux analyser la lésion responsable de la douleur et éventuellement proposer un traitement plus spécifique.
+L’approche d’un patient douloureux chronique sera beaucoup plus longue et complexe. Il est très important de ne pas prendre une décision thérapeutique trop rapide, avant d’avoir pris le temps de recueillir toutes les informations nécessaires au diagnostic précis puis à l’élaboration d’une stratégie thérapeutique concertée avec le patient dans le cadre d’un contrat de soins.
+La qualité de la relation médecin-malade est essentielle pour conduire dans de bonnes conditions cette démarche. Le patient est le meilleur expert de sa douleur et il est délétère de ne pas le croire lorsqu’il dit qu’il souffre.
+Il faut dans un premier temps laisser le patient parler, exprimer sa douleur selon ses propres mots qui ont souvent une valeur diagnostique irremplaçable. Parfois le discours se disperse : il est alors important de le canaliser afin d’obtenir les informations nécessaires. Il faut être attentif à des éléments de communication non verbale, à une éventuelle discordance entre la présentation générale, les mouvements, l’attitude du patient et sa plainte douloureuse. Le discours de l’accompagnant (conjoint, parents, enfants, soignants…) est souvent riche d’informations.
+A. Histoire de la douleur et du patient
+Il faut systématiquement rechercher les informations suivantes :
+
+biographie du patient sur le plan médical (antécédents médicaux, chirurgicaux, obstétricaux, psychiatriques et familiaux) ;
+circonstances de déclenchement de la douleur ;
+modalités de la prise en charge initiale ;
+description de la douleur initiale (topographie, type de douleur, intensité) ;
+contexte personnel, familial, professionnel, social dans lequel la douleur est intervenue ;
+évolution du tableau douloureux, notamment en fonction des différents médicaments et prises en charge médicales. Il faut insister sur la nécessité d’un interrogatoire « policier » à ce sujet : il ne s’agit pas uniquement de savoir quel traitement a été administré mais à quelles doses et pendant combien de temps ;
+description de la douleur actuelle (topographie, type de douleur, intensité), profil évolutif sur le nycthémère et le long terme, facteurs d’aggravation et de soulagement ;
+retentissement sur la qualité de vie, le sommeil, les activités personnelles, professionnelles… ;
+situation actuelle du patient sur le plan familial, professionnel et socio-économique : la durée d’arrêt de travail, la notion d’accident du travail ont une influence pronostique ;
+existence de procédures judiciaires, sociales ou administratives en cours.
+Il faut également rechercher les événements de la vie du patient qui pourraient avoir une place, un sens dans la douleur actuelle, en s’intéressant particulièrement aux traumatismes de tous ordres (agressions physiques ou psychiques, éventuellement à caractère sexuel, deuils…), et aux carences affectives précoces, qui favorisent l’apparition ultérieure de syndromes somatoformes, anxieux, ou de conduites addictives (souvent retrouvées chez le patient douloureux chronique).
+
+B. Contexte psychologique
+Il n’est pas possible de dissocier une douleur chronique du contexte psychologique du patient. Évaluer ce contexte est indispensable au diagnostic d’un tableau douloureux chronique ainsi qu’à l’élaboration d’une stratégie thérapeutique. Si l’aide d’un spécialiste (psychologue ou psychiatre) peut être utile voire indispensable, elle ne peut jamais dispenser le clinicien de cette évaluation :
+
+un trouble de l’humeur plus ou moins marqué doit toujours être évoqué ;
+un trouble de la personnalité doit être recherché (personnalité obsessionnelle, hystérique, schizophrénique…) ;
+une attention toute particulière sera portée à la recherche d’un état de stress post-traumatique.
+Un sentiment d’injustice, une tendance au catastrophisme (« catastrophizing ») sont fréquemment retrouvés, cette dernière étant de pronostic défavorable.
+
+Une telle démarche est rarement possible en pleine nuit dans un contexte d’urgence. En dehors des situations véritablement aiguës et des déstabilisations douloureuses des pathologies néoplasiques, il faut résister à la pression du patient et de l’entourage et ne pas s’engager dans des prescriptions hâtives et souvent délétères (particulièrement, comme indiqué ci-dessus, en termes de prescription inappropriée d’opioïdes forts ou de benzodiazépines et somnifères, dont il est souvent ensuite très difficile de sevrer le patient).
+
+C. Échelles d’évaluation
+1. Échelles d’autoévaluation unidimensionnelles
+Elles mesurent globalement l’intensité de la douleur ; ces échelles d’autoévaluation (utilisées directement par le patient) sont simples, fiables, reproductibles pour un même patient dans le cadre d’un suivi et validées. Elles ne permettent pas la comparaison entre deux patients.
+
+L’échelle numérique (EN) : est la plus utilisée en pratique clinique. elle permet au patient de donner une note de 0 à 10 ; la note 0 est définie par « Pas de douleur » et la note 10 par « Douleur extrême ».
+L’échelle verbale simple (EVS) : elle comporte une série de qualificatifs hiérarchisés, pouvant être adaptés au patient et décrivant l’intensité de la douleur (« Absente » = 0, « Faible » = 1, « Modérée » = 2, « Intense » = 3, « Extrêmement intense » = 4).
+L’échelle visuelle analogique (EVA) : réglette avec une ligne horizontale de 100 mm, orientée de gauche à droite ; les deux extrémités sont présentées comme « Pas de douleur » et « Douleur maximale imaginable » ; le patient évalue sa douleur en mobilisant un curseur sur la ligne ; au dos de la réglette, la graduation permet de chiffrer la position du curseur et donc l’intensité de la douleur de 0 à 100 mm.
+2. Échelles comportementales
+Elles permettent une hétéroévaluation lorsque l’expression verbale est impossible ou altérée : enfants de moins de 4 ans, patients atteints de troubles cognitifs, de la conscience (confusion, coma) ou psychiatriques sévères (psychose). Elles reposent sur l’observation par les soignants des modifications de l’attitude, du comportement et des manifestations corporelles du patient douloureux. Chez la personne âgée, on peut utiliser les échelles Algoplus (en cas de douleur aiguë), et Doloplus et ECPA (en cas de douleur chronique) ; et chez l’enfant, l’échelle Evendol ; sans oublier les échelles très simples interprétant le faciès du patient, utilisables à tout âge.
+
+3. Échelles multidimensionnelles
+Si les échelles précédentes sont souvent suffisantes pour évaluer une douleur aiguë, une évaluation purement quantitative ne rend que très partiellement compte d’une douleur chronique. Les échelles multidimensionnelles s’intéressent aux caractéristiques de la douleur et à leur retentissement dans la vie quotidienne. La plus utilisée en France, recommandée par la HAS, est le questionnaire Douleur de Saint-Antoine mais il en existe beaucoup d’autres. L’échelle DN4 peut aider au diagnostic de douleurs ayant une composante neuropathique (au moins 4 items présents, sur 10 possibles, parmi lesquels les brûlures, le froid douloureux, l’allodynie, les paresthésies et dysesthésies…). Les échelles utilisées en psychiatrie, notamment pour le dépistage et l’évaluation d’affects dépressifs et anxieux (Hospital Anxiety Depression [HAD], recommandée par la HAS ; MADRS, Hamilton…), ou des échelles de qualité de vie (SF-12 ou SF-36…) peuvent également être utiles.
+
+4. Intérêts et limites de l’utilisation des échelles
+Dans les situations d’urgence et de douleurs aiguës, le recours aux échelles doit être rapide et systématique. Il permet la mise en œuvre immédiate d’un traitement antalgique si possible avant même l’évaluation médicale, selon une démarche protocolisée comme il en existe maintenant au sein des services d’urgences. L’échelle oriente la décision du traitement initial et permet ensuite, par son utilisation répétée (utiliser toujours la même échelle), l’évaluation et l’adaptation du traitement jusqu’à sédation de la douleur. Cette démarche d’évaluation et réévaluation, par une échelle validée, constitue un indicateur de qualité de prise en charge de la douleur au sein des établissements de santé (indicateur IPAQSS). Elle doit être systématique, même chez un patient ne se plaignant d’aucune douleur spontanément, chez tous les patients à l’entrée dans tous services puis régulièrement pendant l’hospitalisation.
+
+Dans une situation de douleurs chroniques, le médecin devra veiller à ne surtout pas remplacer l’interrogatoire et l’écoute attentive d’un patient exprimant sa douleur par l’utilisation excessive de ces outils. Les échelles peuvent, mais uniquement dans un second temps, aider au diagnostic des douleurs et à l’évaluation de l’efficacité de la prise en charge. Les échelles ont surtout dans le contexte de la douleur chronique l’intérêt de standardiser l’évaluation, permettant une meilleure communication entre les soignants, mais aussi une démarche scientifique dans une perspective de recherche clinique.
+
+ 
+Item 132 – Thérapeutiques antalgiques, médicamenteuses et non médicamenteuses
+Association de traitements médicamenteux et non médicamenteux
+Traitement médicamenteux
+Traitements non médicamenteux
+Les objectifs de la prise en charge du patient douloureux chronique sont de diminuer autant que possible ses douleurs (mais le plus souvent, cette amélioration se limite à 2 ou 3 points sur 10 sur l’échelle numérique), de limiter sa consommation médicamenteuse, avec lutte contre le mésusage, d’améliorer sa qualité de vie, et surtout de promouvoir le retour et le maintien des activités sociales, familiales et du travail.
+
+Avant même d’élaborer un plan de soins, il est indispensable d’établir avec le patient un contrat thérapeutique personnalisé (sur la base des objectifs définis ci-dessus, et non sur une illusoire disparition des douleurs), avec une alliance thérapeutique de qualité (alors que celle-ci a souvent été mise à mal par les échecs thérapeutiques répétés, la iatrogénie, le sentiment d’injustice ou de victimisation fréquents chez le douloureux chronique non cancéreux).
+
+I. Association de traitements médicamenteux et non médicamenteux
+Le traitement de la douleur peut faire appel à l’utilisation de médicaments :
+les analgésiques, classés selon l’OMS en :
+les coanalgésiques : anti-inflammatoires, antispasmodiques, myorelaxants, biphosphonates, anxiolytiques… ;
+les médicaments des douleurs neuropathiques : antiépileptiques, antidépresseurs… ;
+les anesthésiques locaux (lidocaïne…), l’alcool pour des blocs ;
+le mélange équimoléculaire oxygène-protoxyde d’azote (MEOPA)
+palier 1 : non opiacés (paracétamol, salicylés, néfopam [parfois classé en palier 2]),
+palier 2 : opioïdes faibles (codéine, opium et tramadol),
+palier 3 : opioïdes forts (morphine, oxycodone, fentanyl, hydromorphone) ou mixtes (nalbuphine, buprénorphine) ;
+De nombreuses propositions non médicamenteuses peuvent également être faites :
+certaines réservées à des équipes pluridisciplinaires spécialisées :
+alors que d’autres peuvent être utilisées de manière plus courante :
+stimulation électrique transcutanée (TENS) ou implantée (surtout stimulation médullaire et stimulation corticale),
+stimulation magnétique transcrânienne (rTMS),
+interruption chirurgicale des voies de la nociception : de moins en moins pratiquée, sauf la DREZotomie pour les lésions du plexus brachial ;
+psychothérapie, hypnose…
+acupuncture, médecine manuelle ostéopathie.
+Il est impossible de parler de traitement de la douleur sans rappeler l’importance de l’effet placebo dans toutes les études menées dans ce domaine. Son efficacité peut aller de 20 à 40 %. Cela souligne l’importance tant du choix d’un traitement que de la manière de le prescrire.
+Dans les situations les plus complexes, lorsqu’une approche pluridisciplinaire et pluriprofessionnelle est nécessaire, il faut orienter les patients vers les structures labellisées d’étude et de traitement de la douleur (structures spécialisées douleur chronique [SDC] : consultations et centres antidouleur).
+II. Traitement médicamenteux
+Le principe général est d’utiliser les paliers 1, 2 et 3 pour les douleurs nociceptives ; le tramadol, les antiépileptiques et/ou antidépresseurs pour les douleurs neuropathiques. Les traitements coanalgésiques sont traités par ailleurs, de même que les techniques relevant de l’anesthésie (anesthésies locales ou locorégionales) et l’utilisation du MEOPA.
+
+Une douleur aiguë nociceptive sera traitée en première intention par un palier 1, le principe étant de passer au palier supérieur en cas d’échec et de revenir au palier inférieur lorsque la cause est également traitée.
+Dans des situations de douleurs aiguës intenses, il faut commencer par un palier 2 voire d’emblée par un palier 3. Les paliers 1 seront souvent associés aux paliers 2 ou 3, car ils potentialisent leur action. Il n’y a en revanche pas d’indication à associer les paliers 2 et 3.
+A. Analgésiques
+1. Palier 1
+a. Paracétamol
+La posologie est de 500 mg à 1 g par prise chez l’adulte, sans dépasser 4 g par jour en 4 à 6 prises.
+La toxicité est hépatique : prudence en cas de maladie hépatique, surveiller le bilan hépatique lors des traitements prolongés. Mise en garde contre la prise de paracétamol « caché » dans certaines associations médicamenteuses, ou sans ordonnance, avec le risque de dépasser la dose maximale et d’approcher la posologie toxique (10 g par jour). Espacer les prises en cas d’insuffisance rénale sévère (clairance < 10 mL/min).
+Chez l’enfant : posologie de l’ordre de 60 mg/kg par jour.
+b. Aspirine
+La posologie est de 500 mg à 1 g par prise toutes les 6 à 8 heures.
+Elle doit rarement être utilisée comme antalgique de première intention (sauf migraine), du fait de la toxicité, surtout gastro-intestinale qui en limite l’emploi dans cette indication.
+Tenir compte du risque allergique et de l’effet antiagrégant plaquettaire et des interactions médicamenteuses (anticoagulants, antidiabétiques, méthotrexate, AINS, corticoïdes…).
+c. Néfopam (Acupan®)
+Par voie parentérale (IV, IM) mais également SC ou per os (hors AMM dans ces deux dernières voies d’administration) à une posologie de 20 à 120 mg par jour.
+Souvent utilisé en post-opératoire.
+Contre-indiqué en cas d’antécédent de convulsion, d’adénome prostatique ou de glaucome à angle fermé (effet anticholinergique dont il faudra se méfier particulièrement chez la personne âgée).
+Adapter les posologies en cas d’insuffisance rénale ou hépatique.
+2. Palier 2
+a. Codéine
+Souvent associée au paracétamol, selon des rapports variables (600 mg de paracétamol/50 mg de codéine ; 500/30, 300/25, 400/20…) (Dafalgan codéine®).
+Posologie maximale déterminée par la dose totale de paracétamol, en s’assurant de l’absence d’automédication.
+La codéine seule, qui était surtout utilisée chez l’enfant (Codenfan®) à la posologie de 0,5 mg/kg, a été retirée du marché été 2013, mais peut (rarement) être utilisée chez l’adulte sous forme de dihydrocodéine LP (Dicodin®), surtout en cancérologie.
+Principaux effets secondaires : ceux de tous les opioïdes – nausées, vomissements, constipation, céphalées, réactions cutanées allergiques, vertiges, somnolence. Il faut débuter le traitement par de faibles doses et augmenter progressivement, prévenir la constipation (laxatifs), traiter si besoin les nausées et surveiller l’apparition de troubles neurologiques, surtout chez les personnes âgées. Cela peut d’ailleurs conduire à éviter le palier 2 chez les personnes âgées et avoir recours d’emblée à de faibles doses de palier 3, qui peuvent être mieux tolérées.
+b. Tramadol
+Il existe en forme à libération immédiate dosée à 50 ou 100 mg, souvent mal tolérée (nausées, vertiges), à laquelle il faut préférer l’association au paracétamol sous forme d’Ixprim® ou Zaldiar® (tramadol 37,5 mg + paracétamol 325 mg) qui est mieux tolérée. Les formes à libération prolongée en 2 prises par 24 heures (Topalgic LP®, Contramal LP®, Zamudol LP®) voire en une seule prise (Monoalgic®, Monocrixo®), permettent de proposer un traitement à libération prolongée avec des interdoses, ou « doses de secours », à libération immédiate.
+La posologie maximale par 24 heures est de 400 mg. Chez le patient douloureux chronique, du fait du risque de dépendance, il vaut mieux ne pas dépasser 200 mg/j.
+Effets secondaires : ceux des opioïdes avec un risque plus marqué de comitialité.
+Ici encore, la titration est essentielle pour limiter les effets indésirables, qui surviennent surtout en début de traitement, et favoriser l’observance. Chez la personne âgée, mieux vaut commencer par des doses faibles, de l’ordre de 50 mg/j à libération prolongée, voire utiliser la forme en gouttes.
+c. Lamaline®
+La Lamaline® est une association de poudre d’opium (dont on connaît mal la pharmacocinétique), paracétamol et caféine (psychostimulant).
+Elle est prescrite à raison de 1 à 2 gélules par prise, chaque prise espacée de 4 heures minimum (posologie maximum : 10 par jour).
+Elle peut constituer une alternative, en seconde intention, en cas d’intolérance au tramadol, surtout chez la personne âgée.
+3. Palier 3
+a. Agonistes morphiniques purs
+La morphine (cf. infra).
+
+b. Agonistes-antagonistes morphiniques
+Du fait de leur risque élevé de dépendance, leur usage doit être limité aux douleurs post-opératoires, et aux douleurs néoplasiques. Les agonistes-antagonistes morphiniques sont classés dans le palier 3 mais sont souvent considérés comme des « paliers 2,5 ». Leurs règles de prescription sont celles des paliers 3 en ville. Il ne faut pas les associer à d’autres morphiniques. La nalbuphine sera surtout utilisée en milieu d’anesthésie-réanimation. La buprénorphine (Temgesic®) est plus utilisée en ambulatoire, mais il faut tenir compte d’un risque de détournement de ce médicament fréquemment utilisé par les toxicomanes et qui fait l’objet d’un marché parallèle.
+
+c. Règles de prescription communes
+Ils doivent être évités en cas de douleurs chroniques non cancéreuses.
+Dans les douleurs aiguës, et les douleurs cancéreuses, les paliers 3 sont utilisés en cas d’échec des paliers 1 puis 2 sauf en situation de douleurs très intenses d’emblée (EN > 7).
+Ils ont pour cible surtout les douleurs par nociception ou les douleurs mixtes.
+Systématiquement informer le patient des effets secondaires et les prévenir : prescription systématique de laxatifs (+++) et uniquement si besoin d’antiémétiques.
+L’association palier 1 et coantalgiques est possible et souvent souhaitable.
+La voie orale doit systématiquement être privilégiée.
+La prescription se fait en ville sur des ordonnances sécurisées en respectant toutes les règles de ce type de prescription (chiffres écrits en toutes lettres, numérotation des médicaments).
+La durée maximale de la prescription est généralement de 28 jours, parfois avec une délivrance fractionnée (fentanyl) et des exceptions pour les formes injectables sans système actif de perfusion, où la durée maximale n’est que de 7 jours.
+Le schéma idéal de prescription de morphine comprend l’administration d’une dose continue, habituellement à libération prolongée (sauf injection en continue) associée à des interdoses, également appelées « doses de secours », prises en cas d’accès douloureux.
+d. Initiation d’un traitement morphinique
+Par la morphine à libération immédiate
+
+La posologie habituelle à l’initiation d’un traitement de palier 3 est chez l’adulte de 60 mg par jour de morphine per os. Le plus souvent, il faut débuter par une phase de titration où on va proposer 1/6e de la dose totale toutes les 4 heures de morphine à libération immédiate. Si la douleur n’est pas contrôlée, il est possible de proposer des doses supplémentaires en réduisant l’intervalle entre deux prises à 2 heures voire 1 heure.
+Il faut ensuite calculer la dose totale prise en 24 heures puis la répartir en dose de morphine à libération prolongée (LP) et prévoir des interdoses à libération immédiate dont la posologie est entre 1/6 et 1/10 de la dose totale quotidienne. Il faudra réévaluer régulièrement les posologies, toujours avec le même principe d’intégrer les interdoses à la dose quotidienne à libération prolongée sans oublier de recalculer la posologie des interdoses pour rester entre 1/6 et 1/10 de la dose quotidienne.
+Il n’y a pas d’effet « plafond », donc pas de dose maximale de morphine. Le facteur limitant sera l’apparition des effets secondaires, qui conduira à une rotation des opioïdes, c’est-à-dire le remplacement d’un opioïde par un autre à une dose équianalgésique en espérant ainsi diminuer les effets secondaires (cf. infra). Cependant, lorsque l’on tente un traitement par opioïdes forts dans la douleur chronique non cancéreuse, malgré les réserves exprimées ci-dessus, il est déconseillé de dépasser la dose totale de 100 mg/j.
+Par la morphine à libération prolongée
+
+Dans des situations de douleurs stables, il sera possible de proposer d’emblée une dose quotidienne de 60 mg de morphine LP avec des interdoses de morphine à libération immédiate.
+
+e. Circonstances particulières
+Situations de douleurs très aiguës et intenses
+
+Il est possible de faire la titration par voie injectable SC voire IV. Les principes sont les même ; il faut toutefois tenir compte des rapports d’équianalgésie entre la morphine per os et SC (1/2) ou IV (1/3).
+
+Chez les personnes âgées
+
+La posologie initiale sera la moitié voire le tiers de la dose habituelle, en tenant compte toutefois, en cas de relais d’un palier 2, de l’équianalgésie (diviser par 6 la dose de codéine ou de tramadol pour obtenir la dose équivalente de morphine). La phase de titration sera systématique.
+
+En cas d’insuffisance rénale
+
+Si la clairance de la créatinine est inférieure à 30 mL/min, il faudra espacer les prises toutes les 6 ou 8 heures voire davantage. La phase de titration sera systématique avec des formes à libération immédiate et on sera particulièrement attentif aux manifestations de surdosage (somnolence, bradypnée, myoclonies, confusion, hypotension, rétention urinaire…).
+
+En cas d’insuffisance respiratoire
+
+Il n’y a pas de contre-indication à l’utilisation de la morphine (la douleur, de son côté, stimulant les centres respiratoires). Il convient parfois de débuter à des doses plus faibles, notamment en cas de BPCO, et surtout d’être particulièrement vigilant à l’apparition d’effets secondaires lors de la titration (toujours avec des formes à libération immédiate).
+
+f. Antidote
+Il existe un antidote aux opioïdes : la naloxone. Toutefois son utilisation doit être réservée aux situations critiques avec un surdosage grave car son administration peut entraîner une réapparition brutale et souvent atroce des douleurs. Il faut également faire attention à la courte demi-vie de cette molécule.
+
+g. Équianalgésie et rotation des opioïdes forts
+La rotation des opioïdes est surtout proposée dans les douleurs cancéreuses chroniques, et vise à améliorer l’efficacité du traitement opioïde, et en limiter les effets indésirables. Il est important de connaître les rapports d’équianalgésie entre les différents antalgiques. Actuellement, l’oxycodone est de plus en plus prescrite en première intention, notamment dans les douleurs mixtes.
+Ces règles de calcul de l’équianalgésie sont utiles pour changer d’opioïde fort lorsque les effets secondaires ne permettent plus d’augmenter un opioïde et que la douleur demeure présente. C’est la rotation des morphiniques. Ces règles de conversion donnent un ordre de grandeur et il faudra être très attentif à la phase de transition, avec toujours l’utilisation des interdoses qui lutteront contre un éventuel sous-dosage et une surveillance clinique accrue en cas de surdosage :
+60 mg de morphine per os = 30 mg de morphine SC = 20 mg de morphine IV ;
+60 mg de morphine per os = 30 mg d’oxycodone per os = 15 mg d’oxycodone SC ou IV ;
+60 mg de morphine per os = 25 µg/h/72 heures de patch de fentanyl ;
+60 mg de morphine per os = 8 mg d’hydromorphone. Ce traitement est exclusivement réservé aux douleurs cancéreuses, en cas d’échec des autres opioïdes forts.
+Il existe de nouvelles formes de fentanyl par voie transmuqueuse pour les accès douloureux paroxystiques des douleurs cancéreuses exclusivement, qui ont l’avantage d’agir extrêmement vite. Leur prescription doit être faite par des médecins en ayant l’expérience.
+La mise en place de pompes intrathécales de morphine est possible mais, là aussi, l’indication doit être portée par des équipes expérimentées, après réunion de concertation pluridisciplinaire (RCP).
+La morphine reste l’opioïde de référence même si elle est de plus en plus remplacée par de nouveaux opioïdes forts : l’oxycodone, le fentanyl, et plus rarement l’hydromorphone.
+B. Médicaments des douleurs neuropatiques
+Il s’agit surtout de certains antiépileptiques et antidépresseurs. La prescription de ces médicaments répond à un certain nombre de règles dont le respect a souvent plus d’influence sur le résultat que le choix de la molécule elle-même. Il faut systématiquement :
+
+expliquer la nature du traitement (antidépresseur, antiépileptique), et son efficacité souvent incomplète ;
+informer du délai d’action des traitements ;
+débuter à très faible dose ;
+augmenter très progressivement (start slow, go slow, surtout chez la personne âgée) ;
+prévenir des effets secondaires et dire comment réagir ;
+ne pas changer de molécule avant d’avoir administré la précédente à la posologie maximale tolérée pendant suffisamment longtemps (au moins 4 à 6 semaines).
+Les effets secondaires et précautions d’emploi des molécules citées sont étudiés ailleurs dans l’ouvrage (par exemple, dans le chapitre 15 pour les antiépileptiques). Un certain nombre de ces médicaments sont prescrits hors AMM.
+
+1. Antiépileptiques
+De très nombreux antiépileptiques sont utilisés pour lutter contre les douleurs neuropathiques. Les recommandations actuelles sont de prescrire en première intention la prégabaline (Lyrica®), dont la tolérance semble la meilleure. La posologie efficace se situe généralement entre 300 et 400 mg/j, mais elle peut être montée à 600 mg/j. Ces doses doivent être significativement diminuées chez la personne âgée.
+
+La carbamazépine (Tégrétol®, ou Trileptal® : oxcarbamazépine) reste le traitement de première intention dans les cas de névralgies faciales – attention aux effets digestifs et aux vertiges fréquents chez les personnes âgées et au risque d’hyponatrémie. En seconde intention, les autres antiépileptiques (Neurontin®, Lamictal®, Dépakine®, Di-Hydan®…) peuvent être essayés (hors AMM).
+
+2. Antidépresseurs
+Les recommandations actuelles sont de prescrire en première intention les tricycliques (amitriptyline [Laroxyl®] surtout, Anafranil®, Tofranil®). Cette classe thérapeutique reste la référence en termes d’efficacité sur les douleurs neuropathiques ; toutefois, la survenue très fréquente d’effets secondaires importants amène souvent à proposer en première intention des antidépresseurs non tricycliques, inhibiteurs de la recapture de la sérotonine et de la noradrénaline, comme la duloxétine (Cymbalta®), ou la venlafaxine (Effexor®).
+
+Si certains patients sont bien soulagés par de faibles posologies, leur échec ne pourra être affirmé qu’en cas d’inefficacité aux posologies maximales (de 75 à 150 mg par jour pour les tricycliques, et 90 voire 120 mg par jour pour la duloxétine), administrées pendant plusieurs semaines.
+
+III. Traitements non médicamenteux
+La Haute Autorité de santé recommande, pour le patient lombalgique et fibromyalgique, quatre axes de prise en charge : un axe médical (avec éducation thérapeutique au bon usage du médicament), et plus rarement chirurgical ; un axe fonctionnel (thérapies physiques et rééducatives), un axe psychologique, et un axe socioprofessionnel.
+
+A. Techniques neurochirurgicales
+Les différents traitements neurochirurgicaux de la douleur relèvent d’un avis pluridisciplinaire autour d’un neurochirurgien dans le cadre d’une équipe spécialisée dans la prise en charge des patients douloureux chroniques, après RCP. Dans ce cadre peuvent être décidées :
+
+surtout des techniques de neurostimulation implantée : stimulation médullaire (qui a fait l’objet de recommandations de la HAS en 2014, notamment en cas de lomboradiculalgies sur rachis opéré, de SDRC rebelle, d’artériopathie oblitérante des membres inférieurs), stimulation corticale (en cas de douleurs réfractaires : surtout névralgies faciales rebelles, échecs de la stimulation médullaire, douleurs post-AVC, douleurs du blessé médullaire…) ;
+des techniques de thermocoagulation ou de compression par ballonnet dans les névralgies du trijumeau résistantes au traitement médicamenteux bien conduit ; de radiochirurgie stéréotaxique ;
+les techniques d’interruption des voies de la nociception sont de moins en moins pratiquées. Il s’agit surtout désormais de la DREZotomie (DREZ pour Dorsal Root Entry Zone), dans les lésions douloureuses faisant suite aux lésions du plexus brachial.
+B. Neurostimulation cutanée (transcutaneous electrical neurostimulation [TENS])
+La neurostimulation cutanée est préconisée pour les douleurs neuropathiques, surtout lorsqu’elles sont localisées. Reprenant le principe de la porte (gate control), un générateur stimule en basse intensité et haute fréquence (70 Hz) des électrodes placées sur la peau que ce soit sur le site même de la douleur ou sur le trajet tronculaire ou radiculaire. Ce dispositif peut être proposé par exemple lors de séance de kinésithérapie mais également sur prescription d’une structure de lutte contre la douleur, avec programme d’éducation thérapeutique obligatoire, pour en améliorer la compréhension et l’efficacité. Un boîtier portatif est alors à la disposition du patient qui pourra l’utiliser de manière autonome. Ce dispositif peut également être utilisé à haute intensité et basse fréquence (1 Hz) (stimulation endorphinique, ou Acupuncture-Like), avec souvent un effet intéressant sur le sommeil, et un post-effet (persistance de l’efficacité après arrêt de la stimulation) qui peut être de plusieurs heures.
+
+C. Prise en charge psychiatrique/psychologique et/ou psychocorporelle
+Très souvent, dans une situation de douleur chronique, une évaluation et un suivi psychiatrique et/ou psychologique est nécessaire. Soulignons toutefois l’importance d’un travail pluridisciplinaire. Le « psy » ne doit pas être coupé des autres professionnels mais travailler avec eux en collaboration étroite. La proposition faite aux patients ne doit pas être « d’aller voir » un psychologue ou un psychiatre mais d’associer un psychologue ou un psychiatre à une prise en charge globale.
+
+On distingue schématiquement :
+
+les thérapies à médiation corporelle (ou psychocorporelles), qui sont toujours utiles, rarement suffisantes, et ont notamment pour but d’apprendre au patient à utiliser, en auto-pratique, une technique permettant une meilleure gestion du stress et des troubles du sommeil associés : hypnose, relaxation, méditation en pleine conscience ;
+les psychothérapies, qui ne seront possibles que chez un patient motivé, et capable de verbalisation et d’introspection, avec des inspirations très diverses : cognitivo-comportementales (TCC, qui font l’objet de recommandations dans les pays anglo-saxons), thérapies brèves et systémiques, thérapies d’inspiration analytique. Le plus important est ici la qualité de l’alliance avec le praticien, et l’aptitude du patient à s’inscrire dans une dynamique de changement, notamment vis-à-vis de ses croyances et comportements douloureux.
+D. Thérapies physiques et rééducatives
+On doit associer :
+
+des thérapies physiques de traitement de la douleur, toujours utiles, jamais suffisantes. Il s’agit surtout : des massages, de la balnéothérapie, de la kinésithérapie, de la physiothérapie par le froid (utile dans les céphalées ou les arthrites notamment, ou le chaud, en cas de contractures musculaires) ;
+des orthèses, qui peuvent être utiles en cas de douleurs de l’appareil locomoteur : corset de maintien lombaire, en cas de lombalgie (avec éducation thérapeutique au bon usage), canne de décharge en cas de poussée d’arthrose, orthèses des doigts ou du pouce en cas d’arthrose digitale ou du pouce (rhizathrose) ;
+l’exercice physique régulier et progressif, en endurance (marche, vélo, piscine), est recommandé, à hauteur de 2 à 3 heures par semaine, en plusieurs séances de 20 à 45 minutes, en cas de douleurs chroniques non cancéreuses (niveau de preuve I, niveau de recommandation A) ;
+en cas de lombalgies chroniques ou de syndrome fibromyalgique, un programme de reconditionnement à l’effort et dosage de l’effort, est le plus souvent nécessaire pour diminuer le risque de rechute ultérieure ;
+les techniques de « médecine manuelle » ou d’« ostéopathie », qui doivent être pratiquées sous contrôle médical, peuvent être utiles.
+E. Thérapeutiques complémentaires et alternatives
+De très nombreuses approches moins conventionnelles peuvent avoir leur place dans les soins proposés à un patient douloureux. Elles seront d’autant plus intéressantes que le patient en sera demandeur (ou qu’il exprime des réserves ou un refus de thérapeutiques conventionnelles), et que le praticien aura été correctement formé, si possible par une formation universitaire diplômante (comme c’est le cas en acupuncture, hypnose, thérapie manuelle) :
+
+l’acupuncture et l’électro-acupuncture surtout, notamment en cas d’anxiété et/ou de troubles du sommeil associés ;
+les champs magnétiques, la sophrologie, le toucher massage… Il n’est pas question d’en discuter ici la pertinence scientifique. La pratique clinique confirme la place de ces traitements chez certains patients. L’absence d’effets secondaires de la plupart de ces approches peut les rendre intéressantes et en faire des alternatives à des techniques invasives dont il faut parfois craindre des conséquences iatrogènes. Rappelons l’importance de l’effet placebo dans la douleur, de la qualité de la relation patient-thérapeute, et d’écoute du praticien, utiles dans ce contexte.
+F. Prise en charge socioprofessionnelle
+L’un des objectifs majeurs de la prise en charge du patient douloureux chronique non cancéreux (et souvent le critère principal d’essais thérapeutiques dans cette population) est de promouvoir le retour et le maintien des activités sociales et du travail.
+
+Une aide et un accompagnement dans les démarches administratives sont souvent nécessaires.
+
+On peut recourir :
+
+à la maison départementale des personnes handicapées (MDPH) pour une reconnaissance en qualité de travailleur handicapé (RQTH), favorisant le retour à l’emploi ;
+avec le concours du médecin du travail, voire du médecin-conseil de la CPAM, à des adaptations de poste de travail :
+adaptations quantitatives : temps partiel thérapeutique, notamment après un arrêt de travail prolongé,
+adaptations qualitatives du poste, proposées avec le médecin du travail : siège ergonomique, horaires adaptés, changement de poste de travail (par exemple, pour une aide-soignante, passer du soin à l’accueil en consultation) ;
+à la formation professionnelle de l’adulte ;
+le plus rarement possible, et sans céder aux demandes parfois abusives du patient et/ou de son entourage (notamment chez le patient dont l’âge est supérieur à 55 ans, et dont les chances de retour au travail sont faibles), à la mise en invalidité catégorie 1 ou 2 chez les salariés du privé.
+ 
+
+POINTS CLÉS
+
+La douleur aiguë est une urgence thérapeutique, qui peut nécessiter, en cas de douleurs d’intensité élevée, un traitement opioïde fort.
+La douleur chronique ne doit pas être une urgence, et doit faire l’objet d’une prise en charge pluridisciplinaire adaptée.
+Le contexte psychologique doit toujours être abordé dans les douleurs chroniques.
+Les douleurs nociceptives peuvent être traitées par les antalgiques de paliers 1, 2, 3.
+En cas de traitement opioïde, surtout de palier 3 :
+une titration est nécessaire à l’instauration ;
+la prescription d’interdoses (ou doses de secours) doit être systématique ;
+une rotation des morphiniques est parfois nécessaire ;
+la prescription répond à des règles particulières, et les laxatifs sont systématiques.
+Les médicaments des douleurs neuropathiques sont certains antidépresseurs et antiépileptiques.
+De nombreuses techniques non médicamenteuses peuvent être utiles.
+Les situations les plus complexes doivent être référées à des équipes pluriprofessionnelles (HAS 2008), notamment pour sevrage dans les douleurs chroniques non cancéreuses, où certains médicaments peuvent avoir un effet délétère (augmentation paradoxale des douleurs, dépendance).

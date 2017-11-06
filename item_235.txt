@@ -1,0 +1,522 @@
+Épilepsies de l’enfant et de l’adulte
+
+Objectifs pédagogiques
+Diagnostiquer les principales formes d’épilepsie de l’enfant et de l’adulte.
+Identifier les situations d’urgence et planifier leur prise en charge.
+Argumenter l’attitude thérapeutique et planifier le suivi du patient.
+Décrire les principes de la prise en charge au long cours.
+I. Définitions
+A. Crise épileptique
+Ensemble de manifestations cliniques brutales, imprévisibles, transitoires qui résultent de l’hyperactivité paroxystique d’un réseau de neurones corticaux ou cortico-sous-corticaux hyperexcitable et de son éventuelle propagation.
+
+Qui peut se caractériser par une modification rapide de l’état de conscience et/ou des phénomènes moteurs et/ou sensitifs, sensoriels, psychiques, végétatifs, et/ou cognitifs.
+
+« Clinique » impose qu’il n’y a pas d’épilepsie sans crise clinique : la seule existence d’anomalies EEG ne suffit pas à définir l’épilepsie et encore moins à débuter un traitement.
+
+« Hyperactivité » suppose l’existence d’un trouble constitutionnel ou acquis de l’excitabilité neuronale selon deux facteurs : l’hyperexcitabilité et l’hypersynchronie neuronale.
+
+« Paroxystique » signifie début et fin rapides ou brutaux, durée brève : quelques secondes à quelques minutes (le terme « épilepsie » vient du grec « surprendre »).
+
+« Hyperexcitabilité » correspond à la tendance d’un neurone à générer des décharges répétées en réponse à une stimulation ne provoquant qu’un seul potentiel d’action.
+
+« Hypersynchronie » est la propriété d’un groupe de neurones à générer de façon synchrone des trains de potentiels.
+
+« Propagation » : une crise épileptique est dynamique, la « décharge excessive » naît en n’importe quel point du cortex cérébral puis elle s’étend ou non, se propage à distance ou non en empruntant des réseaux neuronaux. La symptomatologie dépend du siège initial de la décharge, de la rapidité de l’extension, de la propagation au sein d’un réseau neuronal. Il est donc clair que les crises épileptiques ont des aspects cliniques très divers mais le plus souvent stéréotypés chez un même malade.
+
+Les crises épileptiques sont dites « généralisées » ou « focales » (« partielles ») (fig. 15.1).
+
+Répétition des crises épileptiques :
+
+une crise épileptique inaugurale peut demeurer unique ou être la première manifestation d’une maladie épileptique débutante ;
+pour être considérées comme des événements distincts, l’intervalle entre deux crises doit être d’au moins 24 heures. Les crises se répètent de façon spontanée ou provoquée par des facteurs déclenchants immédiats (photosensibilité, épilepsie réflexe, manque de sommeil…) à prendre en compte dans le diagnostic et la décision éventuelle de traitement de fond ;
+lorsque les crises se répètent à très court terme, elles entrent dans le cadre d’un état de mal épileptique avec persistance pendant la phase intercritique d’une altération de la conscience et/ou de signes neurologiques traduisant un épuisement neuronal : en pratique, pour les crises focales, deux crises répétées en 30 minutes sans retour à un état neurologique normal entre les deux épisodes ou une crise prolongée (durée supérieure à 30 minutes). Pour les crises généralisées tonicocloniques, l’état de mal est posé si la crise a une durée supérieure à 5 minutes.
+Fig. 15.1
+
+A. Crises généralisées : hyperactivité d’un réseau de neurones cortico-sous-corticaux étendu, bilatéral. B. Crises focales (partielles) : hyperactivité d’un réseau de neurones corticaux localisé, unilatéral.
+
+B. Épilepsie
+Maladie cérébrale chronique définie par :
+la survenue d’au moins une crise épileptique ;
+une prédisposition cérébrale durable à générer des crises (en pratique cette prédisposition est caractérisée par la répétition de crises épileptiques mais peut également être caractérisée par la présence d’anomalies épileptiques à l’EEG à distance d’une crise, la préexistence d’une lésion corticale épileptogène) ;
+des conséquences neurobiologiques, neuropsychologiques, sociales et psychiatriques.
+Il n’y a pas une mais des épilepsies, qui sont des syndromes de pronostic et de traitement différents répertoriés selon plusieurs critères, notamment le type de crise épileptique, les anomalies EEG, l’étiologie et les signes neurologiques associés. Les syndromes épileptiques sont souvent âge-dépendants, c’est-à-dire qu’ils débutent à certains âges de la vie et évoluent selon une histoire naturelle définie.
+Épidémiologie : prévalence de 0,5 % ; incidence de 0,5 pour 1 000 habitants par an selon une distribution bimodale, plus élevée chez l’enfant et après 60 ans. Environ 50 % des épilepsies débutent avant l’âge de 10 ans. L’incidence cumulative (probabilité de développer une épilepsie) est de 3,1 % pour une personne vivant jusqu’à 80 ans.
+Gravité :
+conséquences directes des crises épileptiques (traumatismes physiques et psychologiques, risque de mort subite), de leur répétition, du traitement, de la cause de l’épilepsie ;
+retentissement psychologique et social ;
+risque d’état de mal épileptique.
+C. Expression électro-encéphalographique des épilepsies
+Elles se traduisent à l’électro-encéphalogramme (EEG) par des « activités paroxystiques » à type de pointes, polypointes, pointes-ondes. Lorsque ces activités paroxystiques sont isolées et ne s’accompagnent pas de signe clinique concomitant elles sont dites « intercritiques ». Lorsqu’elles se répètent de façon rythmique sur une durée prolongée (de quelques secondes à quelques minutes) et s’accompagnent de signes cliniques, elles sont dites « critiques » et traduisent la crise épileptique.
+
+En pratique :
+
+l’EEG est le seul examen complémentaire utile au diagnostic positif de crise épileptique et d’épilepsie mais un EEG normal n’écarte pas le diagnostic ;
+les activités paroxystiques intercritiques et les crises peuvent être activées par une privation de sommeil la nuit précédente suivie d’un EEG de veille et de sommeil ;
+si les crises sont nombreuses (au moins plurihebdomadaires) ou résistantes aux médicaments antiépileptiques, des enregistrements EEG prolongés couplés à un enregistrement vidéo synchronisé (EEG-vidéo) sont indiqués.
+D. Syndromes épileptiques
+Les notions de crises épileptiques répétées, ou de risque élevé de récidives ne suffisent pas pour formuler un pronostic et proposer un traitement antiépileptique : il est nécessaire de définir des syndromes épileptiques.
+Ils sont définis à partir de l’âge de début des crises, les signes cliniques des crises (un syndrome peut comporter plusieurs types de crise), les anomalies EEG intercritiques et critiques, l’examen neurologique intercritique, l’évolution.
+Par conséquent, la démarche clinique est de :
+recueillir les signes cliniques paroxystiques (subjectifs, c’est-à-dire ressentis par le patient, et objectifs, c’est-à-dire observables par l’entourage) en précisant bien leur séquence chronologique d’apparition afin de reconnaître les crises épileptiques parmi les manifestations cliniques paroxystiques de la veille et du sommeil ;
+définir le type de crise et rechercher si le patient est atteint d’un seul ou plusieurs types de crise épileptique ;
+préciser la cause et définir le syndrome épileptique, qui conditionne le traitement et le pronostic.
+II. Classification et diagnostic des crises épileptiques
+La sémiologie clinique et EEG distingue les crises généralisées et les crises focales (partielles).
+
+A. Crises généralisées
+1. Sémiologie clinique générale
+Les signes cliniques des crises généralisées résultent de l’hyperactivité d’un réseau de neurones d’emblée étendu, bilatéral cortico-sous-cortical. Deux manifestations cliniques sont au premier plan, associées ou non : les signes moteurs et les troubles de la conscience.
+Les signes moteurs sont d’emblée bilatéraux et symétriques :
+toniques : contractions musculaires segmentaires soutenues ;
+cloniques : secousses musculaires segmentaires répétitives et rythmiques ;
+tonicocloniques : succession dans le temps d’une phase tonique et d’une phase clonique ;
+atoniques : interruption brève et soudaine du tonus de tout ou partie du corps ;
+myocloniques : contractions des muscles agonistes et antagonistes isolément ou en salves brèves.
+Les troubles de conscience peuvent être de durée brève (quelques secondes) et constituer le principal signe de la crise au cours d’une absence, ou plus longs (quelques minutes) et associés à des signes moteurs marqués au cours d’une crise généralisée tonicoclonique.
+2. Crise généralisée tonicoclonique
+La plus connue du public et la plus spectaculaire. Elle se déroule en trois phases :
+
+la phase tonique (10 à 20 secondes) : cri profond, abolition de la conscience, révulsion oculaire, contraction tonique soutenue axiale et des membres, d’abord en flexion puis en extension ; apnée avec cyanose, troubles végétatifs importants (tachycardie, augmentation de la tension artérielle, mydriase, rougeur du visage, hypersécrétion bronchique et salivaire) ; morsure latérale de langue possible ;
+la phase clonique (20 à 30 secondes) : secousses bilatérales, synchrones, intenses, s’espaçant progressivement ;
+la phase résolutive (ou post-critique), plus longue, de quelques minutes : coma profond, hypotonique, relâchement musculaire complet avec possibilité d’une énurésie. La respiration reprend, ample, bruyante (stertor), gênée par l’hypersécrétion bronchique et salivaire.
+En post-critique, lorsque le sujet ne s’endort pas spontanément, il existe une confusion mentale parfois accompagnée d’agitation. Le sujet ne garde aucun souvenir de sa crise et peut même présenter un oubli à mesure pendant cette phase post-critique ; il se plaint souvent de céphalées, de courbatures, voire de douleurs en relation avec le traumatisme occasionné par la chute initiale ou avec une luxation d’épaule ou un tassement vertébral survenus au cours de la phase tonique.
+
+EEG : il est rare d’enregistrer une crise généralisée tonicoclonique en EEG ; en revanche, l’existence d’anomalies EEG intercritiques est une aide au diagnostic positif. Les modifications EEG au cours d’une crise généralisée tonicoclonique se caractérisent par une activité de polypointes ou une activité rapide (phase tonique) puis de polypointes-ondes progressivement ralenties (phase clonique), en grande partie masquées par des artefacts musculaires, suivies d’ondes lentes généralisées avant le retour à l’état antérieur après plusieurs minutes ou heures selon l’âge (fig. 15.2 à 15.4).
+
+Fig. 15.4
+
+Aspect EEG au cours de la phase post-critique d’une crise généralisée tonicoclonique (ondes lentes généralisées).
+
+Fig. 15.3
+
+Aspect EEG au cours de la phase clonique d’une crise généralisée tonicoclonique (polypointes-ondes et artefacts EMG).
+
+Fig. 15.2
+
+Aspect EEG au cours de la phase tonique d’une crise généralisée tonicoclonique (polypointes rapides et artefacts EMG).
+
+3. Myoclonies bilatérales
+Ce sont les seules crises généralisées sans trouble de la conscience : secousses musculaires en éclair, isolées ou répétées en salves, en extension-flexion, avec lâchage ou projection de l’objet tenu (signe de la tasse de café) voire chute brutale. Elles sont spontanées ou provoquées par des stimulations, en particulier une stimulation lumineuse intermittente.
+
+Fréquentes immédiatement après le réveil, elles sont totalement différentes des myoclonies de l’endormissement qui n’ont pas de signification épileptique.
+
+L’EEG se caractérise par des polypointes-ondes généralisées, bilatérales, symétriques et synchrones, typiques et fréquentes, souvent favorisées par la stimulation lumineuse intermittente (SLI) et permettant un diagnostic facile (fig. 15.5).
+
+Fig. 15.5
+
+Décharge de polypointes-ondes pendant la stimulation lumineuse intermittente.
+
+4. Absences
+a. Absences typiques
+Le terme « absence » signifie rupture du contact avec arrêt de l’activité en cours, fixité voire plafonnement du regard pendant quelques secondes. L’adjectif typique caractérise le fait que l’absence est isolée, simple sur le plan clinique (il n’existe aucun autre symptôme associé) et, sur le plan EEG, avec des anomalies pathognomoniques : décharges de quelques secondes, généralisées, bilatérales, symétriques et synchrones de pointes-ondes à 3 Hz, de début et fin brusques, interrompant un tracé normal (fig. 15.6).
+
+Fig. 15.6
+
+EEG d’une absence typique.
+
+Les absences simples et typiques caractérisent l’épilepsie-absences de l’enfant et de l’adolescent ; elles peuvent s’associer à des crises généralisées tonicocloniques et des myoclonies massives.
+
+L’EEG confirme le diagnostic car les absences sont toujours très nombreuses chez l’enfant.
+
+b. Absences atypiques
+Atypique signifie qu’à la rupture du contact (souvent incomplète) s’ajoutent d’autres symptômes et, sur le plan EEG, des anomalies décrites par rapport à l’absence typique : début et fin plus progressifs, décharges de pointes-ondes bilatérales irrégulières, asynchrones, inférieures à 3 Hz (dites pointes-ondes lentes), interrompant une activité de fond anormale. Les absences atypiques se rencontrent dans les épilepsies graves de l’enfant et elles s’associent à des crises toniques, atoniques.
+
+B. Crises focales (partielles)
+1. Sémiologie électroclinique
+La décharge épileptique intéresse initialement un réseau de neurones localisé au niveau cortical et peut éventuellement se propager secondairement. Les crises focales comportent une séquence de signes ou symptômes cliniques corrélés avec les régions corticales successivement impliquées par la décharge épileptique.
+Le début : le signal symptôme a une grande valeur localisatrice. Il peut être absent si la décharge initiale intéresse une zone corticale associative.
+Pendant la crise : la succession temporelle des signes cliniques reflète la localisation initiale puis la propagation de la décharge épileptique. Lorsque cette décharge se propage de façon étendue, bilatérale dans des réseaux cortico-sous-corticaux, la crise est dite secondairement généralisée et comporte une phase tonique puis clonique, bilatérale avec troubles de la conscience.
+Après la crise : les signes cliniques déficitaires (déficit moteur, amnésie, confusion, aphasie) témoignent de l’épuisement de la région corticale impliquée par la décharge épileptique
+Les crises partielles sont classées en crises partielles simples sans modification de la conscience (en pratique, le malade décrit tous les symptômes du début à la fin) et en crises partielles complexes avec altération de la conscience, d’emblée ou secondairement (l’interrogatoire de l’entourage permet de restituer la sémiologie). L’altération de la conscience se définit par l’incapacité d’interagir de façon adaptée avec son environnement, du fait d’une altération de la perceptivité et/ou de la réactivité. Le diagnostic différentiel doit se faire avec une aphasie et une amnésie – importance de l’interrogatoire des témoins.
+2. Crises partielles simples
+Ce sont des crises dont la décharge épileptique prend son origine et reste généralement confinée aux cortex primaires (somatosensitif, somatomoteur, visuel, auditif, vestibulaire, olfactif, gustatif) (tableau 15.1).
+
+
+
+
+
+---------> Tableau 15.1  Différentes formes de crises partielles simples et localisation corticale de la décharge épileptique.
+
+
+
+
+
+3. Crises partielles complexes
+Elles se caractérisent par :
+
+une rupture du contact et/ou une amnésie : initiale ou secondaire à un début partiel simple ;
+une modification du comportement moteur :
+réaction d’arrêt moteur : le sujet reste immobile, les yeux hagards, indifférent aux sollicitations extérieures,
+avec ou sans automatismes : oro-alimentaires (mâchonnement, déglutition, dégustation, pourléchage),
+ou le déclenchement d’une activité motrice automatique :
+simple, dirigée vers le patient (grattage, froissement de vêtements) ou vers l’entourage (agrippement, manipulation),
+complexe, avec des automatismes gestuels plus élaborés : déboutonner, fouiller dans les poches, ranger des objets ; des automatismes verbaux (onomatopées, chantonnements), ambulatoires (marcher, sortir sans raison comme un automate) ou sexuels (masturbation) ou des séquences comportementales spectaculaires, volontiers nocturnes (agitation incoordonnée, gesticulation…).
+L’origine topographique des crises partielles complexes est variée, et pas exclusivement temporale.
+
+4. EEG et crises partielles
+Les aspects intercritiques sont variables : aspect normal (un EEG normal n’élimine pas le diagnostic de crise épileptique) ; présence de paroxysmes localisés (bien en accord avec le diagnostic de crise partielle) ; signes de focalisation lente thêta ou delta (en faveur d’un processus lésionnel, visible ou non sur l’imagerie).
+
+L’expression EEG des crises partielles se caractérise par une activité rythmique prolongée initialement localisée à quelques électrodes et dont la topographie et la morphologie dépendent du siège de la décharge et de la cause de l’épilepsie. Lorsque la décharge épileptique reste localisée et profonde, l’EEG peut parfois être normal au cours d’une crise partielle (notamment dans les crises partielles simples). Dans les crises temporales qui sont les crises partielles les plus fréquentes de l’adulte, la décharge épileptique caractéristique est une activité rythmique de fréquence comprise entre 5 et 9 Hz et initialement localisée sur les électrodes temporales (fig. 15.7).
+
+Fig. 15.7
+
+Décharge rythmique à 7 c/s au cours d’une crise temporale droite (trait rouge).
+
+C. Valeur diagnostique de l’EEG
+L’EEG est le seul examen complémentaire qui apporte des arguments pour le diagnostic positif de crise épileptique.
+
+La rentabilité est variable selon le type de crise, le syndrome épileptique, le moment et les conditions de réalisation de l’examen :
+
+certaines crises sont enregistrées facilement sur un EEG standard avec épreuves d’activation par hyperventilation et stimulation lumineuse intermittente : les absences, les myoclonies généralisées ;
+entre les crises : la normalité d’un EEG n’écarte pas le diagnostic de crise épileptique. Cependant, certains syndromes épileptiques s’accordent très mal avec un EEG constamment normal : par exemple, l’épilepsie-absences de l’enfant ;
+en cas de normalité des EEG intercritiques, des épreuves d’activation supplémentaires peuvent être réalisées : EEG après privation de sommeil la nuit précédente ou enregistrement de sommeil. Lorsque les crises sont nombreuses, un EEG prolongé éventuellement couplé à un enregistrement vidéo synchronisé peut être utile (vidéo-EEG).
+D. Diagnostic différentiel
+En cas de crise généralisée tonicoclonique :
+syncope, notamment convulsive : facteurs déclenchant et lipothymies initiales, à différencier d’un signal symptôme épileptique, durée brève, quelques secondes, fin brutale, absence de confusion ou de déficit post-critiques ; si convulsions, elles sont bilatérales, brèves et peu nombreuses ;
+crise psychogène non épileptique (distinction délicate tant la sémiologie peut être comparable en l’absence d’un EEG vidéo) ; le problème est d’autant plus complexe que chez certains patients, crises épileptiques authentiques et crises psychogènes non épileptiques coexistent.
+En cas de crise partielle simple :
+accident ischémique transitoire (AIT) : mais signes déficitaires exclusivement et de durée plus longue lors de l’AIT (20 à 30 minutes ou plus) ;
+migraine avec aura : des céphalées peuvent suivre des crises épileptiques et, inversement, l’aura migraineuse peut comporter des symptômes hallucinatoires ou illusionnels, mais la dynamique temporelle est différente, la marche migraineuse est plus progressive et plus lente, se déroulant sur plusieurs dizaines de minutes ;
+crises d’angoisse et attaques de panique : de durée plus longue, mais des intrications sont possibles avec la sémiologie épileptique et la distinction peut être délicate en l’absence d’enregistrement EEG-vidéo.
+En cas de crise partielle complexe :
+crises d’agitation, de colère ou crises émotives ;
+parasomnies (somnambulisme, terreurs nocturnes) ;
+ictus amnésique, qui ne se discute qu’en l’absence de témoin : caractère adapté des conduites, nature purement amnésique du trouble avec oubli à mesure relevé par des questions stéréotypées itératives.
+E. Diagnostic étiologique
+1. La crise épileptique est un symptôme
+Les crises généralisées peuvent :
+être secondaires à une étiologie métabolique ou toxique ;
+ou être la manifestation d’une épilepsie généralisée idiopathique (origine génétique présumée) et s’intégrer alors dans un syndrome bien défini.
+Les crises partielles sont dans la majorité des cas secondaires à une lésion cérébrale (cause structurelle) qui peut être ancienne ou aiguë et qui doit être recherchée activement (traumatique, infectieuse, vasculaire) ; plus rarement et uniquement lorsqu’elles débutent dans l’enfance, elles peuvent avoir une origine idiopathique (génétique présumée).
+2. Les causes des épilepsies résultent de la conjonction de facteurs acquis et génétiques
+Causes génétiques : 40 % des épilepsies ; mais seulement quelques-unes sont accessibles à un diagnostic chromosomique et les autres sont rapportées à une origine génétique par les données électrocliniques, le contexte familial, les pathologies associées ; les causes génétiques ne sont pas l’apanage de l’enfant : elles peuvent être de révélation tardive.
+Causes acquises : lésionnelles ou non lésionnelles.
+3. Les étiologies lésionnelles sont suspectées par la clinique et confirmées par l’imagerie (scanner et IRM)
+Les causes tumorales sont rares chez l’enfant et l’adolescent ; elles rendent compte de 10 à 15 % des épilepsies de l’adulte ; des crises épileptiques émaillent l’évolution des tumeurs cérébrales supratentorielles dans 20 à 70 % des cas, surtout celles d’évolution lente et qui impliquent précocement le cortex (astrocytome de bas grade, oligodendrogliome, méningiome).
+Les causes vasculaires regroupent les accidents ischémiques et hémorragiques (artériels ou veineux) et les malformations vasculaires (malformations artérioveineuses et cavernomes). Lorsque les crises sont symptomatiques d’un AVC :
+elles peuvent survenir à la phase aiguë des AVC hémorragiques (5 à 25 % des cas) et des thrombophlébites cérébrales plus souvent que lors d’un AVC ischémique ;
+elles peuvent survenir à distance de la constitution de l’AVC. Les cicatrices corticales séquellaires des AVC constituent une des causes les plus fréquentes des épilepsies du sujet âgé.
+Les causes traumatiques font distinguer les crises précoces de la première semaine suivant le traumatisme et les crises tardives de mécanismes différents ; les premières sont situationnelles à une agression cérébrale aiguë et constituent un facteur de risque d’une épilepsie ultérieure ; les secondes correspondent à l’épilepsie post-traumatique : répétition spontanée de crises en rapport avec une lésion post-traumatique. En pratique civile, l’épilepsie post-traumatique est rare, puisque deux tiers des blessés avec plaie cranio-encéphalique ne deviendront pas épileptiques. Dans environ 70 % des cas, l’épilepsie s’installe moins de 2 ans après le traumatisme, le risque diminuant ensuite progressivement.
+Les causes infectieuses sont responsables de crises épileptiques à tous les âges de la vie : les infections parenchymateuses (encéphalites, méningo-encéphalites, abcès cérébraux) sont particulièrement épileptogènes ; l’encéphalite herpétique peut se manifester par des crises épileptiques partielles dans un contexte fébrile ; la neurocysticercose est la cause principale d’épilepsie dans les zones tropicales.
+Les anomalies du développement cortical, mieux connues depuis l’IRM, sont des causes très fréquentes d’épilepsie pharmaco-résistante (résistante aux médicaments antiépileptiques) : l’épilepsie, de gravité très variable, peut débuter à n’importe quel âge ; selon le type de la malformation, sont retrouvés ou non un retard mental, des signes neurologiques diffus ou focaux, des antécédents familiaux ; leur point commun est de correspondre à une erreur de la migration neuronale. La forme la plus fréquente est la dysplasie corticale focale.
+4. Les étiologies non lésionnelles sont suspectées par la clinique et le contexte
+Les causes toxiques :
+l’alcool éthylique peut entraîner des crises épileptiques dans trois situations : la prise excessive et inhabituelle d’une grande quantité ; le sevrage, absolu ou relatif, chez un éthylique chronique ; la troisième situation correspond à l’épilepsie alcoolique, qui se caractérise par la répétition spontanée de crises épileptiques chez un alcoolique chronique en l’absence de sevrage ou d’ingestion importante : les crises sont peu fréquentes, généralisées, rarement partielles ; des facteurs étiologiques ajoutés sont fréquents (traumatiques, vasculaires). L’épilepsie alcoolique peut nécessiter un traitement spécifique, bien que l’arrêt de l’intoxication puisse suffire à la contrôler ;
+parmi les autres toxiques, il faut citer la cocaïne, les amphétamines, l’intoxication par le plomb, le manganèse, les organophosphorés.
+Les causes médicamenteuses : les psychotropes peuvent déclencher des crises épileptiques sans surdosage (imipraminiques, tramadol), par surdosage (lithium, antidépresseurs) ou par sevrage (benzodiazépines, barbiturique). Des états de mal sont possibles. Certains médicaments non psychotropes sont dits convulsivants et donc à utiliser avec prudence, en renforçant le traitement antiépileptique, ou à éviter chez l’épileptique : théophilline, ciclosporine, isoniazide, méfloquine.
+Les causes métaboliques : les hypoglycémies s’expriment facilement par des crises généralisées tonicocloniques, comme l’hypocalcémie, l’hyponatrémie ; les hyperglycémies avec hyperosmolarité donnent volontiers une symptomatologie déroutante avec des crises partielles sérielles. Les myoclonies sont classiques au cours de l’insuffisance rénale. Chez le nouveau-né, les causes métaboliques et les déficits en vitamines B sont de recherche systématique ; la persistance de convulsions conduit à injecter par voie IV, sous contrôle EEG, 50 à 200 mg de vitamine B6.
+III. Diagnostic syndromique
+Une crise épileptique s’intègre dans un syndrome épileptique ; chez un même patient peuvent s’associer des crises de types différents.
+
+L’intérêt de la classification syndromique est de repérer des situations de pronostics et de traitements différents. Certains syndromes peuvent conduire à ne pas proposer de traitement médicamenteux. D’autres peuvent être aggravés par des médicaments antiépileptiques.
+
+La classification syndromique repose sur la topographie et l’étiologie :
+la topographie distingue les épilepsies généralisées et focales selon le type de crise, les anomalies EEG généralisées ou focales, l’état clinique intercritique, la normalité ou non de l’IRM encéphalique ;
+l’étiologie peut être génétique (prouvée ou plus souvent présumée) dans les épilepsies dites idiopathiques, structurelle en cas de lésion présumée ou prouvée ou métabolique.
+Les épilepsies idiopathiques sont d’origine génétique présumée et ne sont par définition jamais secondaires à une lésion cérébrale. Les données cliniques et EEG suffisent pour les reconnaître sans apport de l’imagerie cérébrale. Leur identification repose sur :
+la description des crises épileptiques ;
+l’âge de survenue des premières crises ;
+un développement et un examen clinique normaux ;
+des anomalies EEG paroxystiques intercritiques caractéristiques sur un rythme de fond normal ;
+un pronostic généralement favorable : évolution spontanée vers la guérison ou rémission facilement obtenue par une monothérapie et, dans certains cas, l’abstention thérapeutique.
+Une épilepsie symptomatique, structurelle ou métabolique résulte d’une lésion cérébrale diffuse ou focale, évolutive ou fixée, reconnue par l’imagerie cérébrale ou, le cas échéant, d’un déficit neurologique, d’une anomalie biologique.
+Une épilepsie cryptogénique est de cause indéterminée qui échappe aux investigations.
+A. Exemples d’épilepsies généralisées idiopathiques
+1. Épilepsie-absences
+De l’enfant : environ 10 % des épilepsies entre 3 et 12 ans ; un début plus précoce est rare, un début plus tardif fait douter du diagnostic ; pic de fréquence : autour de 7 ans avec une prédominance féminine. Les absences typiques sont inaugurales, très fréquentes (jusque 100 et plus par jour), facilement provoquées par l’hyperpnée. L’évolution est variable : bon pronostic immédiat dans 80 % des cas ; disparition des absences dès l’instauration d’un traitement et sans récidive. Dans 40 % des cas, surviennent plus tard des crises généralisées tonicocloniques isolées ou associées aux absences. Les critères moins favorables sont un début tardif (après 8 ans), la survenue chez les garçons, la résistance initiale au traitement, la présence d’une photosensibilité.
+De l’adolescence : absences moins nombreuses, de début plus tardif à l’adolescence, plus espacées dans le temps (donc de diagnostic plus difficile), pronostic moins favorable ; des crises généralisées tonicocloniques s’associent.
+2. Épilepsie myoclonique juvénile bénigne
+Elle débute à l’adolescence ; secousses myocloniques en pleine conscience souvent peu après le réveil (signe de la tasse de café du petit-déjeuner), favorisées par les nuits écourtées, les réveils brusques, la photosensibilité. Les myoclonies peuvent précéder de plusieurs mois voire de plusieurs années la crise généralisée tonicoclonique. L’EEG intercritique est typique : polypointes-ondes généralisées avec souvent photosensibilité. Qualifiée de « bénigne » en raison d’un contrôle rapide par une monothérapie, elle nécessite néanmoins souvent la poursuite du traitement au long cours (notion de pharmacodépendance) car l’arrêt du traitement entraîne dans 90 % des cas une récidive. L’épilepsie myoclonique juvénile bénigne est génétiquement déterminée : deux gènes majeurs sont vraisemblables (sur le bras court du chromosome 6 et sur le bras long du chromosome 15).
+
+3. Épilepsie avec crise généralisée tonicoclonique du réveil
+Elle débute souvent à l’adolescence ou chez l’adulte jeune et est plus fréquente chez les filles ; les facteurs déclenchants sont le manque de sommeil, l’absorption excessive d’alcool, un réveil provoqué, la photosensibilité. L’EEG intercritique peut montrer des pointes-ondes, ou des pointes généralisées. Elle est généralement bien contrôlée par une monothérapie.
+
+B. Exemples d’épilepsies partielles idiopathiques
+Une épilepsie partielle n’est pas forcément lésionnelle et peut avoir une origine génétique : elle est dite alors idiopathique. Les épilepsies idiopathiques surviennent exclusivement chez les enfants et adolescents et leur diagnostic électroclinique est aisé, de pronostic toujours favorable et un traitement médical n’est pas obligatoire.
+En pratique, l’épilepsie à paroxysmes rolandiques ou à pointes centrotemporales est la plus fréquente et la plus typique. Elle est deux fois plus fréquente que l’épilepsie-absences. Une crise épileptique morphéique chez un enfant sain est une l’épilepsie à paroxysmes rolandiques dans 50 % des cas ; âge de début entre 3 et 13 ans, légère prédominance masculine. De pronostic excellent, la guérison est de règle vers 16 ans. La rareté des crises, leur brièveté, la survenue nocturne permettent une abstention thérapeutique. Si un traitement est indiqué, il doit être conduit en monothérapie avec arrêt vers l’âge de 16 ans. Ses caractères sont les suivants :
+survenue chez des enfants indemnes de toutes lésions cérébrales anciennes ou évolutives ;
+crises partielles simples de la région buccofaciale : clonies d’une hémiface, paresthésies de la langue ou des gencives, hypersalivation, impossibilité de parler, l’enfant restant conscient pendant toute la crise ; elles peuvent s’étendre au membre supérieur ou se généraliser secondairement ;
+crises très liées au sommeil, attirant l’attention de l’entourage par des bruits de gorge ;
+EEG intercritique : pointes centrotemporales lentes biphasiques, rythme de fond normal (fig. 15.8).
+Fig. 15.8
+
+EEG intercritique d’une épilepsie à pointe rolandique (centrale) montrant des pointes centrales droites renforcées pendant le sommeil (flèches).
+
+C. Exemples d’épilepsies partielles symptomatiques structurelles
+Les aspects électrocliniques dépendent de la localisation du réseau épileptogène. Elles sont classées selon le lobe anatomique d’origine et l’étiologie (tumorales, vasculaires…).
+
+L’une d’entre elles se singularise par sa fréquence, son étiologie et surtout son traitement ; elle est aisément reconnaissable ; il s’agit de l’épilepsie de la face interne (ou mésiale ou médiale) du lobe temporal avec sclérose (ou atrophie hippocampique) : antécédents de convulsions fébriles compliquées dans l’enfance, début des crises temporales pendant l’adolescence ou chez l’adulte jeune, par des crises partielles simples et des crises partielles complexes à bien distinguer des absences ; généralisations secondaires rares en dehors de celles ayant conduit au diagnostic initial (les crises partielles pouvant être mal reconnues cliniquement).
+
+La crise la plus typique correspond à la séquence suivante : gêne épigastrique ascendante, sensation de déjà-vu voire état de rêve (hallucination visuelle complexe comportant souvent une scène précise pouvant correspondre à un souvenir du patient), arrêt psychomoteur avec fixité du regard, mâchonnement ample et lent (chewing-gum), activité gestuelle simple (émiettement, frottement) et attitude dystonique d’un membre controlatéral.
+
+L’évolution se fait par la répétition des crises, souvent groupées sur un ou plusieurs jours, entrecoupées d’intervalles libres de durée variable. Les corrélations cliniques et EEG (EEG-vidéo) permettent de les localiser ; l’IRM montre une atrophie ou une sclérose hippocampique (fig. 15.9). Le traitement chirurgical permet la guérison des 80 % des cas en cas de pharmaco-résistance.
+
+Fig. 15.9
+
+IRM cérébrale en séquence FLAIR, coupe coronale : sclérose hippocampique droite (hypersignal FLAIR).
+
+D. Exemples d’épilepsies généralisées symptomatiques
+1. Syndrome de West, ou maladie des spasmes en flexion
+Rare (3 pour 10 000 naissances), il apparaît entre le 4e et le 7e mois et se manifeste par une triade :
+des crises : spasmes infantiles, en salves, trois fois plus souvent en flexion qu’en extension ;
+une régression psychomotrice : enfant indifférent, ne sourit plus, n’apprend plus rien et perd même ensuite ses acquisitions antérieures ;
+un EEG pathognomonique : l’hypsarythmie (ondes très amples, très lentes, pointes sans régularité, diffuses, permanentes), interrompue lors des spasmes par un aplatissement transitoire (suppression burst).
+Le syndrome de West est idiopathique une fois sur trois : le pronostic n’est pas forcément péjoratif, si le traitement est entrepris tôt. Lorsqu’il est secondaire, le plus souvent à une encéphalopathie fixée, déjà responsable d’un retard psychomoteur, quelques fois une maladie métabolique ou une phacomatose (maladie de Bourneville), le pronostic est plus sévère.
+2. Syndrome de Lennox-Gastaut
+L’une des formes les plus sévères des épilepsies infantiles. Il est classé dans les épilepsies généralisées symptomatiques ou cryptogéniques ; âge de début avant 8 ans, pic de fréquence entre 3 et 5 ans. Il est caractérisé par une triade :
+
+des crises aussi évocatrices par leur type (crises toniques, crises atoniques, absences atypiques) que par leur survenue quotidienne et leur coexistence chez un même patient ;
+des troubles mentaux, retard intellectuel, troubles de la personnalité, troubles caractériels et parfois comportements autistiques ou prépsychotiques ;
+un EEG intercritique : pointes-ondes lentes (rythme de 1,5 à 2 par seconde) en bouffées bisynchrones plus ou moins symétriques, très nombreuses, sur un rythme de fond ralenti à l’état de veille. S’ajoutent pendant le sommeil des décharges de rythmes rapides recrutants correspondant à des crises toniques pathognomoniques au cours du sommeil.
+Le syndrome de Lennox-Gastaut est cryptogénique ou symptomatique d’une atteinte cérébrale congénitale ou acquise ; il peut faire suite à un syndrome de West. Le pronostic est sévère ; les différents traitements ne sont souvent que transitoirement efficaces. Seuls certains cas cryptogéniques traités précocement peuvent évoluer sans séquelle. Des périodes cycliques d’aggravation et de rémission sont fréquentes, indépendamment du traitement choisi.
+
+E. Exemples de syndromes spéciaux
+Le terme de convulsion sous-entend que, chez le jeune enfant, il est plus difficile de reconnaître les diverses catégories reconnues de crises épileptiques et que toute convulsion n’appartient pas forcément à l’épilepsie.
+
+1. Convulsions fébriles « simples »
+D’excellent pronostic, elles surviennent après un an ; elles résultent d’une susceptibilité génétique âge-dépendante à la fièvre :
+
+crises bilatérales, cloniques ou tonicocloniques durant moins de 15 minutes, ne se répétant pas au cours d’un même épisode fébrile, sans signe de localisation critique ou post-critique ;
+typiquement dans les 24 heures après l’installation de la fièvre, lors de l’acmé ou de la défervescence thermique ; fièvre virale dans 95 % des cas ;
+EEG sans intérêt dans cette situation.
+L’administration d’antipyrétiques en cas de fièvre supérieure ou égale à 38 °C est la mesure préventive essentielle. Un traitement antiépileptique n’est indiqué que dans de rares cas, au-delà de la troisième convulsion fébrile. Le risque d’épilepsie ne dépasserait pas 2,4 % des cas.
+
+2. Convulsions fébriles « compliquées »
+Leurs critères de gravité sont les suivants :
+
+avant l’âge de 1 an, chez des sujets présentant souvent des antécédents familiaux d’épilepsie ;
+convulsions asymétriques ou unilatérales, de durée supérieure à 15 minutes ;
+en salves au cours d’un même épisode ;
+avec déficit post-critique d’intensité variable.
+La présence d’un seul de ces critères de gravité impose un bilan neurologique (EEG, ponction lombaire et examen neuroradiologique), un traitement antiépileptique prophylactique, poursuivi 2 ans au moins après la dernière convulsion.
+
+Le risque d’épilepsie ultérieure est directement proportionnel au nombre des critères de gravité. Il est voisin de 50 % si trois au moins des critères précédents sont réunis. Le risque de développer ultérieurement une épilepsie de la face mésiale temporale serait directement corrélé à la durée de la convulsion fébrile.
+
+En cas de convulsion fébrile prolongée, le traitement d’attaque est le diazépam intrarectal à la posologie de 0,5 mg/kg. Depuis l’utilisation des benzodiazépines dans les convulsions compliquées, la fréquence de ce syndrome grave a beaucoup diminué.
+
+IV. Conduite à tenir en pratique
+A. En présence d’une crise généralisée tonicoclonique
+Les personnes épileptiques portent sur eux une carte sur laquelle sont précisés les conseils à suivre en cas de crise.
+
+Carte d’épileptique
+
+Conduite à tenir en cas de crises
+Dégagez l’espace autour de moi.
+Protégez ma tête (coussin ou vêtement replié sous la tête).
+Desserrez mes vêtements (col, ceinture).
+Éventuellement, enlevez mes lunettes.
+Dès que possible, m’allonger sur le côté.
+Attendre mon retour à la conscience.
+Avertir les secours (15 ou 18) si la crise se prolonge plus de 5 minutes.
+Ce qu’il ne faut pas faire
+Ne me déplacez pas pendant la crise si ce n’est pas indispensable.
+N’entravez pas mes mouvements.
+Ne mettez rien dans ma bouche.
+Ne me donnez rien à boire.
+L’administration d’un médicament antiépileptique en urgence n’est pas justifiée après une crise isolée. Si un deuxième épisode survient dans les minutes suivantes, en pratique lorsque les secours sont présents, l’administration d’un médicament antiépileptique est utile pour prévenir la récurrence des crises : l’administration de 10 mg de diazépam (Valium®) (intrarectale chez l’enfant, IM ou IV chez l’adulte – l’injection IV est d’efficacité plus rapide mais devra être réalisée lentement chez un adulte avec une fonction respiratoire normale).
+
+B. Crise épileptique survenant chez un épileptique connu
+Une hospitalisation n’est pas indispensable.
+Si la crise est identique à celle qui affecte habituellement le patient, il faut rechercher :
+un facteur favorisant (manque de sommeil, prise d’alcool ou de toxique, fièvre…) ;
+une mauvaise observance thérapeutique (contrôle du taux sanguin si suspicion de mauvaise observance non reconnue ou d’erreur de prise) ou d’interférence médicamenteuse ;
+une nouvelle crise peut être l’occasion d’un réajustement des doses ou d’un changement d’option thérapeutique.
+Si la crise est différente de celle que le patient présente habituellement :
+reconsidérer le diagnostic syndromique ;
+vérifier la recherche étiologique (scanner ou IRM si crise partielle), d’autant plus si l’examen neurologique révèle des signes de focalisation.
+C. Crise épileptique survenant dans un contexte d’agression cérébrale aiguë
+En cas de pathologies lésionnelles aiguës (traumatique, vasculaire, infectieuse, tumorale…), les crises sont partielles, partielles secondairement généralisées ou, plus souvent, d’apparence généralisée tonicoclonique. Le traitement de ces crises est étiologique. La prescription d’un médicament antiépileptique pendant la phase aiguë n’est pas systématique.
+En cas de pathologies non lésionnelles (toxique, métabolique…), les crises épileptiques sont généralisées tonicocloniques. Une crise partielle ou une crise partielle secondairement généralisée doivent faire rechercher une pathologie lésionnelle éventuellement associée (faire un scanner). Le traitement est exclusivement celui de la cause.
+D. Première crise d’apparence isolée ou dite crise spontanée
+L’interrogatoire du malade et des témoins recherche :
+
+d’autres types de crise ;
+des antécédents personnels et familiaux pouvant orienter vers un syndrome épileptique.
+L’examen clinique recherche :
+
+une focalisation neurologique ;
+un syndrome méningé ;
+une affection médicale non patente.
+Faire un bilan biologique si un trouble métabolique ou une origine toxique est suspecté(e) : glycémie, électrolytes, fonction rénale et hépatique, alcoolémie.
+Une imagerie cérébrale est indiquée devant toute crise épileptique inaugurale, isolée, ne s’intégrant pas d’emblée et de façon évidente dans un syndrome épileptique non lésionnel : en pratique, seules l’épilepsie-absences, l’épilepsie myoclonique juvénile bénigne, l’épilepsie à paroxysmes rolandiques ne le justifient pas. L’imagerie peut être pratiquée à distance de la crise si l’examen neurologique est normal. En pratique, la situation d’urgence de la survenue d’une première crise le fait réaliser rapidement.
+Une ponction lombaire est indiquée dans un contexte de céphalée aiguë avec scanner cérébral normal (épistaxis méningée) et dans un contexte fébrile (méningo-encéphalite).
+L’EEG a une rentabilité diagnostique supérieure s’il est réalisé en l’absence de médicament antiépileptique (notamment de benzodiazépine) et dans les 24 à 48 heures succédant l’épisode aigu.
+Dans certaines situations et selon l’accessibilité, l’IRM peut être réalisée en première intention. Si le scanner est réalisé en premier, une IRM sera effectuée à distance en complément du scanner surtout si celui-ci est normal et qu’une épilepsie lésionnelle est fortement suspectée.
+E. Après le bilan d’une première crise épileptique
+La décision d’instaurer un traitement antiépileptique se prend souvent après la survenue de deux crises épileptiques espacées d’au moins 24 heures. Toutefois, elle peut se discuter dès la première crise, lorsque le bilan étiologique fait apparaître des facteurs de risque élevés de récidives (ex. : lésion cérébrale épileptogène préexistante à une première crise focale, présence d’anomalies paroxystiques épileptiques généralisées sur l’EEG intercritique après une première crise généralisée tonicoclonique). Le traitement « d’épreuve » à visée diagnostique est totalement contre-indiqué.
+L’indication de traiter une première crise généralisée tonicoclonique spontanée peut être licite :
+en l’absence de facteur déclenchant ;
+en présence de paroxysmes EEG intercritiques ;
+selon le vécu de la première crise et de ses conséquences directes (chutes, blessures, traumatisme crânien, luxation d’épaule, tassement vertébral…) ;
+selon l’âge (risque de chute chez les personnes âgées), de la profession (à risques ou non) ;
+selon l’anxiété et la demande du malade.
+V. Principes du traitement
+A. Buts
+Supprimer les crises :
+
+traitement curatif (étiologique) ;
+traitement symptomatique :
+supprimer leur cause par ablation d’une lésion corticale (cavernome, malformation corticale par exemple) en cas d’épilepsie focale (partielle) pharmaco-résistante structurelle ;
+par éviction des facteurs favorisant des crises (facteur métabolique, photosensibilité, facteur toxique),
+prescription de médicaments antiépileptiques de fond efficaces dans 60 à 75 % des cas.
+Traiter un patient souffrant de crises épileptiques, c’est aussi :
+
+apporter une éducation thérapeutique, car le malade peut ne connaître les crises que par le regard des autres ou par les conséquences des crises dans un contexte dramatique ou spectaculaire ; pour expliquer la différence entre la crise (un symptôme) et l’épilepsie (une maladie) ; afin de détecter des facteurs favorisant ou déclenchant des crises ;
+une aide psychologique car, si la menace d’une crise est permanente, sa survenue est imprévisible ;
+un accompagnement social : essayer de prévenir les conséquences sur la scolarisation, l’emploi, la conduite d’un véhicule, les loisirs.
+B. Classement des médicaments antiépileptiques
+Mécanismes d’action supposés :
+renforcer l’inhibition synaptique (gabaergique) ;
+diminuer l’excitation synaptique (glutamatergique) ;
+stabiliser les membranes cellulaires (blocages des canaux à Na+ ou Ca2 + voltages-dépendants).
+Spectre d’efficacité selon le type de crise (Tableau 15.2).
+
+
+
+
+
+--------------> Tableau 15.2  Médicaments antiépileptiques (à titre d’information).
+
+
+
+
+
+CGTC : crise généralisée tonicoclonique ; CP : crise partielle.
+
+C. Traitement médicamenteux de fond
+1. Règles générales
+Si et, seulement si, la maladie épileptique est avérée (pas de traitement d’épreuve !).
+Orienté selon le type de crises, le diagnostic syndromique et étiologique :
+bien connaître les formes ne nécessitant pas de médicament (notamment l’épilepsie à paroxysmes rolandiques) ;
+risque d’aggravation paradoxale des absences et des myoclonies avec certains médicaments antiépileptiques (ex. : Tégrétol®, Lamictal®).
+Orienté également selon le contexte clinique (âge, sexe, comorbidités éventuelles).
+Toujours commencer par une monothérapie en première et en deuxième intention, puis si échec, bithérapie rationnelle.
+Dose minimale efficace, titration progressive.
+Privilégier une ou deux prises par jour (selon la molécule).
+Nécessité d’une très bonne observance (pilulier).
+Jamais d’arrêt brutal.
+Vérifier l’absence de contre-indications (hypersensibilité) et :
+valproate de sodium (Dépakine Chrono®) : hépatite active ou antécédents d’hépatite, troubles préexistants de la coagulation, grossesse (ASAT/ALAT, NFP, TQ).
+Informer des effets indésirables rares mais graves et des effets indésirables fréquents :
+lamictal : risque d’éruption cutanée au cours des premiers mois (10 % des cas) et de l’arrêt du traitement car risque de nécrolyse épidermique toxique (syndrome de Lyell, rare < 1/1 000 mais grave) ;
+valproate de sodium : hépatite, thrombopénie, tératogénicité, prise de poids.
+Expliquer la maladie, l’évolution, le traitement, les possibilités ultérieures d’arrêt après un temps suffisant sans crise de plusieurs années, au minimum 2 ou 3 ans.
+2. Exemples d’indications
+En cas d’épilepsie généralisée idiopathique : médicaments à large spectre, lamotrigine, Lamictal® (meilleur profil efficacité/tolérance) ou lévétiracétam (Keppra®), ou valpropate de sodium (Dépakine®) (à éviter chez la femme en âge de procréer et avec désir de grossesse car le plus tératogène).
+En cas d’épilepsie partielle symptomatique : Keppra® ou Lamictal® ou Trileptal®.
+3. Suivi du traitement
+Vérifier l’efficacité et la tolérance au premier mois, troisième mois puis tous les 6 mois (avec contrôle biologique de la tolérance selon le traitement : systématique pour Dépakine®, Trileptal®, Lamictal® par exemple, pas systématique pour Keppra®).
+
+Les crises disparaissent et le traitement est bien supporté :
+contrôle régulier de l’EEG (pas plus d’une fois par an si épilepsie bien contrôlée) ;
+l’arrêt du traitement pourra être proposé, de manière très progressive (sauf cas particulier des syndromes épileptiques pharmacodépendants comme l’épilepsie myoclonique juvénile bénigne), après une période de 2 à 3 ans sans crise avec l’assentiment du patient si :
+lorsqu’il est décidé, l’arrêt sera toujours très progressif.
+l’EEG répété est normal ;
+en l’absence de lésion cérébrale potentiellement épileptogène ;
+Le traitement est mal toléré :
+arrêt rapide en cas d’effet indésirable grave (notamment en cas d’éruption cutanée) : choisir un autre antiépileptique avec prescription temporaire d’une benzodiazépine en attendant des taux sanguins actifs ;
+substitution progressive avec un autre antiépileptique en cas d’effets indésirables mineurs.
+Le traitement est bien supporté mais les crises persistent :
+vérifier l’observance et l’hygiène de vie, (utilité des dosages sanguins des antiépileptiques) ;
+augmentation progressive de la posologie en fonction de la tolérance, puis essai d’un autre antiépileptique en mono- ou bithérapie ;
+la résistance à un traitement médical bien conduit (deux lignes de traitement à posologie efficace) définit dans les deux premières années une épilepsie pharmaco-résistante : en cas d’épilepsie partielle non idiopathique, une pharmaco-résistance doit conduire à une évaluation chirurgicale (EEG-vidéo, examen neuropsychologique, imagerie isotopique et fonctionnelle et, parfois, implantation intracorticale d’électrodes EEG ou stéréo-EEG).
+D. Moyens thérapeutiques non médicamenteux
+Chirurgie : lésionectomie ou cortectomie, indiquée en cas d’épilepsie partielle pharmaco-résistante, unifocale, correspondant à une aire corticale non fonctionnelle (ou dont l’ablation n’aura pas de conséquence fonctionnelle grave) et accessible chirurgicalement.
+Stimulation chronique du nerf vague : de mécanisme d’action imparfaitement connu, ses indications sont les épilepsies focales pharmaco-résistantes, contre-indiquées pour la cortectomie.
+Régime cétogène : en cas de pharmaco-résistance, efficace uniquement chez l’enfant.
+E. Vie quotidienne, professionnelle, sociale et épilepsie
+Très tôt, il est nécessaire d’aborder les questions concernant la vie quotidienne, l’avenir scolaire, l’avenir professionnel, la conduite automobile, la contraception, la grossesse.
+
+1. Vie quotidienne
+Aucun régime alimentaire (alcool avec modération).
+Limiter les facteurs favorisants (éviter les dettes de sommeil).
+Prévenir les risques domestiques par des moyens simples : mobilier sans arêtes, literie basse, système de sécurité pour l’arrivée d’eau chaude, protection des plaques de cuisson, les douches sont préférées aux bains.
+Seuls les sports ou une crise mettrait en jeu le pronostic vital sont interdits : alpinisme, plongée sous-marine, deltaplane, planche à voile, sports mécaniques, etc. Les baignades en piscine sont autorisées si le patient est accompagné et sous couvert d’une surveillance, lorsque les crises sont maîtrisées.
+2. Avenir scolaire, professionnel
+Analyse selon le syndrome épileptique, l’évolution sous traitement, les choix et possibilités personnels, en sachant que certaines professions sont interdites, notamment les chauffeurs de poids lourds, chauffeurs de transport en commun, le travail en hauteur, les carrières militaires et beaucoup d’emplois dans la fonction publique.
+L’aide du médecin du travail et une parfaite collaboration des différents intervenants sont très utiles.
+3. Conduite automobile
+Elle est réglée par la loi et les articles du code la route.
+La conduite des poids lourds et des véhicules de transport en commun n’est possible qu’après une guérison de l’épilepsie et un recul sans crise de 10 ans sans traitement.
+Elle est possible pour les autres véhicules après avis du médecin agréé pour le permis de conduire auprès de la préfecture si l’épilepsie est stabilisée depuis12 mois, selon le syndrome.
+C’est au malade de faire les démarches et non au médecin ; c’est au médecin d’informer le malade (et seulement lui).
+4. Contraception
+Elle doit tenir compte des antiépileptiques inducteurs enzymatiques.
+La pilule est contre-indiquée en association avec les antiépileptiques inducteurs enzimatiques (carbamazépine, oxcarbazépine, eslicarbazépine, phénytoïne, phénobarbital) et il faut alors lui préférer le dispositif intra-utérin.
+5. Grossesse
+Elle nécessite une information quant aux risques sur :
+l’épilepsie (faibles, variables et discutables en l’absence d’adaptation des posologies) ;
+la grossesse (à ne pas négliger, notamment en cas de crise généralisée tonicoclonique ou de crises en rapport avec un arrêt brutal du traitement).
+Un conseil génétique est rarement nécessaire et uniquement dans les formes avec une hérédité bien définie.
+En fait, la question est surtout relative aux risques tératogènes des médicaments antiépileptiques :
+les antiépileptiques classiques sont responsables d’un risque de malformation 4 à 6 fois supérieur à celui de la population normale (2 %) ;
+le risque est d’autant plus élevé en cas d’association de plusieurs antiépileptiques, de posologies élevées et d’antécédents familiaux de malformations ;
+il est particulièrement élevé avec la Dépakine®, le Tégrétol®, le Gardénal®, le Di-Hydan® qu’il faut donc éviter ;
+Compte tenu de données nouvelles établissant, en plus du risque tératogène, un risque accru de troubles neuro-développementaux chez les enfants exposés in utero au valproate de sodium, celui-ci est désormais soumis à des règles spécifiques de prescription chez la femme en âge de procréer (prescription initiale par un neurologue, brochure d’information pour la patiente, accord de soins signé).
+En cas de désir de grossesse, c’est souvent le moment de réévaluer la nécessité d’un traitement antiépileptique, de le simplifier, voire de l’arrêter. Une supplémentation en acide folique (vitamine B9) est conseillée (10 mg par jour) avant la conception et pendant la grossesse en cas de traitement par Dépakine®, Tégrétol®, Lamictal®, et par la vitamine K pendant le dernier trimestre et la période néonatale en cas de traitement barbiturique. Une surveillance obstétricale et échographique est plus rapprochée pendant les premier et deuxième trimestres afin de détecter une éventuelle malformation (notamment de la crête neurale et cardiaque).
+Il est clair que le fait d’être épileptique et de prendre un traitement antiépileptique ne doit pas constituer la seule et unique raison d’une interruption de grossesse.
+VI. États de mal épileptiques
+A. Définition
+Les états de mal épileptiques sont définis comme des états épileptiques fixes et durables et caractérisés par la répétition rapprochée de crises récurrentes, avec persistance pendant la phase intercritique d’une altération de la conscience et/ou de signes neurologiques traduisant un épuisement neuronal des aires corticales impliquées dans les décharges électriques. En pratique, deux crises en 30 minutes ou une crise prolongée (30 minutes) pour les états de mal non convulsifs et deux crises généralisées tonicocloniques successives sans retour à la conscience entre les deux ou une crise tonicoclonique de durée supérieure à 5 minutes pour les états de mal généralisés tonicocloniques (urgence vitale)
+
+Deux situations cliniques très différentes peuvent être considérées : l’état de mal épileptique convulsif et l’état de mal épileptique non convulsif (le terme « convulsivant » est parfois utilisé aussi).
+
+1. État de mal épileptique convulsif
+La répétition subintrante de crises convulsives induit :
+dans la demi-heure, des troubles neurovégétatifs, une acidose, un œdème cérébral qui auto-entretiennent et aggravent la situation clinique ;
+dans l’heure, des lésions neuronales anoxo-ischémiques rapidement irréversibles, à l’origine de séquelles neurologiques.
+L’évolution spontanée est le décès par collapsus cardiorespiratoire dans un contexte de défaillance multiviscérale.
+La mortalité de l’état de mal épileptique convulsif traité est de 10 à 20 % des cas.
+2. État de mal épileptique non convulsif
+Le symptôme principal est une confusion mentale d’intensité variable (du simple ralentissement idéomoteur à la stupeur) pouvant persister des heures et des jours :
+état de mal épileptique-absences : association à des myoclonies périoculaires ou buccales (50 % des cas) ; il survient à tout âge, plus souvent chez les sujets âgés ;
+états de mal épileptiques partiels complexes : la confusion mentale est le symptôme isolé, rarement associé à des mâchonnements, des automatismes ;
+EEG : activité paroxystique continue d’apparence généralisée ou focale.
+L’injection IV d’une benzodiazépine normalise l’EEG et fait disparaître dans les secondes qui suivent la confusion.
+B. Facteurs favorisants
+Chez un patient épileptique : non-observance thérapeutique (intérêt des dosages sanguins des antiépileptiques en urgence).
+Quel que soit le patient :
+toute agression cérébrale aiguë directe : vasculaire, tumorale, infectieuse, traumatique ;
+agression cérébrale indirecte : désordres hydroélectrolytiques et causes toxiques essentiellement (alcool, antidépresseurs tricycliques…).
+Dans 20 % des cas, aucune cause n’est retrouvée.
+C. Traitement
+Les états de mal épileptiques sont des urgences médicales.
+Traitement de l’état de mal convulsif
+
+Mesures générales
+Assurer la perméabilité des voies aériennes (canule de Mayo) et l’oxygénation (10 L/min).
+Juger en urgence de l’opportunité d’une assistance respiratoire.
+Rechercher et traiter une hypoglycémie.
+Mettre en place deux abords veineux, l’un étant réservé à l’administration des médicaments antiépileptiques (sérum salé isotonique + 50 cm3 de sérum glucosé 30 %).
+Mettre en place une surveillance hémodynamique continue.
+Interrompre l’activité épileptique
+Injecter immédiatement (t0) :
+
+1 ampoule à 10 mg de diazépam en 3 minutes ;
+: 1 ampoule à 1 mg de clonazépam en 3 minutes ;
+si échec : répéter immédiatement une seule fois.
+Mettre en place immédiatement après :
+
+fosphénytoïne ou phénytoïne ;
+20 mg/kg d’équivalent-phénytoïne (E-PHT) ;
+sans dépasser 150 mg par minute pour la fosphénytoïne ;
+sans dépasser 50 mg par minute pour la phénytoïne.
+Si les crises persistent après 20 minutes :
+
+phénobarbital 20 mg/kg ;
+sans dépasser 100 mg par minute.
+Si les crises persistent après 40 minutes :
+
+thiopental (Nesdonal®), 5 mg/kg en bolus puis 5 mg/kg par heure.
+ 
+
+POINTS CLÉS :
+
+Les épilepsies sont des affections cérébrales chroniques très fréquentes (prévalence : 1 %)
+Il n’y a pas une, mais des épilepsies qui sont des syndromes électrocliniques de pronostic et de traitement différents. Une épilepsie peut être aggravée par un antiépileptique non adapté.
+L’identification du type clinique de crise épileptique est l’étape initiale du diagnostic positif.
+Les crises épileptiques diffèrent selon leur origine topographique sur le cortex cérébral.
+L’EEG est le seul examen complémentaire contribuant au diagnostic positif de crise épileptique.
+L’enquête étiologique dépend de l’orientation syndromique et des explorations neuroradiologiques, principalement l’IRM encéphalique.
+Le traitement ne se résume pas à supprimer les crises. Il repose sur une information adaptée et sur des médicaments antiépileptiques prescrits selon des règles précises. Le traitement médical contrôle environ 70 % des épilepsies. Les formes pharmaco-résistantes peuvent répondre à un traitement chirurgical.
+Les états de mal épileptiques sont des urgences médicales.

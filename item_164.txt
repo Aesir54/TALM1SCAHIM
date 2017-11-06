@@ -1,0 +1,302 @@
+Infections à herpès virus du sujet immunocompétent – Infections par le VIH
+
+Objectifs pédagogiques
+Item 164
+
+Diagnostiquer un herpès cutané et muqueux, une varicelle, un zona chez le sujet immunocompétent.
+Connaître la conduite à tenir devant un herpès cutané et muqueux, une varicelle, un zona et leurs complications les plus fréquentes.
+Connaître les risques en cas d’infection chez la femme enceinte, le nouveau-né, le sujet atopique.
+Item 165
+
+Informer et conseiller en matière de prévention de la transmission du VIH.
+Connaître les situations justifiant la prescription d’une sérologie VIH.
+Interpréter les résultats d’une sérologie VIH et en annoncer le résultat.
+Reconnaître une primo-infection par le VIH.
+Prévenir et reconnaître les principales complications infectieuses associées au VIH.
+Connaître et savoir dépister les principales complications non infectieuses associées au VIH.
+Connaître les grands principes du traitement antirétroviral, de son suivi et de son observance.
+Dépister une infection à VIH au cours de la grossesse et en organiser la prise en charge.
+Item 164 – Infections par l’herpès virus du sujet immunocompétent
+I. Pour comprendre
+La méningo-encéphalite herpétique est une urgence thérapeutique.
+
+La méningo-encéphalite herpétique doit être évoquée de façon systématique devant des tableaux polymorphes car les thérapeutiques antivirales doivent être prescrites sans retard en attendant la confirmation biologique.
+Elle est due à un virus à ADN, l’herpes simplex virus (HSV), de type 1 (95 %) ou 2 (5 %) et, plus récemment découvert, de type 6 chez l’enfant, et liée à la réplication du virus quiescent dans les ganglions nerveux céphaliques après une primo-infection oropharyngée ou sexuelle.
+Il s’agit d’une polioencéphalite aiguë nécrosante et hémorragique affectant de manière bilatérale et asymétrique les lobes temporaux et, parfois, l’insula et les régions frontobasales.
+C’est une infection endémique dont l’incidence chez l’adulte est de 1 pour 100 000 à 1 pour 500 000 par an.
+L’âge moyen de survenue est 40 ans. La méningo-encéphalite à HSV-2 survient en général chez le nouveau-né ou le nourrisson (pic de fréquence dans la période néonatale, puis entre 6 mois et 2 ans). La contamination du nouveau-né se fait au moment de l’accouchement au passage de la filière génitale.
+II. Manifestations cliniques
+Après un début rapide associant un syndrome grippal, une asthénie, parfois une altération de l’état général, des troubles du comportement et de la personnalité, la symptomatologie est caractérisée par les éléments suivants.
+
+A. Syndrome infectieux
+La fièvre est presque constante (93 %), parfois chiffrée à 40 °C (> 40 °C dans 15 % des cas) ; elle est variable d’un patient à l’autre.
+
+B. Syndrome méningé, inconstant
+Présent dans moins de 50 % des cas, il est rarement franc, se limitant à des céphalées fébriles. La méningite constitue rarement la manifestation clinique initiale.
+
+C. Syndrome encéphalitique
+1. Troubles de la vigilance ou de la conscience
+Quasi constants, ils sont fluctuants chez un même patient. Ils sont en rapport avec une souffrance cérébrale diffuse ou en lien avec des manifestations épileptiques. Ils sont souvent associés à des troubles neurovégétatifs.
+Un coma est possible dans les formes graves.
+2. Manifestations épileptiques (92 % des cas)
+Elles sont, avec les troubles de vigilance, l’un des motifs les plus fréquents d’admission aux urgences ; plus souvent partielles que généralisées. L’association de crises de sémiologie variable est évocatrice.
+Elles traduisent une atteinte du lobe temporal : manifestations à type d’illusions, d’hallucinations, notamment olfactives, gustatives ou auditives. Parfois, un état de mal partiel ou généralisé inaugure le tableau.
+3. Syndrome confusionnel – Troubles du comportement
+a. Troubles mnésiques
+Ils touchent les mécanismes de fixation avec oubli à mesure.
+
+b. Autres symptômes
+Les troubles du langage (manque du mot ou aphasie amnésique) présents à la phase aiguë régressent en général totalement si le traitement est instauré précocement.
+Les formes très évolutives avec lésions nécrotiques œdémateuses de la substance blanche peuvent donner une hémiparésie.
+III. Formes cliniques
+Différentes modalités évolutives sont décrites : formes méningées pures bénignes ; formes graves conduisant au décès ; formes récurrentes dans 5 % des cas.
+Chez le nouveau-né, il s’agit de tableaux de sepsis néonatal grave avec atteinte multiviscérale. Les manifestations encéphalitiques peuvent ne pas être au premier plan d’où l’intérêt de la PCR herpès dans tous les cas de crises convulsives fébriles inexpliquées. Les séquelles neurologiques sont en général sévères.
+IV. Diagnostic différentiel
+L’HSV est le premier agent infectieux responsable d’encéphalite en France.
+D’autres encéphalites virales ou bactériennes (varicelle, mononucléose, fièvre Q, légionellose) peuvent donner une encéphalite avec atteinte temporale non nécrosante.
+A. Encéphalites auto-immunes
+Il importe de penser au diagnostic sans retard en l’absence de cause infectieuse.
+
+1. Présentation clinique
+Le plus souvent aiguë ou subaiguë. Caractérisée par l’association de troubles amnésiques (le plus souvent hippocampiques), de crises d’épilepsie partielles complexes temporales et de troubles psychiatriques et cognitifs.
+
+2. Imagerie cérébrale
+Elle peut être normale ou montrer un œdème, des hypersignaux puis une atrophie des hippocampes. Une prise de contraste leptoméningée est possible.
+
+3. Liquide cérébrospinal
+On peut retrouver une méningite lymphocytaire, une hyperprotéinorachie avec synthèse intrathécale d’anticorps.
+
+Les autoanticorps peuvent être détectés dans le liquide cérébrospinal : il s’agit principalement des anticorps anti-récepteurs du N-méthyl-D-aspartate (NMDA) et des anticorps anti-canaux potassiques voltage-dépendant (VGKC).
+
+4. Autres explorations
+Électro-encéphalogramme : il peut montrer des ondes lentes, des pointes, des crises.
+Réaliser un bilan d’imagerie à la recherche d’une cause paranéoplasique : scanner thoraco-abdomino-pelvien, TEP-TDM.
+5. Particularités selon le type d’encéphalite
+L’encéphalite à anticorps anti NMDA :
+touche plus souvent la femme aux alentours de 30 ans. ;
+se manifeste par l’association aux manifestations habituelles de dyskinésie bucco-linguo-faciales, de mouvements dystoniques, d’une dysautonomie ;
+est d’origine paranéoplasique dans plus de la moitié des cas : tératome de l’ovaire (testiculaire chez l’homme).
+L’encéphalites à anticorps anti-VGKC :
+touche plus souvent l’homme aux alentours de 60 ans ;
+se manifeste par l’association aux manifestations habituelles de crises toniques, de myoclonies, souvent d’une hyponatrémie ;
+est moins souvent paranéoplasique.
+B. Traitement
+Le délai le doit être le plus court possible entre le diagnostic et le traitement. Le traitement comprend : le traitement symptomatique, le traitement immunologique par immunoglobulines intraveineuses, échanges plasmatiques ou corticoïdes et le traitement étiologique de la tumeur.
+
+V. Examens complémentaires
+A. Liquide cérébrospinal (LCS)
+La ponction lombaire doit être réalisée en urgence devant tout tableau évocateur de méningo-encéphalite. Elle sera précédée d’une imagerie cérébrale en cas de signes de focalisation.
+
+Sa composition cytochimique est presque constamment anormale : hyperprotéinorachie modérée (< 1 g/L), hypercytose à prédominance lymphocytaire (< 500 éléments/mm3), souvent faiblement hémorragique (10 à 1 000 hématies) du fait de la nécrose, glycorachie normale.
+
+B. Techniques virologiques
+La mise en évidence dans le LCS d’une réplication virale par amplification génique ou PCR peut être obtenue dans les 24–72 premières heures (examen de première intention).
+Si cette PCR est négative, pour infirmer la suspicion de méningo-encéphalite herpétique, il faudra réaliser une deuxième PCR (la positivité dans le LCS est parfois retardée jusqu’à 4 jours après le début des signes). Si cette deuxième PCR est négative, l’hypothèse diagnostique est éliminée et le traitement par aciclovir peut être interrompu (une PCR négative entre J4 et J10 est fiable).
+La recherche d’antigènes herpétiques dans le sang peut être positive précocement, mais la technique est peu sensible.
+La recherche d’anticorps dans le sang et le LCS (IgM) est très spécifique, mais la positivité est tardive. La séroconversion survient environ 8 jours après l’apparition des signes cliniques, donc trop tard pour le traitement.
+L’augmentation de l’interféron est précoce mais non spécifique (présente dans d’autres affections virales).
+C. Diagnostic radiologique
+1. Scanner cérébral
+Le scanner est peu sensible du fait de sa faible résolution dans les régions temporales, (fréquents artefacts occasionnés par les structures osseuses ou dentaires). C’est un examen d’orientation dans l’urgence.
+À un stade avancé de la maladie, il peut révéler une hypodensité des lobes temporaux, un œdème et, parfois, une prise de contraste.
+La normalité au scanner n’élimine pas le diagnostic et ne doit surtout pas faire différer le traitement.
+
+2. IRM cérébrale
+L’IRM a une bonne sensibilité (90–100 % d’IRM pathologiques dans les 7 premiers jours), même dans les premières 24–48 heures (surtout en coupes coronales T1 avec injection de gadolinium et T2) (fig. 25.1A et B). La limite vient de l’agitation du patient qu’il faut parfois sédater. Dans les formes méningées pures, elle peut être normale. Des hypersignaux T2 apparaissent d’abord dans le pôle temporal antérieur et progressent vers le lobe temporal moyen et interne ; ils sont de topographie bilatérale et asymétrique. La prise de contraste après injection de gadolinium (T1) témoigne de l’affinité de l’HSV pour le cortex hippocampique, parahippocampique et insulaire.
+
+Trois mois à un an après l’épisode initial, l’IRM montre souvent une atrophie d’un ou des deux noyaux amygdaliens, isolée ou associée à une atrophie hippocampique (fig. 25.1C et D).
+
+La présence d’hypersignaux T2 étendus dans les lobes temporaux en IRM persistant 1 à 2 mois après la phase aiguë est de mauvais pronostic.
+
+Fig. 25.1
+
+Encéphalite herpétique (IRM).
+
+En phase aiguë, hypersignal temporal bilatéral (A), temporal gauche, insulaire bilatéral et du gyrus cingulaire (B) sur les séquences T2/FLAIR. Aspect séquellaire de cavité porencéphalique temporale gauche en hyposignal sur les séquences axiales T2/FLAIR (C) et hypersignal sur les séquences coronales T2 (D).
+
+D. Autres examens complémentaires
+L’EEG est tout à fait justifié en cas de doute diagnostique ou en cas de contre-indication de l’IRM. Il montre des activités lentes focalisées ou diffuses.
+Ces anomalies, bien que non spécifiques, sont évocatrices du diagnostic lorsqu’elles ont un caractère périodique (ondes lentes stéréotypées séparées d’intervalles réguliers).
+Il faut souligner cependant leur précocité qui apporte un atout diagnostique supplémentaire, notamment chez l’enfant.
+VI. Traitement
+La précocité du traitement est un facteur de bon pronostic. Il repose sur la prescription systématique de l’aciclovir devant toute suspicion de méningo-encéphalite herpétique, sans attendre les résultats de la PCR (cf. encadré ci-après).
+
+Conduite à tenir devant une suspicion de méningo-encéphalite herpétique
+
+Aciclovir (Zovirax®) voie IV : 10 à 15 mg/kg toutes les 8 heures (500 mg/m2, soit environ 20 mg/kg chez l’enfant).
+Dilué dans une perfusette de 250 mL administrée sur 90 minutes.
+Durée : 21 jours.
+Risque d’insuffisance rénale dose-dépendant, le plus souvent régressive. On peut souvent poursuivre le traitement en réduisant les doses de moitié et en hydratant d’avantage (dilution dans 500 mL).
+En cas de résistance, rare : relais par ganciclovir (Cymévan®).
+VII. Séquelles
+L’instauration des antiviraux n’a pas supprimé les séquelles (6 % de décès, 7 % de séquelles neurologiques en France [étude nationale prospective réalisée en 2007]).
+Il s’agit principalement de séquelles mnésiques chez l’adulte, souvent isolées : syndrome amnésique pur de type Korsakoff, trouble de l’apprentissage épisodique, préservation de la mémoire à court terme et rétrograde. En général, les troubles mnésiques sont fixés.
+Épilepsie séquellaire.
+Séquelles comportementales : syndrome de Kluver et Bucy caractérisé par des troubles du comportement alimentaire (boulimie, parfois anorexie), une hyperoralité, une hyperactivité motrice, une apathie avec diminution des réactions émotionnelles, désinhibition sexuelle et troubles attentionnels ; des troubles anxiodépressifs, une hyperémotivité et une irritabilité sont aussi rapportés.
+POINTS CLÉS
+
+La méningo-encéphalite herpétique (polioencéphalite nécrotique et hémorragique) est une urgence thérapeutique affectant les lobes temporaux.
+Elle associe un syndrome infectieux, un syndrome méningé inconstant, un syndrome encéphalitique : troubles de vigilance, crises convulsives, hallucinations, troubles mnésiques.
+Le résultat de la recherche dans le LCS d’une réplication virale par PCR peut être obtenu dans les premières 24–72 heures.
+L’IRM met en évidence des hypersignaux des pôles temporaux.
+Le traitement repose sur la prescription systématique en urgence de l’aciclovir (Zovirax®) devant toute suspicion de méningo-encéphalite herpétique sans attendre les résultats de la PCR ou de l’IRM.
+Lorsque le tableau clinique est évocateur, il faut deux PCR HSV négatives dans le LCS avant d’infirmer le diagnostic de méningo-encéphalite herpétique.
+ 
+Item 165 – Infections par le VIH
+I. Pour comprendre
+Les complications neurologiques liées à l’infection par le virus de l’immunodéficience humaine sont fréquentes, touchant le système nerveux central, périphérique et le muscle.
+Ces complications peuvent se rencontrer à tous les stades de la maladie, de la séroconversion au stade du syndrome d’immunodéficience acquise (sida).
+Les troubles neurologiques peuvent être liés directement au VIH, à des infections opportunistes, à un lymphome ou être secondaires à une toxicité médicamenteuse. Les infections opportunistes, en particulier la toxoplasmose et la tuberculose, devront être systématiquement suspectées en cas d’atteinte du système nerveux central.
+A. Primo-infection
+Les symptômes de la primo-infection (syndrome rétroviral aigu) surviennent dans un délai de 1 à 3 semaines après le contact contaminant.
+La séroconversion s’accompagne dans 50 % des cas d’un syndrome infectieux non spécifique assez proche de la mononucléose infectieuse : fièvre dans 90 % des cas, adénopathies, pharyngite (60 %), rash cutané maculopapuleux (50 %), arthralgies et diarrhée.
+Biologiquement, cette primo-infection s’accompagne de thrombopénie (75 %), voire de leucopénie (50 %) avec neutropénie. On observe habituellement une lymphopénie initiale suivie d’un syndrome mononucléosique (hyperlymphocytose avec grands lymphocytes hyperbasophiles et inversion de la formule leucocytaire). L’élévation des transaminases est présente dans la moitié des cas.
+Le diagnostic repose précocement sur la mise en évidence d’ARN VIH plasmatique (dès 10 jours après la contamination) ou d’antigène p24 (à partir de 15 jours après la contamination, persistant 1 à 2 semaines), puis sur l’apparition progressive d’anticorps spécifiques (20 jours après le contage).
+Les manifestations neurologiques qui peuvent s’observer à cette phase (10 %) sont variées : méningo-encéphalite, méningite lymphocytaire isolée, polyradiculonévrite de type Guillain-Barré ou mononévrite – la paralysie faciale périphérique étant la plus fréquente – neuropathie périphérique, myélopathie.
+Ces manifestations disparaissent spontanément en quelques semaines.
+La primo-infection symptomatique, notamment avec atteinte neurologique, est une indication à un traitement antirétroviral.
+B. Phase de sida
+Il s’agit de la forme évoluée de l’infection au VIH définie par la survenue de manifestations infectieuses opportunistes ou tumorales liées à la dépression de l’immunité cellulaire.
+
+L’ensemble du système nerveux peut être touché à tout moment de l’évolution, précocement ou tardivement, conséquence directe de l’infection ou le plus souvent conséquence du déficit immunitaire, de lésions dégénératives ou toxiques.
+
+II. Différents tableaux neurologiques liés à l’infection par le VIH
+A. Neuropathies périphériques
+Des anomalies histologiques d’atteinte du système nerveux périphérique sont presque constantes au stade de sida (95 %). Ces anomalies entraînent des manifestations cliniques significatives dans 15 % des cas avec des signes cliniques variés.
+
+1. Polyradiculoneuropathies aiguës
+Les polyradiculoneuropathies aiguës peuvent se voir à des stades très variables, mais surtout au stade précoce. L’atteinte motrice bilatérale et symétrique est au premier plan, accompagnée d’une aréflexie. Le tableau clinique est comparable à un syndrome de Guillain-Barré à forme motrice prédominante ; il existe cependant une réaction inflammatoire dans le LCS (hypercytose s’accompagnant d’une hyperprotéinorachie). La corticothérapie est le traitement de référence.
+
+2. Polyneuropathies axonales distales
+Les polyneuropathies axonales, distales le plus souvent, surtout sensitives, surviennent à un stade avancé du déficit immunitaire. Les antirétroviraux pourraient être une option thérapeutique. Néanmoins, une origine toxique médicamenteuse doit toujours être recherchée (antirétroviraux), surtout si le taux de CD4 + est élevé.
+
+3. Mononeuropathies
+Les mononeuropathies et mononeuropathies multiples, qui s’observent plus souvent à un stade précoce avec une évolution favorable, touchent les nerfs périphériques (nerf ulnaire, nerf fibulaire commun, nerf tibial) et les nerfs crâniens (nerf facial) ; elles ont en revanche à un stade tardif une évolution souvent rapide et progressive.
+
+4. Polyradiculoneuropathies et myéloradiculopathies
+Les polyradiculoneuropathies (en particulier une atteinte de la queue de cheval) et les myéloradiculopathies, responsables d’une paraplégie hyporéflexique associée à des troubles sensitifs et sphinctériens, parfois liées au CMV, justifient un traitement en urgence antiviral, en raison des risques de nécrose des racines et de la moelle (on recherchera systématiquement une atteinte rétinienne à CMV associée).
+
+B. Myopathies
+Une atteinte musculaire peut être observée à n’importe quel stade de l’infection par le VIH.
+Elle se traduit dans un contexte d’amaigrissement par une polymyosite proximale associant faiblesse musculaire et douleurs, plus rarement par d’importantes difficultés à la marche occasionnant des chutes.
+Le diagnostic est affirmé devant une augmentation des enzymes musculaires et par l’électromyogramme (syndrome myogène) et la biopsie musculaire.
+Ces tableaux de myopathie peuvent être liés au VIH, à l’administration d’AZT (Zidovudine®), à des infections opportunistes, à des infiltrations tumorales des muscles squelettiques, à un phénomène de vascularite ou s’intégrer dans le cadre d’une cachexie du sida.
+Des syndromes myasthéniques et des tableaux de rhabdomyolyse sont parfois décrits.
+C. Atteintes du système nerveux central
+Elles surviennent le plus souvent dans un contexte de déficit immunitaire avancé (nombre de lymphocytes CD4 entre 249 et 200) ou sévère (nombre de CD4 < 200).
+Six circonstances diagnostiques feront suspecter ces complications neurologiques du système nerveux central : un tableau de céphalée (isolée ou intégrée à un des trois tableaux ci-après), un syndrome méningé, un syndrome neurologique focal, un tableau d’encéphalite, des troubles de la marche, des troubles cognitifs.
+Une céphalée inhabituelle chez un patient VIH doit faire suspecter une complication neurologique centrale et faire pratiquer une imagerie cérébrale et une analyse du LCS.
+1. Complications liées au VIH lui-même
+a. Méningite aseptique
+Elle se révèle par des céphalées, une fièvre et un syndrome méningé habituellement modéré ; parfois une atteinte des nerfs crâniens principalement le V, le VI et le VII, peut y être associée. L’analyse du LCS met en évidence une réaction lymphocytaire (20 à 800 éléments) et une discrète hyperalbuminorrachie (0,5 à 1 g/L). L’évolution est spontanée en quelques jours mais la récidive est possible. Sa survenue témoigne d’un déclin des lymphocytes CD4 +. Elle doit être distinguée de la méningite à cryptocoques et de la méningite tuberculeuse qui relèvent d’un traitement spécifique.
+
+b. Encéphalopathie
+Elle peut survenir lors de la primo-infection (encéphalite aiguë) mais plus souvent, en l’absence de traitement antirétroviral, chez des patients immunodéprimés (CD4 < 200). Environ 7–9 % des patients atteints du sida développent une démence. La fréquence de cette complication a diminué depuis l’introduction des trithérapies antirétrovirales.
+
+Les mécanismes physiopathologiques de cette atteinte cognitive reposent essentiellement sur l’invasion du parenchyme cérébral par des cellules mononucléées infectées en provenance du sang périphérique. Le VIH relâché va infecter les cellules microgliales (macrophages du cerveau) ainsi que les astrocytes. Une réaction inflammatoire et des mécanismes excitotoxiques (toxicité de certaines protéines d’enveloppe du VIH) sont à l’origine de la perte neuronale. Ni les neurones ni les oligodendrocytes ne sont directement infectés par le VIH.
+
+L’encéphalopathie due au VIH débute de manière insidieuse par un syndrome dépressif, des troubles de mémoire, un ralentissement idéomoteur, des troubles de la concentration et de l’attention. À un stade plus avancé, elle évolue vers un syndrome démentiel de type sous-cortical, les troubles cognitifs s’associant à des troubles du comportement (apathie, indifférence, isolement). L’IRM révèle une atrophie cérébrale et des signes de démyélinisation avec atteinte sous-corticale de la substance blanche (hypersignaux en T2 bilatéraux et symétriques, périventriculaires, prédominant dans les lobes frontaux et pariétaux). Le LCS est habituellement normal bien que dans 20 % des cas, on y note une légère pléiocytose mononucléaire (< 50 globules blancs/mm3) avec une légère augmentation des protéines (< 200 mg/dL).
+
+Le traitement repose sur des antirétroviraux qui diffusent au travers de la barrière hémato-encéphalique.
+
+c. Myélopathie
+La myélite aiguë est rare.
+
+La forme chronique est plus fréquente : c’est une myélopathie vacuolaire qui survient à un stade tardif de la maladie. Il s’agit d’une dégénérescence vacuolaire de la substance blanche des cordons médullaires postérieurs et latéraux prédominant au niveau de la moelle thoracique. Elle peut être isolée ou associée à une encéphalopathie à VIH. Elle se manifeste par un déficit moteur des membres inférieurs évoluant vers un tableau de paraparésie spastique avec des troubles sensitifs modérés et des troubles sphinctériens.
+
+Le diagnostic différentiel doit être établi avec des atteintes médullaires zostériennes, herpétiques et à CMV ; la toxoplasmose ou un lymphome sont parfois incriminés.
+
+2. Infections opportunistes
+a. Toxoplasmose cérébrale
+Parasitose due à Toxoplasma gondii, elle constitue une infection ubiquitaire extrêmement répandue dans le monde. Elle est inapparente dans la plupart des cas, habituellement bénigne sauf dans deux circonstances : la grossesse et l’immunodépression. Au début de l’épidémie de sida, la toxoplasmose était une infection du système nerveux central courante chez les patients en stade avancé d’une infection par le VIH en Europe et aux États-Unis. Malgré l’accès aux traitements antirétroviraux, la toxoplamose cérébrale reste, avec la pneumocystose, la manifestation clinique inaugurale la plus fréquente de l’infection par le VIH méconnue (diagnostiquée à un stade avancé d’immunodépression). La toxoplasmose cérébrale survient en règle avec un taux de CD4 < 200/mm3 (rare quand le taux de CD4 > 200/mm3) et en l’absence de prophylaxie spécifique.
+
+Les symptômes aigus ou subaigus associent : céphalées (chez 50–70 % des patients), signes de focalisation en fonction de la localisation des abcès, crises convulsives (30 % des patients). La fièvre est présente chez environ 50 % des patients.
+
+Le diagnostic repose sur l’imagerie cérébrale, sans puis avec injection de produit de contraste. L’IRM ou le scanner cérébral révèlent des images multiples prenant le contraste de manière nodulaire ou en cocarde, correspondant à des abcès. Les localisations les plus fréquentes sont les lobes frontaux et les noyaux gris centraux (fig. 25.2).
+
+Fig. 25.2
+
+Toxoplasmose cérébrale (IRM).
+Hyposignal T1 nodulaire sous-cortical frontal antérieur droit (A) avec rehaussement en cocarde après injection de gadolinium (B).
+
+La sérologie n’a d’intérêt que si elle est négative. Sa valeur prédictive négative est élevée (94–97 %). En d’autres termes, l’abcès cérébral à Toxoplasma est moins probable si la sérologie de toxoplasmose est négative.
+
+Un traitement spécifique doit être introduit en urgence : pyriméthamine (Malocide®, 50 à 75 mg/j, après une dose de charge de 100 mg le premier jour) en association avec sulfadiazine (Adiazine®, 4 à 6 g/j) ou clindamycine (Dalacine®, 2,4 g/j) associée à de l’acide folinique (25 mg/j) durant 3 à 6 semaines. Son effet sera évalué sur les données cliniques et radiologiques. L’absence d’amélioration clinique et/ou radiologique après 2 semaines de traitement bien conduit doit faire envisager un autre diagnostic (lymphome cérébral essentiellement). Les prophylaxies primaire et secondaire sont réalisées par l’association triméthoprime-sulfaméthoxazole (Bactrim®), 1 cp à 160 mg/800 mg/j, jusqu’à ce que le taux de CD4 soit > 200 pendant plus de 6 mois.
+
+b. Cryptococcose
+C’est une méningite chronique de la base du crâne avec parfois des signes de méningo-encéphalite.
+
+Le Cryptococcus neoformans est le pathogène de cette mycose qui est le plus souvent observée chez les patients VIH positifs ayant des CD4 < 50. L’apparition de cette maladie est insidieuse, la fièvre et les céphalées étant souvent les seuls symptômes (dans 70 % de cas). Le syndrome méningé n’est présent que dans moins de 40 % des cas. La symptomatologie est parfois fruste (20 à 50 % des cas : vertiges, irritabilité, ralentissement de l’idéation, crises comitiales ou paralysie d’un nerf crânien).
+
+Le diagnostic est établi par la mise en évidence de cryptocoques à l’examen direct (coloration à l’encre de Chine à demander spécifiquement lors de la ponction lombaire) ou en culture et, surtout, sur la présence d’un antigène cryptococcique dans le sang ou le LCS. Le LCS révèle une réaction cellulaire faible à prédominance de lymphocytes (mais qui peut être absente dans 25 % des cas) avec hyperprotéinorachie modérée (< 1 g/L) ; l’hypoglycorachie est inconstante. À noter qu’une culture positive prouve toujours la présence d’une infection active, et qu’une infection cryptococcique active peut être présente chez certains patients dont les antigènes sont positifs mais dont la culture est négative.
+
+Le traitement recommandé chez l’adulte consiste, en, un traitement d’attaque par l’association amphotéricine B et fluorocytosine (deux semaines), suivi par un traitement d’entretien par du fluconazole seul. L’hypertension intracrânienne nécessite souvent des ponctions lombaires évacuatrices répétées. Le taux de récidive de 60 % des cas.
+
+Le diagnostic de la cryptococcose repose sur la mise en évidence des levures encapsulées dans le LCS et d’antigène cryptococcique dans le sang ou le LCS, à demander spécifiquement.
+
+c. Encéphalite à cytomégalovirus
+L’encéphalite à cytomégalovirus a un mode d’installation brutal ou subaigu, avec fièvre, troubles de la conscience, troubles du comportement et parfois signes focaux. Une atteinte des nerfs crâniens, un syndrome de la queue de cheval, une méningoradiculomyélite et une atteinte multiviscérale (rétinienne, pulmonaire, digestive) sont parfois observés. L’IRM révèle une prise de contraste méningée périventriculaire (ventriculite) et, parfois, une hydrocéphalie. Le diagnostic repose sur la présence du CMV (cytomégalovirus) dans le LCS, en culture ou par PCR. Le traitement antiviral (ganciclovir [Cymevan®], ou foscarnet [Foscavir®]) permet d’attendre la restauration immunitaire sous antirétroviraux.
+
+d. Leucoencéphalopathie multifocale progressive
+Il s’agit d’une infection opportuniste virale du cerveau provoquée par un papovavirus (le virus JC) qui infiltre les oligodendrocytes. La leucoencéphalopathie multifocale progressive (LEMP) survient généralement mais pas exclusivement avec un taux de CD4 < 100/mm3. Les manifestations cliniques sont celles d’une encéphalite progressive (signes de focalisation, crises convulsives, ataxie, troubles visuels) sans fièvre avec, parfois, une altération des fonctions supérieures ou des troubles psychiatriques.
+
+L’IRM est l’examen de choix pour confirmer le diagnostic, révélant des images confluantes hypo-intenses de la substance blanche en T1, hyperintenses en T2 ou FLAIR, sans effet de masse, ne prenant que pas ou peu le contraste. L’étude du LCS est normale dans 50 % des cas. Le diagnostic biologique repose sur la PCR positive dans le LCS. Il n’existe pas de traitement spécifique. Une amélioration clinique peut s’observer si la restauration immunitaire est obtenue par un traitement antirétroviral, mais le pronostic est dans la majorité des cas redoutable.
+
+e. Méningite tuberculeuse
+La tuberculose se manifeste par un syndrome méningé d’apparition progressive et une atteinte fréquente des nerfs crâniens ou, parfois, seulement par des manifestations psychiatriques. L’hyponatrémie est fréquente.
+
+D’autres méningites peuvent être observées : listériose, syphilis.
+
+f. Lymphome primitif du système nerveux central
+Un lymphome primitif du système nerveux central est d’installation plus insidieuse. Les signes de localisation neurologique apparaissent souvent dans une seconde phase après les manifestations suivantes : céphalées, troubles mnésiques, confusion. À l’imagerie cérébrale, on observe des lésions multiples et bilatérales expansives, non spécifiques, à bords mal limités, prenant le contraste avec un faible effet de masse, siégeant préférentiellement dans le corps calleux, les noyaux gris centraux, le thalamus, les régions périventriculaires et le cervelet. La biopsie stéréotaxique permet de confirmer le diagnostic, mais l’histologie peut être ininterprétable en cas de corticothérapie. La chimiothérapie ainsi qu’une restauration immunitaire sont les bases du traitement.
+
+D. Effets indésirables des antirétroviraux
+Parmi les inhibiteurs nucléosidiques de la transcriptase inverse, la didanosine et la stavudine peuvent être responsables de l’apparition d’une polyneuropathie, la zidovudine d’une myopathie mitchondriale réversible. Ces molécules ne doivent plus actuellement être utilisées.
+Certains inhibiteurs de protéase (ritonavir, amprénavir) peuvent entraîner l’apparition de céphalées, vertiges et paresthésies. Il en est de même pour les inhibiteurs non nucléosidiques, notamment l’efavirenz qui peut induire également un syndrome confusionnel et des crises convulsives.
+III. Étiologies à évoquer en fonction du tableau neurologique
+A. Devant une céphalée – un syndrome méningé
+Trois étiologies seront évoquées :
+
+crytococcose ;
+tuberculose ;
+méningite aseptique liée au VIH (diagnostic d’élimination).
+B. Devant un syndrome neurologique focal
+Trois étiologies seront évoquées :
+
+toxoplamose cérébrale ;
+lymphome primitif du système nerveux central ;
+leucoencéphalopathie multifocale progressive.
+Autres : d’autres causes de lésions cérébrales focalisées sont parfois rencontrées : abcès tuberculeux, encéphalite à cytomégalovirus ou liée à l’herpès.
+
+Un syndrome neurologique focal justifie la réalisation d’une imagerie cérébrale (TDM ou IRM) en urgence. La confrontation entre le mode d’installation des troubles neurologiques (aigu, subaigu ou progressif) et l’aspect des lésions (prise de contraste, lésion unique ou lésions multiples) est déterminante pour établir le diagnostic (fig. 25.3).
+
+Fig. 25.3
+
+Conduite à tenir devant un tableau neurologique central chez un sujet VIH (étoile : éléments en faveur du diagnostic).
+
+C. Devant un tableau d’encéphalite
+Trois étiologies seront évoquées :
+
+encéphalite à VIH ;
+encéphalite à CMV ;
+leucoencéphalopathie multifocale progressive.
+D. Devant un trouble de la marche
+Trois étiologies seront évoquées :
+
+neuropathie ;
+polymyosite ;
+myélopathie vacuolaire.
+E. Devant des troubles cognitifs progressifs
+Une encéphalopathie à VIH.
+
+POINTS CLÉS :
+
+Les manifestations neurologiques se rencontrent à tous les stades de la maladie, liées directement au VIH, à des infections opportunistes, à un lymphome ou d’origine médicamenteuse.
+: un syndrome infectieux non spécifique peut s’associer à un syndrome méningé, une encéphalite, une paralysie faciale, une polyradiculonévrite, une neuropathie périphérique ou une myélopathie.
+Stade sida : l’atteinte du système nerveux périphérique et musculaire (polymyosite proximale) peut s’associer à une atteinte du système nerveux central justifiant une IRM. Les signes neurologiques sont variés :
+céphalée ;
+syndrome méningé ;
+syndrome neurologique focal (toxoplasmose, lymphome, leucoencéphalopathie multifocale progressive) ;
+encéphalite (à VIH, cytomégalovirus, leucoencéphalopathie multifocale progressive) ;
+troubles cognitifs (encéphopathie à VIH).
+Une origine iatrogène par les antirétroviraux doit toujours être évoquée.
